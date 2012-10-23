@@ -7,9 +7,19 @@ Created on Oct 22, 2012
 
 import os
 import errno
+import sys
+
 
 if __name__ == '__main__':
-    project_name = "sample_project_name";
+    
+    # Refactor this using argparse
+    # http://docs.python.org/dev/library/argparse.html
+    
+    if (len(sys.argv) == 2):
+        project_name = sys.argv[1];
+    else:
+        raise "{projectname} required"
+
     project_dirs = (
             "/_templates",
             "/architecture",
