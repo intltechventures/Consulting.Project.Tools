@@ -91,7 +91,7 @@ if __name__ == '__main__':
             "/pmo/org_charts",
             "/pmo/presentations",
             "/pmo/resources",
-            "/pmo/resources/releases",
+            "/pmo/releases",
             "/pmo/sprint_planning",
             "/pmo/sprints",
             "/pmo/sprints/sprint_0",
