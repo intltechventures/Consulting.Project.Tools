@@ -16,5 +16,5 @@ TODO:
 	### Project Status
 	### Integration Data Mapping (Excel Spreadsheet)
 	### Change Request
-	### Estimating Modes (Excel Spreadsheet)
+	### Estimating Models (Excel Spreadsheet)
 	
