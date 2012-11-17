@@ -1,4 +1,4 @@
-
+<pre>
 This is an illustrative (but not exhaustive) set of numeric codes to use in devising a requirements numbering 
 categorization approach.
 
@@ -193,3 +193,5 @@ publishing it as-is for now.
 9000-2700-misc-third-party-applications
 9000-2800-customer-identification
 9000-2900-credit-bureau-services
+
+</pre>
