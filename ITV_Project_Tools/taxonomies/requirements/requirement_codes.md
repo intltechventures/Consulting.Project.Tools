@@ -162,4 +162,8 @@ REQUIREMENTS CLASSIFICATION CODES
 9000.2800 customer identification
 9000.2900 credit bureau services
 
+
+Additional Idea References:
+Dewey Decimal System
+http://www.gutenberg.org/files/12513/12513-h/12513-h.htm
 </pre>
