@@ -9,7 +9,7 @@ publishing it as-is for now.
 
 REQUIREMENTS CLASSIFICATION CODES
 
-### 0000.0000 system definition
+# 0000.0000 system definition
 	0000.1000 business processes
 	0000.2000 business rules
 	0000.3000 user stories
@@ -23,7 +23,7 @@ REQUIREMENTS CLASSIFICATION CODES
 	0000.7300 semantic models
 
 
-### 0100.0000 common infrastructure subsystems
+# 0100.0000 common infrastructure subsystems
 	0100.1100 databases
 	0100.1200 application server services
 	0100.1300 message queues
@@ -42,7 +42,7 @@ REQUIREMENTS CLASSIFICATION CODES
 	0100.3200 application log
 	0100.4000 enterprise system messages
 
-### 0100.5000 Non Functional Requirements
+# 0100.5000 Non Functional Requirements
 [source for list of NFRs]: http://en.wikipedia.org/wiki/Non functional_requirement
 	0100.5010 accessibility
 	0100.5020 audit and control
@@ -92,7 +92,7 @@ REQUIREMENTS CLASSIFICATION CODES
 
 
 
-### 0100.6000 Operations
+# 0100.6000 Operations
 	0100.6100 operations procedures
 	0100.6110 operations runbooks
 	0100.6120 batch schedules
@@ -101,19 +101,19 @@ REQUIREMENTS CLASSIFICATION CODES
 	
 
 
-### 0100.9000 disaster recovery (DR)
+# 0100.9000 disaster recovery (DR)
 	0100.9100 DR Infrastructure
 	0100.9200 backup & restore procedures
 
 
-### 0200.0000 network
+# 0200.0000 network
 	0200.1000 topology
 	0200.1100 redundancy
 	0200.1200 high availability
 	0200.1300 fail-over
 
 
-### 0300.0000 hardware
+# 0300.0000 hardware
 	0300.1000 application servers
 	0300.1000 web servers
 	0300.1100 database servers
@@ -126,7 +126,7 @@ REQUIREMENTS CLASSIFICATION CODES
 
 
 
-### 2000.0000 User Interface
+# 2000.0000 User Interface
 	2000.1100 look and feel style guidelines
 	2000.1200 internationalization
 	2000.1300 navigation / menus [site map]
@@ -137,7 +137,7 @@ REQUIREMENTS CLASSIFICATION CODES
 
 
 
-### 3000.0000 documentation
+# 3000.0000 documentation
 	3000.1000 operation procedures
 	3000.1100 runbooks
 	3000.2000 user guides
@@ -147,7 +147,7 @@ REQUIREMENTS CLASSIFICATION CODES
 
 
 
-### 4000.0000 Reporting
+# 4000.0000 Reporting
 	4000.1000 report designer
 	4000.2000 operational
 	4000.2100 management
@@ -156,7 +156,7 @@ REQUIREMENTS CLASSIFICATION CODES
 	4000.2400 system monitoring
 
 
-### 6000.0000 Security
+# 6000.0000 Security
 	6000.1000 User Provisioning
 	6000.1100 User Authentication
 	6000.1200 User Authorization
@@ -175,7 +175,7 @@ REQUIREMENTS CLASSIFICATION CODES
 	6000.3000 Payment Card Institute (PCI)
 	
 
-### 7000.0000 Batch Processing
+# 7000.0000 Batch Processing
 	7000.1000 special (ad-hoc, on-demand)
 	7000.2000 daily
 	7000.3000 weekly
@@ -188,8 +188,8 @@ REQUIREMENTS CLASSIFICATION CODES
 	7000.7000 irregularly scheduled
 
 
-### 8000.0000 Integrations
-	### 8100.0000 Real-Time Services
+# 8000.0000 Integrations
+	## 8100.0000 Real-Time Services
 		8100.1000 legacy systems
 		8100.2000 customer master
 		8100.2100 general ledger
@@ -200,7 +200,7 @@ REQUIREMENTS CLASSIFICATION CODES
 		8100.2600 membership
 		8100.2700 external third party
 
-	### 8200.0000 In-bound Batch Jobs
+	## 8200.0000 In-bound Batch Jobs
 		8200.1000 legacy systems
 		8200.2000 customer master
 		8200.2100 general ledger
@@ -211,7 +211,7 @@ REQUIREMENTS CLASSIFICATION CODES
 		8200.2600 membership
 		8200.2700 external third party
 	
-	### 8300.0000 Out-bound Batch Jobs
+	## 8300.0000 Out-bound Batch Jobs
 		8300.1000 legacy systems
 		8300.2000 customer master
 		8300.2100 general ledger
@@ -224,7 +224,7 @@ REQUIREMENTS CLASSIFICATION CODES
 
 
 
-#### 9000.0000 [reserved for future use]
+# 9000.0000 [reserved for future use]
 
 
 Additional Idea References:
