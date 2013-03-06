@@ -43,11 +43,11 @@ publishing it as-is for now.
 	0100.4000 enterprise system messages
 
 # 0100.5000 Non Functional Requirements
-[source for list of NFRs]: http://en.wikipedia.org/wiki/Non functional_requirement
+[source for list of NFRs]: http://en.wikipedia.org/wiki/Non-functional_requirement
 	0100.5010 accessibility
 	0100.5020 audit and control
 	0100.5030 availability
-	0100.5040 backup
+	0100.5040 backup	
 	0100.5050 capacity
 	0100.5060 certification
 	0100.5070 compliance
