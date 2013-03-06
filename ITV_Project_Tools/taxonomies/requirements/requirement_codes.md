@@ -1,4 +1,6 @@
 
+NOTE: This is a work-in-progress, status = WORKING DRAFT
+
 This is an illustrative (but not exhaustive) set of numeric codes to use in devising a requirements numbering 
 categorization approach.
 
@@ -43,7 +45,7 @@ publishing it as-is for now.
 	0100.4000 enterprise system messages
 
 # 0100.5000 Non Functional Requirements
-[source for list of NFRs]: http://en.wikipedia.org/wiki/Non-functional_requirement
+
 	0100.5010 accessibility
 	0100.5020 audit and control
 	0100.5030 availability
@@ -156,6 +158,8 @@ publishing it as-is for now.
 	4000.2400 system monitoring
 
 
+# 5000.0000 [reserved for future use]
+
 # 6000.0000 Security
 	6000.1000 User Provisioning
 	6000.1100 User Authentication
@@ -189,7 +193,7 @@ publishing it as-is for now.
 
 
 # 8000.0000 Integrations
-	## 8100.0000 Real-Time Services
+	8100.0000 Real-Time Services
 		8100.1000 legacy systems
 		8100.2000 customer master
 		8100.2100 general ledger
@@ -200,7 +204,7 @@ publishing it as-is for now.
 		8100.2600 membership
 		8100.2700 external third party
 
-	## 8200.0000 In-bound Batch Jobs
+	8200.0000 In-bound Batch Jobs
 		8200.1000 legacy systems
 		8200.2000 customer master
 		8200.2100 general ledger
@@ -211,7 +215,7 @@ publishing it as-is for now.
 		8200.2600 membership
 		8200.2700 external third party
 	
-	## 8300.0000 Out-bound Batch Jobs
+	 8300.0000 Out-bound Batch Jobs
 		8300.1000 legacy systems
 		8300.2000 customer master
 		8300.2100 general ledger
@@ -229,3 +233,4 @@ publishing it as-is for now.
 
 Additional Idea References:
 	[Dewey Decimal System]: http://www.gutenberg.org/files/12513/12513-h/12513-h.htm
+	[source for list of NFRs]: http://en.wikipedia.org/wiki/Non-functional_requirement
