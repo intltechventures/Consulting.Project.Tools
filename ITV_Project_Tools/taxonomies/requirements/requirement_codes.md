@@ -1,4 +1,4 @@
-<pre>
+
 This is an illustrative (but not exhaustive) set of numeric codes to use in devising a requirements numbering 
 categorization approach.
 
@@ -7,7 +7,7 @@ to provide a better organization and grouping.  However, since it may give someo
 publishing it as-is for now.
 
 
-REQUIREMENTS CLASSIFICATION CODES
+# REQUIREMENTS CLASSIFICATION CODES
 
 # 0000.0000 system definition
 	0000.1000 business processes
@@ -229,4 +229,3 @@ REQUIREMENTS CLASSIFICATION CODES
 
 Additional Idea References:
 	[Dewey Decimal System]: http://www.gutenberg.org/files/12513/12513-h/12513-h.htm
-</pre>
