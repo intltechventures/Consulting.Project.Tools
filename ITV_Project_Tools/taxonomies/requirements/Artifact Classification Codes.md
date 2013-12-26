@@ -1,15 +1,42 @@
+# ARTIFACT CLASSIFICATION CODE TAXONOMY (e.g. for Requirements, Design, etc.)
+
+Author: Kelvin D. Meeks 
+kmeeks@intltechventures.com
+http://www.intltechventures.com
+
+The MIT License (MIT)
+Copyright (c) 2014 Kelvin D. Meeks
+http://opensource.org/licenses/MIT
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
 
 NOTE: This is a work-in-progress, status = WORKING DRAFT
 
-This is an illustrative (but not exhaustive) set of numeric codes to use in devising a requirements numbering 
+This is an illustrative (but not exhaustive) set of numeric classification codes
+to provide general guidance across the enterprise use in devising a numbering 
 categorization approach.
 
-When I initially wrote this, it was for a particular client engagement back in 2004 2005.  I plan to refactor this 
-to provide a better organization and grouping.  However, since it may give someone a useful starting point, I'm 
+My original draft of this was for a particular client engagement back in 
+2004-2005.  I plan to continue refactor this to provide a better organization 
+and grouping.  However, since it may give someone a useful starting point, I'm 
 publishing it as-is for now.
 
-
-# REQUIREMENTS CLASSIFICATION CODES
 
 # 0000.xxxx Business Architecture
 	0000.1000 business processes
