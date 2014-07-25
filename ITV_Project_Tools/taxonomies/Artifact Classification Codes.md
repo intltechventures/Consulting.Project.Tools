@@ -71,15 +71,10 @@ publishing it as-is for now.
 	0200.4000 enterprise system messages
 
 
+# 0300.xxxx Facilities
 
-# 0300.xxxx network
-	0300.1000 topology
-	0300.1100 redundancy
-	0300.1200 high availability
-	0300.1300 fail-over
-	
 
-# 0400.xxxx hardware
+# 0400.xxxx Infrastructure & network
 	0400.1000 application servers
 	0400.1000 web servers
 	0400.1100 database servers
@@ -89,9 +84,15 @@ publishing it as-is for now.
 	0400.1400 hardware accelerators - compression
 	0400.1500 Network Attached Storage Devices
 	0400.1600 load balancing
-
+	0400.2000 topology
+	0400.2100 redundancy
+	0400.2200 high availability
+	0400.2300 fail-over
 	
-# 0500.xxxx disaster recovery (DR)
+
+
+
+# 0900.xxxx disaster recovery (DR)
 	0500.1000 DR Infrastructure
 	0500.2000 backup & restore procedures
 
@@ -195,6 +196,9 @@ publishing it as-is for now.
 		5000.5900 semi-annually
 		5000.6000 irregularly scheduled
 		5000.9000 conversion
+	5000.6000 Backups
+	5000.6100 Restore
+	5000.7000 Disaster Recovery
 
 
 # 6000.xxxx Security
