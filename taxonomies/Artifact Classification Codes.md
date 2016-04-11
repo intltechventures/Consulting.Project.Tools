@@ -1,4 +1,6 @@
-### ARTIFACT CLASSIFICATION CODE TAXONOMY (e.g. for Requirements, Design, etc.)
+ARTIFACT CLASSIFICATION CODE TAXONOMY 
+=======
+(e.g. for Architecture, Requirements, Design, etc.)
 
 Author: Kelvin D. Meeks 
 kmeeks@intltechventures.com
