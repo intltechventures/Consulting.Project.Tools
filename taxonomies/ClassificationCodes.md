@@ -2,6 +2,8 @@ Classification Codes - A Taxonomy
 =======
 Taxonomy: a scheme of classification
 
+Copyright 2016, Kelvin D. Meeks
+Release under The MIT License (MIT)
 
 Useful for organizing artifacts and details for large-scale projects (such as Architecture, Requirements, Design, etc.)  
 
@@ -21,7 +23,10 @@ Usage: Consider for a moment that you have been assigned a role on a massively l
 
 The codes are not intended as the final designation for a given artifact. For exach artifact, you would simply append a sequentially assigned discrimantor.
 
-For example: A document with a prefix of "0000.1010.17_some_document_name" would reside in a directory structure 0000\1010 - and would be the 17th document in a collection of documents that desribed the various Products that a compony offered.
+For example: 
+A document with a prefix of "0000.1010.17_some_document_name" 
+...would reside in a directory structure \0000\1010 
+...and would be the 17th document in a collection of documents that desribed the various Products that a compony offered.
 ___
 
 # 0000.xxxx Business Context
