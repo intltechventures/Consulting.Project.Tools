@@ -1,4 +1,4 @@
-Classification Codes - A Taxonmy
+Classification Codes - A Taxonomy
 =======
 Taxonomy: a scheme of classification
 
