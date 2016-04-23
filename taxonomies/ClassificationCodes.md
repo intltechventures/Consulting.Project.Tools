@@ -48,7 +48,7 @@ ___
 * 0000.2010 Transaction Types
 * 0000.2020 Accounting Processes
 * 0000.2030 Financial Reporting 
-* 0000.2040 Tax Calculations (e.g. Local, Count, State, National)
+* 0000.2040 Tax Calculations (e.g. Local, County, State, National)
 * 0000.2050 Currency Exchange Considerations
 
 * 0000.3000 Future State
@@ -61,16 +61,18 @@ ___
 
 	
 # 0100.xxxx Enterprise Architecture
-* 0100.1000 Enterprise System Context
-* 0100.2000 Enterprise System Components
-* 0100.3000 Enterprise Data Model 
-* 0100.3100 Enterprise Data Governance
-* 0100.3200 Enterprise Data Dictionary
-* 0100.3300 Enterprise Ontologies
-* 0100.3400 Enterprise Canonical Message Models
+* 0100.0100 Enterprise System Context
+* 0100.0200 Enterprise Diagram Views
+* 0100.0300 Enterprise System Components
+* 0100.0400 Enterprise Data Model 
+* 0100.0500 Enterprise Data Governance
+* 0100.0600 Enterprise Data Dictionary
+* 0100.0700 Enterprise Ontologies
+* 0100.0800 Enterprise Canonical Message Models
+* 0100.1000 Enterprise Software Asset Inventory
+* 0100.2000 Enterprise Third-Party External Services
 
-
-# 0200.xxxx Common Enterprise Services
+# 0200.xxxx Common Services
 * 0200.1010 Databases
 * 0200.1020 Application Servers
 * 0200.1030 Message Queues
