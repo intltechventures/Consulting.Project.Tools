@@ -79,6 +79,8 @@ These are the primary software programs that I typically have installed on my de
 * Ant
 * Maven
 * Gradle
+* Ansible
+* Docker
 
 # Graphic Utilities
 * Graphviz
