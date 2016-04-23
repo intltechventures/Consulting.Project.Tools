@@ -16,13 +16,13 @@ categorization approach.
 
 My original draft of this was for a particular client engagement back in 2004-2005.  I plan to continue refactor this to provide a better organization and grouping.  However, since it may give someone a useful starting point, I'm publishing it as-is for now.
 
-```
+___
 Usage: Consider for a moment that you have been assigned a role on a massively large project. How to you even begin to organize your thoughts, artifacts, and workstreams? Now, imagine that these kind of massively large (or even just fairly large) projects occur with some frequency - either within your organization - or in different organizations, over the arc of your career. Being able to know where informaiton is stored - and how it is decomposed is the the hallmark of establishing a repeatable process. Abandon your ad hoc wasteful re-invent the wheel approach - and consider whether it might be beneficial to you (and your colleagues) to adopt some rational, well organized, way of identifying artifacts - such that you could easily move across projects/teams - and quickly find the relevant informaion you need. Also consider, how much easier it would be to 'harvest' or 'borrow' pre-existing arifacts from previous efforts. Now you may have a glimmer of a glimpse into why I believe having a system of naming things is important. 
 
 The codes are not intended as the final designation for a given artifact. For exach artifact, you would simply append a sequentially assigned discrimantor.
 
 For example: A document with a previx of "0000.1010.17_some_document_name" would be the 17th document in a collection of documents that desribed the various Products that a compony offered.
-```
+___
 
 * 0000.xxxx Business Scope
 * 0000.1xxx Business Context
