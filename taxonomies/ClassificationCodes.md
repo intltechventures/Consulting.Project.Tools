@@ -24,8 +24,8 @@ The codes are not intended as the final designation for a given artifact. For ex
 For example: A document with a prefix of "0000.1010.17_some_document_name" would reside in a directory structure 0000\1010 - and would be the 17th document in a collection of documents that desribed the various Products that a compony offered.
 ___
 
-* 0000.xxxx Business Scope
-* 0000.1xxx Business Context
+# 0000.xxxx Business Context
+* 0000.1xxx Business Scope
 * 0000.1000 Business Structure
 * 0000.1010	Business Products
 * 0000.1020 Business Services
