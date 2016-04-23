@@ -1,3 +1,5 @@
+These are the primary software programs that I typically have installed on my development machine...
+
 # Essentials...
 * Norton Security 
 * MalwareBytes
@@ -25,7 +27,7 @@
 * Git
 * Cygwin
 * Subversion
-	https://sliksvn.com/download/ 
+	* https://sliksvn.com/download/ 
 
 * Dropbox
 * GoToMeeting
@@ -36,42 +38,48 @@
 * Brother Printer software 
 	
 * KDiff3 
-	https://sourceforge.net/projects/kdiff3/files/kdiff3/
+	* https://sourceforge.net/projects/kdiff3/files/kdiff3/
 
 	
 # Primary Development Tools...
+* C/C++
 * Go 
 * Android Studio / SDK
-	http://developer.android.com/sdk/index.html
-* Java 1.8
+	* http://developer.android.com/sdk/index.html
+* Java 
 * Python
 * R
 
-Seconday Development Tools...
+# Seconday Development Tools...
 * Clojure
 * Julia
 * Lua (installed on Linux Mint 17.3, as a VM in Oracle VirtualBox)
-* Node.js
+* Node/NPM
 * Groovy
 * Perl
-* PHP 7.0
+* PHP 
 * Scala
 * Ruby
-* Rust 1.8
+* Rust 
 
-* MariaDB
-* Microsoft SQL Server
-* Postgres
-* Oracle
-* datatomic 
+# Databases
+* MariaDB  
+* Microsoft SQL Server  
+* Postgres  
+* Oracle  
+* datatomic   
 
+# Application Servers
 * Nginx
+* Tomcat
+* Jetty
 
+# Build Tools
+* Jenkins
 * Ant
 * Maven
 * Gradle
 
+# Graphic Utilities
 * Graphviz
 * GIMP
-
-
