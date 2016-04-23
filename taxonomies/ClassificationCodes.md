@@ -13,8 +13,7 @@ http://www.intltechventures.com
 
 STATUS: This is a work-in-progress, status = __WORKING DRAFT__
 
-This is an illustrative (but not exhaustive) set of numeric classification codes to provide general guidance across the enterprise use in devising a numbering 
-categorization approach.
+This is an illustrative (but not exhaustive) set of numeric classification codes to provide general guidance, across the enterprise, in devising an approach to artifact numbering & categorization.
 
 My original draft of this was for a particular client engagement back in 2004-2005.  I plan to continue refactoring and evolving this to provide a better organization and grouping.  However, since this may give someone a useful starting point, I'm publishing it as-is for now.
 
