@@ -1,5 +1,8 @@
-ARTIFACT CLASSIFICATION CODES - A TAXONOMY 
+Classification Codes - A Taxonmy
 =======
+Taxonomy: a scheme of classification
+
+
 Useful for organizing artifacts and details for large-scale projects (such as Architecture, Requirements, Design, etc.)  
 
 Author: Kelvin D. Meeks   
