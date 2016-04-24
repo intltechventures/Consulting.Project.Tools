@@ -335,7 +335,13 @@ ___
 * 8400.2600 Membership
 * 8400.2700 External Third Party
 
-# Additional Idea References:   
+___
+
+# Additional Idea Sources:   
+
+The Open Group, TOGAF - Enterprise Architecture standard  
+* http://www.opengroup.org/subjectareas/enterprise/togaf
+
 Dewey Decimal System    
 * http://www.gutenberg.org/files/12513/12513-h/12513-h.htm
 
