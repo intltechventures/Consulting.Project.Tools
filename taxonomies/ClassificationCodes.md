@@ -11,7 +11,7 @@ Author: Kelvin D. Meeks
 kmeeks@intltechventures.com  
 http://www.intltechventures.com  
 
-# STATUS: This is a work-in-progress, status = __WORKING DRAFT__
+### STATUS: __WORKING DRAFT__
 ### TO-DO: 
 * Rationalize Numbering Schemes To Be More Consistent Within A Category, And Across Sub-Categories
 
