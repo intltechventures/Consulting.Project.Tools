@@ -1,17 +1,18 @@
-Classification Codes - A Taxonomy
+# Artifact Classification Codes - A Taxonomy
 =======
 Taxonomy: a scheme of classification
 
 Copyright 2016, Kelvin D. Meeks
 Release under The MIT License (MIT)
 
-Useful for organizing artifacts and details for large-scale projects (such as Architecture, Requirements, Design, etc.)  
+Useful for organizing artifacts and details for large-scale projects (such as Proposal Development, RFP Responses, Architecture, Requirements, High Level Design, Detail Level Design, Test Plans, Operations, Training, etc.)  
 
 Author: Kelvin D. Meeks   
 kmeeks@intltechventures.com  
 http://www.intltechventures.com  
 
-STATUS: This is a work-in-progress, status = __WORKING DRAFT__
+# STATUS: This is a work-in-progress, status = __WORKING DRAFT__
+### TO-DO: Rationalize Number Schemes To Be More Consistent Within A Category
 
 This is an illustrative (but not exhaustive) set of numeric classification codes to provide general guidance, across the enterprise, in devising an approach to artifact numbering & categorization.
 
@@ -20,7 +21,7 @@ My original draft of this was for a particular client engagement back in 2004-20
 ___
 Usage: Consider for a moment that you have been assigned a role on a massively large project. How to you even begin to organize your thoughts, artifacts, and workstreams? Now, imagine that these kind of massively large (or even just fairly large) projects occur with some frequency - either within your organization - or in different organizations, over the arc of your career. Being able to know where informaiton is stored - and how it is decomposed is the the hallmark of establishing a repeatable process. Abandon your ad hoc wasteful re-invent the wheel approach - and consider whether it might be beneficial to you (and your colleagues) to adopt some rational, well organized, way of identifying artifacts - such that you could easily move across projects/teams - and quickly find the relevant informaion you need. Also consider, how much easier it would be to 'harvest' or 'borrow' pre-existing arifacts from previous efforts. Now you may have a glimmer of a glimpse into why I believe having a system of naming things is important. 
 
-The codes are not intended as the final designation for a given artifact. For each artifact, you would simply append a sequentially assigned discrimantor - or a unique document name. The utility is in being able to quickly (an consistently) search across a large corpus of artifacts and document (potentially spanning multiple very large projects) - and locate those artfiacts which are germaine to your focus. 
+The codes are not intended as the final designation for a given artifact. For each artifact, you could simply append a sequentially assigned discrimantor - or a unique document name. The utility is in being able to quickly (an consistently) search across a large corpus of artifacts and document (potentially spanning multiple very large projects) - and locate those artfiacts which are germaine to your focus. 
 
 For example:   
 A document with a prefix of "0000.1010.17_some_document_name"  
