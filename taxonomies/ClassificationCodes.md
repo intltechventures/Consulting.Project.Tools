@@ -2,7 +2,7 @@
 =======
 Taxonomy: a scheme of classification
 
-Copyright 2016, Kelvin D. Meeks
+Copyright 2016, Kelvin D. Meeks  
 Release under The MIT License (MIT)
 
 Useful for organizing artifacts and details for large-scale projects (such as Proposal Development, RFP Responses, Architecture, Requirements, High Level Design, Detail Level Design, Test Plans, Operations, Training, etc.)  
