@@ -280,7 +280,7 @@ ___
 * 6000.2120 File Monitoring
 * 6000.2130 Anti-Virus
 * 6000.2140 Firewall
-* 6000.2150 Denail of Service prevention  
+* 6000.2150 Denial of Service (DoS) Prevention  
 
 * 6000.3000 Payment Card Institute (PCI)
 	
