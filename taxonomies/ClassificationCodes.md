@@ -12,7 +12,8 @@ kmeeks@intltechventures.com
 http://www.intltechventures.com  
 
 # STATUS: This is a work-in-progress, status = __WORKING DRAFT__
-### TO-DO: Rationalize Number Schemes To Be More Consistent Within A Category
+### TO-DO: 
+* Rationalize Numbering Schemes To Be More Consistent Within A Category, And Across Sub-Categories
 
 This is an illustrative (but not exhaustive) set of numeric classification codes to provide general guidance, across the enterprise, in devising an approach to artifact numbering & categorization.
 
