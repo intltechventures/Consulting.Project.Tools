@@ -59,7 +59,6 @@ ___
 * 0000.4300 Critical Business Rules
 * 0000.4400 Important Key Business Epics 
 
-	
 # 0100.xxxx Enterprise Architecture
 * 0100.0100 Enterprise System Context
 * 0100.0200 Enterprise Diagram Views
