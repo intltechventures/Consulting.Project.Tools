@@ -2,27 +2,39 @@
 =======
 Taxonomy: a scheme of classification
 
-Copyright 2016, Kelvin D. Meeks  
+Copyright 2016, Kelvin D. Meeks   
 Release under The MIT License (MIT)
 
 Useful for organizing artifacts and details for large-scale projects (such as Proposal Development, RFP Responses, Architecture, Requirements, High Level Design, Detail Level Design, Test Plans, Operations, Training, etc.)  
 
 Author: Kelvin D. Meeks   
 kmeeks@intltechventures.com  
-http://www.intltechventures.com  
+http://www.intltechventures.com    
 
 ### STATUS: __WORKING DRAFT__
 ### TO-DO: 
-* Rationalize Numbering Schemes To Be More Consistent Within A Category, And Across Sub-Categories
+```
+- Rationalize Numbering Schemes To Be More Consistent Within A Category, And Across Sub-Categories
+```
 
 This is an illustrative (but not exhaustive) set of numeric classification codes to provide general guidance, across the enterprise, in devising an approach to artifact numbering & categorization.
 
 My original draft of this was for a particular client engagement back in 2004-2005.  I plan to continue refactoring and evolving this to provide a better organization and grouping.  However, since this may give someone a useful starting point, I'm publishing it as-is for now.
 
 ___
-Usage: Consider for a moment that you have been assigned a role on a massively large project. How to you even begin to organize your thoughts, artifacts, and workstreams? Now, imagine that these kind of massively large (or even just fairly large) projects occur with some frequency - either within your organization - or in different organizations, over the arc of your career. Being able to know where informaiton is stored - and how it is decomposed is the the hallmark of establishing a repeatable process. Abandon your ad hoc wasteful re-invent the wheel approach - and consider whether it might be beneficial to you (and your colleagues) to adopt some rational, well organized, way of identifying artifacts - such that you could easily move across projects/teams - and quickly find the relevant informaion you need. Also consider, how much easier it would be to 'harvest' or 'borrow' pre-existing arifacts from previous efforts. Now you may have a glimmer of a glimpse into why I believe having a system of naming things is important. 
+Usage: Consider for a moment that you are assigned a role on a massively large project. How do you even begin to organize your thoughts, artifacts, and workstreams?  
 
-The codes are not intended as the final designation for a given artifact. For each artifact, you could simply append a sequentially assigned discrimantor - or a unique document name. The utility is in being able to quickly (an consistently) search across a large corpus of artifacts and document (potentially spanning multiple very large projects) - and locate those artfiacts which are germaine to your focus. 
+Now, imagine that these kinds of massively large (or even just fairly large) projects occur with some frequency - either within your organization - or in different organizations, over the arc of your career. 
+
+Being able to know where informaiton is stored - and how it is decomposed is the the hallmark of establishing a repeatable process. 
+
+Abandon your ad hoc, wasteful, re-invent-the-wheel, approaches of the past - and consider whether it might be beneficial to you (and your colleagues) to adopt some rational, well organized, way of identifying artifacts - such that you could easily move across projects/teams - and quickly find the relevant informaion you need. 
+
+Also consider, how much easier it would be to 'harvest' or 'borrow' pre-existing arifacts from previous efforts. 
+
+Now you may have a glimmer of a glimpse into why I believe having a system of naming things is important. 
+
+Note: Theese codes are not intended as the final designation for a given artifact. For each artifact, you could simply append a sequentially assigned discrimantor - or a unique document name. The utility is in being able to quickly (an consistently) search across a large corpus of artifacts and documents (potentially spanning multiple very large projects) - and locate those artfiacts which are germaine to your focus. 
 
 For example:   
 A document with a prefix of "0000.1010.17_some_document_name"  
@@ -118,23 +130,23 @@ ___
 * 0400.0050 Firewalls
 * 0400.0060 Routers
 * 0400.0070 Hardware Accelerators - Encryption
-* 0400.0080 Hardware Accelerators - Compression
+* 0400.0080 Hardware Accelerators - Compression  
 
 * 0400.2000 Storage
-* 0400.2010 Network Attached Storage Devices
+* 0400.2010 Network Attached Storage Devices  
 
 * 0400.3000 Servers
 * 0400.3010 Application Servers
 * 0400.3020 Web Servers
 * 0400.3030 Database Servers
-* 0400.3040 Cache servers
+* 0400.3040 Cache servers  
 
-* 0400.9000 Disaster Recovery (DR)
+* 0400.9000 Disaster Recovery (DR)  
 	
 # 0900.xxxx Disaster Recovery (DR)
 * 0900.1000 DR Infrastructure
-* 0900.2000 Backup & Recovery Procedures
-
+* 0900.2000 Backup & Recovery Procedures  
+ 
 # 1000.0000 Non Functional Requirements
 * 1000.0010 Accessibility
 * 1000.0020 Audit and Control
@@ -180,13 +192,13 @@ ___
 * 1000.0420 Stability
 * 1000.0430 Supportability
 * 1000.0440 Testability
-* 1000.0450 Usability
+* 1000.0450 Usability  
 
 # 2000.xxxx User Interface
 * 2000.1100 Look & Feel Style Guides
 * 2000.1200 Internationalization
 * 2000.1300 Site Map
-* 2000.1400 User Help
+* 2000.1400 User Help  
 
 * 2000.2000 Common UI Elements
 * 2000.2010 Logos 
@@ -200,7 +212,7 @@ ___
 * 2000.2090 Blog
 * 2000.2100 Latest News
 * 2000.2110 Login
-* 2000.2120 Logout
+* 2000.2120 Logout  
 
 * 2000.3000 UI Messages
 * 2000.3010 Invalid User ID
@@ -208,26 +220,26 @@ ___
 * 2000.3030 Contact Support
 * 2000.3040 Page Not Found
 * 2000.3050 Unauthorized Access
-* 2000.3060 Invalid Action Attempted
+* 2000.3060 Invalid Action Attempted  
 
-* 2000.4000 Data Validation Rules
+* 2000.4000 Data Validation Rules  
 
-* 2000.5000 Application Functionality
+* 2000.5000 Application Functionality  
 
-* 2000.6000 Admin Functionality
+* 2000.6000 Admin Functionality  
 
 
 # 3000.xxxx Documentation
 * 3000.0000 Operation Procedures
-* 3000.1000 Runbooks
+* 3000.1000 Runbooks  
 
 * 3000.2000 User Guides
 * 3000.2100 Admin Guides
-* 3000.2200 Developer Guides
+* 3000.2200 Developer Guides  
 
 * 3000.3000 Training Material
 * 3000.3100 Train-The-Trainer
-* 3000.3200 End User Training
+* 3000.3200 End User Training  
 
 # 4000.0000 Reporting
 * 4000.0010 Report Design Assets/Tools/Templates
@@ -236,14 +248,14 @@ ___
 * 4000.0040 Compliance Reporting
 * 4000.0050 Audit Reporting
 * 4000.0060 System Stats
-* 4000.0070 Dashboards
+* 4000.0070 Dashboards  
 
 # 5000.xxxx Operations
 * 5000.0100 Operations Procedures
 * 5000.0200 Operations Runbooks
 * 5000.0300 Managed File Transfers
 * 5000.0400 Operations / Systems Monitoring
-* 5000.0500 Alerts & Notifications
+* 5000.0500 Alerts & Notifications  
 
 * 5000.1000 Job Schedules
 * 5000.1010 Special (ad-hoc, on-demand)
@@ -255,15 +267,15 @@ ___
 * 5000.1070 quarterly
 * 5000.1080 annually
 * 5000.1090 semi-annually
-* 5000.1100 irregularly scheduled
+* 5000.1100 irregularly scheduled  
 
-* 5000.2000 Conversions
+* 5000.2000 Conversions  
 
-* 5000.3000 Backup Processes
+* 5000.3000 Backup Processes  
 
-* 5000.4000 Restore Processes
+* 5000.4000 Restore Processes   
 
-* 5000.9000 Disaster Recovery
+* 5000.9000 Disaster Recovery  
 
 # 6000.xxxx Security
 * 6000.1000 User Provisioning
@@ -280,11 +292,11 @@ ___
 * 6000.2120 File Monitoring
 * 6000.2130 Anti-Virus
 * 6000.2140 Firewall
-* 6000.2150 Denial of Service (DoS) Prevention  
+* 6000.2150 Denial of Service (DoS) Prevention   
 
-* 6000.3000 Payment Card Institute (PCI)
+* 6000.3000 Payment Card Institute (PCI)  
 	
-# 7000.xxxx Core Application Requirements
+# 7000.xxxx Core Application Requirements  
 
 # 8000.xxxx Integrations
 * 8100.xxxx Real-Time Services
@@ -297,7 +309,7 @@ ___
 * 8100.2400 File Maintenance
 * 8100.2500 Validation
 * 8100.2600 Membership
-* 8100.2700 External Third Party
+* 8100.2700 External Third Party  
 
 * 8200.xxxx In-bound Batch Jobs
 * 8200.0000 Conversions
@@ -309,7 +321,7 @@ ___
 * 8200.2400 File Maintenance
 * 8200.2500 Validation
 * 8200.2600 Membership
-* 8200.2700 External Third Party
+* 8200.2700 External Third Party  
 
 * 8300.xxxx Out-bound Batch Jobs
 * 8300.1000 Conversions	 
@@ -321,7 +333,7 @@ ___
 * 8300.2400 File Maintenance
 * 8300.2500 Validation
 * 8300.2600 Membership
-* 8300.2700 External Third Party
+* 8300.2700 External Third Party  
 
 * 8400.xxxx Internal Batch Jobs
 * 8400.0000 Conversions
@@ -333,11 +345,11 @@ ___
 * 8400.2400 File Maintenance
 * 8400.2500 Validation
 * 8400.2600 Membership
-* 8400.2700 External Third Party
+* 8400.2700 External Third Party  
 
 ___
 
-# Additional Idea Sources:   
+# Additional Sources for Ideas:   
 
 The Open Group, TOGAF - Enterprise Architecture standard  
 * http://www.opengroup.org/subjectareas/enterprise/togaf
