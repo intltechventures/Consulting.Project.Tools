@@ -12,6 +12,8 @@ These are the primary software programs that I typically have installed on my de
 * Skype
 
 * Libre Office
+* Project Libre (optional, as needed)
+	* http://www.projectlibre.org/
 * Notepad++
 
 * cutepdf 
