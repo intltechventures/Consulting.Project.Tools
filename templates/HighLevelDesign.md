@@ -1,13 +1,13 @@
 General Purpose Template for the structure of a High Level Design document (HLD)
+# STATUS: DRAFT
 
+The goal of an HLD is to enable communication and coordination, both within teams and organizations - as well as serving as a tool for communication and coordination with external partners.
 
-The goal of an HLD is enable communication and coordination, both within teams and organizations - as well as serving as a tool for communication and coordination with external partners.
+The HLD provides a consistent format for teams to assemble details - which support a goal of being able to reuse design artifacts - and is intended to provide sufficient information to Program/Project Management to be able to plan and coordinate large-scale development efforts.  Additionally, an HLD servces as an effective mechanism to support Design Review and Architecture Governance efforts.
 
-The HLD provides a consistent format for teams to assemble details - and is intended to provide sufficient information to Program/Project Management to be able to plan and coordinate large-scale development efforts. 
+The target level of detail is to scope the effort, provide sufficient input to the estimation process, and to clearly articulate the ___How___ of an approach.  
 
-The target level of detail is to scope the effort, provide sufficient input to the estimation process, and to clearly articulate the How of an approach.  
-
-Investing effort in the creation of the  HLD is intended for larger-scoped tasks - that have some non-trivial unknowns or coordination challenges.
+Investing effort in the creation of the HLD is intended for larger-scoped tasks - that have some non-trivial number of unknowns, technical complexity, a high number of coordination points,  or any external integration/coordination requirements.
 
 
 * Summary
