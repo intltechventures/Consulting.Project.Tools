@@ -1,4 +1,4 @@
-ITIL NOtes
+ITIL Notes
 ====
 
 References
