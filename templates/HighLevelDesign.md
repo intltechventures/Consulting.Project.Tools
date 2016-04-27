@@ -1,5 +1,8 @@
-General Purpose Template for the structure of a High Level Design document (HLD)
-# STATUS: DRAFT
+A General Purpose Template for the structure of a High Level Design document (HLD)
+
+Rationale: Numerious times, in my travels as a consultant, I've encountered organizations in which there is no established standard/template for what should be included in an HLD. Quite often (even in organizations that have a template), the artifacts that architects and engineers produce devolve into a wild-wild west of anything-goes. Concistency engenders repeatability - a worthy goal. And therefore, the intended purpose in sharing this...at least as a starting point for further customization.
+
+### STATUS: DRAFT
 
 The goal of an HLD is to enable communication and coordination, both within teams and organizations - as well as serving as a tool for communication and coordination with external partners.
 
