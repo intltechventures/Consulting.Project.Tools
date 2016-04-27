@@ -79,7 +79,7 @@ Investing effort in the creation of the HLD is intended for larger-scoped tasks 
 	* Data Storage
 	* Backup/Recovery
 * Critical Testing Scenarios
-* Project Team Contact Information
 * Terminology
 * Supplemental Material
-
+* Contact Information
+* Version History
