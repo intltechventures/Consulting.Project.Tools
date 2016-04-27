@@ -7,12 +7,12 @@ References
 * http://www.iso.org/
 
 
-Service Management Lifecyle Stages
-1. Service Strategy
-2. Service Design
-3. Service Transition
-4. Service Operation
-5. Continual Service Improvement
+Service Management Lifecyle Stages  
+1. Service Strategy  
+2. Service Design  
+3. Service Transition  
+4. Service Operation  
+5. Continual Service Improvement  
 
 Each stage has one or more associated processes
 
@@ -71,6 +71,7 @@ Interesting Articles
 	* [Why companies are prefering ServiceNow over other ITIL tools?] (https://www.quora.com/Why-companies-are-preferring-Servicenow-over-other-ITIL-tools)
 
 
+
 ITIL Related Books
 * IBM Redbooks
 	* [IT Service Management Best Practices Using IBM SmartCloud Control Desk] (http://www.redbooks.ibm.com/redpieces/abstracts/SG248095.html)
@@ -78,7 +79,8 @@ ITIL Related Books
 	* [ILM Library: Informatioin Lifecycle Management Best Practices Guide] (http://www.redbooks.ibm.com/redpieces/abstracts/sg247251.html)
 
 
+
 Terminology:
-CCMDB	- Change and Configuration Management Database
-ITIL	- IT Infrastructure Library
-ITSM	- IT Service Management
+* CCMDB	- Change and Configuration Management Database
+* ITIL	- IT Infrastructure Library
+* ITSM	- IT Service Management
