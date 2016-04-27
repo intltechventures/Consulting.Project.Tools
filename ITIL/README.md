@@ -1,10 +1,11 @@
 ITIL NOtes
-____  
+====
 
 References
 * https://en.wikipedia.org/wiki/ITIL
 * http://www.itlibrary.org/
-* 
+* http://www.iso.org/
+
 
 Service Management Lifecyle Stages
 1. Service Strategy
@@ -30,7 +31,28 @@ Process controls include:
 * documentation
 * feedback
 
+
+Service Management Standards
+* ITIL
+* COBIT
+* ISO IEC 2000
+
+
+
+ITIL Supporting Vendor Solutions
+* [IBM Tivoli] (http://www.ibm.com/software/tivoli)
+* [ServiceNow] (http://www.servicenow.com/)
+	* https://docs.servicenow.com/ 
+	* http://wiki.servicenow.com/index.php?title=ITIL
+	* http://wiki.servicenow.com/index.php?title=ITIL_Service_Level_Management
+	* http://wiki.servicenow.com/index.php?title=ITIL_Configuration_Management
+
+
+
 Resources (people and tools) and Capabilities enable the processes
+* ITIL Community Resources
+* [itSMF International, the IT Services Management Forum] (http://www.itsmfi.org/)
+* [itSMF USA, the IT Service Management Forum] (http://www.itsmfusa.org/)
 
 
 Interesting Articles
@@ -43,6 +65,11 @@ Interesting Articles
 		* [Part 4. Drive agile Application Lifecycle Management with DevOps] (http://www.ibm.com/developerworks/library/d-drive-agile-lifecycle-management-devops/index.html)
 		* [Part 5. DevOps in the cloud] (http://www.ibm.com/developerworks/library/d-cloud-devops/index.html)
 		* [Part 6. Use DevOps to drive quality assurance and testing] (http://www.ibm.com/developerworks/library/d-devops-drive-quality-assurance-testing/index.html)
+* ComputerWeekly.com
+	* [CERN uses ITIL to rethink facilities management] (http://www.computerweekly.com/news/2240184788/Cern-uses-ITIL-to-rethink-facilities-management)
+* Quora
+	* [Why companies are prefering ServiceNow over other ITIL tools?] (https://www.quora.com/Why-companies-are-preferring-Servicenow-over-other-ITIL-tools)
+
 
 ITIL Related Books
 * IBM Redbooks
