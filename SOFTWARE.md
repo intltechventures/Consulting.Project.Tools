@@ -7,29 +7,37 @@ These are the primary software programs that I typically have installed on my de
 * GnuPG
 
 * Chrome
+	* Postman
 * Firefox
 * Thunderbird
 * Skype
 
+* [SoapUI] (https://www.soapui.org/)
+
 * Libre Office
-* Project Libre (optional, as needed)
-	* http://www.projectlibre.org/
+* [Project Libre (optional, as needed)] (http://www.projectlibre.org/)
 * Notepad++
 
 * cutepdf 
 * 7-ZIp
 
-* Sparx Enterprise Architect
-* Eclipse 
-* Oracle VirtualBox
-	* Mint
-	* Ubuntu
-	* CentOS
+* [Sparx Enterprise Architect] (http://www.sparxsystems.com/)
+
+* [Eclipse] (http://www.eclipse.org)
+	* [The plugins that I usually install] (https://github.com/intltechventures/EclipseNotes/blob/master/README.md)
+
+
+* [Oracle VirtualBox] (https://www.virtualbox.org/ https://www.virtualbox.org/)
+	* [Mint Linux] (https://www.linuxmint.com/)
+	* [Ubuntu] (http://www.ubuntu.com/)
+	* [CoreOS] (https://coreos.com/)
+	* [Community Enterprise Operating System (CentOS)] (https://www.centos.org/)
 	
 * Git
+
 * Cygwin
-* Subversion
-	* https://sliksvn.com/download/ 
+
+* [Subversion] (https://sliksvn.com/download/)
 
 * Dropbox
 * GoToMeeting
@@ -39,15 +47,13 @@ These are the primary software programs that I typically have installed on my de
 * SnagIt - TechSmith
 * Brother Printer software 
 	
-* KDiff3 
-	* https://sourceforge.net/projects/kdiff3/files/kdiff3/
+* [KDiff3] (https://sourceforge.net/projects/kdiff3/files/kdiff3/)
 
 	
 # Primary Development Tools...
 * C/C++
 * Go 
-* Android Studio / SDK
-	* http://developer.android.com/sdk/index.html
+* [Android Studio / SDK] (http://developer.android.com/sdk/index.html)
 * Java 
 * Python
 * R
@@ -69,7 +75,8 @@ These are the primary software programs that I typically have installed on my de
 * Microsoft SQL Server  
 * Postgres  
 * Oracle  
-* datatomic   
+* [datomic] (http://www.datomic.com/)
+* [Neo4j] (http://neo4j.com)
 
 # Application Servers
 * Nginx
