@@ -1,53 +1,32 @@
 These are the primary software programs that I typically have installed on my development machine...
 
 # Essentials...
-* Norton Security 
-* MalwareBytes
-* TrueCrypt
-* GnuPG
+* Norton Security  
+* MalwareBytes  
+* TrueCrypt  
+* GnuPG  
 
 * Chrome
-	* Postman
+	* Postman  
 * Firefox
 * Thunderbird
-* Skype
+* Notepad++   
 
-* [SoapUI] (https://www.soapui.org/)
+* Cygwin  
+* [KDiff3] (https://sourceforge.net/projects/kdiff3/files/kdiff3/)
 
-* Libre Office
-* [Project Libre (optional, as needed)] (http://www.projectlibre.org/)
-* Notepad++
-
-* cutepdf 
-* 7-ZIp
-
+# Design Tools
 * [Sparx Enterprise Architect] (http://www.sparxsystems.com/)
 
+
+# IDE Tools
+* Visual Studio
 * [Eclipse] (http://www.eclipse.org)
 	* [The plugins that I usually install] (https://github.com/intltechventures/EclipseNotes/blob/master/README.md)
 
-
-* [Oracle VirtualBox] (https://www.virtualbox.org/ https://www.virtualbox.org/)
-	* [Mint Linux] (https://www.linuxmint.com/)
-	* [Ubuntu] (http://www.ubuntu.com/)
-	* [CoreOS] (https://coreos.com/)
-	* [Community Enterprise Operating System (CentOS)] (https://www.centos.org/)
-	
-* Git
-
-* Cygwin
-
-* [Subversion] (https://sliksvn.com/download/)
-
-* Dropbox
-* GoToMeeting
-* iTunes
-* Kindle
-
-* SnagIt - TechSmith
-* Brother Printer software 
-	
-* [KDiff3] (https://sourceforge.net/projects/kdiff3/files/kdiff3/)
+Version Control Tools
+* Git  
+* [Subversion] (https://sliksvn.com/download/)  
 
 	
 # Primary Development Tools...
@@ -83,14 +62,43 @@ These are the primary software programs that I typically have installed on my de
 * Tomcat
 * Jetty
 
+# Testing Tools
+* [SoapUI] (https://www.soapui.org/)
+
 # Build Tools
 * Jenkins
 * Ant
 * Maven
 * Gradle
+
+# VM Tools
 * Ansible
 * Docker
+* [Oracle VirtualBox] (https://www.virtualbox.org/ https://www.virtualbox.org/)
+	* [Mint Linux] (https://www.linuxmint.com/)
+	* [Ubuntu] (http://www.ubuntu.com/)
+	* [CoreOS] (https://coreos.com/)
+	* [Community Enterprise Operating System (CentOS)] (https://www.centos.org/)
+	
+	
+# General Productivity Tools
+* Dropbox
+* Brother Printer software 
+* cutepdf 
+* 7-ZIp  
+* Libre Office
+* [Project Libre] (http://www.projectlibre.org/) (optional, as needed)
 
+# Communication Tools
+* GoToMeeting
+* Skype 
+
+# Books & Audio
+* iTunes
+* Kindle
+* Audacity
+	
 # Graphic Utilities
 * Graphviz
 * GIMP
+* SnagIt - TechSmith
