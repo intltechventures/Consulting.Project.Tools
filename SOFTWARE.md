@@ -1,6 +1,6 @@
 These are the primary software programs that I typically have installed on my development machine...
 
-# Essentials...
+### Essentials...
 * Norton Security  
 * MalwareBytes  
 * TrueCrypt  
@@ -15,21 +15,21 @@ These are the primary software programs that I typically have installed on my de
 * Cygwin  
 * [KDiff3] (https://sourceforge.net/projects/kdiff3/files/kdiff3/)
 
-# Design Tools
+### Design Tools
 * [Sparx Enterprise Architect] (http://www.sparxsystems.com/)
 
 
-# IDE Tools
+### IDE Tools
 * Visual Studio
 * [Eclipse] (http://www.eclipse.org)
 	* [The plugins that I usually install] (https://github.com/intltechventures/EclipseNotes/blob/master/README.md)
 
-Version Control Tools
+### Version Control Tools
 * Git  
 * [Subversion] (https://sliksvn.com/download/)  
 
 	
-# Primary Development Tools...
+### Primary Development Languages
 * C/C++
 * Go 
 * [Android Studio / SDK] (http://developer.android.com/sdk/index.html)
@@ -37,7 +37,7 @@ Version Control Tools
 * Python
 * R
 
-# Seconday Development Tools...
+### Seconday Development Languages
 * Clojure
 * Julia
 * Lua (installed on Linux Mint 17.3, as a VM in Oracle VirtualBox)
@@ -49,7 +49,7 @@ Version Control Tools
 * Ruby
 * Rust 
 
-# Databases
+### Databases
 * MariaDB  
 * Microsoft SQL Server  
 * Postgres  
@@ -57,21 +57,21 @@ Version Control Tools
 * [datomic] (http://www.datomic.com/)
 * [Neo4j] (http://neo4j.com)
 
-# Application Servers
+### Application Servers
 * Nginx
 * Tomcat
 * Jetty
 
-# Testing Tools
+### Testing Tools
 * [SoapUI] (https://www.soapui.org/)
 
-# Build Tools
+### Build Tools
 * Jenkins
 * Ant
 * Maven
 * Gradle
 
-# VM Tools
+### VM Tools
 * Ansible
 * Docker
 * [Oracle VirtualBox] (https://www.virtualbox.org/ https://www.virtualbox.org/)
@@ -81,7 +81,7 @@ Version Control Tools
 	* [Community Enterprise Operating System (CentOS)] (https://www.centos.org/)
 	
 	
-# General Productivity Tools
+### General Productivity Tools
 * Dropbox
 * Brother Printer software 
 * cutepdf 
@@ -89,16 +89,16 @@ Version Control Tools
 * Libre Office
 * [Project Libre] (http://www.projectlibre.org/) (optional, as needed)
 
-# Communication Tools
+### Communication Tools
 * GoToMeeting
 * Skype 
 
-# Books & Audio
+### Books & Audio
 * iTunes
 * Kindle
 * Audacity
 	
-# Graphic Utilities
+### Graphic Utilities
 * Graphviz
 * GIMP
 * SnagIt - TechSmith
