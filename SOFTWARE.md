@@ -23,6 +23,7 @@ These are the primary software programs that I typically have installed on my de
 * Visual Studio
 * [Eclipse] (http://www.eclipse.org)
 	* [The plugins that I usually install] (https://github.com/intltechventures/EclipseNotes/blob/master/README.md)
+* [Android Studio / SDK] (http://developer.android.com/sdk/index.html)
 
 ### Version Control Tools
 * Git  
@@ -30,24 +31,25 @@ These are the primary software programs that I typically have installed on my de
 
 	
 ### Primary Development Languages
-* C/C++
 * Go 
-* [Android Studio / SDK] (http://developer.android.com/sdk/index.html)
 * Java 
 * Python
 * R
+* C/C++
+* JavaScript/Node/NPM
+
 
 ### Seconday Development Languages
+* Scala
+* Lua (installed on Linux Mint 17.3, as a VM in Oracle VirtualBox)
+* Rust 
+* Groovy
 * Clojure
 * Julia
-* Lua (installed on Linux Mint 17.3, as a VM in Oracle VirtualBox)
-* Node/NPM
-* Groovy
 * Perl
 * PHP 
-* Scala
 * Ruby
-* Rust 
+
 
 ### Databases
 * MariaDB  
