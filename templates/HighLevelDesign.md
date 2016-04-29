@@ -15,6 +15,8 @@ Investing effort in the creation of the HLD is intended for larger-scoped tasks 
 
 * Summary
 	* Problem Statement
+	* Current State
+	* Future State
 	* Approach
 * References
 * Citations
@@ -36,7 +38,13 @@ Investing effort in the creation of the HLD is intended for larger-scoped tasks 
 * Project Coordination 
 	* Internal
 	* External
-* Architecture Views
+* Architecture Views - Current State
+	* Component Views
+	* Sequence Views
+	* Data Flow Views
+	* Data Model Views
+	* (additional views, as needed)
+* Architecture Views - Future State
 	* Component Views
 	* Sequence Views
 	* Data Flow Views
