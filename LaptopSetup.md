@@ -42,11 +42,11 @@ These are the primary software programs that I typically have installed on my de
 * [R] (https://www.r-project.org/)
 * C/C++ [GNU] (https://gcc.gnu.org/)
 * JavaScript
-	* https://github.com/v8/v8
-	* https://developer.mozilla.org/en-US/docs/Web/JavaScript
-	* https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_Next_support_in_Mozilla
-* [nodejs] (https://nodejs.org/en/)
-* [npmjs] (https://www.npmjs.com/)
+  * https://github.com/v8/v8
+  * https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  * https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_Next_support_in_Mozilla
+  * [nodejs] (https://nodejs.org/en/)
+  * [npmjs] (https://www.npmjs.com/)
 
 
 ### Seconday Development Languages
@@ -117,7 +117,7 @@ These are the primary software programs that I typically have installed on my de
 
 
 ### Security Tools
-* [NMAP} (https://nmap.org/)
+* [NMAP] (https://nmap.org/)
 
 
 ### Communication Tools
