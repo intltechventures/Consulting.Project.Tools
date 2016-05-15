@@ -90,7 +90,8 @@ These are the primary software programs that I typically have installed on my de
 * [CBT] (https://github.com/cvogt/cbt) - new, evaluating...
 
 
-### VM Tools
+### Cloud / VM Tools
+* [AWS Command Line Interface (CLI)] (https://aws.amazon.com/cli/)
 * [Ansible] (https://www.ansible.com/)
 * [Docker] (https://www.docker.com/)
 * [Oracle VirtualBox] (https://www.virtualbox.org/ https://www.virtualbox.org/)
