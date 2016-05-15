@@ -8,7 +8,7 @@ These are the primary software programs that I typically have installed on my de
 
 
 * [Chrome] (https://www.google.com/intl/en/chrome/browser/thankyou.html?platform=win64)
-	* [Postman] (https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
+  * [Postman] (https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
 * [Firefox] (https://www.mozilla.org/firefox)
 * [Thunderbird] (https://www.mozilla.org/en-US/thunderbird/)
 * [Notepad++] (https://notepad-plus-plus.org/)
@@ -26,7 +26,7 @@ These are the primary software programs that I typically have installed on my de
 ### IDE Tools
 * [Microsoft Visual Studio] (https://www.visualstudio.com/)
 * [Eclipse] (http://www.eclipse.org)
-	* [The plugins that I usually install] (https://github.com/intltechventures/EclipseNotes/blob/master/README.md)
+  * [The plugins that I usually install] (https://github.com/intltechventures/EclipseNotes/blob/master/README.md)
 * [Android Studio / SDK] (http://developer.android.com/sdk/index.html)
 
 
@@ -95,12 +95,12 @@ These are the primary software programs that I typically have installed on my de
 * [Ansible] (https://www.ansible.com/)
 * [Docker] (https://www.docker.com/)
 * [Oracle VirtualBox] (https://www.virtualbox.org/ https://www.virtualbox.org/)
-	* [Mint Linux] (https://www.linuxmint.com/)
-	* [Ubuntu] (http://www.ubuntu.com/)
-	* [CoreOS] (https://coreos.com/)
-	* [Community Enterprise Operating System (CentOS)] (https://www.centos.org/)
-	* [Alpine] (http://www.alpinelinux.org/) - new, evaluating...
-	
+  * [Mint Linux] (https://www.linuxmint.com/)
+  * [Ubuntu] (http://www.ubuntu.com/)
+  * [CoreOS] (https://coreos.com/)
+  * [Community Enterprise Operating System (CentOS)] (https://www.centos.org/)
+  * [Alpine] (http://www.alpinelinux.org/) - new, evaluating...
+  * [Microsoft Windows 2016 / Nano TP 5] (https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-technical-preview)	
 	
 ### General Productivity Tools
 * [Dropbox] (https://www.dropbox.com/)
