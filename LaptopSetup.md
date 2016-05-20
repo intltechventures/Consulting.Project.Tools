@@ -13,7 +13,7 @@ These are the primary software programs that I typically have installed on my de
 * [Thunderbird] (https://www.mozilla.org/en-US/thunderbird/)
 * [Notepad++] (https://notepad-plus-plus.org/)
 * [ATOM] (https://atom.io/) - new, evaluating...
-
+  * https://github.com/atom/atom
 
 * [Cygwin] (https://www.cygwin.com/)
 * [KDiff3] (https://sourceforge.net/projects/kdiff3/files/kdiff3/)
