@@ -137,4 +137,5 @@ These are the primary software programs that I typically have installed on my de
 * [GIMP] (https://www.gimp.org/downloads/)
 * [SnagIt] (https://www.techsmith.com/snagit.html)
 * [Camtasia] (https://www.techsmith.com/camtasia.html)
+* [Open Broadcaster Software] (https://obsproject.com/) - new, evaluating...
 * [VideoLan VLC media player] (http://www.videolan.org)
