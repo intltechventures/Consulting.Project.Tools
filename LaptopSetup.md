@@ -19,8 +19,9 @@ These are the primary software programs that I typically have installed on my de
 * [KDiff3] (https://sourceforge.net/projects/kdiff3/files/kdiff3/)
 
 
-### Design Tools
+### Diagramming & Design Tools
 * [Sparx Enterprise Architect] (http://www.sparxsystems.com/)
+* [PlantYML] (http://plantuml.com/) - new, evaluating...
 
 
 ### IDE Tools
