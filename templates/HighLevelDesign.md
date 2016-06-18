@@ -91,3 +91,17 @@ Investing effort in the creation of the HLD is intended for larger-scoped tasks 
 * Supplemental Material
 * Contact Information
 * Version History
+
+
+Additional Useful References
+* https://github.com/intltechventures/Consulting.Project.Tools/blob/master/taxonomies/ClassificationCodes.md
+
+* http://pubs.opengroup.org/architecture/togaf9-doc/arch/
+
+* https://www.zachman.com/about-the-zachman-framework
+  * https://en.wikipedia.org/wiki/Zachman_Framework
+
+* https://en.wikipedia.org/wiki/Software_requirements_specification
+
+* https://standards.ieee.org/findstds/standard/830-1998.html
+
