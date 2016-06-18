@@ -103,5 +103,4 @@ Additional Useful References
 
 * https://en.wikipedia.org/wiki/Software_requirements_specification
 
-* https://standards.ieee.org/findstds/standard/830-1998.html
-
+* [830-1998 - IEEE Recommended Practice for Software Requirements Specifications] (https://standards.ieee.org/findstds/standard/830-1998.html)
