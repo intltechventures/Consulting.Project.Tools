@@ -17,13 +17,11 @@ Investing effort in the creation of the HLD is intended for larger-scoped tasks 
 	* Problem Statement
 	* Current State
 	* Future State
-	* Approach
-* References
-* Citations
-	* Policies
-	* Principles
-	* Standards
-	* Specifications
+	* Proposed Approach
+* Solution Sizing Factors
+	* Frequency
+	* Volume
+	* Size
 * Requirements / Traceability
 	* Business Requirements
 	* Technical Requirements (NFRs)
@@ -39,12 +37,14 @@ Investing effort in the creation of the HLD is intended for larger-scoped tasks 
 	* Internal
 	* External
 * Architecture Views - Current State
+	* Logical Views
 	* Component Views
 	* Sequence Views
 	* Data Flow Views
 	* Data Model Views
 	* (additional views, as needed)
 * Architecture Views - Future State
+	* Logical Views
 	* Component Views
 	* Sequence Views
 	* Data Flow Views
@@ -53,9 +53,11 @@ Investing effort in the creation of the HLD is intended for larger-scoped tasks 
 * Design Elements
 	* Inbound Data Processing
 		* File Transfers,  Inbound
+		* Message Queues, Inbound
 		* Service Endpoints 
 	* Outbound Data Processing
 		* File Transfers,  Outbound
+		* Message Queues, Outbound
 		* Service Endpoints 
 	* Internal Processing
 	* Data Transformations
@@ -79,16 +81,35 @@ Investing effort in the creation of the HLD is intended for larger-scoped tasks 
 	* Service Accounts
 	* Authentication
 	* Authorization
+* Infrastructure Impact Assessment
+	* Servers
+		* CPU Utilization
+		* Memory Utilization
+	* Storage
+		* Disk Capacity / Utilization
+* Network Impact Assessment
+	* Network Capacity
+	* DNS
+	* Firewall / Threat Management Gateway
+	* IP Restrictions
 * Operational Impact Assessment
+	* Deployment 
 	* Monitoring
 	* Job Scheduling
 	* Managed File Transfers
-	* Deployment
+	* Services
+	* Message Queues
 	* Data Storage
 	* Backup/Recovery
 * Critical Testing Scenarios
 * Terminology
 * Supplemental Material
+	* References
+	* Citations
+		* Policies
+		* Principles
+		* Standards
+		* Specifications
 * Contact Information
 * Version History
 
