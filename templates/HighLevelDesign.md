@@ -69,9 +69,9 @@ Investing effort in the creation of the HLD is intended for larger-scoped tasks 
 	* Internal 
 	* External
 * Performance Impact Assessment
-	* Estimated Transaction Frequency
-	* Estimated Data Storage Volume
-	* Estimated Network Load Impact
+	* User Interface Response Times
+	* Web Service Response Times
+	* Batch Job Durations
 * Security Impact Assessment
 	* Encryption-At-Rest
 	* Encryption-In-Transit
