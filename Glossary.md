@@ -16,6 +16,7 @@ BRM         - Business Reference Model
 CAP         - Consistency, Availability, Partition Tolerance
 CIF         - Customer Information File
 CIO         - Chief Information Officer
+CQRS        - Command Query Responsibility Segregation
 CTO         - Chief Technology Officer
 
 DC          - Data Center
