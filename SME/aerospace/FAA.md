@@ -97,7 +97,7 @@ There are seven possible methods the technician or repair facility may choose fr
   7.  Any other method approved or accepted by the FAA
   
 
-Maintenance Classifications: JASC/ATA 100 Code Listings
+Maintenance Classifications: JASC/ATA 100 Code Listings  
 11 Placards and Markings  
 12 Servicing  
 14 Hardware  
