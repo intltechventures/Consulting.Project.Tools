@@ -5,47 +5,47 @@ FAA Regulations
 * https://en.wikipedia.org/wiki/Federal_Aviation_Regulations 
 
 
-    Part 1 – Definitions and Abbreviations
-    Part 13 – Investigation and Enforcement Procedures
-    Part 21 – Certification Procedures for Products and Parts
-    Part 23 – Airworthiness Standards: Normal, Utility, Acrobatic and Commuter Airplanes
-    Part 25 – Airworthiness Standards: Transport Category Airplanes
-    Part 27 – Airworthiness Standards: Normal Category Rotorcraft
-    Part 29 – Airworthiness Standards: Transport Category Rotorcraft
-    Part 33 – Airworthiness Standards: Aircraft Engines
-    Part 34 – Fuel Venting and Exhaust Emission Requirements for Turbine Engine Powered Airplanes
-    Part 35 – Airworthiness Standards: Propellers
-    Part 39 – Airworthiness Directives
-    Part 43 – Maintenance, Preventive Maintenance, Rebuilding, and Alteration
-    Part 45 – Identification and Registration Marking
-    Part 47 – Aircraft Registration
-    Part 61 – Certification: Pilots, Flight Instructors, and Ground Instructors
-    Part 63 – Certification: Flight Crewmembers Other Than Pilots
-    Part 65 – Certification: Airmen Other Than Flight Crewmembers
-    Part 67 – Medical Standards and Certification
-    Part 71 – Designation of Class A, Class B, Class C, Class D, and Class E Airspace Areas; Airways; Routes; and Reporting Points
-    Part 73 – Special Use Airspace
-    Part 91 – General Operating and Flight Rules
-    Part 97 – Standard Instrument Approach Procedures
-    Part 101 – Moored Balloons, Kites, Unmanned Rockets and Unmanned Free Balloons
-    Part 103 – Ultralight Vehicles
-    Part 105 – Parachute Operations
-    Part 107 – Small Unmanned Aircraft Systems
-    Part 117 – Flight and Duty Limitations and Rest Requirements: Flightcrew Members
-    Part 119 – Certification: Air Carriers and Commercial Operators
-    Part 121 – Operating Requirements: Domestic, Flag, and Supplemental Operations
-    Part 125 – Certification and Operations: Airplanes Having a Seating Capacity of 20 or More Passengers or a Payload Capacity of 6,000 Pounds or More
-    Part 129 – Operations: Foreign Air Carriers and Foreign Operators of U.S. Registered Aircraft Engaged in Common Carriage
-    Part 133 – Rotorcraft External-Load Operations
-    Part 135 – Operating Requirements: Commuter and On Demand Operations and Rules Governing Persons on Board Such Aircraft
-    Part 136 – Commercial Air Tours and National Parks Air Tour Management
-    Part 137 – Agricultural Aircraft Operations
-    Part 139 – Certification of Airports
-    Part 141 – Flight Schools
-    Part 142 – Training Centers
-    Part 145 – Repair Stations
-    Part 147 – Aviation Maintenance Technicians Schools
-    Part 183 – Representatives of The Administrator
+    Part 1 – Definitions and Abbreviations  
+    Part 13 – Investigation and Enforcement Procedures  
+    Part 21 – Certification Procedures for Products and Parts  
+    Part 23 – Airworthiness Standards: Normal, Utility, Acrobatic and Commuter Airplanes  
+    Part 25 – Airworthiness Standards: Transport Category Airplanes  
+    Part 27 – Airworthiness Standards: Normal Category Rotorcraft  
+    Part 29 – Airworthiness Standards: Transport Category Rotorcraft  
+    Part 33 – Airworthiness Standards: Aircraft Engines  
+    Part 34 – Fuel Venting and Exhaust Emission Requirements for Turbine Engine Powered Airplanes  
+    Part 35 – Airworthiness Standards: Propellers  
+    Part 39 – Airworthiness Directives  
+    Part 43 – Maintenance, Preventive Maintenance, Rebuilding, and Alteration  
+    Part 45 – Identification and Registration Marking  
+    Part 47 – Aircraft Registration  
+    Part 61 – Certification: Pilots, Flight Instructors, and Ground Instructors  
+    Part 63 – Certification: Flight Crewmembers Other Than Pilots  
+    Part 65 – Certification: Airmen Other Than Flight Crewmembers  
+    Part 67 – Medical Standards and Certification  
+    Part 71 – Designation of Class A, Class B, Class C, Class D, and Class E Airspace Areas; Airways; Routes; and Reporting Points  
+    Part 73 – Special Use Airspace  
+    Part 91 – General Operating and Flight Rules  
+    Part 97 – Standard Instrument Approach Procedures  
+    Part 101 – Moored Balloons, Kites, Unmanned Rockets and Unmanned Free Balloons  
+    Part 103 – Ultralight Vehicles  
+    Part 105 – Parachute Operations  
+    Part 107 – Small Unmanned Aircraft Systems  
+    Part 117 – Flight and Duty Limitations and Rest Requirements: Flightcrew Members  
+    Part 119 – Certification: Air Carriers and Commercial Operators  
+    Part 121 – Operating Requirements: Domestic, Flag, and Supplemental Operations  
+    Part 125 – Certification and Operations: Airplanes Having a Seating Capacity of 20 or More Passengers or a Payload Capacity of 6,000 Pounds or More  
+    Part 129 – Operations: Foreign Air Carriers and Foreign Operators of U.S. Registered Aircraft Engaged in Common Carriage  
+    Part 133 – Rotorcraft External-Load Operations  
+    Part 135 – Operating Requirements: Commuter and On Demand Operations and Rules Governing Persons on Board Such Aircraft  
+    Part 136 – Commercial Air Tours and National Parks Air Tour Management  
+    Part 137 – Agricultural Aircraft Operations  
+    Part 139 – Certification of Airports  
+    Part 141 – Flight Schools  
+    Part 142 – Training Centers  
+    Part 145 – Repair Stations  
+    Part 147 – Aviation Maintenance Technicians Schools  
+    Part 183 – Representatives of The Administrator  
 
     
 Overview — Title 14 of the Code of Federal Regulations (14 CFR)
