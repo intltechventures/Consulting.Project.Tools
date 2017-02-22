@@ -1,3 +1,8 @@
+
+High Availability
+* https://en.wikipedia.org/wiki/High_availability
+
+
 Availability and downtime calculations for 99% availability to 99.999% availability: 
 
 99% availability [2-nines]:
@@ -23,5 +28,4 @@ Availability and downtime calculations for 99% availability to 99.999% availabil
 * 25.9s/month
 * 6.05s/week
 * 864.3ms/day
-
 
