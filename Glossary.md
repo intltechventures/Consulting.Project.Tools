@@ -51,8 +51,11 @@ MDM         - Mobile Device Management
 MEAP        - Mobile Enterrprise Application Platform
 MIPS        - Million of Instructions Per Second
 ML          - Machine Learning
+MSA         - Microservices Architecture
+
 
 NAS         - Network Attached Storage
+NIST        - National Institute of Standards
 NOC         - Network Operations Center
 
 OData       - Open Data Protocol
@@ -60,6 +63,8 @@ OData       - Open Data Protocol
 PaaS        - Platform as a Service
 PCI         - Payment Card Industry
 
+
+RAA         - Responsibility, Acountability, Authority
 RAS         - Redundancy, Availability, Serviceability
 RIA         - Rich Internet Application
 RMAD        - Rapid Mobile App Development
@@ -67,7 +72,9 @@ ROE         - Return on Equity
 ROI         - Return on Investment
 ROIT        - Return on Information Technology
 ROM         - Rough Order of Magnitude
+RPO         - Recovery Point Objective
 RTT         - Round-Trip Time
+RTO         - Recovery Time Objective
 
 SAD         - Solution Architecture Design
 SDK         - Software Development Kit
