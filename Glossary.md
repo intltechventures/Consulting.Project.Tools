@@ -22,6 +22,7 @@ CQRS        - Command Query Responsibility Segregation
 CTO         - Chief Technology Officer
 
 DC          - Data Center
+DFIR        - Digital Forensics, Incident Response
 DR          - Disaster Recovery
 DRB         - Design Review Board
 DSN         - Data Source Name
