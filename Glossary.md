@@ -1,9 +1,10 @@
 
 Glossary
 ===
-
-ABC         - Activity Based Costing  
-AD          - Application Delivery  
+|Term | Definition|
+|-----|-----------|
+ABC         | Activity Based Costing  
+AD          | Application Delivery  
 AI          - Artificial Intelligence  
 AOP         - Aspect Oriented Programming  
 aPaaS       - Application Platform as a Service  
