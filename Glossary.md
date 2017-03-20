@@ -67,6 +67,7 @@ PCI         - Payment Card Industry
 
 RAA         - Responsibility, Acountability, Authority
 RAS         - Redundancy, Availability, Serviceability
+RASUI       - Reliability, Availability, Serviceability, Usability and Installability
 RIA         - Rich Internet Application
 RMAD        - Rapid Mobile App Development
 ROE         - Return on Equity
