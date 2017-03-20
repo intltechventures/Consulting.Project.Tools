@@ -65,7 +65,8 @@ ROM         | Rough Order of Magnitude
 RPO         | Recovery Point Objective  
 RTT         | Round-Trip Time  
 RTO         | Recovery Time Objective  
-SAD         | Solution Architecture Design  
+SAD         | Solution Architecture Design
+SDI         | Software Defined Infrastructure
 SDK         | Software Development Kit  
 SOA         | Service Oriented Architecture  
 SDLC        | Software Development Lifecycle  
@@ -74,4 +75,5 @@ SLA         | Service Level Agreement
 SWAG        | Silly Wild-Ass Guess  
 UI          | User Interface  
 UX          | User Exerience  
+VM          | Virtual Machine
 VPN         | Virtual Private Network  
