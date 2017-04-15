@@ -21,6 +21,7 @@ CIF         | Customer Information File
 CIO         | Chief Information Officer  
 CQRS        | Command Query Responsibility Segregation  
 CTO         | Chief Technology Officer  
+CX          | Customer Experience
 DC          | Data Center  
 DFIR        | Digital Forensics, Incident Response  
 DR          | Disaster Recovery  
