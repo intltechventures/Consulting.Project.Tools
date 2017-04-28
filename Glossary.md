@@ -13,6 +13,7 @@ ARB         | Architecture Review Board
 ASP         | Application Service Provider  
 B2B         | Business-to-Business
 B2C         | Business-to-Customer
+BIA         | Business Impact Analysis
 BPM         | Business Process Management  
 BRD         | Business Requirements Document  
 BRM         | Business Reference Model  
@@ -48,6 +49,7 @@ MEAP        | Mobile Enterrprise Application Platform
 MIPS        | Million of Instructions Per Second  
 ML          | Machine Learning  
 MSA         | Microservices Architecture  
+MTD         | Maximum Tolerable Downtime
 NAS         | Network Attached Storage  
 NIST        | National Institute of Standards  
 NOC         | Network Operations Center  
@@ -78,3 +80,4 @@ UI          | User Interface
 UX          | User Exerience  
 VM          | Virtual Machine
 VPN         | Virtual Private Network  
+WRT         | Work Recovery Time
