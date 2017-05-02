@@ -34,6 +34,7 @@ EA          | Enterprise Architecture
 EAI         | Enterprise Application Integration  
 EPLC        | Enterprise Performance Life Cycle 
 EVM         | Earned Value Managemenet
+FaaS        | Functions as a Service
 FIPS        | The Federal Information Processing Standard (FIPS) Publication 140-2, (FIPS PUB 140-2)
 HIPPA       | Health Insurance Portability and Accountability Act of 1996
 HLD         | High-Level Design  
