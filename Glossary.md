@@ -67,6 +67,10 @@ PCI         | Payment Card Industry
 RAA         | Responsibility, Acountability, Authority  
 RAS         | Redundancy, Availability, Serviceability  
 RASUI       | Reliability, Availability, Serviceability, Usability and Installability  
+RFI         | Request for Information
+RFP         | Request for Proposal
+RFQ         | Request for Quote
+RFS         | Request for Service (or, Solution)
 RIA         | Rich Internet Application  
 RMAD        | Rapid Mobile App Development  
 ROE         | Return on Equity  
