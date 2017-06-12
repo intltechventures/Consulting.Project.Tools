@@ -46,6 +46,7 @@ IT          | Information Technology
 ITIRB       | Information Technology Investment Review Board
 JSON        | JavaScript Object Notation  
 JWT         | JSON Web Token  
+LSA         | Local Service Agreement
 LU          | Logical Unit  
 MBaaS       | Mobile Back End as a Service  
 MDAP        | Mobile Application Development Platform  
@@ -56,6 +57,7 @@ MIPS        | Million of Instructions Per Second
 ML          | Machine Learning 
 MOU         | Memorandum of Understanding
 MSA         | Microservices Architecture  
+MSA         | Master Service Agreement
 MTD         | Maximum Tolerable Downtime
 NAS         | Network Attached Storage 
 NDA         | Non-Disclosure Agreement
