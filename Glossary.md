@@ -64,6 +64,8 @@ NOC         | Network Operations Center
 OData       | Open Data Protocol  
 PaaS        | Platform as a Service  
 PCI         | Payment Card Industry  
+PO          | Purchase Order
+PR          | Purchase Request
 RAA         | Responsibility, Acountability, Authority  
 RAS         | Redundancy, Availability, Serviceability  
 RASUI       | Reliability, Availability, Serviceability, Usability and Installability  
