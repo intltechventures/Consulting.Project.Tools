@@ -23,6 +23,7 @@ CAP         | Consistency, Availability, Partition Tolerance
 CIF         | Customer Information File  
 CIO         | Chief Information Officer  
 CQRS        | Command Query Responsibility Segregation  
+CSR         | Customer Service Representative
 CTO         | Chief Technology Officer  
 CX          | Customer Experience
 DC          | Data Center  
@@ -39,6 +40,7 @@ FAIL        | First Attempt In Learning (i.e. agile)
 FIPS        | The Federal Information Processing Standard (FIPS) Publication 140-2, (FIPS PUB 140-2)
 HIPPA       | Health Insurance Portability and Accountability Act of 1996
 HLD         | High-Level Design  
+HW          | Hardware
 IaaS        | Infrastructure as a Service  
 IDE         | Integrated Development Environment    
 IP          | Intellectual Property  
@@ -63,7 +65,8 @@ MTD         | Maximum Tolerable Downtime
 NAS         | Network Attached Storage 
 NDA         | Non-Disclosure Agreement
 NIST        | National Institute of Standards  
-NOC         | Network Operations Center  
+NOC         | Network Operations Center 
+NTE         | Not To Exceed
 OData       | Open Data Protocol  
 PaaS        | Platform as a Service  
 PCI         | Payment Card Industry  
@@ -81,7 +84,7 @@ RMAD        | Rapid Mobile App Development
 ROE         | Return on Equity  
 ROI         | Return on Investment  
 ROIT        | Return on Information Technology  
-ROM         | Rough Order of Magnitude  
+ROM         | Rough Order of Magnitude (also see SWAG)
 RPO         | Recovery Point Objective
 RTM         | Requirements Traceability Matrix
 RTT         | Round-Trip Time  
@@ -89,6 +92,7 @@ RTO         | Recovery Time Objective
 SAD         | Solution Architecture Design
 SDI         | Software Defined Infrastructure
 SDK         | Software Development Kit  
+SI          | System Integrator
 SLA         | Service Level Agreement
 SOA         | Service Oriented Architecture  
 SOR         | System of Record
@@ -96,7 +100,8 @@ SDLC        | Software Development Lifecycle
 SDN         | Software Defined Network  
 SRA         | Security Risk Assessment
 SSP         | System Security Plan
-SWAG        | Silly Wild-Ass Guess  
+SW          | Software
+SWAG        | Silly Wild-Ass Guess (also see ROM)
 TGB         | Technology Governance Board
 TRM         | Technical Reference Model
 UI          | User Interface  
