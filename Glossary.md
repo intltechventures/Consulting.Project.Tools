@@ -55,6 +55,7 @@ MBaaS       | Mobile Back End as a Service
 MDAP        | Mobile Application Development Platform  
 MDM         | Master Data Management  
 MDM         | Mobile Device Management  
+MDR         | Marketing Development Representative
 MEAP        | Mobile Enterrprise Application Platform  
 MIPS        | Million of Instructions Per Second  
 ML          | Machine Learning 
@@ -92,6 +93,7 @@ RTO         | Recovery Time Objective
 SAD         | Solution Architecture Design
 SDI         | Software Defined Infrastructure
 SDK         | Software Development Kit  
+SDR         | Sales Development Representative
 SI          | System Integrator
 SLA         | Service Level Agreement
 SOA         | Service Oriented Architecture  
