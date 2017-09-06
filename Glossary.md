@@ -82,6 +82,7 @@ RFQ         | Request for Quote
 RFS         | Request for Service (or, Solution)
 RIA         | Rich Internet Application  
 RMAD        | Rapid Mobile App Development  
+RMS         | Rights Management Service
 ROE         | Return on Equity  
 ROI         | Return on Investment  
 ROIT        | Return on Information Technology  
