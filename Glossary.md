@@ -43,6 +43,7 @@ HLD         | High-Level Design
 HW          | Hardware
 IaaS        | Infrastructure as a Service  
 IDE         | Integrated Development Environment    
+IDS         | Intrusion Detection System
 IP          | Intellectual Property  
 IP          | Internet Protocol  
 IT          | Information Technology  
@@ -111,4 +112,5 @@ UI          | User Interface
 UX          | User Exerience  
 VM          | Virtual Machine
 VPN         | Virtual Private Network  
+WAF         | Web Application Firewall
 WRT         | Work Recovery Time
