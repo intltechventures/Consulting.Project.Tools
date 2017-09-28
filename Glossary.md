@@ -46,6 +46,7 @@ IDE         | Integrated Development Environment
 IDS         | Intrusion Detection System
 IP          | Intellectual Property  
 IP          | Internet Protocol  
+IPS         | Intrusion Prevention System
 IT          | Information Technology  
 ITIRB       | Information Technology Investment Review Board
 JSON        | JavaScript Object Notation  
