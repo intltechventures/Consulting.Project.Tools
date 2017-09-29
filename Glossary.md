@@ -40,6 +40,7 @@ FAIL        | First Attempt In Learning (i.e. agile)
 FIPS        | The Federal Information Processing Standard (FIPS) Publication 140-2, (FIPS PUB 140-2)
 HIPPA       | Health Insurance Portability and Accountability Act of 1996
 HLD         | High-Level Design  
+HPC         | Horizontal Pod Autoscaling (Kubernetes)
 HW          | Hardware
 IaaS        | Infrastructure as a Service  
 IDE         | Integrated Development Environment    
