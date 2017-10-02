@@ -6,6 +6,7 @@ Glossary
 ABC         | Activity Based Costing  
 AD          | Application Delivery  
 AI          | Artificial Intelligence  
+ALM         | Application Lifecycle Management
 AOP         | Aspect Oriented Programming  
 aPaaS       | Application Platform as a Service  
 APM         | Application Portfolio Management  
@@ -28,6 +29,7 @@ CTO         | Chief Technology Officer
 CX          | Customer Experience
 DC          | Data Center  
 DFIR        | Digital Forensics, Incident Response  
+DLM         | Database Lifecycle Management
 DR          | Disaster Recovery  
 DRB         | Design Review Board  
 DSN         | Data Source Name  
