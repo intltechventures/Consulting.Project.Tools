@@ -53,6 +53,7 @@ IPS         | Intrusion Prevention System
 IT          | Information Technology  
 ITIRB       | Information Technology Investment Review Board
 JSON        | JavaScript Object Notation  
+JSR         | JavaScript Remoting
 JWT         | JSON Web Token  
 LSA         | Local Service Agreement
 LU          | Logical Unit  
@@ -78,6 +79,7 @@ PaaS        | Platform as a Service
 PCI         | Payment Card Industry  
 PO          | Purchase Order
 PR          | Purchase Request
+QKD         | Quantum Key Distribution
 RAA         | Responsibility, Acountability, Authority  
 RAS         | Redundancy, Availability, Serviceability  
 RASUI       | Reliability, Availability, Serviceability, Usability and Installability  
