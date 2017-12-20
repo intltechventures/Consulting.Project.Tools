@@ -30,6 +30,7 @@ CX          | Customer Experience
 DC          | Data Center  
 DFIR        | Digital Forensics, Incident Response  
 DLM         | Database Lifecycle Management
+DLT         | Distributed Ledger Technology
 DR          | Disaster Recovery  
 DRB         | Design Review Board  
 DSN         | Data Source Name  
