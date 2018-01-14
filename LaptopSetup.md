@@ -26,6 +26,7 @@ These are the primary software programs that I typically have installed on my de
 
 ### IDE Tools
 * [Microsoft Visual Studio](https://www.visualstudio.com/)
+  * https://www.visualstudio.com/downloads/#build-tools-for-visual-studio-2017
 * [Eclipse](http://www.eclipse.org)
   * [The plugins that I usually install](https://github.com/intltechventures/EclipseNotes/blob/master/README.md)
 * [Android Studio / SDK](http://developer.android.com/sdk/index.html)
