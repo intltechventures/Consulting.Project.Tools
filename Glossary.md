@@ -21,6 +21,7 @@ BRD         | Business Requirements Document
 BRM         | Business Reference Model  
 C&A         | Certification & Accreditation
 CAP         | Consistency, Availability, Partition Tolerance  
+CDO         | Chief Data Officer
 CIF         | Customer Information File  
 CIO         | Chief Information Officer  
 CQRS        | Command Query Responsibility Segregation  
