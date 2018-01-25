@@ -65,6 +65,7 @@ MDM         | Master Data Management
 MDM         | Mobile Device Management  
 MDR         | Marketing Development Representative
 MEAP        | Mobile Enterrprise Application Platform  
+MIM         | Major Incident Management
 MIPS        | Million of Instructions Per Second  
 ML          | Machine Learning 
 MOU         | Memorandum of Understanding
