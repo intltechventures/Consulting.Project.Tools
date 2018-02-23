@@ -97,6 +97,7 @@ ROE         | Return on Equity
 ROI         | Return on Investment  
 ROIT        | Return on Information Technology  
 ROM         | Rough Order of Magnitude (also see SWAG)
+RPA         | Robotic Process Automation
 RPO         | Recovery Point Objective
 RTM         | Requirements Traceability Matrix
 RTT         | Round-Trip Time  
