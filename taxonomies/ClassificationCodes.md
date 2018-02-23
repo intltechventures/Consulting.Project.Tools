@@ -12,6 +12,7 @@ kmeeks@intltechventures.com
 http://www.intltechventures.com    
 
 ### STATUS: __WORKING DRAFT__
+### January 2017 Update: reworking the entire structure & content
 ### TO-DO: 
 ```
 - Rationalize Numbering Schemes To Be More Consistent Within A Category, And Across Sub-Categories
@@ -37,33 +38,58 @@ Now you may have a glimmer of a glimpse into why I believe having a system of na
 Note: Theese codes are not intended as the final designation for a given artifact. For each artifact, you could simply append a sequentially assigned discrimantor - or a unique document name. The utility is in being able to quickly (an consistently) search across a large corpus of artifacts and documents (potentially spanning multiple very large projects) - and locate those artfiacts which are germaine to your focus. 
 
 For example:   
-A document with a prefix of "0000.1010.17_some_document_name"  
-...would reside in a directory structure \0000\1010  
-...and would be the 17th document in a collection of documents that desribed the various Products that a compony offered.
+A document with a prefix of "A00.10.00_some_document_name"  
+...would reside in a directory structure \A00\10\00  
 ___
 
-# 0000.xxxx Business Context
-* 0000.1xxx Business Scope
-* 0000.1000 Business Structure
-* 0000.1010	Business Products
-* 0000.1020 Business Services
-* 0000.1030 Business Roadmap
-* 0000.1040 Business Plan
-* 0000.1050 Busienss Geographical Areas of Operation
-* 0000.1060 Business Partners
-* 0000.1070 Business Competitive Forces
-* 0000.1080 Business Market Analysis (e.g. Share, Growth Projections, etc.)
-* 0000.1090 Business Constraints (e.g. Legal, Regulatory)
-* 0000.1100 Business Risks (e.g. Resources, Capital, Funding, Skills, Materials, Costs, etc.)
-* 0000.1110 Business SWOT (Strengths, Weaknesses, Opportunities, Threats)
+# A00.00.00 Business 
 
-* 0000.2xxx Financial Structure
-* 0000.2000 Chart of Accounts
-* 0000.2010 Transaction Types
-* 0000.2020 Accounting Processes
-* 0000.2030 Financial Reporting 
-* 0000.2040 Tax Calculations (e.g. Local, County, State, National)
-* 0000.2050 Currency Exchange Considerations
+* A00.10.00 Business Description
+* A00.10.10 Business Scope
+* A00.10.20 Business Leadership
+* A00.10.30 Business Structure
+
+* A00.20.00 Business Capabilities
+* A00.20.10 Business Products
+* A00.20.20 Business Services
+
+* A00.30.00 
+* A00.30.10 Business Vision
+* A00.30.20 Business Principles
+* A00.30.30 Business Strategy
+* A00.30.40 Business Roadmap
+* A00.30.50 Business Plan
+
+* A00.40.00 Business Markets
+* A00.40.10 Locations
+* A00.40.20 Market Segments
+
+* A00.50.00 Business Relationships
+* A00.50.10 Business Customers
+* A00.50.20 Business Suppliers
+* A00.50.30 Business Vendors
+* A00.50.40 Business Joint Ventures
+* A00.50.50 Business Partners 
+* A00.50.60 Business Subsidiaries
+
+* A00.50.00 Busiess Market
+* A00.50.10 Business Competitors 
+* A00.50.20 Business Competitive Forces
+* A00.50.30 Business Market Analysis (e.g. Share, Growth Projections, etc.)
+* A00.50.40 Business Constraints (e.g. Legal, Regulatory)
+* A00.50.50 Business Risks (e.g. Resources, Capital, Funding, Skills, Materials, Costs, etc.)
+* A00.50.60 Business SWOT (Strengths, Weaknesses, Opportunities, Threats)
+
+* A10.00.00 Finance
+* A10.10.10 Financial Structure
+* A10.10.20 Chart of Accounts
+* A10.10.30 Transaction Types
+* A10.10.40 Accounting Processes
+* A10.10.50 Financial Reporting 
+* A10.20.00 Tax Matters
+* A10.20.10 Tax Calculations (e.g. Local, County, State, National)
+* A10.30.00 Currency Exchange Considerations
+
 
 * 0000.3000 Future State
 
