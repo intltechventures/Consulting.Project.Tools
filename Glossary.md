@@ -75,6 +75,8 @@ MTD         | Maximum Tolerable Downtime
 NAS         | Network Attached Storage 
 NDA         | Non-Disclosure Agreement
 NIST        | National Institute of Standards  
+NLP         | Natural Language Processing
+NLU         | Natural Language Understanding
 NOC         | Network Operations Center 
 NTE         | Not To Exceed
 OData       | Open Data Protocol  
