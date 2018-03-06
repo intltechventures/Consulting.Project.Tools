@@ -105,7 +105,7 @@ RTM         | Requirements Traceability Matrix
 RTT         | Round-Trip Time  
 RTO         | Recovery Time Objective  
 SAD         | Solution Architecture Design
-SCIM        | System for Cross-Domain Identity Management
+SCIM        | System for Cross-Domain Identity Management (re: RFC7644)
 SDI         | Software Defined Infrastructure
 SDK         | Software Development Kit  
 SDR         | Sales Development Representative
