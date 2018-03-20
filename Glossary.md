@@ -22,6 +22,7 @@ BRM         | Business Reference Model
 C&A         | Certification & Accreditation
 CAP         | Consistency, Availability, Partition Tolerance  
 CDO         | Chief Data Officer
+CDE         | Cardholder Data Environment
 CIF         | Customer Information File  
 CIO         | Chief Information Officer  
 CQRS        | Command Query Responsibility Segregation  
@@ -81,7 +82,7 @@ NOC         | Network Operations Center
 NTE         | Not To Exceed
 OData       | Open Data Protocol  
 PaaS        | Platform as a Service  
-PCI         | Payment Card Industry  
+PCI DSS     | Payment Card Industry Data Security Standard
 PO          | Purchase Order
 PR          | Purchase Request
 QKD         | Quantum Key Distribution
