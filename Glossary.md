@@ -12,8 +12,10 @@ aPaaS       | Application Platform as a Service
 APM         | Application Portfolio Management  
 ARB         | Architecture Review Board  
 ASP         | Application Service Provider  
+ATDD        | Acceptance-Test-Driven-Development
 B2B         | Business-to-Business
 B2C         | Business-to-Customer
+BDD         | Behavior-Driven-Development
 BIA         | Business Impact Analysis
 BNS         | Business Needs Statement
 BPM         | Business Process Management, or Business Process Model
@@ -120,6 +122,7 @@ SRA         | Security Risk Assessment
 SSP         | System Security Plan
 SW          | Software
 SWAG        | Silly Wild-Ass Guess (also see ROM)
+TDD         | Test-Driven-Development
 TGB         | Technology Governance Board
 TRM         | Technical Reference Model
 UI          | User Interface  
