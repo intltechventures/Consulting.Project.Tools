@@ -97,6 +97,7 @@ These are the primary software programs that I typically have installed on my de
 * [Ansible](https://www.ansible.com/)
 * [Docker](https://www.docker.com/)
   * [https://store.docker.com/editions/community/docker-ce-desktop-windows](Docker Community Edition)
+  * [https://hub.docker.com/](Docker Hub)
 * [Oracle VirtualBox](https://www.virtualbox.org/ https://www.virtualbox.org/)
   * [Mint Linux](https://www.linuxmint.com/)
   * [Ubuntu](http://www.ubuntu.com/)
