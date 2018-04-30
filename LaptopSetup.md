@@ -96,6 +96,7 @@ These are the primary software programs that I typically have installed on my de
 * [AWS Command Line Interface (CLI)](https://aws.amazon.com/cli/)
 * [Ansible](https://www.ansible.com/)
 * [Docker](https://www.docker.com/)
+  * [https://store.docker.com/editions/community/docker-ce-desktop-windows](Docker Community Edition)
 * [Oracle VirtualBox](https://www.virtualbox.org/ https://www.virtualbox.org/)
   * [Mint Linux](https://www.linuxmint.com/)
   * [Ubuntu](http://www.ubuntu.com/)
