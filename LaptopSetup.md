@@ -123,7 +123,10 @@ These are the primary software programs that I typically have installed on my de
 
 ### Security Tools
 * [NMAP](https://nmap.org/)
-
+* https://decentsecurity.com/#/securing-your-computer/
+  * Some very good suggestions for securing Windows 10
+* https://www.qubes-os.org/
+  * To be evaluated in the future...
 
 ### Communication Tools
 * [GoToMeeting](www.gotomeeting.com/‎)
