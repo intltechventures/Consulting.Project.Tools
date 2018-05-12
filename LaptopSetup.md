@@ -1,7 +1,7 @@
 These are the primary software programs that I typically have installed on my development machine...
 
 ### Essentials...
-* [Norton Security  ](http://us.norton.com/)
+* [Norton Security](http://us.norton.com/)
 * [MalwareBytes](https://www.malwarebytes.org/)
 * [TrueCrypt](http://truecrypt.sourceforge.net/)
 * [GnuPG](https://www.gnupg.org/)
@@ -96,8 +96,8 @@ These are the primary software programs that I typically have installed on my de
 * [AWS Command Line Interface (CLI)](https://aws.amazon.com/cli/)
 * [Ansible](https://www.ansible.com/)
 * [Docker](https://www.docker.com/)
-  * [https://store.docker.com/editions/community/docker-ce-desktop-windows](Docker Community Edition)
-  * [https://hub.docker.com/](Docker Hub)
+  * [Docker Community Edition](https://store.docker.com/editions/community/docker-ce-desktop-windows)
+  * [Docker Hub](https://hub.docker.com/)
 * [Oracle VirtualBox](https://www.virtualbox.org/ https://www.virtualbox.org/)
   * [Mint Linux](https://www.linuxmint.com/)
   * [Ubuntu](http://www.ubuntu.com/)
