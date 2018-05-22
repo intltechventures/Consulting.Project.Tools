@@ -28,6 +28,7 @@ CDE         | Cardholder Data Environment
 CIF         | Customer Information File  
 CIO         | Chief Information Officer  
 CQRS        | Command Query Responsibility Segregation  
+CRM         | Customer Relationship Management
 CSR         | Customer Service Representative
 CTO         | Chief Technology Officer  
 CX          | Customer Experience
@@ -45,6 +46,7 @@ EVM         | Earned Value Managemenet
 FaaS        | Functions as a Service
 FAIL        | First Attempt In Learning (i.e. agile)
 FIPS        | The Federal Information Processing Standard (FIPS) Publication 140-2, (FIPS PUB 140-2)
+GL          | General Ledger
 HIPPA       | Health Insurance Portability and Accountability Act of 1996
 HLD         | High-Level Design  
 HPC         | Horizontal Pod Autoscaling (Kubernetes)
@@ -82,6 +84,7 @@ NLP         | Natural Language Processing
 NLU         | Natural Language Understanding
 NOC         | Network Operations Center 
 NTE         | Not To Exceed
+OCM         | Organizational Change Management
 OData       | Open Data Protocol  
 PaaS        | Platform as a Service  
 PCI DSS     | Payment Card Industry Data Security Standard
