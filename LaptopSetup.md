@@ -31,6 +31,9 @@ These are the primary software programs that I typically have installed on my de
   * [The plugins that I usually install](https://github.com/intltechventures/EclipseNotes/blob/master/README.md)
 * [Android Studio / SDK](http://developer.android.com/sdk/index.html)
 
+* To possibly evaluate, in the future...
+* https://neovim.io
+
 
 ### Version Control Tools
 * [Git](https://git-scm.com/)
