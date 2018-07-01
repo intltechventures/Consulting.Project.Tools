@@ -95,7 +95,7 @@ These are the primary software programs that I typically have installed on my de
 * [CBT](https://github.com/cvogt/cbt) - new, evaluating...
 
 
-### Cloud / VM Tools
+### Deployment / Cloud / VM Tools
 * [AWS Command Line Interface (CLI)](https://aws.amazon.com/cli/)
 * [Ansible](https://www.ansible.com/)
 * [Docker](https://www.docker.com/)
@@ -108,7 +108,9 @@ These are the primary software programs that I typically have installed on my de
   * [Community Enterprise Operating System (CentOS)](https://www.centos.org/)
   * [Alpine](http://www.alpinelinux.org/) - new, evaluating...
   * [Microsoft Windows 2016 / Nano TP 5](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-technical-preview)	
-	
+* [Vagrant](https://github.com/mitchellh/vagrant/blob/v2.1.2/CHANGELOG.md)
+  
+  
 ### General Productivity Tools
 * [Dropbox](https://www.dropbox.com/)
 * Brother Printer software 
