@@ -108,7 +108,8 @@ These are the primary software programs that I typically have installed on my de
   * [Community Enterprise Operating System (CentOS)](https://www.centos.org/)
   * [Alpine](http://www.alpinelinux.org/) - new, evaluating...
   * [Microsoft Windows 2016 / Nano TP 5](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-technical-preview)	
-* [Vagrant](https://github.com/mitchellh/vagrant/blob/v2.1.2/CHANGELOG.md)
+* [Vagrant](https://www.vagrantup.com)
+	* https://github.com/hashicorp/vagrant
   
   
 ### General Productivity Tools
