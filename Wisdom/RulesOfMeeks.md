@@ -5,6 +5,8 @@ These are intended as heuristics to provide guidance when navigating the stormy 
 Rules of Meeks
 ====
 
+```Oxx - The General Purpose Rules```
+
 001 - "Always assume they are lying bastards - and then seek to prove that assumption false."
 * This rule arose from my repeated experience of dealing with unscrupulous carpet-bagger software sales reps - who often would literally make claims about the capabilities of software systems they were selling, which did not yet exist (aka as "Vaporware").  
 * Over time, I've found that application of this rule to many situations - in particular, the verification admonition - would have saved me untold buckets of grief. For example:
@@ -31,10 +33,32 @@ Rules of Meeks
 006 - "Listen more than you talk"
 
 
+```1xx - The Management Rules```
+
+
+```2xx - The Hiring Rules```
+
+
+```3xx - The Design Rules```
+
+
+```4xx - The Construction Rules```
+
+
+```5xx - The ```
+
+
+```6xx - ```
+
+
+```7xx - ```
+
+
+```8xx - ```
 
 
 
-**9xx - The Emergency Rules**  
+```9xx - The Emergency Rules```
 901 - Two in the head, one in the heart [modification of the Double'Tap rule, for the zombie apocalypse]
 
 902 - Always know your exits
