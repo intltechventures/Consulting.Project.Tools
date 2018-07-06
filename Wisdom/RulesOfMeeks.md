@@ -18,9 +18,27 @@ Rules of Meeks
 002 - "Never share something with someone, unless you expect them to act on it"
 
 
-003 - "When in doubt [regarding the accurancy] about a developer's estimate, multiply by three"
+003 - "When in doubt about a developer's estimate, multiply by three"
 * This is hard-won wisdom that has proven itself again, and again.
+
+
+004 - "Always let the other side mention their offer first"
+
+
+005 - "Never argue with a foolish person"
+
+
+006 - "Listen more than you talk"
+
+
+
 
 
 **9xx - The Emergency Rules**  
 901 - Two in the head, one in the heart [modification of the Double'Tap rule, for the zombie apocalypse]
+
+902 - Always know your exits
+
+903 - Your All-Purpose Survival Kit: Improvise, Adapt, Overcome
+
+
