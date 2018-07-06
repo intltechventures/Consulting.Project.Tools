@@ -45,7 +45,7 @@ Rules of Meeks
 ```4xx - The Construction Rules```
 
 
-```5xx - The ```
+```5xx - ```
 
 
 ```6xx - ```
@@ -58,7 +58,7 @@ Rules of Meeks
 
 
 
-```9xx - The Emergency Rules```
+```9xx - The Emergency Rules```   
 901 - Two in the head, one in the heart [modification of the Double'Tap rule, for the zombie apocalypse]
 
 902 - Always know your exits
