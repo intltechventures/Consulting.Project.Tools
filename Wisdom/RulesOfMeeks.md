@@ -33,6 +33,20 @@ Rules of Meeks
 006 - "Listen more than you talk"
 
 
+007 - "No job is worth sacricing your Family, Friends, Integrity"
+
+
+008 - "Life is too short to put up with shitty tools"
+
+
+009 - "Life is too short to put up with leaders who are assholes, or incompoetent"
+
+
+010 - "Walk out the door any time someone  asks you to lie, cheat, or break the law"
+
+
+
+
 ```1xx - The Management Rules```
 
 
