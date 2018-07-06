@@ -73,10 +73,30 @@ Rules of Meeks
 
 
 ```9xx - The Emergency Rules```   
+
+
 901 - Two in the head, one in the heart [modification of the Double'Tap rule, for the zombie apocalypse]
+
 
 902 - Always know your exits
 
+
 903 - Your All-Purpose Survival Kit: Improvise, Adapt, Overcome
+
+
+904 - Hide the women and children
+
+
+905 - If you must go to war, remember - there are no rules
+
+
+906 - A wounded animal can heal - and attack again
+
+
+907 - Flee if you can, stand if you must
+
+
+999 - You were going to die anyway
+
 
 
