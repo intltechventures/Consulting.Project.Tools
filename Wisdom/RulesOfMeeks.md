@@ -11,8 +11,15 @@ Rules of Meeks
   * Verbal promises? Get it in writing.
   * Developer says they're done? Show me the results of the automated unit tests.
   * Vendor claims they can do [x]? Gonna need a demo, proof-of-concept, talk to one of their customers.
-  * Job applicatnt claims they've done [z]? Always check their references.   
+  * Job applicant claims they've done [z]? Always check their references.   
+* A kinder gentle version of this rule might be "Inspect what you expect"
 
 
 002 - "Never share something with someone, unless you expect them to act on it"
+
+
+003 - "When in doubt [regarding the accurancy] about a developer's estimate, multiply by three"
+* This is hard-won wisdom that has proven itself again, and again.
+
+
 
