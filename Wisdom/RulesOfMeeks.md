@@ -5,7 +5,8 @@ These are intended as heuristics to provide guidance when navigating the stormy 
 Rules of Meeks
 ====
 
-```Oxx - The General Purpose Rules```
+Oxx - The General Purpose Rules
+====
 
 001 - "Always assume they are lying bastards - and then seek to prove that assumption false."
 * This rule arose from my repeated experience of dealing with unscrupulous carpet-bagger software sales reps - who often would literally make claims about the capabilities of software systems they were selling, which did not yet exist (aka as "Vaporware").  
@@ -50,7 +51,9 @@ Rules of Meeks
 
 
 
-```1xx - The Management Rules```
+1xx - On Consulting, Startups, and Business Endeavors 
+====
+
 101 - "Within chaos and volatility - there is opportunity"
 
 
@@ -63,11 +66,12 @@ Rules of Meeks
 104 - "Sometimes, what looks like winning - is just the setup for the denouement."
 
 
-105 - "Never acceptt work from (or keep)  clients who are rude or disrespectful."
+105 - "Never acceptt work from (or keep) clients who are rude or disrespectful."
 
 
 
-```2xx - The Hiring Rules```
+2xx - On Managing People
+====
 
 
 201 - "Hire for Character, Train for Skill"
@@ -76,39 +80,48 @@ Rules of Meeks
 202 - "Never hire an asshole"
 
 
-
-
-```3xx - The Design Rules```
-
+203 - "Never make a counter-offer to keep someone."
 
 
 
 
-```4xx - The Construction Rules```
+3xx - On Design 
+====
 
 
 
 
-```5xx - ```
+
+4xx - On Building
+====
+
+
+
+5xx - TBD
+====
 
 
 
 
-```6xx - ```
+6xx - TBD
+====
 
 
 
 
-```7xx - ```
+7xx - TBD
+====
 
 
 
 
-```8xx - ```
+8xx - TBD
+====
 
 
 
-```9xx - The Emergency Rules```   
+9xx - The Emergency Rules
+====
 
 901 - Your All-Purpose Survival Kit: Improvise, Adapt, Overcome
 
