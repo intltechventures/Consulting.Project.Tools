@@ -16,6 +16,12 @@ Oxx - The General Purpose Rules
   * Developer says they're done? Show me the results of the automated unit tests.
   * Vendor claims they can do [x]? Gonna need a demo, proof-of-concept, talk to one of their customers.
   * Job applicant claims they've done [z]? Always check their references.   
+* "We're not going to shut the project down" - they did, two weeks later
+* "We're pre-IPO" - they had no intention of going IPO
+* "We've sent the payment" - they didn't
+* "We have a plan" - nope, nada, zip, butkus
+* "What could you do with $20M?" - they wre broke and not profitable
+* "We're growing" - they laid off 50% of the division
 * A kinder gentle version of this rule might be "Inspect what you expect"
 * Also see Jethro Leroy Gibb, NCIS, Rule #3
 
