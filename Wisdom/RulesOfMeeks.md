@@ -67,7 +67,7 @@ Oxx - The General Purpose Rules
 104 - "Sometimes, what looks like winning - is just the setup for the denouement."
 
 
-105 - "Never acceptt work from (or keep) clients who are rude or disrespectful."
+105 - "Never accept work from (or keep) clients who are rude or disrespectful."
 
 
 
