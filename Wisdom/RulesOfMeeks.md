@@ -20,8 +20,10 @@ Rules of Meeks
 002 - "Never share something with someone, unless you expect them to act on it"
 
 
-003 - "When in doubt about a developer's estimate, multiply by three"
+003 - "When in doubt about an estimate, multiply by three"
 * This is hard-won wisdom that has proven itself again, and again.
+* This rule originated with my own early experiences trying to estimate software development tasks for myself - and over time, I learned that it would a good heuristic for many developers that I managed - until they established  a higher level of reliability.
+* This rule has also proven to be true when dealing with boat yards that have been tasked with maintenance/repair jobs.
 
 
 004 - "Always let the other side mention their offer first"
