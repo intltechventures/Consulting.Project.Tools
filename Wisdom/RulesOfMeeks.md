@@ -17,6 +17,7 @@ Oxx - The General Purpose Rules
   * Vendor claims they can do [x]? Gonna need a demo, proof-of-concept, talk to one of their customers.
   * Job applicant claims they've done [z]? Always check their references.   
 * A kinder gentle version of this rule might be "Inspect what you expect"
+* Also see Jethro Leroy Gibb, NCIS, Rule #3
 
 
 002 - "Never share something with someone, unless you expect them to act on it"
