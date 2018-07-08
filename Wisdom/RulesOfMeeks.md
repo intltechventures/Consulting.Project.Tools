@@ -1,6 +1,7 @@
 Over the course of my career - I've had experiences that repeated themselves - in varying locations, and varying circumstance -  to such an extent - that I've long wanted to codify them for the benefit of others. 
 
-These are intended as heuristics to provide guidance when navigating the stormy seas that arise from time-to-time.
+These are intended as heuristics to provide guidance when navigating the stormy seas that arise from time-to-time - in life, as well as business.
+
 
 Rules of Meeks
 ====
