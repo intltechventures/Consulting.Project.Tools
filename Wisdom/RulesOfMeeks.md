@@ -28,7 +28,7 @@ Oxx - The General Purpose Rules
 * This rule has also proven to be true when dealing with boat yards that have been tasked with maintenance/repair jobs on my sailboat.
 
 
-004 - "Always let the other side mention their offer first"
+004 - "Always let the other side bring up their offer first"
 
 
 005 - "Never argue with a foolish person"
