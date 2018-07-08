@@ -37,7 +37,7 @@ Oxx - The General Purpose Rules
 006 - "Listen more than you talk"
 
 
-007 - "No job is worth sacricing your Family, Friends, Integrity"
+007 - "No job is worth sacrificing your Family, Friends, Integrity"
 
 
 008 - "Life is too short to put up with shitty tools"
