@@ -49,25 +49,59 @@ Rules of Meeks
 
 
 
+
 ```1xx - The Management Rules```
+101 - "Within chaos and volatility - there is opportunity"
+
+
+102 - "People make choices, and there are consequences"
+
+
+103 - "When looking at macro economic trends, market distortions, and deficit spending...remember: all systems seek equilibrium"
+
+
+104 - "Sometimes, what looks like winning - is just the setup for the denouement."
+
+
+105 - "Never acceptt work from (or keep)  clients who are rude or disrespectful."
+
 
 
 ```2xx - The Hiring Rules```
 
 
+201 - "Hire for Character, Train for Skill"
+
+
+202 - "Never hire an asshole"
+
+
+
+
 ```3xx - The Design Rules```
+
+
+
 
 
 ```4xx - The Construction Rules```
 
 
+
+
 ```5xx - ```
+
+
 
 
 ```6xx - ```
 
 
+
+
 ```7xx - ```
+
+
 
 
 ```8xx - ```
