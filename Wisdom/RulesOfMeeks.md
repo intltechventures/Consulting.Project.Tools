@@ -124,29 +124,35 @@ Oxx - The General Purpose Rules
 9xx - The Emergency Rules
 ====
 
-901 - Your All-Purpose Survival Kit: Improvise, Adapt, Overcome
+901 - "Your All-Purpose Survival Kit: Improvise, Adapt, Overcome"
 
 
-902 - Always know your exits
+902 - "Always know your exits"
 
 
-903 - Hide the women and children
+903 - "Hide the women and children"
 
 
-
-994 - A wounded animal can heal - and attack again
-
-
-995 - Flee if you can, stand if you must
+904 - "Always carry a knife"
 
 
-996 - Remember - It's always safest to nuke it from orbit
+905 - "Priorities: Shelter, Water, Food, Fire"
 
 
-997 - Two in the head, one in the heart [modification of the Double-Tap rule, for the zombie apocalypse]
+994 - "A wounded animal can heal - and attack again"
 
 
-998 - You were going to die anyway
+995 - "Flee if you can, stand if you must"
+
+
+996 - "Remember - It's always safest to nuke it from orbit"
+
+
+997 - "Two in the head, one in the heart" 
+* Modification of the Zombieland Double-Tap rule.  You know, for the zombie apocalypse...
+
+
+998 - "You were going to die anyway - who wants to live forever?"
 
 
 999 - If you must go to war, remember - there are no rules
