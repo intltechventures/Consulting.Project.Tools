@@ -118,6 +118,7 @@ SDK         | Software Development Kit
 SDR         | Sales Development Representative
 SI          | System Integrator
 SLA         | Service Level Agreement
+SMART       | Specific, Measurable, Attainable, Realistic
 SOA         | Service Oriented Architecture  
 SOR         | System of Record
 SDLC        | Software Development Lifecycle  
