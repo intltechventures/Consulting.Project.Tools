@@ -5,6 +5,7 @@ Glossary
 |-----|-----------|
 ABC         | Activity Based Costing  
 AD          | Application Delivery  
+AD          | Active Directory
 AI          | Artificial Intelligence  
 ALM         | Application Lifecycle Management
 AOP         | Aspect Oriented Programming  
@@ -112,6 +113,7 @@ RTM         | Requirements Traceability Matrix
 RTT         | Round-Trip Time  
 RTO         | Recovery Time Objective  
 SAD         | Solution Architecture Design
+SAFe        | Scaled Agile Framework
 SCIM        | System for Cross-Domain Identity Management (re: RFC7644)
 SDI         | Software Defined Infrastructure
 SDK         | Software Development Kit  
