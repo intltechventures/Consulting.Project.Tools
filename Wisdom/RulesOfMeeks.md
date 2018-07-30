@@ -9,7 +9,7 @@ Rules of Meeks
 Oxx - The General Purpose Rules
 ====
 
-001 - "Always assume they are lying bastards - and then seek to prove that assumption false."
+/#1 - "Always assume they are lying bastards - and then seek to prove that assumption false."
 * This rule arose from my repeated experience of dealing with unscrupulous carpet-bagger software sales reps - who often would literally make claims about the capabilities of software systems they were selling, which did not yet exist (aka as "Vaporware").  
 * Over time, I've found that application of this rule to many situations - in particular, the verification admonition - would have saved me untold buckets of grief. For example:
   * Verbal promises? Get it in writing.
@@ -23,37 +23,36 @@ Oxx - The General Purpose Rules
 * "What could you do with $20M?" - they wre broke and not profitable
 * "We're growing" - they laid off 50% of the division
 * A kinder gentle version of this rule might be "Inspect what you expect"
-* Also see Jethro Leroy Gibb, NCIS, Rule #3
+* Also see [http://ncis.wikia.com/wiki/Gibbs%27s_Rules](Jethro Leroy Gibb, NCIS, Rule #3)
+
+/#2 - "Never share something with someone, unless you expect them to act on it"
 
 
-002 - "Never share something with someone, unless you expect them to act on it"
-
-
-003 - "When in doubt about an estimate, multiply by three"
+/#3 - "When in doubt about an estimate, multiply by three"
 * This is hard-won wisdom that has proven itself again, and again.
 * This rule originated with my own early experiences trying to estimate software development tasks for myself - and over time, I learned that it was pretty damn good heuristic for many of the developers that I managed (at least  until they established  a higher level of reliability).
 * This rule has also proven to be true when dealing with boat yards that have been tasked with maintenance/repair jobs on my sailboat.
 
 
-004 - "Always let the other side bring up their offer first"
+/#4 - "Always let the other side bring up their offer first"
 
 
-005 - "Never argue with a foolish person"
+/#5 - "Never argue with a foolish person"
 
 
-006 - "Listen more than you talk"
+/#6 - "Listen more than you talk"
 
 
-007 - "No job is worth sacrificing your Family, Friends, Integrity"
+/#7 - "No job is worth sacrificing your Family, Friends, Integrity"
 
 
-008 - "Life is too short to put up with shitty tools"
+/#8 - "Life is too short to put up with shitty tools"
 
 
-009 - "Life is too short to put up with leaders who are assholes, or incompoetent"
+/#9 - "Life is too short to put up with leaders who are assholes, or incompoetent"
 
 
-010 - "Walk out the door any time someone  asks you to lie, cheat, or break the law"
+/#10 - "Walk out the door any time someone  asks you to lie, cheat, or break the law"
 
 
 
@@ -77,6 +76,9 @@ Oxx - The General Purpose Rules
 105 - "Never accept work from (or keep) clients who are rude or disrespectful."
 
 
+106 - "Never collaborate with people that deal from the bottom of the deck"
+
+
 
 2xx - On Managing People
 ====
@@ -96,12 +98,14 @@ Oxx - The General Purpose Rules
 3xx - On Design 
 ====
 
+301 - "Design is a successive process of refinment - but know when to call it done"
 
 
 
 
 4xx - On Building
 ====
+
 
 
 
@@ -138,6 +142,7 @@ Oxx - The General Purpose Rules
 
 
 903 - "Hide the women and children"
+* See [http://ncis.wikia.com/wiki/Gibbs%27s_Rules](Gibbs Rule #44)
 
 
 904 - "Always carry a knife"
@@ -156,7 +161,7 @@ Oxx - The General Purpose Rules
 
 
 997 - "Two in the head, one in the heart" 
-* Modification of the Zombieland Double-Tap rule.  You know, for the zombie apocalypse...
+* Modification of the [http://zombie.wikia.com/wiki/Zombieland_Survival_Rules](Zombieland Double-Tap rule #2).  You know, for the zombie apocalypse...
 
 
 998 - "You were going to die anyway - who wants to live forever?"
