@@ -141,7 +141,7 @@ Oxx - The General Purpose Rules
 
 
 903 - "Hide the women and children"
-* See [http://ncis.wikia.com/wiki/Gibbs%27s_Rules](Gibbs Rule #44)
+* See [Gibbs Rule #44](http://ncis.wikia.com/wiki/Gibbs%27s_Rules)
 
 
 904 - "Always carry a knife"
