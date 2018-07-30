@@ -108,8 +108,10 @@ Oxx - The General Purpose Rules
 
 
 
-5xx - TBD
+5xx - On The Art of Management
 ====
+
+501 - Misplaced assumptions are at the root of all fuck-ups
 
 
 
