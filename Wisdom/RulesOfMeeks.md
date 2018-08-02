@@ -152,6 +152,9 @@ Oxx - The General Purpose Rules
 905 - "Priorities: Shelter, Water, Food, Fire"
 
 
+993 - "If you want to survive out here, you’ve got to know where your towel is"
+
+
 994 - "A wounded animal can heal - and attack again"
 
 
