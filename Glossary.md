@@ -3,7 +3,8 @@ Glossary
 ===
 |Term | Definition|
 |-----|-----------|
-ABC         | Activity Based Costing  
+ABC         | Activity Based Costing
+ACL         | Access Control List
 AD          | Application Delivery  
 AD          | Active Directory
 AI          | Artificial Intelligence  
