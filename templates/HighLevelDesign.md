@@ -1,4 +1,4 @@
-A General Purpose Template for the structure of a High-Level Design document (HLD)
+High-Level Design Doc (HLD) - General Purpose
 ====
 
 Rationale: Numerous times, in my travels as a consultant, I've encountered organizations in which there is no established standard/template for what should be included in an HLD. Quite often (even in organizations that ostensibly have a template), the artifacts that architects and engineers produce devolve into a Wild Wild West of anything-goes. Consistency engenders repeatability - which can help reduce variabillity in quality - and thus, a worthy goal. 
@@ -133,12 +133,13 @@ High Level Design Template
 	* Specifications
     * Vendor Contract
 * Key Contacts
+  * Design Reviewers/Approvers
   * Business Stakeholders
   * Project Management
   * Key Subject Matter Experts (SMEs)
     * Business Context SMEs
     * IT SMEs
-    * Vendor Busienss SMEs
+    * Vendor Business SMEs
   * Procurement
   * Finance/Budget/Funding
   * Operations
@@ -152,7 +153,7 @@ High Level Design Template
 * Version History
 
 
-Suggsted Additional Useful References
+Suggested Additional Useful References
 ====
 * https://github.com/intltechventures/Consulting.Project.Tools/blob/master/taxonomies/ClassificationCodes.md
 
