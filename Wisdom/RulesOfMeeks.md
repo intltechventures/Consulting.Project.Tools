@@ -23,153 +23,153 @@ Oxx - The General Purpose Rules
 * "What could you do with $20M?" - they wre broke and not profitable
 * "We're growing" - they laid off 50% of the division
 * A kinder gentle version of this rule might be "Inspect what you expect"
-* Also see [Jethro Leroy Gibb, NCIS, Rule #3](http://ncis.wikia.com/wiki/Gibbs%27s_Rules)
+* Also see [Leroy Jethro Gibb, NCIS, Rule #3](http://ncis.wikia.com/wiki/Gibbs%27s_Rules) 
 
 \#2 - "Never share something with someone, unless you expect them to act on it"
 
 
-3 - "When in doubt about an estimate, multiply by three"
+\#3 - "When in doubt about an estimate, multiply by three"
 * This is hard-won wisdom that has proven itself again, and again.
 * This rule originated with my own early experiences trying to estimate software development tasks for myself - and over time, I learned that it was pretty damn good heuristic for many of the developers that I managed (at least  until they established  a higher level of reliability).
 * This rule has also proven to be true when dealing with boat yards that have been tasked with maintenance/repair jobs on my sailboat.
 
 
-4 - "Always let the other side bring up their offer first"
+\#4 - "Always let the other side bring up their offer first"
 
 
-5 - "Never argue with a foolish person"
+\#5 - "Never argue with a foolish person"
 
 
-6 - "Listen more than you talk"
+\#6 - "Listen more than you talk"
 
 
-7 - "No job is worth sacrificing your Family, Friends, Integrity"
+\#7 - "No job is worth sacrificing your Family, Friends, Integrity"
 
 
-8 - "Life is too short to put up with shitty tools"
+\#8 - "Life is too short to put up with shitty tools"
 
 
-9 - "Life is too short to put up with leaders who are assholes, or incompoetent"
+\#9 - "Life is too short to put up with leaders who are assholes, or incompoetent"
 
 
-10 - "Walk out the door any time someone  asks you to lie, cheat, steal, or in any way break the law"
+\#10 - "Walk out the door any time someone  asks you to lie, cheat, steal, or in any way break the law"
 
 
 
 
-1xx - On Consulting, Startups, and Business Endeavors 
+\#1xx - On Consulting, Startups, and Business Endeavors 
 ====
 
-101 - "Within chaos and volatility - there is opportunity"
+\#101 - "Within chaos and volatility - there is opportunity"
 
 
-102 - "People make choices, and there are consequences"
+\#102 - "People make choices, and there are consequences"
 
 
-103 - "When looking at macro economic trends, market distortions, and deficit spending...remember: all systems seek equilibrium"
+\#103 - "When looking at macro economic trends, market distortions, and deficit spending...remember: all systems seek equilibrium"
 
 
-104 - "Sometimes, what looks like winning - is just the setup for the denouement."
+\#104 - "Sometimes, what looks like winning - is just the setup for the denouement."
 
 
-105 - "Never accept work from (or keep) clients who are rude or disrespectful."
+\#105 - "Never accept work from (or keep) clients who are rude or disrespectful."
 
 
-106 - "Never collaborate with people that deal from the bottom of the deck"
-
-
-
-2xx - On Managing People
-====
-
-
-201 - "Hire for Character, Train for Skill"
-
-
-202 - "Never hire an asshole"
-
-
-203 - "Never make a counter-offer to keep someone."
+\#106 - "Never collaborate with people that deal from the bottom of the deck"
 
 
 
-
-3xx - On Design 
-====
-
-301 - "Design is a successive process of refinment - but know when to call it done"
-
-
-
-
-4xx - On Building
+\#2xx - On Managing People
 ====
 
 
+\#201 - "Hire for Character, Train for Skill"
 
 
-5xx - On The Art of Management
+\#202 - "Never hire an asshole"
+
+
+\#203 - "Never make a counter-offer to keep someone."
+
+
+
+
+\#3xx - On Design 
 ====
 
-501 - Misplaced assumptions are at the root of all fuck-ups
+\#301 - "Design is a successive process of refinment - but know when to call it done"
 
 
 
 
-6xx - TBD
+\#4xx - On Building
 ====
 
 
 
 
-7xx - TBD
+\#5xx - On The Art of Management
+====
+
+\#501 - Misplaced assumptions are at the root of all fuck-ups
+
+
+
+
+\#6xx - TBD
 ====
 
 
 
 
-8xx - TBD
+\#7xx - TBD
 ====
 
 
 
-9xx - The Emergency Rules
+
+\#8xx - TBD
 ====
 
-901 - "Your All-Purpose Survival Kit: Improvise, Adapt, Overcome"
 
 
-902 - "Always know your exits"
+\#9xx - The Emergency Rules
+====
+
+\#901 - "Your All-Purpose Survival Kit: Improvise, Adapt, Overcome"
 
 
-903 - "Hide the women and children"
+\#902 - "Always know your exits"
+
+
+\#903 - "Hide the women and children"
 * See [Gibbs Rule #44](http://ncis.wikia.com/wiki/Gibbs%27s_Rules)
 
 
-904 - "Always carry a knife"
+\#904 - "Always carry a knife"
 
 
-905 - "Priorities: Shelter, Water, Food, Fire"
+\#905 - "Priorities: Shelter, Water, Food, Fire"
 
 
-993 - "If you want to survive out here, you’ve got to know where your towel is"
+\#993 - "If you want to survive out here, you’ve got to know where your towel is"
   * "... a towel has immense psychological value. For some reason, if a strag (strag: nonhitchhiker) discovers that a hitchhiker has his towel with him, he will automatically assume that he is also in possession of a toothbrush, washcloth, soap, tin of biscuits, flask, compass, map, ball of string, gnat spray, wet-weather gear, space suit etc., etc. Furthermore, the strag will then happily lend the hitchhiker any of these or a dozen other items that the hitchhiker might accidentally have "lost". What the strag will think is that any man who can hitch the length and breadth of the galaxy, rough it, slum it, struggle against terrible odds, win through, and still knows where his towel is, is clearly a man to be reckoned with."  
   * [The Hitchhiker's Guide to the Galaxy ](https://en.wikiquote.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(film))
 
-994 - "A wounded animal can heal - and attack again"
+\#994 - "A wounded animal can heal - and attack again"
 
 
-995 - "Flee if you can, stand if you must"
+\#995 - "Flee if you can, stand if you must"
 
 
-996 - "Remember - It's always safest to nuke it from orbit"
+\#996 - "Remember - It's always safest to nuke it from orbit"
 
 
-997 - "Two in the head, one in the heart" 
+\#997 - "Two in the head, one in the heart" 
 * Modification of the [Zombieland Double-Tap rule #2]( http://zombie.wikia.com/wiki/Zombieland_Survival_Rules).  You know, for the zombie apocalypse...
 
 
-998 - "You were going to die anyway - who wants to live forever?"
+\#998 - "You were going to die anyway - who wants to live forever?"
 
 
-999 - If you must go to war, remember - there are no rules
+\#999 - If you must go to war, remember - there are no rules
