@@ -1,4 +1,5 @@
 A General Purpose Template for the structure of a High-Level Design document (HLD)
+====
 
 Rationale: Numerous times, in my travels as a consultant, I've encountered organizations in which there is no established standard/template for what should be included in an HLD. Quite often (even in organizations that ostensibly have a template), the artifacts that architects and engineers produce devolve into a Wild Wild West of anything-goes. Consistency engenders repeatability - which can help reduce variabillity in quality - and thus, a worthy goal. 
 
@@ -19,115 +20,140 @@ The ___What___ should be ideally defined in a collection of User Stories, Use Ca
 Investing effort in the creation of the HLD is intended for larger-scoped projects/epics - that have some non-trivial number of unknowns, technical complexity, a high number of coordination points,  or extensive external integration/coordination requirements.
 
 
+High Level Design Template
+====
 * Summary
-	* Problem Statement
-	* Current State
-	* Future State
-	* Proposed Approach
+  * Problem Statement
+  * Current State
+  * Future State
+  * Proposed Approach
 * Scope
-	* In-Scope
-	* Out-of-Scope
+  * In-Scope
+  * Out-of-Scope
 * Risks
 * Issues
-* Unknowns
+* Unknowns 
 * Requirements / Traceability
-	* Business Requirements
-	* Technical Requirements (NFRs)
-	* Constraints
+  * Business Requirements (e.g. citations, links - seek to avoid duplication in this document)
+  * Technical Requirements (NFRs)
+  * Constraints
 * Business Context
-	* Business Processes
-	* User Stories, Epics, Use Cases
+  * Business Processes
+  * User Stories, Epics, Use Cases (e.g. citations, links - seek to avoid duplication in this document)
 * Project Coordination 
-	* Internal
-	* External
+  * Internal
+  * External
 * Solution Sizing Factors
-	* Frequency
-	* Volume
-		* Users
-		* Transactions
-	* Storage
-		* Data Storage
-		* Archive/Retention
+  * Frequency
+  * Volume
+    * Users
+    * Transactions
+  * Storage
+	* Data Storage
+	* Archive/Retention Rules
 * Estimates (aka ROM/SWAG)
 * Architecture Views - Current State
-	* Logical Views
-	* Component Views
-	* Sequence Views
-	* Data Flow Views
-	* Data Model Views
-	* (additional views, as needed)
+  * Logical Views
+  * Component Views
+  * Sequence Views
+  * Data Flow Views
+  * Data Model Views
+  * (additional views, as needed)
 * Architecture Views - Future State
-	* Logical Views
-	* Component Views
-	* Sequence Views
-	* Data Flow Views
-	* Data Model Views
-	* (additional views, as needed)
-* Design Elements
-	* Inbound Data Processing
-		* File Transfers,  Inbound
-		* Message Queues, Inbound
-		* Service Endpoints 
-	* Outbound Data Processing
-		* File Transfers,  Outbound
-		* Message Queues, Outbound
-		* Service Endpoints 
-	* Internal Processing
-	* Data Transformations
-	* Business Rules
-	* Reporting
-	* Logging
-	* Monitoring
+  * Logical Views
+  * Component Views
+  * Sequence Views
+  * Data Flow Views
+  * Data Model Views
+  * (additional views, as needed)
+* Key Architecture Design Elements
+  * Inbound Data Processing
+    * File Transfers,  Inbound
+	* Message Queues, Inbound
+	* Service Endpoints 
+  * Outbound Data Processing
+	* File Transfers,  Outbound
+	* Message Queues, Outbound
+	* Service Endpoints 
+  * Internal Processing
+  * Data Transformations
+  * Business Rules
+  * Reporting
+  * Logging
+  * Monitoring / Alerting
 * Technical Dependencies
-	* Internal 
-	* External
+  * Internal 
+  * External
 * Performance Impact Assessment
-	* User Interface Response Times
-	* Web Service Response Times
-	* Batch Job Durations
+  * User Interface Response Times
+  * Web Service Response Times
+  * Batch Job Durations
 * Security Impact Assessment
-	* Encryption-At-Rest
-	* Encryption-In-Transit
-	* Security Roles
-	* Security Permissions
-	* User Provisioning
-	* Service Accounts
-	* Authentication
-	* Authorization
+  * Encryption-At-Rest
+  * Encryption-In-Transit
+  * Security Roles
+  * Security Permissions
+  * User Provisioning
+  * Service Accounts
+  * Authentication
+  * Authorization
 * Infrastructure Impact Assessment
-	* Servers
-		* CPU Utilization
-		* Memory Utilization
-	* Storage
-		* Disk Capacity / Utilization
+  * Servers
+    * CPU Utilization
+    * Memory Utilization
+  * Storage
+    * Disk Capacity / Utilization
 * Network Impact Assessment
-	* Network Capacity
-	* DNS
-	* Firewall / Threat Management Gateway
-	* IP Restrictions
+  * Network Capacity / Bandwidth Utilization
+  * DNS
+  * Firewall / Threat Management Gateway
+  * IP Restrictions (e.g. whitelist, blacklist)
 * Operational Impact Assessment
-	* Deployment 
-	* Monitoring
-	* Job Scheduling
-	* Managed File Transfers
-	* Services
-	* Message Queues
-	* Data Storage
-	* Backup/Recovery
+  * Deployment 
+  * Support Hours
+  * Support Process
+    * Tier-1
+    * Tier-2
+    * Tier-3
+  * Monitoring / Alerting
+  * Job Scheduling
+  * Managed File Transfers
+  * Web Services 
+  * Message Queues
+  * Data Storage
+  * Backup/Recovery
 * Critical Testing Scenarios
 * Terminology
 * Supplemental Material
-	* References
-	* Citations
-		* Policies
-		* Principles
-		* Standards
-		* Specifications
-* Contact Information
+  * References
+  * Citations
+    * Policies
+	* Principles
+	* Standards
+	* Specifications
+    * Vendor Contract
+* Key Contacts
+  * Business Stakeholders
+  * Project Management
+  * Key Subject Matter Experts (SMEs)
+    * Business Context SMEs
+    * IT SMEs
+    * Vendor Busienss SMEs
+  * Procurement
+  * Finance/Budget/Funding
+  * Operations
+  * IT Delivery Team
+  * IT Operations
+  * IT Support
+  * Architecture
+    * Security
+    * Enterprise
+    * Solution
 * Version History
 
 
-Additional Useful References
+Suggsted Additional Useful References
+====
 * https://github.com/intltechventures/Consulting.Project.Tools/blob/master/taxonomies/ClassificationCodes.md
 
 * http://pubs.opengroup.org/architecture/togaf9-doc/arch/
