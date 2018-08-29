@@ -1,16 +1,22 @@
 A General Purpose Template for the structure of a High-Level Design document (HLD)
 
-Rationale: Numerous times, in my travels as a consultant, I've encountered organizations in which there is no established standard/template for what should be included in an HLD. Quite often (even in organizations that ostensibly have a template), the artifacts that architects and engineers produce devolve into a Wild Wild West of anything-goes. Consistency engenders repeatability - a worthy goal. And therefore, the intended purpose in sharing this...at least as a starting point for further customization.
+Rationale: Numerous times, in my travels as a consultant, I've encountered organizations in which there is no established standard/template for what should be included in an HLD. Quite often (even in organizations that ostensibly have a template), the artifacts that architects and engineers produce devolve into a Wild Wild West of anything-goes. Consistency engenders repeatability - which can help reduce variabillity in quality - and thus, a worthy goal. 
+
+Therefore, the intended purpose in sharing this...at least as a starting point for further customization by a client organization.
 
 ### STATUS: DRAFT
 
-The goal of an HLD is to enable communication and coordination, both within teams and organizations - as well as serving as a tool for communication and coordination with external partners.
+The goal of an HLD is to facilitate communication and coordination, both within internal teams and organizations - as well as serving as a tool for communication and coordination with external partners.
 
-The HLD provides a consistent format for teams to assemble details - which support a goal of being able to reuse design artifacts - and is intended to provide sufficient information to Program/Project Management to be able to plan and coordinate large-scale development efforts.  Additionally, an HLD servces as an effective mechanism to support Design Review and Architecture Governance efforts.
+The HLD provides a consistent format for teams to assemble details - which supports a goal of being able to achieve some level of reuse of design artifacts - and is intended to provide sufficient information to Program/Project Management to be able to plan, estimate, and coordinate large-scale development efforts.  Additionally, an HLD servces as an effective mechanism to support Design Review and Architecture Governance efforts.
+
+The ideal place for an HLD to live is in a Wiki or in a Markdown file (i.e. in the git repository for the project)
 
 The target level of detail is to scope the effort, provide sufficient input to the estimation process, and to clearly articulate the ___How___ of an approach.  
 
-Investing effort in the creation of the HLD is intended for larger-scoped tasks - that have some non-trivial number of unknowns, technical complexity, a high number of coordination points,  or any external integration/coordination requirements.
+The ___What___ should be ideally defined in a collection of User Stories, Use Cases, Feature Requests, etc. - or, minimally, in a Business Requirements Document (BRD).
+
+Investing effort in the creation of the HLD is intended for larger-scoped projects/epics - that have some non-trivial number of unknowns, technical complexity, a high number of coordination points,  or extensive external integration/coordination requirements.
 
 
 * Summary
@@ -18,24 +24,31 @@ Investing effort in the creation of the HLD is intended for larger-scoped tasks 
 	* Current State
 	* Future State
 	* Proposed Approach
-* Solution Sizing Factors
-	* Frequency
-	* Volume
-	* Size
+* Scope
+	* In-Scope
+	* Out-of-Scope
+* Risks
+* Issues
+* Unknowns
 * Requirements / Traceability
 	* Business Requirements
 	* Technical Requirements (NFRs)
 	* Constraints
-* Estimates
-* Risks
-* Issues
-* Unknowns
 * Business Context
 	* Business Processes
 	* User Stories, Epics, Use Cases
 * Project Coordination 
 	* Internal
 	* External
+* Solution Sizing Factors
+	* Frequency
+	* Volume
+		* Users
+		* Transactions
+	* Storage
+		* Data Storage
+		* Archive/Retention
+* Estimates (aka ROM/SWAG)
 * Architecture Views - Current State
 	* Logical Views
 	* Component Views
