@@ -9,7 +9,7 @@ Rules of Meeks
 Oxx - The General Purpose Rules
 ====
 
-1 - "Always assume they are lying bastards - and then seek to prove that assumption false."
+\#1 - "Always assume they are lying bastards - and then seek to prove that assumption false."
 * This rule arose from my repeated experience of dealing with unscrupulous carpet-bagger software sales reps - who often would literally make claims about the capabilities of software systems they were selling, which did not yet exist (aka as "Vaporware").  
 * Over time, I've found that application of this rule to many situations - in particular, the verification admonition - would have saved me untold buckets of grief. For example:
   * Verbal promises? Get it in writing.
@@ -25,7 +25,7 @@ Oxx - The General Purpose Rules
 * A kinder gentle version of this rule might be "Inspect what you expect"
 * Also see [Jethro Leroy Gibb, NCIS, Rule #3](http://ncis.wikia.com/wiki/Gibbs%27s_Rules)
 
-2 - "Never share something with someone, unless you expect them to act on it"
+\#2 - "Never share something with someone, unless you expect them to act on it"
 
 
 3 - "When in doubt about an estimate, multiply by three"
