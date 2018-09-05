@@ -113,6 +113,8 @@ Rules of Meeks
 
 \#501 - Misplaced assumptions are at the root of all fuck-ups
 
+\#502 - Employee Appraisels/Review is the time to praise - not correct, unless you want to extinguish what may remain of their enthusiasm for the job.
+
 
 
 
