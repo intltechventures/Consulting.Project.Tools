@@ -20,7 +20,7 @@ Rules of Meeks
 * "We're pre-IPO" - they had no intention of going IPO
 * "We've sent the payment" - they didn't
 * "We have a plan" - nope, nada, zip, butkus
-* "What could you do with $20M?" - they wre broke and not profitable
+* "What could you do with $20M?" - they were broke and not profitable
 * "We're growing" - they laid off 50% of the division
 * A kinder gentle version of this rule might be "Inspect what you expect"
 * Also see [Leroy Jethro Gibb, NCIS, Rule #3](http://ncis.wikia.com/wiki/Gibbs%27s_Rules) 
@@ -104,7 +104,7 @@ Rules of Meeks
 
 \#4xx - On Building
 ====
-
+\401 - A Minimal Viable Product (MVP) - released into production - with user feedback - is worth more than all of your business plans, designs, woulda, coulda, shoulda
 
 
 
