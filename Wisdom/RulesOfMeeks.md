@@ -104,7 +104,7 @@ Rules of Meeks
 
 \#4xx - On Building
 ====
-\401 - A Minimal Viable Product (MVP) - released into production - with user feedback - is worth more than all of your business plans, designs, woulda, coulda, shoulda
+\#401 - A Minimal Viable Product (MVP) - released into production - with user feedback - is worth more than all of your business plans, designs, woulda, coulda, shoulda
 
 
 
