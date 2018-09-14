@@ -102,9 +102,9 @@ Rules of Meeks
 
 
 
-\#4xx - On Building
+\#4xx - On Building/Making Things
 ====
-\#401 - A Minimal Viable Product (MVP) - released into production - with user feedback - is worth more than all of your business plans, designs, woulda, coulda, shoulda
+\#401 - A Minimal Viable Product (MVP) - released into production - with user feedback - is worth more than all of your business plans, designs, woulda, coulda, shoulda.
 
 
 
@@ -118,20 +118,35 @@ Rules of Meeks
 
 
 
-\#6xx - TBD
+\#6xx - On Negotiating
 ====
 
+\#601 - Always leave something on the table, for a mutual win-win feeling.
+
+\#602 - Always be willing to walk away from the deal.
+
+\#603 - Upon shaking hands, if their hands are cold and sweaty - walk away - you are about to get fucked over.
+
+\#604 - If they are hosting the venue, or host in their offices - pay attention to the small details in the courtesies extended. 
 
 
 
-\#7xx - TBD
+
+\#7xx - On Career Choices
 ====
 
+\#701 - Don't get comfortable, stay hungry to always learn, grow,  and stretch yourself
+
+\#702 - If you can't point to a signficant accomplishment in the last 12 months - it is time for you to move on.
+
+\#703 - Value opportunity and challenges, over a salary. Every time. Always.
 
 
 
 \#8xx - TBD
 ====
+
+
 
 
 
