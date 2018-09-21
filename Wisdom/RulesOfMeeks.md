@@ -49,7 +49,7 @@ Rules of Meeks
 \#8 - "Life is too short to put up with shitty tools"
 
 
-\#9 - "Life is too short to put up with leaders who are assholes, or incompoetent"
+\#9 - "Life is too short to put up with leaders who are assholes, or incompetent"
 
 
 \#10 - "Walk out the door any time someone  asks you to lie, cheat, steal, or in any way break the law"
@@ -179,7 +179,8 @@ Rules of Meeks
 \#995 - "Flee if you can, stand if you must"
 
 
-\#996 - "Remember - It's always safest to nuke it from orbit"
+\#996 - "The only way to be sure is to nuke it from orbit"
+* [Ellen Ripley, Aliens](https://www.youtube.com/watch?v=nnHmUk_J6xQ)
 
 
 \#997 - "Two in the head, one in the heart" 
@@ -189,4 +190,4 @@ Rules of Meeks
 \#998 - "You were going to die anyway - who wants to live forever?"
 
 
-\#999 - If you must go to war, remember - there are no rules
+\#999 - "If you must go to war, remember - there are no rules"
