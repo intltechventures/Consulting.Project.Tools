@@ -66,6 +66,16 @@ These are the primary software programs that I typically have installed on my de
 * [Ruby](https://www.ruby-lang.org/en/)
 
 
+### Machine Learning
+* [TensorFlow](https://www.tensorflow.org/install/)
+
+
+
+### Data Analytics
+* [Jupyter](https://jupyter.org/install)
+
+
+
 ### Databases
 * [MariaDB](https://mariadb.org/)
 * [Microsoft SQL Server](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
