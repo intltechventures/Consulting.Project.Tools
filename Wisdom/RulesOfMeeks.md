@@ -23,7 +23,10 @@ Rules of Meeks
 * "What could you do with $20M?" - they were broke and not profitable
 * "We're growing" - they laid off 50% of the division
 * A kinder gentle version of this rule might be "Inspect what you expect"
+* Also see [Gregory House, MD](http://house.wikia.com/wiki/Everybody_lies)
+  * "Everbody Lies" - House
 * Also see [Leroy Jethro Gibb, NCIS, Rule #3](http://ncis.wikia.com/wiki/Gibbs%27s_Rules) 
+  * "Don't believe what you're told. Double check" - Gibbs
 
 \#2 - "Never share something with someone, unless you expect them to act on it"
 
