@@ -92,7 +92,7 @@ Rules of Meeks
 \#203 - "Never make a counter-offer to keep someone."
 
 
-\#204 - "Some people are passengers, some are crew - and some are just ballast"
+\#204 - "Some people are passengers, some are crew - and some are just excess ballast"
 
 
 \#205 - An employee's Appraisal/Review is the time to praise - not correct, unless you want to extinguish what may remain of their enthusiasm for the job.
