@@ -79,7 +79,7 @@ Rules of Meeks
 
 
 
-\#2xx - On Managing People
+\#2xx - On the Art of  Managing People
 ====
 
 
@@ -93,6 +93,9 @@ Rules of Meeks
 
 
 \#204 - "Some people are passengers, some are crew - and some are just ballast"
+
+
+\#205 - An employee's Appraisal/Review is the time to praise - not correct, unless you want to extinguish what may remain of their enthusiasm for the job.
 
 
 
@@ -110,13 +113,10 @@ Rules of Meeks
 
 
 
-\#5xx - On The Art of Management
+\#5xx - On The Art of Managing a Business
 ====
 
-\#501 - Misplaced assumptions are at the root of all fuck-ups
-
-\#502 - An employee's Appraisal/Review is the time to praise - not correct, unless you want to extinguish what may remain of their enthusiasm for the job.
-
+\#501 - Misplaced assumptions are the root of all fuck-ups
 
 
 
