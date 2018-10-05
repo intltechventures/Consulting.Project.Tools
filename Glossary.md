@@ -88,7 +88,8 @@ NLU         | Natural Language Understanding
 NOC         | Network Operations Center 
 NTE         | Not To Exceed
 OCM         | Organizational Change Management
-OData       | Open Data Protocol  
+OData       | Open Data Protocol 
+OKR         | Objectives and Key Results
 PaaS        | Platform as a Service  
 PCI DSS     | Payment Card Industry Data Security Standard
 PO          | Purchase Order
