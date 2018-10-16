@@ -37,7 +37,7 @@ These are the primary software programs that I typically have installed on my de
 
 ### Version Control Tools
 * [Git](https://git-scm.com/)
-  * Change Git Bash Optons
+  * Change Git Bash Optons (upper-left corner of the Bash window, right-clic)
     * Font Size: 12
   * modify the .vmrc with the details in my dot.files git repository
     * https://github.com/intltechventures/dot.files/blob/master/.vimrc 
