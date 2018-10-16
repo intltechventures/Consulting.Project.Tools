@@ -121,6 +121,15 @@ Rules of Meeks
 
 \#501 - Misplaced assumptions are the root of all fuck-ups
 
+\#502 - Meetings should be short, focused, and prep work should be done in advance.  
+
+\#503 - Preparation, dissemination, and review of meeting material should occur prior to the meeting.  Fire people who violate this rule more than once.
+
+\#503 - The purpose of a meeting should be to reach a decision - not chew the fat, meander, or seek to inform (send an email, post a wiki page, publish a position paper).  
+
+\#504 - Invitees to a meeting should be kept to a minimum - invitees should be either one of the decision makers, or key subject matter specialists. 
+
+
 
 
 \#6xx - On Negotiating
