@@ -125,9 +125,9 @@ Rules of Meeks
 
 \#503 - Preparation, dissemination, and review of meeting material should occur prior to the meeting.  Fire people who violate this rule more than once.
 
-\#503 - The purpose of a meeting should be to reach a decision - not chew the fat, meander, or seek to inform (send an email, post a wiki page, publish a position paper).  
+\#504 - The purpose of a meeting should be to reach a decision - not chew the fat, meander, or seek to inform (send an email, post a wiki page, publish a position paper).  
 
-\#504 - Invitees to a meeting should be kept to a minimum - invitees should be either one of the decision makers, or key subject matter specialists. 
+\#505 - Invitees to a meeting should be kept to a minimum - invitees should be either one of the decision makers, or key subject matter specialists. 
 
 
 
