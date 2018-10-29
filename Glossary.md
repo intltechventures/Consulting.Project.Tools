@@ -83,6 +83,7 @@ MTD         | Maximum Tolerable Downtime
 NAS         | Network Attached Storage 
 NDA         | Non-Disclosure Agreement
 NIST        | National Institute of Standards  
+NISQ        | Noisy Intermediate-Scale Quantum (NISQ) computers
 NLP         | Natural Language Processing
 NLU         | Natural Language Understanding
 NOC         | Network Operations Center 
