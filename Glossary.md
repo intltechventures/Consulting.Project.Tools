@@ -9,6 +9,7 @@ AD          | Application Delivery
 AD          | Active Directory
 AI          | Artificial Intelligence  
 ALM         | Application Lifecycle Management
+ANSI        | American National Standards Institute
 AOP         | Aspect Oriented Programming  
 aPaaS       | Application Platform as a Service  
 APM         | Application Portfolio Management  
@@ -35,6 +36,7 @@ CSR         | Customer Service Representative
 CTO         | Chief Technology Officer  
 CX          | Customer Experience
 DC          | Data Center  
+DD          | Data Dictionary 
 DFIR        | Digital Forensics, Incident Response  
 DLM         | Database Lifecycle Management
 DLT         | Distributed Ledger Technology
@@ -60,14 +62,17 @@ IDS         | Intrusion Detection System
 IP          | Intellectual Property  
 IP          | Internet Protocol  
 IPS         | Intrusion Prevention System
+ISO         | International Standrds Organization
 IT          | Information Technology  
 ITIRB       | Information Technology Investment Review Board
 JSON        | JavaScript Object Notation  
 JSR         | JavaScript Remoting
 JWT         | JSON Web Token  
+LCC         | Lower Camel Case
 LSA         | Local Service Agreement
 LU          | Logical Unit  
-MBaaS       | Mobile Back End as a Service  
+MBaaS       | Mobile Back End as a Service
+MD          | Markdown Language 
 MDAP        | Mobile Application Development Platform  
 MDM         | Master Data Management  
 MDM         | Mobile Device Management  
@@ -82,15 +87,17 @@ MSA         | Master Service Agreement
 MTD         | Maximum Tolerable Downtime
 NAS         | Network Attached Storage 
 NDA         | Non-Disclosure Agreement
-NIST        | National Institute of Standards  
+NIST        | National Institute for Standards and Technology 
 NISQ        | Noisy Intermediate-Scale Quantum (NISQ) computers
 NLP         | Natural Language Processing
 NLU         | Natural Language Understanding
 NOC         | Network Operations Center 
 NTE         | Not To Exceed
+OASIS       | Organization for the Advancement of Structured Information Systems
 OCM         | Organizational Change Management
 OData       | Open Data Protocol 
 OKR         | Objectives and Key Results
+OWL         | Web Ontology Language 
 PaaS        | Platform as a Service  
 PCI DSS     | Payment Card Industry Data Security Standard
 PO          | Purchase Order
@@ -99,6 +106,7 @@ QKD         | Quantum Key Distribution
 RAA         | Responsibility, Acountability, Authority  
 RAS         | Redundancy, Availability, Serviceability  
 RASUI       | Reliability, Availability, Serviceability, Usability and Installability  
+RDF         | Resource Description Framework
 RFI         | Request for Information
 RFP         | Request for Proposal
 RFQ         | Request for Quote
@@ -124,10 +132,12 @@ SDR         | Sales Development Representative
 SI          | System Integrator
 SLA         | Service Level Agreement
 SMART       | Specific, Measurable, Attainable, Realistic
-SOA         | Service Oriented Architecture  
+SOA         | Service Oriented Architecture 
+SOAP        | Simple Object Access Protocol
 SOR         | System of Record
 SDLC        | Software Development Lifecycle  
 SDN         | Software Defined Network  
+SQL         | Structured Query Language
 SRA         | Security Risk Assessment
 SSP         | System Security Plan
 SW          | Software
@@ -135,9 +145,16 @@ SWAG        | Silly Wild-Ass Guess (also see ROM)
 TDD         | Test-Driven-Development
 TGB         | Technology Governance Board
 TRM         | Technical Reference Model
+UDDI        | Universal Description, Discovery, & Integration
+UDEF        | Universal Data Element Framework
 UI          | User Interface  
 UX          | User Exerience  
 VM          | Virtual Machine
 VPN         | Virtual Private Network  
 WAF         | Web Application Firewall
+W3C         | World Wide Web Consortium
 WRT         | Work Recovery Time
+WSDL        | Web Service Description Language
+XML         | Extensible Markup Langauge 
+XSL         | XML Style Language 
+XSTL        | XML Transformation Language 
