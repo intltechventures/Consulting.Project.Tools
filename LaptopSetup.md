@@ -1,5 +1,10 @@
 These are the primary software programs that I typically have installed on my development machine...
 
+
+### Package Managers (evaluating...)
+* https://chocolatey.org/
+
+
 ### Essentials...
 * [Norton Security](http://us.norton.com/)
 * [MalwareBytes](https://www.malwarebytes.org/)
