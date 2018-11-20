@@ -168,6 +168,8 @@ These are the primary software programs that I typically have installed on my de
 * [iTunes](http://www.apple.com/itunes/)
 * [Amazon Kindle for PC](http://www.amazon.com/gp/kindle/pc/download)
 * [Audacity](http://www.audacityteam.org/)
+  * https://github.com/audacity/audacity
+  * https://www.fosshub.com/Audacity.html
 
 
 ### Postcasting, Video Recording Tools
