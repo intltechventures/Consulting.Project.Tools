@@ -1,4 +1,7 @@
-These are the primary software programs that I typically have installed on my development machine...
+
+My Laptop Setup
+====
+These are the primary software programs that I typically have installed on my development machine...    
 
 
 ### Package Managers (evaluating...)
@@ -46,6 +49,9 @@ These are the primary software programs that I typically have installed on my de
     * Font Size: 12
   * modify the .vmrc with the details in my dot.files git repository
     * https://github.com/intltechventures/dot.files/blob/master/.vimrc 
+  * Make sure you have the latest "Git Credential Manager for Windows"
+    * https://github.com/Microsoft/Git-Credential-Manager-for-Windows/releases/latest
+
 * [Subversion](https://sliksvn.com/download/)  
 
 	
