@@ -16,6 +16,7 @@ APM         | Application Portfolio Management
 ARB         | Architecture Review Board  
 ASP         | Application Service Provider  
 ATDD        | Acceptance-Test-Driven-Development
+AUC         | Area Under the Curve
 B2B         | Business-to-Business
 B2C         | Business-to-Customer
 BDD         | Behavior-Driven-Development
