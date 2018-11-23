@@ -20,6 +20,8 @@ These are the primary software programs that I typically have installed on my de
 * [Firefox](https://www.mozilla.org/firefox)
 * [Thunderbird](https://www.mozilla.org/en-US/thunderbird/)
 * [Notepad++](https://notepad-plus-plus.org/)
+  * Evaluating, additional Plugins
+    * https://github.com/Edditoria/markdown-plus-plus 
 * [ATOM](https://atom.io/) - new, evaluating...
   * https://github.com/atom/atom
 
