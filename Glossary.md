@@ -52,6 +52,7 @@ FaaS        | Functions as a Service
 FAIL        | First Attempt In Learning (i.e. agile)
 FIPS        | The Federal Information Processing Standard (FIPS) Publication 140-2, (FIPS PUB 140-2)
 GL          | General Ledger
+GLBA        | Gramm Leach Bliley Act
 GRC         | Governance, Risk, Compliance
 HIPPA       | Health Insurance Portability and Accountability Act of 1996
 HLD         | High-Level Design  
