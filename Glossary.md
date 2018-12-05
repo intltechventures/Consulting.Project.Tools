@@ -145,6 +145,7 @@ SRA         | Security Risk Assessment
 SSP         | System Security Plan
 SW          | Software
 SWAG        | Silly Wild-Ass Guess (also see ROM)
+TCV         | Total Contract Value (TCV) 
 TDD         | Test-Driven-Development
 TGB         | Technology Governance Board
 TRM         | Technical Reference Model
