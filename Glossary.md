@@ -5,6 +5,7 @@ Glossary
 |-----|-----------|
 ABC         | Activity Based Costing
 ACL         | Access Control List
+ACV         | Annual Contract Value 
 AD          | Application Delivery  
 AD          | Active Directory
 AI          | Artificial Intelligence  
