@@ -106,7 +106,8 @@ PCI DSS     | Payment Card Industry Data Security Standard
 PO          | Purchase Order
 PR          | Purchase Request
 QKD         | Quantum Key Distribution
-RAA         | Responsibility, Acountability, Authority  
+RAA         | Responsibility, Acountability, Authority 
+RACI        | Responsible, Accountable, Consulted, Informed  
 RAS         | Redundancy, Availability, Serviceability  
 RASUI       | Reliability, Availability, Serviceability, Usability and Installability  
 RDF         | Resource Description Framework
