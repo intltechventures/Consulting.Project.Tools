@@ -122,7 +122,7 @@ RMS         | Rights Management Service
 ROE         | Return on Equity  
 ROI         | Return on Investment  
 ROIT        | Return on Information Technology  
-ROM         | Rough Order of Magnitude (also see SWAG)
+ROM         | Rough Order of Magnitude (also see SWAG), aka an estimate
 RPA         | Robotic Process Automation
 RPO         | Recovery Point Objective
 RTM         | Requirements Traceability Matrix
@@ -146,7 +146,7 @@ SQL         | Structured Query Language
 SRA         | Security Risk Assessment
 SSP         | System Security Plan
 SW          | Software
-SWAG        | Silly Wild-Ass Guess (also see ROM)
+SWAG        | Silly Wild-Ass Guess (also see ROM), aka an estimate 
 TCV         | Total Contract Value (TCV) 
 TDD         | Test-Driven-Development
 TGB         | Technology Governance Board
