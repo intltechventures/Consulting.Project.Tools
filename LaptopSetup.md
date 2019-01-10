@@ -19,6 +19,10 @@ These are the primary software programs that I typically have installed on my de
   * [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
 * [Firefox](https://www.mozilla.org/firefox)
 * [Thunderbird](https://www.mozilla.org/en-US/thunderbird/)
+  * Plugins:
+    * https://addons.thunderbird.net/en-US/thunderbird/addon/calendar-tweaks/
+	* https://addons.thunderbird.net/en-US/thunderbird/addon/provider-for-google-calendar/?src=hp-dl-mostpopular
+	* https://www.maketecheasier.com/12-thunderbird-addons-you-shouldnt-be-without/
 * [Notepad++](https://notepad-plus-plus.org/)
   * Evaluating, additional Plugins
     * https://github.com/Edditoria/markdown-plus-plus 
