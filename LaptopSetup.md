@@ -8,34 +8,50 @@ These are the primary software programs that I typically have installed on my de
 * https://chocolatey.org/
 
 
-### Essentials...
+### Security Tools
 * [Norton Security](http://us.norton.com/)
 * [MalwareBytes](https://www.malwarebytes.org/)
 * [TrueCrypt](http://truecrypt.sourceforge.net/)
 * [GnuPG](https://www.gnupg.org/)
 
 
+### Essentials...
 * [Chrome](https://www.google.com/intl/en/chrome/browser/thankyou.html?platform=win64)
   * [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
+  
 * [Firefox](https://www.mozilla.org/firefox)
+
 * [Thunderbird](https://www.mozilla.org/en-US/thunderbird/)
   * Plugins:
     * https://addons.thunderbird.net/en-US/thunderbird/addon/calendar-tweaks/
 	* https://addons.thunderbird.net/en-US/thunderbird/addon/provider-for-google-calendar/?src=hp-dl-mostpopular
 	* https://www.maketecheasier.com/12-thunderbird-addons-you-shouldnt-be-without/
+
 * [Notepad++](https://notepad-plus-plus.org/)
   * Evaluating, additional Plugins
     * https://github.com/Edditoria/markdown-plus-plus 
+	
 * [ATOM](https://atom.io/) - new, evaluating...
   * https://github.com/atom/atom
 
 * [Cygwin](https://www.cygwin.com/)
+
 * [KDiff3](https://sourceforge.net/projects/kdiff3/files/kdiff3/)
+  * Alternatives
+    * https://en.wikipedia.org/wiki/Comparison_of_file_comparison_tools
+    * http://www.scootersoftware.com
+	* https://www.devart.com/codecompare/
+	* http://winmerge.org/
+	  * https://sourceforge.net/projects/winmerge/
+	* http://meldmerge.org/
+	  * https://gitlab.gnome.org/GNOME/meld
 
 
 ### Diagramming & Design Tools
 * [Sparx Enterprise Architect](http://www.sparxsystems.com/)
-* [PlantYML](http://plantuml.com/) - new, evaluating...
+  * Alternatives:
+    * [PlantYML](http://plantuml.com/) - new, evaluating...
+    * [Archi](https://www.archimatetool.com/)
 
 
 ### IDE Tools
@@ -44,6 +60,7 @@ These are the primary software programs that I typically have installed on my de
 * [Eclipse](http://www.eclipse.org)
   * [The plugins that I usually install](https://github.com/intltechventures/EclipseNotes/blob/master/README.md)
 * [Android Studio / SDK](http://developer.android.com/sdk/index.html)
+
 
 * To possibly evaluate, in the future...
 * https://neovim.io
@@ -66,7 +83,7 @@ These are the primary software programs that I typically have installed on my de
 * [Java](https://www.oracle.com/java/)
 * [Python](https://www.python.org/)
 * [R](https://www.r-project.org/)
-* C/C++ [GNU](https://gcc.gnu.org/)
+* GCC for C/C++ [GNU](https://gcc.gnu.org/)
 * JavaScript
   * https://github.com/v8/v8
   * https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -91,10 +108,8 @@ These are the primary software programs that I typically have installed on my de
 * [TensorFlow](https://www.tensorflow.org/install/)
 
 
-
 ### Data Analytics
 * [Jupyter](https://jupyter.org/install)
-
 
 
 ### Databases
@@ -126,7 +141,7 @@ These are the primary software programs that I typically have installed on my de
 * [CBT](https://github.com/cvogt/cbt) - new, evaluating...
 
 
-### Deployment / Cloud / VM Tools
+### Deployment / Cloud / Container / VM Tools
 * [AWS Command Line Interface (CLI)](https://aws.amazon.com/cli/)
 * [Ansible](https://www.ansible.com/)
 * [Docker](https://www.docker.com/)
@@ -158,13 +173,14 @@ These are the primary software programs that I typically have installed on my de
 * [WireShark](https://www.wireshark.org/)
 
 
-### Security Tools
+### Additional Security Tools
 * [NMAP](https://nmap.org/)
 * https://decentsecurity.com/#/securing-your-computer/
   * Some very good suggestions for securing Windows 10
 * https://www.qubes-os.org/
   * To be evaluated in the future...
 
+  
 ### Communication Tools
 * [GoToMeeting](www.gotomeeting.com/‎)
 * [Skype](https://www.skype.com/en/) 
@@ -180,7 +196,6 @@ These are the primary software programs that I typically have installed on my de
 
 ### Postcasting, Video Recording Tools
 * [Open Broadcaster Software](https://obsproject.com/) - GPLv2 license
-
 
 
 ### Video/Graphic Tools
@@ -212,5 +227,3 @@ The Google Public DNS IP addresses (IPv4) are as follows:
 The Google Public DNS IPv6 addresses are as follows:
     2001:4860:4860::8888
     2001:4860:4860::8844
-
-
