@@ -36,6 +36,7 @@ CQRS        | Command Query Responsibility Segregation
 CRM         | Customer Relationship Management
 CSR         | Customer Service Representative
 CTO         | Chief Technology Officer  
+CUI			| Controlled Unclassified Information (CUI), as defined by Executive Order 13556 (2010)
 CX          | Customer Experience
 DC          | Data Center  
 DD          | Data Dictionary 
@@ -47,11 +48,13 @@ DRB         | Design Review Board
 DSN         | Data Source Name  
 EA          | Enterprise Architecture  
 EAI         | Enterprise Application Integration  
+EAR			| Export Administration Regulations
 EPLC        | Enterprise Performance Life Cycle 
 EVM         | Earned Value Managemenet
 FaaS        | Functions as a Service
 FAIL        | First Attempt In Learning (i.e. agile)
 FIPS        | The Federal Information Processing Standard (FIPS) Publication 140-2, (FIPS PUB 140-2)
+FISMA		| Federal Information Security Management Act 
 GL          | General Ledger
 GLBA        | Gramm Leach Bliley Act
 GQM         | Goal, Question, Metric 
@@ -68,6 +71,7 @@ IP          | Internet Protocol
 IPS         | Intrusion Prevention System
 ISO         | International Standrds Organization
 IT          | Information Technology  
+ITAR		}  International Traffic in Arms Regulations
 ITIRB       | Information Technology Investment Review Board
 JSON        | JavaScript Object Notation  
 JSR         | JavaScript Remoting
@@ -103,6 +107,8 @@ OData       | Open Data Protocol
 OKR         | Objectives and Key Results
 OWL         | Web Ontology Language 
 PaaS        | Platform as a Service  
+PHI			| Protected Health Information (re: HIPPA) 
+PII			| Personally Identifiable Information
 PCI DSS     | Payment Card Industry Data Security Standard
 PO          | Purchase Order
 PR          | Purchase Request
