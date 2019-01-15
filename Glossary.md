@@ -71,11 +71,12 @@ IP          | Internet Protocol
 IPS         | Intrusion Prevention System
 ISO         | International Standrds Organization
 IT          | Information Technology  
-ITAR		}  International Traffic in Arms Regulations
+ITAR		| International Traffic in Arms Regulations
 ITIRB       | Information Technology Investment Review Board
 JSON        | JavaScript Object Notation  
 JSR         | JavaScript Remoting
 JWT         | JSON Web Token  
+k8s         | Kubernetes
 LCC         | Lower Camel Case
 LSA         | Local Service Agreement
 LU          | Logical Unit  
