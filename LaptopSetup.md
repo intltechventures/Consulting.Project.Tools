@@ -45,7 +45,7 @@ These are the primary software programs that I typically have installed on my de
 	  * https://sourceforge.net/projects/winmerge/
 	* http://meldmerge.org/
 	  * https://gitlab.gnome.org/GNOME/meld
-
+1
 
 ### Diagramming & Design Tools
 * [Sparx Enterprise Architect](http://www.sparxsystems.com/)
@@ -56,7 +56,7 @@ These are the primary software programs that I typically have installed on my de
 
 ### IDE Tools
 * [Microsoft Visual Studio](https://www.visualstudio.com/)
-  * https://www.visualstudio.com/downloads/#build-tools-for-visual-studio-2017
+  * https://visualstudio.microsoft.com/downloads/
 * [Eclipse](http://www.eclipse.org)
   * [The plugins that I usually install](https://github.com/intltechventures/EclipseNotes/blob/master/README.md)
 * [Android Studio / SDK](http://developer.android.com/sdk/index.html)
@@ -115,6 +115,23 @@ These are the primary software programs that I typically have installed on my de
 ### Databases
 * [MariaDB](https://mariadb.org/)
 * [Microsoft SQL Server](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
+  * SQL SErver 2019 CTP
+    * https://www.microsoft.com/en-us/evalcenter/evaluate-sql-server-2019-ctp
+  * SQL Server 2017
+    * https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+    * [SQL Server Management Studio (SSMS) - SQL Server 2017](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017)
+    * [SQL Server Data Tools (SSDT) for Visual Studio](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?view=sql-server-2017)
+    * [Microsoft ADO.NET for SQL Server](https://docs.microsoft.com/en-us/sql/connect/ado-net/microsoft-ado-net-for-sql-server?view=sql-server-2017)
+    * [Microsoft JDBC Driver for SQL Server](https://docs.microsoft.com/en-us/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server?view=sql-server-2017)
+    * [Microsoft ODBC Driver for SQL Server](https://docs.microsoft.com/en-us/sql/connect/odbc/microsoft-odbc-driver-for-sql-server?view=sql-server-2017)
+    * [Python SQL Driver](https://docs.microsoft.com/en-us/sql/connect/python/python-driver-for-sql-server?view=sql-server-2017)
+      * https://docs.microsoft.com/en-us/sql/connect/python/pyodbc/python-sql-driver-pyodbc?view=sql-server-2017
+        * https://docs.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server?view=sql-server-2017
+      * https://docs.microsoft.com/en-us/sql/connect/python/pyodbc/step-1-configure-development-environment-for-pyodbc-python-development?view=sql-server-2017
+    * [Node.js Driver for SQL Server](https://docs.microsoft.com/en-us/sql/connect/node-js/node-js-driver-for-sql-server?view=sql-server-2017)
+      * https://docs.microsoft.com/en-us/sql/connect/node-js/step-1-configure-development-environment-for-node-js-development?view=sql-server-2017
+      * https://tediousjs.github.io/tedious/
+      * https://github.com/tediousjs/tedious
 * [PostgreSQL](http://www.postgresql.org/)
 * [Oracle](https://www.oracle.com/database/)
 * [datomic](http://www.datomic.com/)
