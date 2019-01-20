@@ -98,6 +98,7 @@ These are the primary software programs that I typically have installed on my de
 * [Rust](http://rust-lang.org/)
 * [Groovy](http://www.groovy-lang.org/)
 * [Clojure](https://clojure.org/)
+* Dart
 * [Julia](http://julialang.org/)
 * [Perl](https://www.perl.org/)
 * [PHP ](http://php.net/)
@@ -205,6 +206,8 @@ These are the primary software programs that I typically have installed on my de
 
 ### Music, eBook, Audio
 * [iTunes](http://www.apple.com/itunes/)
+  * Alternatives
+    * https://www.getmusicbee.com/
 * [Amazon Kindle for PC](http://www.amazon.com/gp/kindle/pc/download)
 * [Audacity](http://www.audacityteam.org/)
   * https://github.com/audacity/audacity
