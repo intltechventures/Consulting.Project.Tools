@@ -34,6 +34,7 @@ CIF         | Customer Information File
 CIO         | Chief Information Officer  
 CQRS        | Command Query Responsibility Segregation  
 CRM         | Customer Relationship Management
+CRUD        | Create, Read, Update, Delete
 CSR         | Customer Service Representative
 CTO         | Chief Technology Officer  
 CUI			| Controlled Unclassified Information (CUI), as defined by Executive Order 13556 (2010)
@@ -43,6 +44,7 @@ DD          | Data Dictionary
 DFIR        | Digital Forensics, Incident Response  
 DLM         | Database Lifecycle Management
 DLT         | Distributed Ledger Technology
+DN          | LDAP Distinguished Name 
 DR          | Disaster Recovery  
 DRB         | Design Review Board  
 DSN         | Data Source Name  
@@ -55,6 +57,7 @@ FaaS        | Functions as a Service
 FAIL        | First Attempt In Learning (i.e. agile)
 FIPS        | The Federal Information Processing Standard (FIPS) Publication 140-2, (FIPS PUB 140-2)
 FISMA		| Federal Information Security Management Act 
+FQDN        | Fully Qualified Domain Name 
 GL          | General Ledger
 GLBA        | Gramm Leach Bliley Act
 GQM         | Goal, Question, Metric 
@@ -62,6 +65,7 @@ GRC         | Governance, Risk, Compliance
 HIPPA       | Health Insurance Portability and Accountability Act of 1996
 HLD         | High-Level Design  
 HPC         | Horizontal Pod Autoscaling (Kubernetes)
+HTML        | Hyper Text Markup Language
 HW          | Hardware
 IaaS        | Infrastructure as a Service  
 IDE         | Integrated Development Environment    
@@ -78,8 +82,10 @@ JSR         | JavaScript Remoting
 JWT         | JSON Web Token  
 k8s         | Kubernetes
 LCC         | Lower Camel Case
+LDAP        | Lightweight Directory Access Protocol
 LSA         | Local Service Agreement
 LU          | Logical Unit  
+MAC         | Machine Access Control 
 MBaaS       | Mobile Back End as a Service
 MD          | Markdown Language 
 MDAP        | Mobile Application Development Platform  
@@ -111,6 +117,7 @@ PaaS        | Platform as a Service
 PHI			| Protected Health Information (re: HIPPA) 
 PII			| Personally Identifiable Information
 PCI DSS     | Payment Card Industry Data Security Standard
+PKI         | Public Key Infrastructure 
 PO          | Purchase Order
 PR          | Purchase Request
 QKD         | Quantum Key Distribution
@@ -161,6 +168,7 @@ TRM         | Technical Reference Model
 UDDI        | Universal Description, Discovery, & Integration
 UDEF        | Universal Data Element Framework
 UI          | User Interface  
+UTC         | Coordinated Universal Time 
 UX          | User Exerience  
 VM          | Virtual Machine
 VPN         | Virtual Private Network  
