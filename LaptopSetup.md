@@ -13,7 +13,9 @@ These are the primary software programs that I typically have installed on my de
 * [MalwareBytes](https://www.malwarebytes.org/)
 * [TrueCrypt](http://truecrypt.sourceforge.net/)
 * [GnuPG](https://www.gnupg.org/)
-
+* curated sourcess for inclusion in hosts file
+  * https://github.com/StevenBlack/hosts
+  * 
 
 ### Essentials...
 * [Chrome](https://www.google.com/intl/en/chrome/browser/thankyou.html?platform=win64)
@@ -231,6 +233,8 @@ These are the primary software programs that I typically have installed on my de
 ### Diagnostic Utilities
 * Disk Performance
   * https://crystalmark.info
+* General Performance Benchmarking
+  * https://www.geekbench.com
 
 
 Other Configuration Tweaks:
