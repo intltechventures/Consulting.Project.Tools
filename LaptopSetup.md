@@ -4,18 +4,28 @@ My Laptop Setup
 These are the primary software programs that I typically have installed on my development machine...    
 
 
-### Package Managers (evaluating...)
+### Windows Application Package Managers (evaluating...)
 * https://chocolatey.org/
 
 
 ### Security Tools
-* [Norton Security](http://us.norton.com/)
+* Anti-Virus / Firewall
+  * Microsoft Defender
+  * Alternatives:
+    * [Norton Security](http://us.norton.com/)
+  * 2019 Product Reviews:
+    * https://www.pcmag.com/article2/0,2817,2372364,00.asp
+    * https://www.av-test.org/en/antivirus/home-windows/
+    * https://www.techradar.com/best/best-antivirus
+    * https://www.pcworld.com/article/3219792/computers/best-antivirus-for-windows-pc.html
+    * https://www.tomsguide.com/us/best-windows-antivirus,review-6044.html
+
 * [MalwareBytes](https://www.malwarebytes.org/)
 * [TrueCrypt](http://truecrypt.sourceforge.net/)
 * [GnuPG](https://www.gnupg.org/)
-* curated sourcess for inclusion in hosts file
+* Curated sourcess for inclusion in hosts file
   * https://github.com/StevenBlack/hosts
-  * 
+  
 
 ### Essentials...
 * [Chrome](https://www.google.com/intl/en/chrome/browser/thankyou.html?platform=win64)
@@ -29,12 +39,14 @@ These are the primary software programs that I typically have installed on my de
 	* https://addons.thunderbird.net/en-US/thunderbird/addon/provider-for-google-calendar/?src=hp-dl-mostpopular
 	* https://www.maketecheasier.com/12-thunderbird-addons-you-shouldnt-be-without/
 
-* [Notepad++](https://notepad-plus-plus.org/)
-  * Evaluating, additional Plugins
-    * https://github.com/Edditoria/markdown-plus-plus 
-	
-* [ATOM](https://atom.io/) - new, evaluating...
-  * https://github.com/atom/atom
+* Code Editors
+  * [Notepad++](https://notepad-plus-plus.org/)
+    * Evaluating, additional Plugins
+      * https://github.com/Edditoria/markdown-plus-plus 
+  * [Visual Studio Code](https://code.visualstudio.com/)
+  * Alternatives:
+	* [ATOM](https://atom.io/) - new, evaluating...
+      * https://github.com/atom/atom
 
 * [Cygwin](https://www.cygwin.com/)
 
@@ -51,7 +63,7 @@ These are the primary software programs that I typically have installed on my de
 
 ### Diagramming & Design Tools
 * [Sparx Enterprise Architect](http://www.sparxsystems.com/)
-  * Alternatives:
+  * Open Source Alternatives:
     * [PlantYML](http://plantuml.com/) - new, evaluating...
     * [Archi](https://www.archimatetool.com/)
 
@@ -65,7 +77,7 @@ These are the primary software programs that I typically have installed on my de
 
 
 * To possibly evaluate, in the future...
-* https://neovim.io
+  * https://neovim.io
 
 
 ### Version Control Tools
@@ -112,7 +124,7 @@ These are the primary software programs that I typically have installed on my de
 
 
 ### Data Analytics
-* [Jupyter](https://jupyter.org/install)
+* [Jupyter](https://jupyter.org/)
 
 
 ### Databases
@@ -175,7 +187,7 @@ These are the primary software programs that I typically have installed on my de
   * [Alpine](http://www.alpinelinux.org/) - new, evaluating...
   * [Microsoft Windows 2016 / Nano TP 5](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-technical-preview)	
 * [Vagrant](https://www.vagrantup.com)
-	* https://github.com/hashicorp/vagrant
+  * https://github.com/hashicorp/vagrant
   
   
 ### General Productivity Tools
@@ -239,15 +251,11 @@ These are the primary software programs that I typically have installed on my de
 
 Other Configuration Tweaks:
 ====
-
-
-Google Public DNS IP addresses
-https://developers.google.com/speed/public-dns/docs/using 
-
-The Google Public DNS IP addresses (IPv4) are as follows:
-    8.8.8.8
-    8.8.4.4
-
-The Google Public DNS IPv6 addresses are as follows:
-    2001:4860:4860::8888
-    2001:4860:4860::8844
+* Google Public DNS IP addresses
+  * https://developers.google.com/speed/public-dns/docs/using 
+* The Google Public DNS IP addresses (IPv4) are as follows:
+  * 8.8.8.8
+  * 8.8.4.4
+* The Google Public DNS IPv6 addresses are as follows:
+  * 2001:4860:4860::8888
+  * 2001:4860:4860::8844
