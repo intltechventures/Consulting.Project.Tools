@@ -44,6 +44,9 @@ These are the primary software programs that I typically have installed on my de
     * Evaluating, additional Plugins
       * https://github.com/Edditoria/markdown-plus-plus 
   * [Visual Studio Code](https://code.visualstudio.com/)
+    * https://code.visualstudio.com/docs/
+    * Extensions
+      * https://code.visualstudio.com/docs?start=true#top-extensions
   * Alternatives:
 	* [ATOM](https://atom.io/) - new, evaluating...
       * https://github.com/atom/atom
