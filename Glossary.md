@@ -215,6 +215,7 @@ TRM         | Technical Reference Model
 UDDI        | Universal Description, Discovery, & Integration
 UDEF        | Universal Data Element Framework
 UI          | User Interface  
+UIMA        | Unstructured Information Management Architecture
 UTC         | Coordinated Universal Time 
 UUID        | Universal Unique Identifier
 UX          | User Exerience
