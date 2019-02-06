@@ -262,3 +262,21 @@ Other Configuration Tweaks:
 * The Google Public DNS IPv6 addresses are as follows:
   * 2001:4860:4860::8888
   * 2001:4860:4860::8844
+
+
+
+### Additional Utilities to consider adding:
+* [WizTree](https://antibody-software.com/web/software/software/wiztree-finds-the-files-and-folders-using-the-most-disk-space-on-your-hard-drive/)
+  * "shows you just how much space various files and folders are taking up on your hard drive(s)."
+* [HandBrake](https://handbrake.fr/)
+  * "HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs"
+  * https://lifehacker.com/how-to-rip-a-dvd-to-your-computer-5809765
+* [MakeMKV](http://makemkv.com/)
+  * Video format conversion ("transcoder") utility 
+  * MKV stands for "Matroska Video"
+  * https://en.wikipedia.org/wiki/Matroska 
+* [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)
+* [AutoHotKey](https://www.autohotkey.com/)
+* [Macrium Reflect](https://www.macrium.com/reflectfree)
+  * https://www.macrium.com/products/home
+
