@@ -256,6 +256,7 @@ Other Configuration Tweaks:
 ====
 * Google Public DNS IP addresses
   * https://developers.google.com/speed/public-dns/docs/using 
+  * https://developers.google.com/speed/public-dns/docs/dns64
 * The Google Public DNS IP addresses (IPv4) are as follows:
   * 8.8.8.8
   * 8.8.4.4
@@ -266,6 +267,8 @@ Other Configuration Tweaks:
 
 
 ### Additional Utilities to consider adding:
+* [TeraCopy](http://codesector.com/teracopy)
+  * https://www.techsupportalert.com/content/faster-way-copy-files.htm
 * [WizTree](https://antibody-software.com/web/software/software/wiztree-finds-the-files-and-folders-using-the-most-disk-space-on-your-hard-drive/)
   * "shows you just how much space various files and folders are taking up on your hard drive(s)."
 * [HandBrake](https://handbrake.fr/)
@@ -279,4 +282,21 @@ Other Configuration Tweaks:
 * [AutoHotKey](https://www.autohotkey.com/)
 * [Macrium Reflect](https://www.macrium.com/reflectfree)
   * https://www.macrium.com/products/home
+* [Microsoft TechNet: Diskspd Utility: A Robust Storage Testing Tool](https://gallery.technet.microsoft.com/DiskSpd-a-robust-storage-6cd2f223)
+
+
+
+### Optimization Tweaks
+* https://www.windowspasswordsrecovery.com/system-tuneup/how-to-fix-windows-10-slow-file-deteting-speed.html
+  * Turn off Thumbnails to Speed up Copying Files on Windows 10
+  * Disable Remote Differential Compression to Optimize Win10 File Moving
+* https://answers.microsoft.com/en-us/windows/forum/windows_10-files/copy-speed-very-slow-in-windows-10/950c8f96-d9de-41e2-8d35-977944eb5c01
+  * turn off the Auto tuning feature
+    * Turn-Off:  ```netsh int tcp set global autotuninglevel=disabled```
+    * Turn-On:  ```netsh int tcp set global autotuninglevel=normal```
+  * turn off RSS
+    * ```netsh interface tcp set global rss=disabled```
+  * deselect "Allow files on this drive to have contents indexed in addition to file properties"
+
+
 
