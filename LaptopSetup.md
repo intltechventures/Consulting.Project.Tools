@@ -283,6 +283,7 @@ Other Configuration Tweaks:
 * [Macrium Reflect](https://www.macrium.com/reflectfree)
   * https://www.macrium.com/products/home
 * [Microsoft TechNet: Diskspd Utility: A Robust Storage Testing Tool](https://gallery.technet.microsoft.com/DiskSpd-a-robust-storage-6cd2f223)
+* https://www.userbenchmark.com
 
 
 
@@ -290,6 +291,9 @@ Other Configuration Tweaks:
 * https://www.windowspasswordsrecovery.com/system-tuneup/how-to-fix-windows-10-slow-file-deteting-speed.html
   * Turn off Thumbnails to Speed up Copying Files on Windows 10
   * Disable Remote Differential Compression to Optimize Win10 File Moving
+
+
+### Other Possible Optimizations to experiment with in the future...
 * https://answers.microsoft.com/en-us/windows/forum/windows_10-files/copy-speed-very-slow-in-windows-10/950c8f96-d9de-41e2-8d35-977944eb5c01
   * turn off the Auto tuning feature
     * Turn-Off:  ```netsh int tcp set global autotuninglevel=disabled```
