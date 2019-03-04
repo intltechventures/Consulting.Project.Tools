@@ -62,7 +62,8 @@ These are the primary software programs that I typically have installed on my de
 	  * https://sourceforge.net/projects/winmerge/
 	* http://meldmerge.org/
 	  * https://gitlab.gnome.org/GNOME/meld
-1
+
+
 
 ### Diagramming & Design Tools
 * [Sparx Enterprise Architect](http://www.sparxsystems.com/)
@@ -107,6 +108,7 @@ These are the primary software programs that I typically have installed on my de
   * https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_Next_support_in_Mozilla
   * [nodejs](https://nodejs.org/en/)
   * [npmjs](https://www.npmjs.com/)
+    * npm install --global yarn
 
 
 ### Seconday Development Languages
@@ -195,17 +197,38 @@ These are the primary software programs that I typically have installed on my de
   
 ### General Productivity Tools
 * [Dropbox](https://www.dropbox.com/)
+* [Google Docs](https://docs.google.com/)
 * Brother Printer software 
 * [Cutepdf](http://www.cutepdf.com/)
 * [7-ZIp](http://www.7-zip.org/download.html)  
+
+
+### Writing Tools
 * [Libre Office](https://www.libreoffice.org/)
   * https://wiki.documentfoundation.org/Feature_Comparison:_LibreOffice_-_Microsoft_Office
+* [Scrivner](https://www.literatureandlatte.com/scrivener) 
+
+
+
+### Documentation Generation/Publishing Tools
+* Sphinx
+  * http://www.sphinx-doc.org/en
+    * http://www.sphinx-doc.org/en/master/
+* Doxygen
+  * http://www.doxygen.nl/
+* LaTeX 
+  * https://www.latex-project.org/
+  * https://www.latex-project.org/help/documentation/
+* Amazon Kindle Direct Publishing (KDP)
+  * [KDP Kindle Create](https://kdp.amazon.com/en_US/help/topic/GHU4YEWXQGNLU94T)
+  * [KDP Tools and Resources](https://kdp.amazon.com/en_US/help/topic/G200735480)
 
 
 ### Network Monitoring / Debugging Tools
 * [Networx](https://www.softperfect.com/products/networx/)
 * [Fiddler](http://www.telerik.com/fiddler)
 * [WireShark](https://www.wireshark.org/)
+
 
 
 ### Additional Security Tools
@@ -215,7 +238,8 @@ These are the primary software programs that I typically have installed on my de
 * https://www.qubes-os.org/
   * To be evaluated in the future...
 
-  
+
+ 
 ### Communication Tools
 * [GoToMeeting](www.gotomeeting.com/‎)
 * [Skype](https://www.skype.com/en/) 
@@ -226,6 +250,8 @@ These are the primary software programs that I typically have installed on my de
   * Alternatives
     * https://www.getmusicbee.com/
 * [Amazon Kindle for PC](http://www.amazon.com/gp/kindle/pc/download)
+  * Alternatives
+    * https://calibre-ebook.com/
 * [Audacity](http://www.audacityteam.org/)
   * https://github.com/audacity/audacity
   * https://www.fosshub.com/Audacity.html
