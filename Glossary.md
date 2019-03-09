@@ -64,6 +64,7 @@ DSN         | Data Source Name
 DVR         | Distributed Virtual Router
 EA          | Enterprise Architecture  
 EAI         | Enterprise Application Integration  
+EAMS        | Enterprise Architecture Management Suite
 EAR			| Export Administration Regulations
 EBS         | Elastic Block Storage (AWS)
 EPLC        | Enterprise Performance Life Cycle 
