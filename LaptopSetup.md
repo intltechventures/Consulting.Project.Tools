@@ -101,7 +101,9 @@ These are the primary software programs that I typically have installed on my de
 * [Java](https://www.oracle.com/java/)
 * [Python](https://www.python.org/)
 * [R](https://www.r-project.org/)
-* GCC for C/C++ [GNU](https://gcc.gnu.org/)
+* [GNU GCC](https://gcc.gnu.org/)
+  * [MingW (and MSYS)](http://www.mingw.org/)
+  * [Cyqwin](http://www.cygwin.com/)
 * JavaScript
   * https://github.com/v8/v8
   * https://developer.mozilla.org/en-US/docs/Web/JavaScript
