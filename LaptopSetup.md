@@ -39,6 +39,11 @@ These are the primary software programs that I typically have installed on my de
 	* https://addons.thunderbird.net/en-US/thunderbird/addon/provider-for-google-calendar/?src=hp-dl-mostpopular
 	* https://www.maketecheasier.com/12-thunderbird-addons-you-shouldnt-be-without/
 
+* [Adopbe Reader](https://get.adobe.com/reader/)
+  * Fonts: (needed to print certain documents, e.g. WA Healthcare 1095-A)
+    * [Adobe Acrobat Reader DC Font Pack (Continuous) - For Acrobat Reader DC version 19.x](https://supportdownloads.adobe.com/thankyou.jsp?ftpID=6484&fileID=6484)
+
+
 * Code Editors
   * [Notepad++](https://notepad-plus-plus.org/)
     * Evaluating, additional Plugins
