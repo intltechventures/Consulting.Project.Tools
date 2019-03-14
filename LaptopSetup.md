@@ -106,6 +106,8 @@ These are the primary software programs that I typically have installed on my de
 * [Java](https://www.oracle.com/java/)
 * [Python](https://www.python.org/)
   * Don't forget to confirm that the ../Scripts folder is added to the Path environment variable
+  * Update Pip
+    * ```python -m pip install -U pip```
 * [R](https://www.r-project.org/)
 * [GNU GCC](https://gcc.gnu.org/)
   * [MingW (and MSYS)](http://www.mingw.org/)
