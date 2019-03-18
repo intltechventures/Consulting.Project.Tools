@@ -157,11 +157,12 @@ Rules of Meeks
 
 
 
-\#8xx - Computer Systems
+\#8xx - Computer Systems, Software Development, Architecture, Operations, etc. 
 ====
 \#801 - Before you do anything - make a backup
   * See [2019 MySpace server migration disaster](https://www.dailywire.com/news/44789/myspace-probably-lost-everything-uploaded-its-emily-zanotti)
 
+\*802 - Thou Shalt Log who did what, when, where, to what, with what
 
 
 \#9xx - The Emergency Rules
