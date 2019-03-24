@@ -1,7 +1,8 @@
-Over the course of my career - I've had experiences that repeated themselves - in varying locations, and varying circumstance -  to such an extent - that I've long wanted to codify them for the benefit of others. 
+Over the course of my career - I've had experiences that repeated themselves - in varying locations, and varying circumstance -  to such an extent - that I've long wanted to codify them for the benefit of others.    
 
-These are intended as heuristics to provide guidance when navigating the stormy seas that arise from time-to-time - in life, as well as business.
+These are intended as heuristics to provide guidance when navigating the stormy seas that arise from time-to-time - in life, as well as business.   
 
+Unless otherwise noted - these are all my own original thinking. 
 
 Rules of Meeks
 ====
@@ -98,7 +99,14 @@ Rules of Meeks
 \#204 - "Some people are passengers, some are crew - and some are just excess ballast"
 
 
-\#205 - An employee's Appraisal/Review is the time to praise - not correct, unless you want to extinguish what may remain of their enthusiasm for the job.
+\#205 - "An employee's Appraisal/Review is the time to praise - not correct, unless you want to extinguish what may remain of their enthusiasm for the job."
+
+
+\#206 - "If you will just listen - most people will tell you what you need to know - about them"
+
+
+\#207 - "Fire anyone who violates your trust. No second chances"
+
 
 
 
@@ -108,40 +116,50 @@ Rules of Meeks
 \#301 - "Design is a successive process of refinment - but know when to call it done"
 
 
+\#302 - "Elegance. Simplicity. Economy. Less is more"
+
+
 
 
 \#4xx - On Building/Making Things
 ====
-\#401 - A Minimal Viable Product (MVP) - released into production - with user feedback - is worth more than all of your business plans, designs, woulda, coulda, shoulda.
+\#401 - "A Minimal Viable Product (MVP) - released into production - with user feedback - is worth more than all of your business plans, designs, woulda, coulda, shoulda."
+
+
 
 
 
 \#5xx - On The Art of Managing a Business
 ====
 
-\#501 - Misplaced assumptions are the root of all fuck-ups
+\#501 - "Misplaced assumptions are the root of all fuck-ups."
 
-\#502 - Meetings should be short, focused, and prep work should be done in advance.  
+\#502 - "Meetings should be short, focused, and prep work should be done in advance."
 
-\#503 - Preparation, dissemination, and review of meeting material should occur prior to the meeting.  Fire people who violate this rule more than once.
+\#503 - "Preparation, dissemination, and review of meeting material should occur prior to the meeting.  Fire people who violate this rule more than once."
 
-\#504 - The purpose of a meeting should be to reach a decision - not chew the fat, meander, or seek to inform (send an email, post a wiki page, publish a position paper).  
+\#504 - "The purpose of a meeting should be to reach a decision - not chew the fat, meander, or seek to inform (send an email, post a wiki page, publish a position paper)."
 
-\#505 - Invitees to a meeting should be kept to a minimum - invitees should be either one of the decision makers, or key subject matter specialists. 
+\#505 - "Invitees to a meeting should be kept to a minimum - invitees should be either one of the decision makers, or key subject matter specialists."
 
+\#506 - "You can survive a long time with $1 of profit on every deal/sale"
 
 
 
 \#6xx - On Negotiating
 ====
 
-\#601 - Always leave something on the table, for a mutual win-win feeling.
+\#601 - "Always leave something on the table, for a mutual win-win feeling."
 
-\#602 - Always be willing to walk away from the deal.
+\#602 - "Always be willing to walk away from the deal."
 
-\#603 - Upon shaking hands, if their hands are cold and sweaty - walk away - you are about to get fucked over.
+\#603 - "Upon shaking hands, if their hands are cold and sweaty - walk away - you are about to get fucked over."
 
-\#604 - If they are hosting the venue, or host in their offices - pay attention to the small details in the courtesies extended. 
+\#604 - "If they are hosting the venue, or host in their offices - pay attention to the small details in the courtesies extended."
+
+\#605 - "Read the fine print - and refuse to sign anything that you haven't read thoroughly"
+
+\#606 - "If they are unwilling to sign a formal agreement - walk away."
 
 
 
@@ -149,20 +167,27 @@ Rules of Meeks
 \#7xx - On Career Choices
 ====
 
-\#701 - Don't get comfortable, stay hungry to always learn, grow,  and stretch yourself
+\#701 - "Don't get comfortable, stay hungry to always learn, grow,  and stretch yourself"
 
-\#702 - If you can't point to a signficant accomplishment in the last 12 months - it is time for you to move on.
+\#702 - "If you can't point to a signficant accomplishment in the last 12 months - it is time for you to move on."
 
-\#703 - Value opportunity and challenges, over a salary. Every time. Always.
+\#703 - "Value opportunity and challenges, over a salary. Every time. Always."
+
+\#799 - "Never forget - a full-time job doesn't come with any guarantee"
+
 
 
 
 \#8xx - Computer Systems, Software Development, Architecture, Operations, etc. 
 ====
-\#801 - Before you do anything - make a backup
+\#801 - "Before you do anything - make a backup"
   * See [2019 MySpace server migration disaster](https://www.dailywire.com/news/44789/myspace-probably-lost-everything-uploaded-its-emily-zanotti)
 
-\#802 - Thou Shalt Log (who did what, when, where, to what, with what)
+\#802 - "Thou Shalt Log (who did what, when, where, to what, with what)"
+
+\#803 - "Never release on a Friday"
+
+
 
 
 \#9xx - The Emergency Rules
