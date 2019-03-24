@@ -161,6 +161,8 @@ Rules of Meeks
 
 \#606 - "If they are unwilling to sign a formal agreement - walk away."
 
+\#607 - "If you are being pressured to decide/sign immediately - walk away."
+
 
 
 
