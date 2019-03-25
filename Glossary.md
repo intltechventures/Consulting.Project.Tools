@@ -13,6 +13,8 @@ AKI         | Amazon Kernel Image
 ALM         | Application Lifecycle Management
 AMI         | Amazon Machine Image
 AMQP        | Advanced Message Queuing Protocol
+AOP         | Aspect Oriented Programming
+AOT         | Ahead of Time (i.e. compiled ahead of time)
 ARI         | Amazon Ramdisk Image
 ANSI        | American National Standards Institute
 AOP         | Aspect Oriented Programming  
@@ -109,6 +111,7 @@ ITAR		| International Traffic in Arms Regulations
 ITIRB       | Information Technology Investment Review Board
 JSON        | JavaScript Object Notation  
 JSR         | JavaScript Remoting
+JVM         | Java Virtual Machine
 JWT         | JSON Web Token  
 k8s         | Kubernetes
 LAN         | Local Area Network
