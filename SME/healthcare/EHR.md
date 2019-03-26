@@ -25,7 +25,8 @@ Electronic Healthcare Record (EHR) Resources
 
 ### National Instuties of Health (NIH) Resources
 * https://search.nih.gov/search?utf8=%E2%9C%93&affiliate=nih&query=EHR&commit=Search
-
+* [Edge Testing Tool](https://ttpedge.sitenv.org/ttp/#/home)
+  * Originally developed by NIST...
 
 
 ### National Instute of Standards and Technology (NIST) - Healthcare 
@@ -87,3 +88,14 @@ Electronic Healthcare Record (EHR) Resources
   * [A Strategic Roadmap for Achieving the Potential Benefits of Electronic Health Record System in the State of Kuwait](https://www.who.int/goe/policies/countries/kwt_support.pdf?ua=1)
     * by [Bashair Almutairi](mailto:Dr.bashayer.almutairi@gmail.com), PhD Thesis,  University College London
       * As of [2018](https://www.omicsonline.org/conference-proceedings/2161-0711-C1-032-031.pdf),  Assistanct Professor, Medical Records Departement, College of Health Sciences, at PAAET, Kuwait. She  graduated from Health Information Management Department, College of Allied Health , Kuwait University, with specialty in Health Information Management. Later, she obtained her MSc. in Health Information System from University of Pittsburgh - and her PhD in Health Information Sytem from University College of London. Currently she is working as Chairman of  Medical Records Department, College of Health Sciences, Public Authority for Applied Education and Training, Kuwait. 
+
+
+
+### Open Source EHR Resources
+* OpenEHR
+  * https://www.openehr.org/
+    * https://www.openehr.org/about/history_2002_2018
+    * https://www.openehr.org/openehr_in_use/deployed_solutions/
+    * https://django-test.openehr.org/static/files/resources/openEHR_vendor_independent_platform.pdf
+
+
