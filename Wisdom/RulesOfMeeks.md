@@ -39,7 +39,7 @@ Rules of Meeks
   * Delays due to legal review, compliance review, contract negotiations, funding approval processes
   * Late discovery of requirements
   * Effort to do a minimally proper level of design
-  * Effort to coordinate the necessary communications and reviews of a proposed design approach - for complex projects that involve building something new
+  * Effort to coordinate (and schedule!) the necessary communications and reviews of a proposed design approach - for complex projects that involve building something new - that involve multiple parts of an organization. 
   * Effort to ensure that the Security parts of the org are involved and have reviewed the proposed solution
   * Effort to ensure that Legal has been involved and has reviewed the proposed solution
   * Effort to ensure that business stakeholders are adequately engaged, informed - and have buy-in
