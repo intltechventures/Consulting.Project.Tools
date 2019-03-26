@@ -4,8 +4,22 @@ Meaningful Use Resources
 (TO-DO: scan sources and add 2019 article references)
 
 
+### References
+* http://www.clinfowiki.org/wiki/index.php/Meaningful_use
+
+
+
+### National Institute of Standards and Technology (NIST) - Healthcare
+* https://www.nist.gov/itl/ssd/meaningful-use
+
+
 
 ### Background Reading
+* https://www.healthit.gov/topic/laws-regulation-and-policy/notice-proposed-rulemaking-improve-interoperability-health
+* [Medicare Access and CHIP Reauthorization Act of 2015 (MACRA)](https://www.healthit.gov/topic/meaningful-use-and-macra/macra)
+  * https://www.healthit.gov/topic/meaningful-use-and-macra/meaningful-use
+
+
 * 2019 
 * https://www.cms.gov/Regulations-and-Guidance/Legislation/EHRIncentivePrograms/2019ProgramRequirementsMedicare.html
   * Beginning in 2019, all eligible professionals (EPs), eligible hospitals, dual-eligible hospitals, and critical access hospitals (CAHs) are required to use 2015 edition certified electronic health record technology (CEHRT) to meet the requirements of the Promoting Interoperability Program. Note that the requirements for eligible hospitals, dual-eligible hospitals, and CAHs that submit an attestation to CMS under the Medicare Promoting Interoperability Program were updated in the 2019 IPPS final rule.  
