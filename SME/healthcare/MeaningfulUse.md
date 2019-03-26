@@ -7,6 +7,10 @@ Meaningful Use Resources
 
 ### Background Reading
 * 2019 
+* https://www.cms.gov/Regulations-and-Guidance/Legislation/EHRIncentivePrograms/2019ProgramRequirementsMedicare.html
+  * Beginning in 2019, all eligible professionals (EPs), eligible hospitals, dual-eligible hospitals, and critical access hospitals (CAHs) are required to use 2015 edition certified electronic health record technology (CEHRT) to meet the requirements of the Promoting Interoperability Program. Note that the requirements for eligible hospitals, dual-eligible hospitals, and CAHs that submit an attestation to CMS under the Medicare Promoting Interoperability Program were updated in the 2019 IPPS final rule.  
+  * In 2019, all Medicaid eligible hospitals and EPs must adhere to the requirements of their state’s Medicaid Promoting Interoperability Program and attest directly to their state.
+
 
 * 2018
   * https://www.cms.gov/Regulations-and-Guidance/Legislation/EHRIncentivePrograms/2018ProgramRequirements.html
