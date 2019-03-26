@@ -82,3 +82,8 @@ Electronic Healthcare Record (EHR) Resources
     * "reprting and population health - electronic data storage that employs uniform data standards will enable health care organizations to respond more quickly to reporting requirements, including those that support patient safety and disease surveillance."
 
 
+### Academic Papers
+* 2011
+  * [A Strategic Roadmap for Achieving the Potential Benefits of Electronic Health Record System in the State of Kuwai](https://www.who.int/goe/policies/countries/kwt_support.pdf?ua=1)
+    * by [Bashair Almutairi](mailto:Dr.bashayer.almutairi@gmail.com), PhD Thesis,  University College London
+      * As of [2018](https://www.omicsonline.org/conference-proceedings/2161-0711-C1-032-031.pdf),  Assistance Professor in the Medical Reocords Departement , College of Health Sciences, at PAAET, Kuwait. She  has been Graduated from Health Information Management Department, College of Allied Health , Kuwait University, with the specialties including Health Information Management. Later on she obtained her MSc. in Health Information System from University of Pittsburgh and her PhD in Health Information Sytem from University College of London. Currently she is working as Chairman of  Medical Records Department, College of Health Sciences, Public Authority for Applied Education and Training, Kuwait. 
