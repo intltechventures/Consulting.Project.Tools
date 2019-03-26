@@ -35,6 +35,23 @@ Rules of Meeks
 \#3 - "When in doubt about an estimate, multiply by three"
 * This is hard-won wisdom that has proven itself again, and again.
 * This rule originated with my own early experiences trying to estimate software development tasks for myself - and over time, I learned that it was pretty damn good heuristic for many of the developers that I managed (at least  until they established  a higher level of reliability).
+* 9 times out of 10, when you ask someone for an estimate - if they are honest, dilligent, and have confidence in their skill - they will be optimistic. However, in my experience, most manager (and, engineers/developers) do not adequately include contingency in their plans for the following:
+  * Contract negotiation delays, legal review, funding approval
+  * Late discovery of requirements
+  * Effort to do a minimally proper level of design
+  * Effort to coordinate the necessary communication and review of a proposed design approach - for substative, non-trivial, projects that involve building something new
+  * Effort to ensure that the Security parts of the org are involved and have reviewed the proposed solution
+  * Effort to ensure that Legal has been involved and has reviewed the proposed solution
+  * Effort to ensure that business stakeholders are adequately engaged, informed - and have buy-in
+  * Effort to prepare Test Data
+  * Effort to think through - and document Test Scenarios
+  * Effort to develop and debug Test Scenarios
+  * Effort to developand execute Performance Tests
+  * Effort to debug/fix issues that usually arise during System Testing
+  * Effort to prepare (and test!) deployment procedures 
+  * Effort to write and document the solution's design, deployment, operational aspects, and just-enough documentation to communicate with other dependent teams/orgs
+  * Effort to perform the inevitable rework that arises when designing someting new for the first time
+  * Unplanned meetings/interruptions - team productivity hits when folks have to attend meetings, training, the inevitable sick days - and accounting for slowdowns around holidays
 * This rule has also proven to be true when dealing with boat yards that have been tasked with maintenance/repair jobs on my sailboat.
 
 
