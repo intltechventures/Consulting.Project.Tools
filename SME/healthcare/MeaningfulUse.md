@@ -5,8 +5,8 @@ Meaningful Use Resources
 
 
 ### References
-* http://www.clinfowiki.org/wiki/index.php/Meaningful_use
-
+* https://en.wikipedia.org/wiki/Health_information_technology
+  * "The American Recovery and Reinvestment Act, signed into law in 2009 under the Obama Administration, has provided approximately $19 billion in incentives for hospitals to shift from paper to electronic medical records. Meaningful Use, as a part of the 2009 Health Information Technology for Economic and Clinical Health (HITECH) was the incentive that included over $20 billion for the implementation of HIT alone, and provided further indication of the growing consensus regarding the potential salutary effect of HIT. The American Recovery and Reinvestment Act has set aside $2 billion which will go towards programs developed by the National Coordinator and Secretary to help healthcare providers implement HIT and provide technical assistance through various regional centers. The other $17 billion in incentives comes from Medicare and Medicaid funding for those who adopt HIT before 2015. Healthcare providers who implement electronic records can receive up to $44,000 over four years in Medicare funding and $63,750 over six years in Medicaid funding. The sooner that healthcare providers adopt the system, the more funding they receive. Those who do not adopt electronic health record systems before 2015 do not receive any federal funding.[12]"
 
 
 ### National Institute of Standards and Technology (NIST) - Healthcare
@@ -18,7 +18,6 @@ Meaningful Use Resources
 * https://www.healthit.gov/topic/laws-regulation-and-policy/notice-proposed-rulemaking-improve-interoperability-health
 * [Medicare Access and CHIP Reauthorization Act of 2015 (MACRA)](https://www.healthit.gov/topic/meaningful-use-and-macra/macra)
   * https://www.healthit.gov/topic/meaningful-use-and-macra/meaningful-use
-
 
 * 2019 
 * https://www.cms.gov/Regulations-and-Guidance/Legislation/EHRIncentivePrograms/2019ProgramRequirementsMedicare.html
