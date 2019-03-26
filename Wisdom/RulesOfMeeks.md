@@ -35,11 +35,11 @@ Rules of Meeks
 \#3 - "When in doubt about an estimate, multiply by three"
 * This is hard-won wisdom that has proven itself again, and again.
 * This rule originated with my own early experiences trying to estimate software development tasks for myself - and over time, I learned that it was pretty damn good heuristic for many of the developers that I managed (at least  until they established  a higher level of reliability).
-* 9 times out of 10, when you ask someone for an estimate - if they are honest, dilligent, and have confidence in their skill - they will be optimistic. However, in my experience, most manager (and, engineers/developers) do not adequately include contingency in their plans for the following:
-  * Contract negotiation delays, legal review, funding approval
+* 9 times out of 10, when you ask someone for an estimate - if they are honest, dilligent, and have confidence in their skill - they will be naturally optimistic. However, in my experience, most managers (and, engineers/developers) do not adequately include sufficient contingency (if at all) in their plans for the following:
+  * Delays due to legal review, compliance review, contract negotiations, funding approval processes
   * Late discovery of requirements
   * Effort to do a minimally proper level of design
-  * Effort to coordinate the necessary communication and review of a proposed design approach - for substative, non-trivial, projects that involve building something new
+  * Effort to coordinate the necessary communications and reviews of a proposed design approach - for complex projects that involve building something new
   * Effort to ensure that the Security parts of the org are involved and have reviewed the proposed solution
   * Effort to ensure that Legal has been involved and has reviewed the proposed solution
   * Effort to ensure that business stakeholders are adequately engaged, informed - and have buy-in
