@@ -63,7 +63,7 @@ ___
   + A00.30.50 Business Plan
 
 
-- A00.40.00 Market Analysis
+- A00.40.00 Business Market Focus
   + A00.40.10 Business Markets
   + A00.40.20 Locations
   + A00.40.30 Market Segments
@@ -78,7 +78,7 @@ ___
   + A00.50.60 Business Subsidiaries
 
 
-- A00.50.00 Busiess Market
+- A00.50.00 Busiess Market Forces
   + A00.50.10 Business Competitors 
   + A00.50.20 Business Competitive Forces
   + A00.50.30 Business Market Analysis (e.g. Share, Growth Projections, etc.)
@@ -88,23 +88,34 @@ ___
 
 
 - A10.00.00 Finance
-  + A10.10.10 Financial Structure
-  + A10.10.20 Chart of Accounts
-  + A10.10.30 Transaction Types
-  + A10.10.40 Accounting Processes
-  + A10.10.50 Financial Reporting 
+  + A10.10.00 Finance Organization
+    + A10.10.10 Financial Structure
+    + A10.10.20 Chart of Accounts
+    + A10.10.30 Transaction Types
+    + A10.10.40 Accounting Processes
+    + A10.10.50 Financial Reporting 
   + A10.20.00 Tax Matters
-  + A10.20.10 Tax Calculations (e.g. Local, County, State, National)
-  + A10.30.00 Currency Exchange Considerations
+    * A10.20.10 Tax Rates & Calculations (e.g. Local, County, State, National, Foreign))
+  + A10.30.00 Foreign Currency Concerns
+    * A10.30.10 Currency Exchange Considerations
+  + A10.40.00 Customer Revenue/Cost 
+    * A10.40.10 Customer Acquisition Costs
+    * A10.40.20 Customer Lifetime Revenue Projections
+    * A10.40.30 Customer Lifetime Cost Projections
+    * A10.40.40 Customer Retention Projections
+  + A10.50.00 Operating Costs
+  + A10.60.00 Other Revenue Sources
+    * A10.60.10 Ad Sales
+    * A10.60.20 Affiliate Sales Channels
 
 
-- A20.00.00 Business Architecture, Current State
+- A20.00.00 Business Architecture - Current State
   + A20.10.00 Business Information Flows
   + A20.20.00 Key Processes
   + A20.30.00 Critical Business Rules
   + A20.40.00 Important Key Business Epics 
 
-- A30.00.00 Business Architecture, Future State
+- A30.00.00 Business Architecture - Future State
 
 </details>
 
