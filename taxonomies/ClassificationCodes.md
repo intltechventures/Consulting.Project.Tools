@@ -1,6 +1,4 @@
 # Artifact Classification Codes - A Taxonomy
-=======
-Taxonomy: a scheme of classification
 
 Copyright 2016, Kelvin D. Meeks   
 Release under The MIT License (MIT)
@@ -12,7 +10,7 @@ kmeeks@intltechventures.com
 http://www.intltechventures.com    
 
 ### STATUS: __WORKING DRAFT__
-### January 2017 Update: reworking the entire structure & content
+### March 2019 Update: reworking the entire structure & content (current focus is the A00.00.00 Business section - exploring a new approach to numbering system...)
 ### TO-DO: 
 ```
 - Rationalize Numbering Schemes To Be More Consistent Within A Category, And Across Sub-Categories
@@ -44,59 +42,70 @@ ___
 
 ## A00.00.00 Business 
 <details>
-* A00.10.00 Business Description
-* A00.10.10 Business Scope
-* A00.10.20 Business Leadership
-* A00.10.30 Business Structure
+- A00.10.00 Business Description
+  + A00.10.10 Business Scope
+  + A00.10.20 Business Leadership
+  + A00.10.30 Business Structure
 
-* A00.20.00 Business Capabilities
-* A00.20.10 Business Products
-* A00.20.20 Business Services
 
-* A00.30.00 
-* A00.30.10 Business Vision
-* A00.30.20 Business Principles
-* A00.30.30 Business Strategy
-* A00.30.40 Business Roadmap
-* A00.30.50 Business Plan
+- A00.20.00 Business 
+  + A00.20.10 Business Capabilities
+  + A00.20.20 Business Functions
+  + A00.20.30 Business Products
+  + A00.20.40 Business Services
 
-* A00.40.00 Business Markets
-* A00.40.10 Locations
-* A00.40.20 Market Segments
 
-* A00.50.00 Business Relationships
-* A00.50.10 Business Customers
-* A00.50.20 Business Suppliers
-* A00.50.30 Business Vendors
-* A00.50.40 Business Joint Ventures
-* A00.50.50 Business Partners 
-* A00.50.60 Business Subsidiaries
+- A00.30.00 Business Plan
+  + A00.30.10 Business Vision
+  + A00.30.20 Business Principles
+  + A00.30.30 Business Strategy
+  + A00.30.40 Business Roadmap
+  + A00.30.50 Business Plan
 
-* A00.50.00 Busiess Market
-* A00.50.10 Business Competitors 
-* A00.50.20 Business Competitive Forces
-* A00.50.30 Business Market Analysis (e.g. Share, Growth Projections, etc.)
-* A00.50.40 Business Constraints (e.g. Legal, Regulatory)
-* A00.50.50 Business Risks (e.g. Resources, Capital, Funding, Skills, Materials, Costs, etc.)
-* A00.50.60 Business SWOT (Strengths, Weaknesses, Opportunities, Threats)
 
-* A10.00.00 Finance
-* A10.10.10 Financial Structure
-* A10.10.20 Chart of Accounts
-* A10.10.30 Transaction Types
-* A10.10.40 Accounting Processes
-* A10.10.50 Financial Reporting 
-* A10.20.00 Tax Matters
-* A10.20.10 Tax Calculations (e.g. Local, County, State, National)
-* A10.30.00 Currency Exchange Considerations
+- A00.40.00 Market Analysis
+  + A00.40.10 Business Markets
+  + A00.40.20 Locations
+  + A00.40.30 Market Segments
 
-* 0000.3000 Future State
-:wq
-* 0000.4000 Business Architecture
-* 0000.4100 Important Information Flows
-* 0000.4200 Key Processes
-* 0000.4300 Critical Business Rules
-* 0000.4400 Important Key Business Epics 
+
+- A00.50.00 Business Relationships
+  + A00.50.10 Business Customers
+  + A00.50.20 Business Suppliers
+  + A00.50.30 Business Vendors
+  + A00.50.40 Business Joint Ventures
+  + A00.50.50 Business Partners 
+  + A00.50.60 Business Subsidiaries
+
+
+- A00.50.00 Busiess Market
+  + A00.50.10 Business Competitors 
+  + A00.50.20 Business Competitive Forces
+  + A00.50.30 Business Market Analysis (e.g. Share, Growth Projections, etc.)
+  + A00.50.40 Business Constraints (e.g. Legal, Regulatory)
+  + A00.50.50 Business Risks (e.g. Resources, Capital, Funding, Skills, Materials, Costs, etc.)
+  + A00.50.60 Business SWOT (Strengths, Weaknesses, Opportunities, Threats)
+
+
+- A10.00.00 Finance
+  + A10.10.10 Financial Structure
+  + A10.10.20 Chart of Accounts
+  + A10.10.30 Transaction Types
+  + A10.10.40 Accounting Processes
+  + A10.10.50 Financial Reporting 
+  + A10.20.00 Tax Matters
+  + A10.20.10 Tax Calculations (e.g. Local, County, State, National)
+  + A10.30.00 Currency Exchange Considerations
+
+
+- A20.00.00 Business Architecture, Current State
+  + A20.10.00 Business Information Flows
+  + A20.20.00 Key Processes
+  + A20.30.00 Critical Business Rules
+  + A20.40.00 Important Key Business Epics 
+
+- A30.00.00 Business Architecture, Future State
+
 </details>
 
 
@@ -377,15 +386,22 @@ ___
 * 8400.2600 Membership
 * 8400.2700 External Third Party  
 
-___
+____
 
-## Additional Sources for Ideas:   
+## Referneces
 
-The Open Group, TOGAF - Enterprise Architecture standard  
-* http://www.opengroup.org/subjectareas/enterprise/togaf
+### Additional Sources for Ideas:   
 
-Dewey Decimal System    
-* http://www.gutenberg.org/files/12513/12513-h/12513-h.htm
+- [The Open Group, TOGAF - Enterprise Architecture standard](http://www.opengroup.org/subjectareas/enterprise/togaf)
+- Dewey Decimal System(
+  + http://www.gutenberg.org/files/12513/12513-h/12513-h.htm
+- Non-Functional Requirements
+  + http://en.wikipedia.org/wiki/Non-functional_requirement
 
-Source for list of NFRs  
-* http://en.wikipedia.org/wiki/Non-functional_requirement
+
+### Academic Papers
+
+
+
+### Articles
+
