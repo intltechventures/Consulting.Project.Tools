@@ -15,13 +15,14 @@ AMI         | Amazon Machine Image
 AMQP        | Advanced Message Queuing Protocol
 AOP         | Aspect Oriented Programming
 AOT         | Ahead of Time (i.e. compiled ahead of time)
-ARI         | Amazon Ramdisk Image
 ANSI        | American National Standards Institute
 AOP         | Aspect Oriented Programming  
 aPaaS       | Application Platform as a Service  
 API         | Application Programming Interface 
 APM         | Application Portfolio Management  
 ARB         | Architecture Review Board  
+ARI         | Amazon Ramdisk Image
+ART         | Agile Release Train (re: Scaled Agile Framework, SAFe)
 ASP         | Application Service Provider  
 ATDD        | Acceptance-Test-Driven-Development
 AUC         | Area Under the Curve
@@ -155,7 +156,9 @@ OData       | Open Data Protocol
 OKR         | Objectives and Key Results
 OWL         | Web Ontology Language 
 PaaS        | Platform as a Service  
+PDCA        | Plan-Do-Check-Adjust (Shewhart’s PDCA cycle)
 PHI			| Protected Health Information (re: HIPPA) 
+PI          | Program Increment (re: Scaled Agile Framework, SAFe)
 PII			| Personally Identifiable Information
 PCI DSS     | Payment Card Industry Data Security Standard
 PKI         | Public Key Infrastructure 
@@ -186,6 +189,7 @@ ROM         | Rough Order of Magnitude (also see SWAG), aka an estimate
 RPA         | Robotic Process Automation
 RPC         | Remote Procedure Call
 RPO         | Recovery Point Objective
+RTE         | Release Train Engineer
 RTM         | Requirements Traceability Matrix
 RTT         | Round-Trip Time  
 RTO         | Recovery Time Objective  
@@ -233,8 +237,9 @@ VMI         | Virtual Machine Image
 VNC         | Virtual Network Computing
 VPN         | Virtual Private Network  
 VXLAN       | Virtual Extensible LAN
-WAF         | Web Application Firewall
 W3C         | World Wide Web Consortium
+WAF         | Web Application Firewall
+WIP         | Work nn Progress
 WRT         | Work Recovery Time
 WSDL        | Web Service Description Language
 XML         | Extensible Markup Langauge 
