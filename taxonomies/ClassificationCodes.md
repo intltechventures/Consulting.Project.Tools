@@ -42,8 +42,8 @@ A document with a prefix of "A00.10.00_some_document_name"
 ...would reside in a directory structure \A00\10\00  
 ___
 
-# A00.00.00 Business 
-
+## A00.00.00 Business 
+<details>
 * A00.10.00 Business Description
 * A00.10.10 Business Scope
 * A00.10.20 Business Leadership
@@ -90,16 +90,17 @@ ___
 * A10.20.10 Tax Calculations (e.g. Local, County, State, National)
 * A10.30.00 Currency Exchange Considerations
 
-
 * 0000.3000 Future State
-
+:wq
 * 0000.4000 Business Architecture
 * 0000.4100 Important Information Flows
 * 0000.4200 Key Processes
 * 0000.4300 Critical Business Rules
 * 0000.4400 Important Key Business Epics 
+</details>
 
-# 0100.xxxx Enterprise Architecture
+
+## 0100.xxxx Enterprise Architecture
 * 0100.0100 Enterprise System Context
 * 0100.0200 Enterprise Diagram Views
 * 0100.0300 Enterprise System Components
@@ -111,7 +112,7 @@ ___
 * 0100.1000 Enterprise Software Asset Inventory
 * 0100.2000 Enterprise Third-Party External Services
 
-# 0200.xxxx Common Services
+## 0200.xxxx Common Services
 * 0200.1010 Databases
 * 0200.1020 Application Servers
 * 0200.1030 Message Queues
@@ -137,7 +138,7 @@ ___
 * 0200.3050 Log Event Notifications
 
 
-# 0300.xxxx Data Center Facilities
+## 0300.xxxx Data Center Facilities
 * 0300.1000 Physical Access Security
 * 0300.1100 Electrical
 * 0300.1200 Telecommunications
@@ -148,7 +149,7 @@ ___
 * 0300.1700 Alarms
 * 0300.9000 Disaster Recovery
 
-# 0400.xxxx Infrastructure & network
+## 0400.xxxx Infrastructure & network
 * 0400.0010 Network Topology
 * 0400.0020 Content Distribution Network (CDN)
 * 0400.0030 DNS
@@ -169,11 +170,11 @@ ___
 
 * 0400.9000 Disaster Recovery (DR)  
 	
-# 0900.xxxx Disaster Recovery (DR)
+## 0900.xxxx Disaster Recovery (DR)
 * 0900.1000 DR Infrastructure
 * 0900.2000 Backup & Recovery Procedures  
  
-# 1000.0000 Non Functional Requirements
+## 1000.0000 Non Functional Requirements
 * 1000.0010 Accessibility
 * 1000.0020 Audit and Control
 * 1000.0030 Availability
@@ -220,7 +221,7 @@ ___
 * 1000.0440 Testability
 * 1000.0450 Usability  
 
-# 2000.xxxx User Interface
+## 2000.xxxx User Interface
 * 2000.1100 Look & Feel Style Guides
 * 2000.1200 Internationalization
 * 2000.1300 Site Map
@@ -255,7 +256,7 @@ ___
 * 2000.6000 Admin Functionality  
 
 
-# 3000.xxxx Documentation
+## 3000.xxxx Documentation
 * 3000.0000 Operation Procedures
 * 3000.1000 Runbooks  
 
@@ -267,7 +268,7 @@ ___
 * 3000.3100 Train-The-Trainer
 * 3000.3200 End User Training  
 
-# 4000.0000 Reporting
+## 4000.0000 Reporting
 * 4000.0010 Report Design Assets/Tools/Templates
 * 4000.0020 Operational Reporting
 * 4000.0030 Management Reporting
@@ -276,7 +277,7 @@ ___
 * 4000.0060 System Stats
 * 4000.0070 Dashboards  
 
-# 5000.xxxx Operations
+## 5000.xxxx Operations
 * 5000.0100 Operations Procedures
 * 5000.0200 Operations Runbooks
 * 5000.0300 Managed File Transfers
@@ -303,7 +304,8 @@ ___
 
 * 5000.9000 Disaster Recovery  
 
-# 6000.xxxx Security
+
+## 6000.xxxx Security
 * 6000.1000 User Provisioning
 * 6000.1100 User Authentication
 * 6000.1200 User Authorization
@@ -321,10 +323,12 @@ ___
 * 6000.2150 Denial of Service (DoS) Prevention   
 
 * 6000.3000 Payment Card Institute (PCI)  
-	
-# 7000.xxxx Core Application Requirements  
 
-# 8000.xxxx Integrations
+
+## 7000.xxxx Core Application Requirements  
+
+
+## 8000.xxxx Integrations
 * 8100.xxxx Real-Time Services
 * 8100.0000 Conversions
 * 8100.1000 Legacy Systems
@@ -375,7 +379,7 @@ ___
 
 ___
 
-# Additional Sources for Ideas:   
+## Additional Sources for Ideas:   
 
 The Open Group, TOGAF - Enterprise Architecture standard  
 * http://www.opengroup.org/subjectareas/enterprise/togaf
