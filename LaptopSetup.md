@@ -49,8 +49,10 @@ These are the primary software programs that I typically have installed on my de
       * https://github.com/Edditoria/markdown-plus-plus 
   + [Visual Studio Code](https://code.visualstudio.com/)
     * https://code.visualstudio.com/docs/
-    * Extensions
-      * https://code.visualstudio.com/docs?start=true#top-extensions
+    * [Marketplace for Extensions](https://code.visualstudio.com/docs?start=true#top-extensions)
+    * My Installed Extensions:
+      * https://marketplace.visualstudio.com/itemdetails?itemName=dbaeumer.vscode-eslint  
+      * https://marketplace.visualstudio.com/items?itemName=YoshinoriN.current-file-path
   + Alternatives:
 	* [ATOM](https://atom.io/) - new, evaluating...
       * https://github.com/atom/atom
