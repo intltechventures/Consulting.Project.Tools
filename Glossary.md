@@ -1,9 +1,10 @@
 
-Glossary
-===
+# Glossary
+
 |Term | Definition|
 |-----|-----------|
 ABC         | Activity Based Costing
+ABNF        | Augmented Backus-Naur Form (see [RFC-5234](https://tools.ietf.org/html/rfc5234))
 ACL         | Access Control List
 ACV         | Annual Contract Value 
 AD          | Application Delivery  
@@ -30,6 +31,7 @@ B2B         | Business-to-Business
 B2C         | Business-to-Customer
 BDD         | Behavior-Driven-Development
 BIA         | Business Impact Analysis
+BNF         | Backus-Naur Form
 BNS         | Business Needs Statement
 BPM         | Business Process Management, or Business Process Model
 BPS         | Bits Per Second
