@@ -371,3 +371,35 @@ These are the primary software programs that I typically have installed on my de
 
 
 
+## Remove Bloatware from Windows (NOTE: Need to evaluate this further, CAVEAT: have not yet applied this...)
+- https://www.reddit.com/r/pcmasterrace/comments/736tfh/skype_is_officially_bloatware_uninstalled_it/
+  + ```get-appxpackage messaging | remove-appxpackage```
+  + ```get-appxpackage sway | remove-appxpackage```
+  + ```get-appxpackage commsphone | remove-appxpackage```
+  + ```get-appxpackage windowsphone remove-appxpackage```
+  + ```get-appxpackage phone | remove-appxpackage```
+  + ```get-appxpackage communicationsapps | remove-appxpackage```
+  + ```get-appxpackage people | remove-appxpackage```
+  + ```get-appxpackage zunemusic | remove-appxpackage```
+  + ```get-appxpackage zunevideo | remove-appxpackage```
+  + ```get-appxpackage zune | remove-appxpackage```
+  + ```get-appxpackage bingfinance | remove-appxpackage```
+  + ```get-appxpackage bingnews | remove-appxpackage```
+  + ```get-appxpackage bingsports | remove-appxpackage```
+  + ```get-appxpackage bingweather | remove-appxpackage```
+  + ```get-appxpackage bing | remove-appxpackage ```
+  + ```get-appxpackage onenote | remove-appxpackage```
+  + ```get-appxpackage maps | remove-appxpackage```
+  + ```get-appxpackage solitaire | remove-appxpackage```
+  + ```get-appxpackage officehub | remove-appxpackage```
+  + ```get-appxpackage skypeapp | remove-appxpackage```
+  + ```get-appxpackage getstarted | remove-appxpackage```
+  + ```get-appxpackage 3dbuilder | remove-appxpackage```
+  + ```get-AppxPackage drawboardpdf | Remove-AppxPackage```
+  + ```get-AppxPackage freshpaint | Remove-AppxPackage```
+  + ```get-AppxPackage nytcrossword | Remove-AppxPackage```
+  + ```get-AppxPackage microsoft.xboxapp | Remove-AppxPackage```
+  + ```get-AppxPackage SurfaceHub | Remove-AppxPackage```
+  + ```get-AppxPackage flipboard | Remove-AppxPackage```
+  + Also see:
+    * https://drive.google.com/file/d/0BxEm-kEuxjnrOHpESC0wcHE3YTA/view
