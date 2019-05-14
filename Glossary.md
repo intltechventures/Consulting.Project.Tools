@@ -30,6 +30,7 @@ AUC         | Area Under the Curve
 B2B         | Business-to-Business
 B2C         | Business-to-Customer
 BDD         | Behavior-Driven-Development
+BDUF        | Big Design Up Front
 BIA         | Business Impact Analysis
 BNF         | Backus-Naur Form
 BNS         | Business Needs Statement
@@ -47,6 +48,7 @@ CIFS        | Common Internet File System
 CIO         | Chief Information Officer  
 CORS        | Cross-Origin Resource Sharing
 CQRS        | Command Query Responsibility Segregation  
+CRC         | Class Responsibility Collaboration
 CRL         | Certificate Revocation List
 CRM         | Customer Relationship Management
 CRUD        | Create, Read, Update, Delete
@@ -65,6 +67,7 @@ DN          | LDAP Distinguished Name
 DNS         | Domain Name System
 DR          | Disaster Recovery  
 DRB         | Design Review Board  
+DRY         | Don't Repeat Yourself
 DSN         | Data Source Name  
 DVR         | Distributed Virtual Router
 EA          | Enterprise Architecture  
@@ -78,7 +81,9 @@ FaaS        | Functions as a Service
 FAIL        | First Attempt In Learning (i.e. agile)
 FCoE        | Fibre Channel over Ethernet 
 FIPS        | The Federal Information Processing Standard (FIPS) Publication 140-2, (FIPS PUB 140-2)
+FIRST       | Fast Independent Repeatable Self-Validating Timely [(source)](https://dzone.com/articles/writing-your-first-unit-tests)
 FISMA		| Federal Information Security Management Act 
+FP          | Functional Programming 
 FQDN        | Fully Qualified Domain Name 
 FWaaS       | FireWall-as-a-Service 
 GL          | General Ledger
@@ -100,6 +105,7 @@ ICMP        | Internet Control Message Protocol
 IDE         | Integrated Development Environment    
 IDS         | Intrusion Detection System
 IETF        | Internet Engineering Task Force
+INVEST      | Independent Negotiable Valuable Estimable Small Testable [(source)](http://wiki.c2.com/?InvestModelForUserStories)
 IOPS        | Input/Output Operations Per Second
 IP          | Intellectual Property  
 IP          | Internet Protocol  
@@ -140,6 +146,7 @@ MSA         | Microservices Architecture
 MSA         | Master Service Agreement
 MTD         | Maximum Tolerable Downtime
 MTU         | Maximum Transmission Unit. Maximum frame or packet size for a particular network medium.
+MVP         | Minimal Viable Product 
 NAS         | Network Attached Storage 
 NAT         | Network Address Translation 
 NDA         | Non-Disclosure Agreement
@@ -156,6 +163,9 @@ OASIS       | Organization for the Advancement of Structured Information Systems
 OCM         | Organizational Change Management
 OData       | Open Data Protocol 
 OKR         | Objectives and Key Results
+OOA/D       | Object Oriented Analysis and Design 
+OOD         | Object Oriented Design 
+OOP         | Object Oriented Programming 
 OWL         | Web Ontology Language 
 PaaS        | Platform as a Service  
 PDCA        | Plan-Do-Check-Adjust (Shewhart’s PDCA cycle)
@@ -207,12 +217,16 @@ SI          | System Integrator
 SLA         | Service Level Agreement
 SLES        | SUSE Linux Enterprise Server
 SMART       | Specific, Measurable, Attainable, Realistic
+SMURFS      | Specifically Marketable, Useful, Releasable Feature Sets ([source](https://www.agileconnection.com/article/instead-mvps-maybe-we-should-be-releasing-smurfs)
 SOA         | Service Oriented Architecture 
 SOAP        | Simple Object Access Protocol
+SOLID       | Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion
 SOR         | System of Record
 SPICE       | Simple Protocol for Independent Computing Environments (
+SPOT        | Single Point Of Truth
 SQL         | Structured Query Language
 SRA         | Security Risk Assessment
+SRP         | Single Responsibility Principle
 SSH         | Secure Shell
 SSP         | System Security Plan
 SW          | Software
@@ -226,6 +240,7 @@ UDDI        | Universal Description, Discovery, & Integration
 UDEF        | Universal Data Element Framework
 UI          | User Interface  
 UIMA        | Unstructured Information Management Architecture
+UML         | Unified Modeling Language
 UTC         | Coordinated Universal Time 
 UUID        | Universal Unique Identifier
 UX          | User Exerience
@@ -245,5 +260,7 @@ WIP         | Work nn Progress
 WRT         | Work Recovery Time
 WSDL        | Web Service Description Language
 XML         | Extensible Markup Langauge 
+XP          | eXtreme Programming
 XSL         | XML Style Language 
 XSTL        | XML Transformation Language 
+YAGNI       | You Aren't Going to Need It 
