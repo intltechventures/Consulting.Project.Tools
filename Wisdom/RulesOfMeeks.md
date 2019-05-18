@@ -247,6 +247,6 @@ Rules of Meeks
 
 
 \#998 - "You were going to die anyway - who wants to live forever?"
-
+  * "[Come on, you sons of bitches!  Do you want to live forever?](http://www.usmcpress.com/heritage/usmc_quotations.htm)"  [GySgt. Daniel J. "Dan" Daly, USMC; near Lucy-`le-Bocage as he led the 5th Marines' attack into Belleau Wood, 6 June 1918]
 
 \#999 - "If you must go to war, remember - there are no rules"
