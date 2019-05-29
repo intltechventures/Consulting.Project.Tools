@@ -24,6 +24,7 @@ These are the primary software programs that I typically have installed on my de
 - [GnuPG](https://www.gnupg.org/)
 - Curated sourcess for inclusion in hosts file
   + https://github.com/StevenBlack/hosts
+    * Update Windows file: ```%SystemRoot%\system32\drivers\etc\hosts```
   
 
 ## Essentials...
