@@ -218,6 +218,7 @@ SI          | System Integrator
 SLA         | Service Level Agreement
 SLES        | SUSE Linux Enterprise Server
 SMART       | Specific, Measurable, Attainable, Realistic
+SMART       | SMART (Substitutable Medical Applications, Reusable Technologies)
 SMURFS      | Specifically Marketable, Useful, Releasable Feature Sets ([source](https://www.agileconnection.com/article/instead-mvps-maybe-we-should-be-releasing-smurfs)
 SOA         | Service Oriented Architecture 
 SOAP        | Simple Object Access Protocol
