@@ -80,6 +80,7 @@ EVM         | Earned Value Managemenet
 FaaS        | Functions as a Service
 FAIL        | First Attempt In Learning (i.e. agile)
 FCoE        | Fibre Channel over Ethernet 
+FHIR        | Fast Healthcare Interoperability Resources (a draft standard describing data formats and elements and an application programming interface for exchanging electronic health records)
 FIPS        | The Federal Information Processing Standard (FIPS) Publication 140-2, (FIPS PUB 140-2)
 FIRST       | Fast Independent Repeatable Self-Validating Timely [(source)](https://dzone.com/articles/writing-your-first-unit-tests)
 FISMA		| Federal Information Security Management Act 
