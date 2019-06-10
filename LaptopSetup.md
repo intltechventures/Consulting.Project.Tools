@@ -94,6 +94,7 @@ These are the primary software programs that I typically have installed on my de
     * https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql
       * mssql for Visual Studio Code
       * https://sqlchoice.azurewebsites.net/en-us/sql-server/developer-get-started/csharp/win/step/2.html
+      * https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-develop-use-vscode?view=sql-server-2017
     * https://marketplace.visualstudio.com/items?itemName=octref.vetur
       * Vue tooling for VS Code
     * https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code
