@@ -84,7 +84,38 @@ These are the primary software programs that I typically have installed on my de
   + https://visualstudio.microsoft.com/downloads/
   + Marketplace Extensions:
     * https://marketplace.visualstudio.com/items?itemName=YoshinoriN.current-file-path
-    
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+  + Marketplace Extensions:
+    * https://marketplace.visualstudio.com/items?itemName=YoshinoriN.current-file-path
+      * display current file's path from absolute (root directory) or workspace highest directory in StatusBar by Unix style or Windows style.
+    * https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify
+      * js-beautify for VS Code
+    * https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql
+      * mssql for Visual Studio Code
+      * https://sqlchoice.azurewebsites.net/en-us/sql-server/developer-get-started/csharp/win/step/2.html
+    * https://marketplace.visualstudio.com/items?itemName=octref.vetur
+      * Vue tooling for VS Code
+    * https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code
+      * Dart language support and debugger for Visual Studio Code.
+    * https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker
+      * Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose files.
+    * https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+      * Integrates ESLint into VS Code
+    * https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go
+      * This extension adds rich language support for the Go language to VS Code.
+    * https://marketplace.visualstudio.com/items?itemName=redhat.java
+      * Language support for Java ™ for Visual Studio Code
+    * https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+      * The Material Icon Theme provides lots of icons based on Material Design for Visual Studio Code.
+    * https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell
+      * This extension provides rich PowerShell language support for Visual Studio Code. 
+    * https://marketplace.visualstudio.com/items?itemName=ms-python.python
+      * A Visual Studio Code extension with rich support for the Python language (for all actively supported versions of the language: 2.7, >=3.5), including features such as IntelliSense, linting, debugging, code navigation, code formatting, Jupyter notebook support, refactoring, variable explorer, test explorer, snippets, and more!
+    * https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+      * REST Client allows you to send HTTP request and view the response in Visual Studio Code directly.
+
+
 
 - [Eclipse](http://www.eclipse.org)
   + [The plugins that I usually install](https://github.com/intltechventures/EclipseNotes/blob/master/README.md)
