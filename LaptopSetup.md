@@ -30,7 +30,8 @@ These are the primary software programs that I typically have installed on my de
 ## Essentials...
 - [Chrome](https://www.google.com/intl/en/chrome/browser/thankyou.html?platform=win64)
   + [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
-  
+  + [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+
 - [Firefox](https://www.mozilla.org/firefox)
 
 - [Thunderbird](https://www.mozilla.org/en-US/thunderbird/)
