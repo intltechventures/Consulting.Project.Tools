@@ -223,8 +223,16 @@ These are the primary software programs that I typically have installed on my de
 - [Jetty](http://www.eclipse.org/jetty/)
 
 
-## Testing Tools
+## API Testing Tools
 - [SoapUI](https://www.soapui.org/)
+  + https://dzone.com/articles/how-to-mock-rest-api-with-soap-ui-step-by-step-gui
+- [Postman](https://www.getpostman.com)
+  + https://learning.getpostman.com/docs/postman/launching_postman/installation_and_updates
+  + https://learning.getpostman.com/reference/
+  + https://learning.getpostman.com/concepts
+- json-server
+  + "Get a full fake REST API with zero coding in less than 30 seconds"
+  + https://github.com/typicode/json-server
 
 
 ## Build Tools
