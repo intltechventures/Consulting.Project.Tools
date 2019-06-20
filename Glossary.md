@@ -88,7 +88,8 @@ FP          | Functional Programming
 FQDN        | Fully Qualified Domain Name 
 FWaaS       | FireWall-as-a-Service 
 GL          | General Ledger
-GLBA        | Gramm Leach Bliley Act
+GLBA        | Gramm Leach Bliley Acta
+GOLAP       | Graph OLAP 
 GQM         | Goal, Question, Metric 
 GRC         | Governance, Risk, Compliance
 GRE         | Generic Routing Encapsulation
@@ -96,6 +97,7 @@ GRO         | Generic Receive Offload
 HDFS        | Hadoop Distributed File System 
 HIPPA       | Health Insurance Portability and Accountability Act of 1996
 HLD         | High-Level Design  
+HOLAP       | Hybrid OLAP
 HPC         | Horizontal Pod Autoscaling (Kubernetes)
 HTML        | Hyper Text Markup Language
 HTTP        | Hypertext Transfer Protocol
@@ -134,6 +136,7 @@ LVM         | Logical Volume Manager
 MAC         | Machine Access Control 
 MBaaS       | Mobile Back End as a Service
 MD          | Markdown Language 
+MDA         | Multi-Dimensional Analytical (i.e.  queries)
 MDAP        | Mobile Application Development Platform  
 MDM         | Master Data Management  
 MDM         | Mobile Device Management  
@@ -142,10 +145,12 @@ MEAP        | Mobile Enterrprise Application Platform
 MIM         | Major Incident Management
 MIPS        | Million of Instructions Per Second  
 ML          | Machine Learning 
+MOLAP       | Multidimensional OLAP
 MOU         | Memorandum of Understanding
 MSA         | Microservices Architecture  
 MSA         | Master Service Agreement
 MTD         | Maximum Tolerable Downtime
+MTS         | Multidimensional Type Structure (e.g. [Thomsen Diagrams](https://en.wikipedia.org/wiki/Thomsen_Diagrams))
 MTU         | Maximum Transmission Unit. Maximum frame or packet size for a particular network medium.
 MVP         | Minimal Viable Product 
 NAS         | Network Attached Storage 
@@ -164,6 +169,8 @@ OASIS       | Organization for the Advancement of Structured Information Systems
 OCM         | Organizational Change Management
 OData       | Open Data Protocol 
 OKR         | Objectives and Key Results
+OLAP        | Online Analytical Processing
+OLTP        | Online Transaction Processing 
 OOA/D       | Object Oriented Analysis and Design 
 OOD         | Object Oriented Design 
 OOP         | Object Oriented Programming 
@@ -198,6 +205,7 @@ RMS         | Rights Management Service
 ROE         | Return on Equity  
 ROI         | Return on Investment  
 ROIT        | Return on Information Technology  
+ROLAP       | Relational OLAP
 ROM         | Rough Order of Magnitude (also see SWAG), aka an estimate
 RPA         | Robotic Process Automation
 RPC         | Remote Procedure Call
