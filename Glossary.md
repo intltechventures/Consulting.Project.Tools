@@ -76,6 +76,7 @@ EAMS        | Enterprise Architecture Management Suite
 EAR			| Export Administration Regulations
 EBS         | Elastic Block Storage (AWS)
 EPLC        | Enterprise Performance Life Cycle 
+ES          | ECMAScript (aka JavaScript)
 EVM         | Earned Value Managemenet
 FaaS        | Functions as a Service
 FAIL        | First Attempt In Learning (i.e. agile)
