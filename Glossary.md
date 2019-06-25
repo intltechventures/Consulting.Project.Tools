@@ -1,6 +1,7 @@
 
 # Glossary
 
+
 |Term | Definition|
 |-----|-----------|
 ABC         | Activity Based Costing
@@ -153,6 +154,7 @@ MSA         | Master Service Agreement
 MTD         | Maximum Tolerable Downtime
 MTS         | Multidimensional Type Structure (e.g. [Thomsen Diagrams](https://en.wikipedia.org/wiki/Thomsen_Diagrams))
 MTU         | Maximum Transmission Unit. Maximum frame or packet size for a particular network medium.
+MQL         | Marketing Qualified Lead
 MVP         | Minimal Viable Product 
 NAS         | Network Attached Storage 
 NAT         | Network Address Translation 
@@ -235,6 +237,7 @@ SOLID       | Single Responsibility, Open-Closed, Liskov Substitution, Interface
 SOR         | System of Record
 SPICE       | Simple Protocol for Independent Computing Environments (
 SPOT        | Single Point Of Truth
+SQL         | Sales Qualified Lead
 SQL         | Structured Query Language
 SRA         | Security Risk Assessment
 SRP         | Single Responsibility Principle
