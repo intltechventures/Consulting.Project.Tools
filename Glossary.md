@@ -10,6 +10,7 @@ ACL         | Access Control List
 ACV         | Annual Contract Value 
 AD          | Application Delivery  
 AD          | Active Directory
+ADDIE       | (analyze, design, development, implement, evaluate) a methodology developed by Florida State University for the U.S. Army as a repeatable and standard set of tasks to create training.  [Wikipedia Article](https://en.wikipedia.org/wiki/ADDIE_Model)
 AI          | Artificial Intelligence  
 AKI         | Amazon Kernel Image
 ALM         | Application Lifecycle Management
@@ -191,6 +192,7 @@ QKD         | Quantum Key Distribution
 QoS         | Quality of Service
 RAA         | Responsibility, Acountability, Authority 
 RACI        | Responsible, Accountable, Consulted, Informed  
+RAD         | Rapid Application Development 
 RAS         | Redundancy, Availability, Serviceability  
 RASUI       | Reliability, Availability, Serviceability, Usability and Installability  
 RBAC        | Role Based Access Control
@@ -219,6 +221,7 @@ RTT         | Round-Trip Time
 RTO         | Recovery Time Objective  
 SAD         | Solution Architecture Design
 SAFe        | Scaled Agile Framework
+SAM         | Successive Approximation Model, created by Allen Interactions 
 SCIM        | System for Cross-Domain Identity Management (re: RFC7644)
 SDI         | Software Defined Infrastructure
 SDK         | Software Development Kit  
@@ -241,6 +244,7 @@ SQL         | Sales Qualified Lead
 SQL         | Structured Query Language
 SRA         | Security Risk Assessment
 SRP         | Single Responsibility Principle
+SSADM       | (structured systems analysis and design methodology) - developed by  Tom DeMarco, Ed Yourdon, and Larry Constantine 
 SSH         | Secure Shell
 SSP         | System Security Plan
 SW          | Software
