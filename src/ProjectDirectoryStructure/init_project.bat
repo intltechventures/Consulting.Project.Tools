@@ -44,7 +44,6 @@ REM Prepare _journals Directory
 REM ***************************************************************************
 REM 
 
-mkdir _journals
 mkdir _journals\%year%\%month%
 
 
@@ -61,12 +60,16 @@ for /F "tokens=%daynumber% delims=," %%B in ("%daysofweek%") do set day=%%B
 echo %daynumber% 
 echo %day%
 
-set header=%dt% %day%
-echo %header% > _journals\%year%\%month%\%dt%.txt
+
+if exist _journals\%year%\%month%\%dt%.txt goto SKIP_JOURNAL_CREATION
+set journal_header=%dt% %day%
+touch _journals\%year%\%month%\%dt%.txt
+echo. >> _journals\%year%\%month%\%dt%.txt
+echo %journal_header% >> _journals\%year%\%month%\%dt%.txt
 echo Client: %1 >> _journals\%year%\%month%\%dt%.txt
 echo Location: >> _journals\%year%\%month%\%dt%.txt
 
-
+:SKIP_JOURNAL_CREATION
 
 REM 
 REM ***************************************************************************
@@ -121,6 +124,8 @@ REM Prepare info.txt - general information file, in root directory of client Pro
 REM ***************************************************************************
 REM 
 
+if exist info.txt goto END_JOB
+
 touch info.txt
 echo. >> info.txt
 echo Client Name: %1 >> info.txt
@@ -172,3 +177,5 @@ echo Guest WiFi SID: >> info.txt
 echo Guest WiFi User ID: >> info.txt
 echo Guest WiFi Password: >> info.txt
 echo. >> info.txt
+
+:END_JOB
