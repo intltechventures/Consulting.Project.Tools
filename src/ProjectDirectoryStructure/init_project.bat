@@ -50,19 +50,30 @@ mkdir _journals\%year%\%month%
 REM 
 REM ***************************************************************************
 REM Prepare First _journals Directory Entry
+REM	
+REM References:
+REM 	https://docs.microsoft.com/en-us/previous-versions/windows/desktop/wmitimepprov/win32-localtime
+REM			DayOfWeek
+REM				"Current day of the current week that matches the query (0 6). By convention, the value 0 is always Sunday, regardless of the culture or the locale set on the machine."
 REM ***************************************************************************
 REM 
 
-REM Get Day-of-Week...
-set daysofweek=Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday  
-for /F "skip=2 tokens=2-4 delims=," %%A in ('WMIC Path Win32_LocalTime Get DayOfWeek /Format:csv') do set daynumber=%%A  
-for /F "tokens=%daynumber% delims=," %%B in ("%daysofweek%") do set day=%%B
-echo %daynumber% 
-echo %day%
 
+REM Get Day-of-Week...
+for /F "skip=2 tokens=2-4 delims=," %%A in ('WMIC Path Win32_LocalTime Get DayOfWeek /Format:csv') do set dayNumber=%%A  
+
+
+if %dayNumber% == 0 set dayName=Sunday
+if %dayNumber% == 1 set dayName=Monday
+if %dayNumber% == 2 set dayName=Tuesday
+if %dayNumber% == 3 set dayName=Wednesday
+if %dayNumber% == 4 set dayName=Thursday
+if %dayNumber% == 5 set dayName=Friday
+if %dayNumber% == 6 set dayName=Saturday
+echo Set Day Name: %dayName%
 
 if exist _journals\%year%\%month%\%dt%.txt goto SKIP_JOURNAL_CREATION
-set journal_header=%dt% %day%
+set journal_header=%dt% %dayName%
 touch _journals\%year%\%month%\%dt%.txt
 echo. >> _journals\%year%\%month%\%dt%.txt
 echo %journal_header% >> _journals\%year%\%month%\%dt%.txt
