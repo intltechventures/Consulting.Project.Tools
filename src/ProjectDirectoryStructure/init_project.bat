@@ -73,11 +73,18 @@ if %dayNumber% == 6 set dayName=Saturday
 echo Set Day Name: %dayName%
 
 if exist _journals\%year%\%month%\%dt%.txt goto SKIP_JOURNAL_CREATION
-set journal_header=%dt% %dayName%
+
 touch _journals\%year%\%month%\%dt%.txt
 echo. >> _journals\%year%\%month%\%dt%.txt
+
+set journal_header=%dt% %dayName%
 echo %journal_header% >> _journals\%year%\%month%\%dt%.txt
-echo Client: %1 >> _journals\%year%\%month%\%dt%.txt
+
+REM Get just the current directory name (not the full path) - as the client name
+for %%I in (.) do set client=%%~nxI
+echo Client: %client% >> _journals\%year%\%month%\%dt%.txt
+
+
 echo Location: >> _journals\%year%\%month%\%dt%.txt
 
 :SKIP_JOURNAL_CREATION
