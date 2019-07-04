@@ -49,12 +49,26 @@ These are the primary software programs that I typically have installed on my de
   + [Notepad++](https://notepad-plus-plus.org/)
     * Evaluating, additional Plugins
       * https://github.com/Edditoria/markdown-plus-plus 
+
   + [Visual Studio Code](https://code.visualstudio.com/)
     * https://code.visualstudio.com/docs/
     * [Marketplace for Extensions](https://code.visualstudio.com/docs?start=true#top-extensions)
     * My Installed Extensions:
       * https://marketplace.visualstudio.com/itemdetails?itemName=dbaeumer.vscode-eslint  
       * https://marketplace.visualstudio.com/items?itemName=YoshinoriN.current-file-path
+      * Go Tools
+        * gocode
+        * gopkgs
+        * go-outline
+        * go-symbols
+        * guru
+        * gorename
+        * dlv
+        * gocode-gomod
+        * godef
+        * goreturns
+        * golint
+
   + Alternatives:
 	* [ATOM](https://atom.io/) - new, evaluating...
       * https://github.com/atom/atom
