@@ -197,3 +197,4 @@ echo Guest WiFi Password: >> info.txt
 echo. >> info.txt
 
 :END_JOB
+echo Finished!
