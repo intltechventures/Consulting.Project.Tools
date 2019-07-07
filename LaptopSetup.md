@@ -3,8 +3,11 @@
 These are the primary software programs that I typically have installed on my development machine...    
 
 
-## Windows Application Package Managers (evaluating...)
+## Application Package Managers (evaluating...)
 - https://chocolatey.org/
+
+- https://sdkman.io/
+
 
 
 ## Security Tools
@@ -25,7 +28,8 @@ These are the primary software programs that I typically have installed on my de
 - Curated sourcess for inclusion in hosts file
   + https://github.com/StevenBlack/hosts
     * Update Windows file: ```%SystemRoot%\system32\drivers\etc\hosts```
-  
+
+
 
 ## Essentials...
 - [Chrome](https://www.google.com/intl/en/chrome/browser/thankyou.html?platform=win64)
@@ -94,6 +98,7 @@ These are the primary software programs that I typically have installed on my de
     * [Archi](https://www.archimatetool.com/)
 
 
+
 ## IDE Tools
 - [Microsoft Visual Studio](https://www.visualstudio.com/)
   + https://visualstudio.microsoft.com/downloads/
@@ -151,6 +156,7 @@ These are the primary software programs that I typically have installed on my de
     * https://www.mockflow.com/
 
 
+
 ## Version Control Tools
 - [Git](https://git-scm.com/)
   + Change Git Bash Optons (upper-left corner of the Bash window, right-clic)
@@ -161,6 +167,7 @@ These are the primary software programs that I typically have installed on my de
     * https://github.com/Microsoft/Git-Credential-Manager-for-Windows/releases/latest
 
 - [Subversion](https://sliksvn.com/download/)  
+
 
 	
 ## Primary Development Languages
@@ -183,6 +190,7 @@ These are the primary software programs that I typically have installed on my de
     * npm install --global yarn
 
 
+
 ## Seconday Development Languages
 - [Scala](http://scala-lang.org/)
 - [Lua](http://www.lua.org/) (installed on Linux Mint 17.3, as a VM in Oracle VirtualBox)
@@ -200,8 +208,10 @@ These are the primary software programs that I typically have installed on my de
 - [TensorFlow](https://www.tensorflow.org/install/)
 
 
+
 ## Data Analytics
 - [Jupyter](https://jupyter.org/)
+
 
 
 ## Databases
@@ -230,11 +240,13 @@ These are the primary software programs that I typically have installed on my de
 - [Neo4j](http://neo4j.com)
 
 
+
 ## Application Servers
 - [NGINX](https://www.nginx.com/)
 - [Apache Tomcat](http://tomcat.apache.org/)
 - [Apache TomEE](http://tomee.apache.org/)
 - [Jetty](http://www.eclipse.org/jetty/)
+
 
 
 ## API Testing Tools
@@ -249,6 +261,7 @@ These are the primary software programs that I typically have installed on my de
   + https://github.com/typicode/json-server
 
 
+
 ## Build Tools
 - [Jenkins](https://jenkins.io/)
 - [Apache Ant](http://ant.apache.org/)
@@ -256,6 +269,7 @@ These are the primary software programs that I typically have installed on my de
 - [Gradle](http://gradle.org/)
 - [sbt](http://www.scala-sbt.org/)
 - [CBT](https://github.com/cvogt/cbt) - new, evaluating...
+
 
 
 ## Deployment / Cloud / Container / VM Tools
@@ -274,13 +288,15 @@ These are the primary software programs that I typically have installed on my de
 - [Vagrant](https://www.vagrantup.com)
   + https://github.com/hashicorp/vagrant
   
-  
+
+
 ## General Productivity Tools
 - [Dropbox](https://www.dropbox.com/)
 - [Google Docs](https://docs.google.com/)
 - Brother Printer software 
 - [Cutepdf](http://www.cutepdf.com/)
 - [7-ZIp](http://www.7-zip.org/download.html)  
+
 
 
 ## Writing Tools
@@ -304,6 +320,7 @@ These are the primary software programs that I typically have installed on my de
   + [KDP Tools and Resources](https://kdp.amazon.com/en_US/help/topic/G200735480)
 
 
+
 ## Network Monitoring / Debugging Tools
 - [Networx](https://www.softperfect.com/products/networx/)
 - [Fiddler](http://www.telerik.com/fiddler)
@@ -325,6 +342,7 @@ These are the primary software programs that I typically have installed on my de
 - [Skype](https://www.skype.com/en/) 
 
 
+
 ## Music, eBook, Audio
 - [iTunes](http://www.apple.com/itunes/)
   + Alternatives
@@ -337,8 +355,10 @@ These are the primary software programs that I typically have installed on my de
   + https://www.fosshub.com/Audacity.html
 
 
+
 ## Postcasting, Video Recording Tools
 - [Open Broadcaster Software](https://obsproject.com/) - GPLv2 license
+
 
 
 ## Video/Graphic Tools
@@ -356,6 +376,7 @@ These are the primary software programs that I typically have installed on my de
   - https://crystalmark.info
 - General Performance Benchmarking
   - https://www.geekbench.com
+
 
 
 # Other Configuration Tweaks:
@@ -412,12 +433,15 @@ These are the primary software programs that I typically have installed on my de
 - https://www.userbenchmark.com
 
 
+
+
 # Optimizations
 
 ## File Deletion Optimization Tweaks
 - https://www.windowspasswordsrecovery.com/system-tuneup/how-to-fix-windows-10-slow-file-deteting-speed.html
   + Turn off Thumbnails to Speed up Copying Files on Windows 10
   + Disable Remote Differential Compression to Optimize Win10 File Moving
+
 
 
 ## Other Possible Optimizations to experiment with in the future...
