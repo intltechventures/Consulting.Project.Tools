@@ -59,6 +59,9 @@ These are the primary software programs that I typically have installed on my de
     * [Marketplace for Extensions](https://code.visualstudio.com/docs?start=true#top-extensions)
     * My Installed Extensions:
       * https://marketplace.visualstudio.com/itemdetails?itemName=dbaeumer.vscode-eslint  
+      * https://marketplace.visualstudio.com/items?itemName=Tyriar.vscode-terminal-here
+        * "Creates an intergrated terminal session at the current file's directory"
+        * https://github.com/Tyriar/vscode-terminal-here
       * https://marketplace.visualstudio.com/items?itemName=YoshinoriN.current-file-path
       * Go Tools
         * gocode
@@ -72,6 +75,9 @@ These are the primary software programs that I typically have installed on my de
         * godef
         * goreturns
         * golint
+      * Scala Plugins
+        * https://github.com/scala/vscode-scala-syntax
+
 
   + Alternatives:
 	* [ATOM](https://atom.io/) - new, evaluating...
