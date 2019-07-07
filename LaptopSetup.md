@@ -78,7 +78,8 @@ These are the primary software programs that I typically have installed on my de
         * goreturns
         * golint
       * Scala Plugins
-        * https://github.com/scala/vscode-scala-syntax
+        * https://marketplace.visualstudio.com/items?itemName=scala-lang.scala
+          * https://github.com/scala/vscode-scala-syntax
 
 
   + Alternatives:
