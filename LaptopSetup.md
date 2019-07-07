@@ -61,6 +61,8 @@ These are the primary software programs that I typically have installed on my de
       * https://marketplace.visualstudio.com/itemdetails?itemName=dbaeumer.vscode-eslint  
       * https://marketplace.visualstudio.com/items?itemName=Tyriar.vscode-terminal-here
         * "Creates an intergrated terminal session at the current file's directory"
+          * ```ctrl/cmd+shift+p```
+          * View > Command Palette > ``` terminalHere.create```
         * https://github.com/Tyriar/vscode-terminal-here
       * https://marketplace.visualstudio.com/items?itemName=YoshinoriN.current-file-path
       * Go Tools
