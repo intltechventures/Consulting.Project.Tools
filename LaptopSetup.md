@@ -1,9 +1,16 @@
 
 # My Laptop Setup    
-These are the primary software programs that I typically have installed on my development machine...    
+- Kelvin D. Meeks
+  * kmeeks@intltechventures.com
+  * http://www.intltechventures.com
+
+- These are the primary software programs that I typically have installed on my personal development machine...
+  * Current Laptop: MSI GT72 6QE, Intel® Core™ i7-6700HQ, 24GB RAM (DDR4 2133MHz), Three SSD drvies (256GB M.2 SATA, 1TB M.2 SATA, 1TB SATA), 8.4 lbs
+
 
 
 ## Application Package Managers (evaluating...)
+
 - https://chocolatey.org/
 
 - https://sdkman.io/
@@ -11,6 +18,7 @@ These are the primary software programs that I typically have installed on my de
 
 
 ## Security Tools
+
 - Anti-Virus / Firewall
   + Microsoft Defender
   + Alternatives:
@@ -23,7 +31,19 @@ These are the primary software programs that I typically have installed on my de
     * https://www.tomsguide.com/us/best-windows-antivirus,review-6044.html
 
 - [MalwareBytes](https://www.malwarebytes.org/)
+
 - [TrueCrypt](http://truecrypt.sourceforge.net/)
+  + NOTE: 
+    * The developers posted this warning on the web site: 
+      * ```WARNING: Using TrueCrypt is not secure as it may contain unfixed security issues```
+      * ```WARNING: Using TrueCrypt is not secure```
+    * "The development of TrueCrypt was ended in 5/2014 after Microsoft terminated support of Windows XP. Windows 8/7/Vista and later offer integrated support for encrypted disks and virtual disk images."
+  + https://en.wikipedia.org/wiki/TrueCrypt
+    * "On 28 May 2014, the TrueCrypt official website, truecrypt.org, began redirecting visitors to truecrypt.sourceforge.net with a HTTP 301 "Moved Permanently" status"
+    * "On 28 May 2014, the TrueCrypt website announced that the project was no longer maintained and recommended users find alternative solutions. Though development of TrueCrypt has ceased, an independent audit of TrueCrypt (published in March 2015) has concluded that no significant flaws are present"
+    * "Shortly after the end of life announcement of TrueCrypt, Gibson Research Corporation posted an announcement titled "Yes... TrueCrypt is still safe to use" and a Final Release Repository to host the last official non-crippled version 7.1 of TrueCrypt"
+    * "TrueCrypt is vulnerable to various known attacks which are also present in other software-based disk encryption software such as BitLocker. To prevent those, the documentation distributed with TrueCrypt requires users to follow various security precautions" - [Some of those attacks are detailed are detailed in the Wikipedia article]
+
 - [GnuPG](https://www.gnupg.org/)
 - Curated sourcess for inclusion in hosts file
   + https://github.com/StevenBlack/hosts
@@ -32,61 +52,80 @@ These are the primary software programs that I typically have installed on my de
 
 
 ## Essentials...
+
+### Web Browsers
+
 - [Chrome](https://www.google.com/intl/en/chrome/browser/thankyou.html?platform=win64)
   + [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
   + [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
 
 - [Firefox](https://www.mozilla.org/firefox)
 
+
+### Email Client
+
 - [Thunderbird](https://www.mozilla.org/en-US/thunderbird/)
   + Plugins:
     * https://addons.thunderbird.net/en-US/thunderbird/addon/calendar-tweaks/
 	* https://addons.thunderbird.net/en-US/thunderbird/addon/provider-for-google-calendar/?src=hp-dl-mostpopular
 	* https://www.maketecheasier.com/12-thunderbird-addons-you-shouldnt-be-without/
+  + Config Editor Changes:
+    * ```mail.identity.default.suppress_signature_separator``` - change to ```true```
+      * http://kb.mozillazine.org/Signatures_(Thunderbird)#Removing_the_signature_separator
+      * https://support.mozilla.org/en-US/questions/1019583
+
+
+### PDF Reader
 
 - [Adopbe Reader](https://get.adobe.com/reader/)
   * Fonts: (needed to print certain documents, e.g. WA Healthcare 1095-A)
     * [Adobe Acrobat Reader DC Font Pack (Continuous) - For Acrobat Reader DC version 19.x](https://supportdownloads.adobe.com/thankyou.jsp?ftpID=6484&fileID=6484)
 
 
-- Code Editors
-  + [Notepad++](https://notepad-plus-plus.org/)
-    * Evaluating, additional Plugins
-      * https://github.com/Edditoria/markdown-plus-plus 
+### Basic Code/Text/Config Editors
+- [Notepad++](https://notepad-plus-plus.org/)
+  * Evaluating, additional Plugins
+    * https://github.com/Edditoria/markdown-plus-plus 
 
-  + [Visual Studio Code](https://code.visualstudio.com/)
-    * https://code.visualstudio.com/docs/
-    * [Marketplace for Extensions](https://code.visualstudio.com/docs?start=true#top-extensions)
-    * My Installed Extensions:
-      * https://marketplace.visualstudio.com/itemdetails?itemName=dbaeumer.vscode-eslint  
-      * https://marketplace.visualstudio.com/items?itemName=Tyriar.vscode-terminal-here
-        * "Creates an intergrated terminal session at the current file's directory"
-          * ```ctrl/cmd+shift+p```
-          * View > Command Palette > ``` terminalHere.create```
-        * https://github.com/Tyriar/vscode-terminal-here
-      * https://marketplace.visualstudio.com/items?itemName=YoshinoriN.current-file-path
-      * Go Tools
-        * gocode
-        * gopkgs
-        * go-outline
-        * go-symbols
-        * guru
-        * gorename
-        * dlv
-        * gocode-gomod
-        * godef
-        * goreturns
-        * golint
-      * Scala Plugins
-        * https://marketplace.visualstudio.com/items?itemName=scala-lang.scala
-          * https://github.com/scala/vscode-scala-syntax
+- [Visual Studio Code](https://code.visualstudio.com/)
+  * https://code.visualstudio.com/docs/
+  * [Marketplace for Extensions](https://code.visualstudio.com/docs?start=true#top-extensions)
+  * My Installed Extensions:
+    * https://marketplace.visualstudio.com/itemdetails?itemName=dbaeumer.vscode-eslint  
+    * https://marketplace.visualstudio.com/items?itemName=Tyriar.vscode-terminal-here
+      * "Creates an intergrated terminal session at the current file's directory"
+        * ```ctrl/cmd+shift+p```
+        * View > Command Palette > ``` terminalHere.create```
+      * https://github.com/Tyriar/vscode-terminal-here
+    * https://marketplace.visualstudio.com/items?itemName=YoshinoriN.current-file-path
+    * Go Tools
+      * gocode
+      * gopkgs
+      * go-outline
+      * go-symbols
+      * guru
+      * gorename
+      * dlv
+      * gocode-gomod
+      * godef
+      * goreturns
+      * golint
+    * Scala Plugins
+      * https://marketplace.visualstudio.com/items?itemName=scala-lang.scala
+        * https://github.com/scala/vscode-scala-syntax
 
 
-  + Alternatives:
-	* [ATOM](https://atom.io/) - new, evaluating...
-      * https://github.com/atom/atom
+- Alternatives:
+  * [ATOM](https://atom.io/) - new, evaluating...
+    * https://github.com/atom/atom
+
+
+### Command Line Utilities
 
 - [Cygwin](https://www.cygwin.com/)
+
+
+### File Diff Utilities
 
 - [KDiff3](https://sourceforge.net/projects/kdiff3/files/kdiff3/)
   + Alternatives
@@ -108,11 +147,13 @@ These are the primary software programs that I typically have installed on my de
 
 
 
-## IDE Tools
+## IDE Tools for Software Developemnt
+
 - [Microsoft Visual Studio](https://www.visualstudio.com/)
   + https://visualstudio.microsoft.com/downloads/
   + Marketplace Extensions:
     * https://marketplace.visualstudio.com/items?itemName=YoshinoriN.current-file-path
+
 
 - [Visual Studio Code](https://code.visualstudio.com/)
   + Marketplace Extensions:
@@ -158,15 +199,18 @@ These are the primary software programs that I typically have installed on my de
 
 
 ## User Interface (UI) / User Experience (UX) Design Tools
+
 - [Adobe XD](https://www.adobe.com/products/xd.html) - To be evaluated...
-  + Possible Alternatives:
-    * https://balsamiq.com
-      * https://balsamiq.com/wireframes/
-    * https://www.mockflow.com/
+
+- Possible Alternatives:
+  * https://balsamiq.com
+    * https://balsamiq.com/wireframes/
+  * https://www.mockflow.com/
 
 
 
 ## Version Control Tools
+
 - [Git](https://git-scm.com/)
   + Change Git Bash Optons (upper-left corner of the Bash window, right-clic)
     * Font Size: 12
@@ -179,17 +223,23 @@ These are the primary software programs that I typically have installed on my de
 
 
 	
-## Primary Development Languages
+## Primary Software Development Languages
+
 - [Go](https://golang.org/)
+
 - [Java](https://www.oracle.com/java/)
+
 - [Python](https://www.python.org/)
   + Don't forget to confirm that the ../Scripts folder is added to the Path environment variable
   + Update Pip
     * ```python -m pip install -U pip```
+
 - [R](https://www.r-project.org/)
+
 - [GNU GCC](https://gcc.gnu.org/)
   + [MingW (and MSYS)](http://www.mingw.org/)
   + [Cyqwin](http://www.cygwin.com/)
+
 - JavaScript
   + https://github.com/v8/v8
   + https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -200,31 +250,46 @@ These are the primary software programs that I typically have installed on my de
 
 
 
-## Seconday Development Languages
+## Seconday Software Development Languages
+
 - [Scala](http://scala-lang.org/)
+
 - [Lua](http://www.lua.org/) (installed on Linux Mint 17.3, as a VM in Oracle VirtualBox)
+
 - [Rust](http://rust-lang.org/)
+
 - [Groovy](http://www.groovy-lang.org/)
+
 - [Clojure](https://clojure.org/)
+
 - Dart
+
 - [Julia](http://julialang.org/)
+
 - [Perl](https://www.perl.org/)
+
 - [PHP ](http://php.net/)
+
 - [Ruby](https://www.ruby-lang.org/en/)
 
 
+
 ## Machine Learning
+
 - [TensorFlow](https://www.tensorflow.org/install/)
 
 
 
 ## Data Analytics
+
 - [Jupyter](https://jupyter.org/)
 
 
 
 ## Databases
+
 - [MariaDB](https://mariadb.org/)
+
 - [Microsoft SQL Server](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
   + SQL SErver 2019 CTP
     * https://www.microsoft.com/en-us/evalcenter/evaluate-sql-server-2019-ctp
@@ -243,50 +308,71 @@ These are the primary software programs that I typically have installed on my de
       * https://docs.microsoft.com/en-us/sql/connect/node-js/step-1-configure-development-environment-for-node-js-development?view=sql-server-2017
       * https://tediousjs.github.io/tedious/
       * https://github.com/tediousjs/tedious
+
 - [PostgreSQL](http://www.postgresql.org/)
+
 - [Oracle](https://www.oracle.com/database/)
+
 - [datomic](http://www.datomic.com/)
+
 - [Neo4j](http://neo4j.com)
 
 
 
-## Application Servers
+## Application/Web Servers
+
 - [NGINX](https://www.nginx.com/)
+
 - [Apache Tomcat](http://tomcat.apache.org/)
+
 - [Apache TomEE](http://tomee.apache.org/)
+
 - [Jetty](http://www.eclipse.org/jetty/)
 
 
 
 ## API Testing Tools
+
 - [SoapUI](https://www.soapui.org/)
   + https://dzone.com/articles/how-to-mock-rest-api-with-soap-ui-step-by-step-gui
+
 - [Postman](https://www.getpostman.com)
   + https://learning.getpostman.com/docs/postman/launching_postman/installation_and_updates
   + https://learning.getpostman.com/reference/
   + https://learning.getpostman.com/concepts
+
 - json-server
   + "Get a full fake REST API with zero coding in less than 30 seconds"
   + https://github.com/typicode/json-server
 
 
 
-## Build Tools
+## Continuous Integration / Build Tools
+
 - [Jenkins](https://jenkins.io/)
+
 - [Apache Ant](http://ant.apache.org/)
+
 - [Apache Maven](https://maven.apache.org/)
+
 - [Gradle](http://gradle.org/)
+
 - [sbt](http://www.scala-sbt.org/)
+
 - [CBT](https://github.com/cvogt/cbt) - new, evaluating...
 
 
 
 ## Deployment / Cloud / Container / VM Tools
+
 - [AWS Command Line Interface (CLI)](https://aws.amazon.com/cli/)
+
 - [Ansible](https://www.ansible.com/)
+
 - [Docker](https://www.docker.com/)
   + [Docker Community Edition](https://store.docker.com/editions/community/docker-ce-desktop-windows)
   + [Docker Hub](https://hub.docker.com/)
+
 - [Oracle VirtualBox](https://www.virtualbox.org/ https://www.virtualbox.org/)
   + [Mint Linux](https://www.linuxmint.com/)
   + [Ubuntu](http://www.ubuntu.com/)
@@ -294,36 +380,49 @@ These are the primary software programs that I typically have installed on my de
   + [Community Enterprise Operating System (CentOS)](https://www.centos.org/)
   + [Alpine](http://www.alpinelinux.org/) - new, evaluating...
   + [Microsoft Windows 2016 / Nano TP 5](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-technical-preview)	
+
 - [Vagrant](https://www.vagrantup.com)
   + https://github.com/hashicorp/vagrant
   
 
 
 ## General Productivity Tools
+
 - [Dropbox](https://www.dropbox.com/)
+
 - [Google Docs](https://docs.google.com/)
+
 - Brother Printer software 
+
 - [Cutepdf](http://www.cutepdf.com/)
+
 - [7-ZIp](http://www.7-zip.org/download.html)  
 
 
 
 ## Writing Tools
+
 - [Libre Office](https://www.libreoffice.org/)
   + https://wiki.documentfoundation.org/Feature_Comparison:_LibreOffice_-_Microsoft_Office
+
 - [Scrivner](https://www.literatureandlatte.com/scrivener) 
 
 
 
 ## Documentation Generation/Publishing Tools
+
 - Sphinx  (TO BE EVALUTED)
   + http://www.sphinx-doc.org/en
     * http://www.sphinx-doc.org/en/master/
+
 - Doxygen
   + http://www.doxygen.nl/
+
 - LaTeX 
   + https://www.latex-project.org/
   + https://www.latex-project.org/help/documentation/
+  + https://github.com/intltechventures/Tips/blob/master/Tips.LaTeX.md
+
 - Amazon Kindle Direct Publishing (KDP)
   + [KDP Kindle Create](https://kdp.amazon.com/en_US/help/topic/GHU4YEWXQGNLU94T)
   + [KDP Tools and Resources](https://kdp.amazon.com/en_US/help/topic/G200735480)
@@ -331,34 +430,45 @@ These are the primary software programs that I typically have installed on my de
 
 
 ## Network Monitoring / Debugging Tools
+
 - [Networx](https://www.softperfect.com/products/networx/)
+
 - [Fiddler](http://www.telerik.com/fiddler)
+
 - [WireShark](https://www.wireshark.org/)
 
 
 
 ## Additional Security Tools
+
 - [NMAP](https://nmap.org/)
+
 - https://decentsecurity.com/#/securing-your-computer/
   + Some very good suggestions for securing Windows 10
-*- https://www.qubes-os.org/
+
+- https://www.qubes-os.org/
   + To be evaluated in the future...
 
 
  
 ## Communication Tools
+
 - [GoToMeeting](www.gotomeeting.com/‎)
+
 - [Skype](https://www.skype.com/en/) 
 
 
 
 ## Music, eBook, Audio
+
 - [iTunes](http://www.apple.com/itunes/)
   + Alternatives
     - https://www.getmusicbee.com/
+
 - [Amazon Kindle for PC](http://www.amazon.com/gp/kindle/pc/download)
   + Alternatives
     * https://calibre-ebook.com/
+
 - [Audacity](http://www.audacityteam.org/)
   + https://github.com/audacity/audacity
   + https://www.fosshub.com/Audacity.html
@@ -366,38 +476,51 @@ These are the primary software programs that I typically have installed on my de
 
 
 ## Postcasting, Video Recording Tools
+
 - [Open Broadcaster Software](https://obsproject.com/) - GPLv2 license
 
 
 
 ## Video/Graphic Tools
+
 - [Graphviz](http:www.graphviz.org)
+
 - [GIMP](https://www.gimp.org/downloads/)
+
 - [SnagIt](https://www.techsmith.com/snagit.html)
+
 - [Camtasia](https://www.techsmith.com/camtasia.html)
+
 - [Open Broadcaster Software](https://obsproject.com/) - new, evaluating...
+
 - [VideoLan VLC media player](http://www.videolan.org)
 
 
 
 ## Diagnostic Utilities
+
 - Disk Performance
   - https://crystalmark.info
+
 - General Performance Benchmarking
   - https://www.geekbench.com
 
 
 
 # Other Configuration Tweaks:
+
 - Google Public DNS IP addresses
   + https://developers.google.com/speed/public-dns/docs/using 
   + https://developers.google.com/speed/public-dns/docs/dns64
+
 - The Google Public DNS IP addresses (IPv4) are as follows:
   + 8.8.8.8
   + 8.8.4.4
+
 - The Google Public DNS IPv6 addresses are as follows:
   + 2001:4860:4860::8888
   + 2001:4860:4860::8844
+
 - Alternate DNS Options:
   + Cloudflare
     * 1.1.1.1
@@ -406,6 +529,7 @@ These are the primary software programs that I typically have installed on my de
 
 
 ## Windows Environment Variables
+
 - DOTNET_CLI_TELEMETRY_OPTOUT=1
   + The .NET Core tools collect usage data in order to help us improve your experience. The data is anonymous and doesn't include command-line arguments. The data is collected by Microsoft and shared with the community. You can opt-out of telemetry by setting the DOTNET_CLI_TELEMETRY_OPTOUT environment variable to '1' or 'true' using your favorite shell.
   + Read more about .NET Core CLI Tools telemetry: https://aka.ms/dotnet-cli-telemetry
@@ -413,6 +537,7 @@ These are the primary software programs that I typically have installed on my de
 
 
 # Additional Utilities to consider adding:
+
 - [TeraCopy](http://codesector.com/teracopy)
   + https://www.techsupportalert.com/content/faster-way-copy-files.htm
 
@@ -444,7 +569,7 @@ These are the primary software programs that I typically have installed on my de
 
 
 
-# Optimizations
+# Windows OS Performance Optimizations
 
 ## File Deletion Optimization Tweaks
 - https://www.windowspasswordsrecovery.com/system-tuneup/how-to-fix-windows-10-slow-file-deteting-speed.html
@@ -465,7 +590,7 @@ These are the primary software programs that I typically have installed on my de
 
 
 ## Remove Bloatware from Windows (NOTE: Need to evaluate this further, CAVEAT: have not yet applied this...)
-- https://www.reddit.com/r/pcmasterrace/comments/736tfh/skype_is_officially_bloatware_uninstalled_it/
+- Source: https://www.reddit.com/r/pcmasterrace/comments/736tfh/skype_is_officially_bloatware_uninstalled_it/
   + ```get-appxpackage messaging | remove-appxpackage```
   + ```get-appxpackage sway | remove-appxpackage```
   + ```get-appxpackage commsphone | remove-appxpackage```
