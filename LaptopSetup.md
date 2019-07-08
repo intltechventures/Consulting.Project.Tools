@@ -261,7 +261,7 @@ __These are the primary software programs that I typically have installed on my 
 
 - [Scala](http://scala-lang.org/)
 
-- [Lua](http://www.lua.org/) (installed on Linux Mint 17.3, as a VM in Oracle VirtualBox)
+- [Lua](http://www.lua.org/) 
 
 - [Rust](http://rust-lang.org/)
 
@@ -376,21 +376,35 @@ __These are the primary software programs that I typically have installed on my 
 
 - [Ansible](https://www.ansible.com/)
 
+- [Vagrant](https://www.vagrantup.com)
+  + https://github.com/hashicorp/vagrant
+
 - [Docker](https://www.docker.com/)
   + [Docker Community Edition](https://store.docker.com/editions/community/docker-ce-desktop-windows)
   + [Docker Hub](https://hub.docker.com/)
 
-- [Oracle VirtualBox](https://www.virtualbox.org/ https://www.virtualbox.org/)
-  + [Mint Linux](https://www.linuxmint.com/)
-  + [Ubuntu](http://www.ubuntu.com/)
-  + [CoreOS](https://coreos.com/)
-  + [Community Enterprise Operating System (CentOS)](https://www.centos.org/)
-  + [Alpine](http://www.alpinelinux.org/) - new, evaluating...
-  + [Microsoft Windows 2016 / Nano TP 5](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-technical-preview)	
 
-- [Vagrant](https://www.vagrantup.com)
-  + https://github.com/hashicorp/vagrant
-  
+- Container/VM OS Options:
+
+  + [Mint Linux](https://www.linuxmint.com/)
+
+  + [Ubuntu](http://www.ubuntu.com/)
+
+  + [CoreOS](https://coreos.com/)
+    * https://en.wikipedia.org/wiki/Container_Linux
+
+  + [Community Enterprise Operating System (CentOS)](https://www.centos.org/)
+    * https://en.wikipedia.org/wiki/CentOS
+
+  + [Alpine](http://www.alpinelinux.org/) - (new, evaluating...)
+
+  + [Microsoft Windows Nano Server](https://hub.docker.com/_/microsoft-windows-nanoserver)
+    * https://docs.microsoft.com/en-us/virtualization/windowscontainers/
+    * https://docs.microsoft.com/en-us/windows-server/get-started/nano-in-semi-annual-channel
+    * https://docs.microsoft.com/en-us/windows-server/get-started/nano-server-quick-start
+
+  + [Microsoft Windows Server 2019](https://docs.microsoft.com/en-us/windows-server/get-started-19/get-started-19) - (new, evaluating...)
+
 
 
 ## General Productivity Tools
@@ -633,5 +647,12 @@ __These are the primary software programs that I typically have installed on my 
 
 ## shazam.bat - Automated Rescue Steps for a Corrupted Windows System
 - https://github.com/intltechventures/Personal.Windows.Utils/blob/master/shazam.bat
+
+
+
+
+# Removed Technologies
+- [VirtualBox])(https://www.virtualbox.org/) - (Oracle)
+  * Conflicts with running Docker
 
 
