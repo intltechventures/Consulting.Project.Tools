@@ -12,7 +12,7 @@
 __These are the primary software programs that I typically have installed on my personal development machine...__
 
 
-## Application Package Managers (evaluating...)
+## Application Package Managers (still evaluating...)
 
 - https://chocolatey.org/
 
@@ -24,8 +24,10 @@ __These are the primary software programs that I typically have installed on my 
 
 - Anti-Virus / Firewall
   + Microsoft Defender
+
   + Alternatives:
     * [Norton Security](http://us.norton.com/)
+
   + 2019 Product Reviews:
     * https://www.pcmag.com/article2/0,2817,2372364,00.asp
     * https://www.av-test.org/en/antivirus/home-windows/
@@ -87,7 +89,7 @@ __These are the primary software programs that I typically have installed on my 
 
 ### Basic Code/Text/Config Editors
 - [Notepad++](https://notepad-plus-plus.org/)
-  * Evaluating, additional Plugins
+  * Still Evaluating, additional Plugins
     * https://github.com/Edditoria/markdown-plus-plus 
 
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -119,7 +121,7 @@ __These are the primary software programs that I typically have installed on my 
 
 
 - Alternatives:
-  * [ATOM](https://atom.io/) - new, evaluating...
+  * [ATOM](https://atom.io/) - (still evaluating...)
     * https://github.com/atom/atom
 
 
@@ -131,22 +133,23 @@ __These are the primary software programs that I typically have installed on my 
 ### File Diff Utilities
 
 - [KDiff3](https://sourceforge.net/projects/kdiff3/files/kdiff3/)
-  + Alternatives
-    * https://en.wikipedia.org/wiki/Comparison_of_file_comparison_tools
-    * http://www.scootersoftware.com
-	* https://www.devart.com/codecompare/
-	* http://winmerge.org/
-	  * https://sourceforge.net/projects/winmerge/
-	* http://meldmerge.org/
-	  * https://gitlab.gnome.org/GNOME/meld
 
+- Possible Alternatives
+  * https://en.wikipedia.org/wiki/Comparison_of_file_comparison_tools
+  * http://www.scootersoftware.com
+  * https://www.devart.com/codecompare/
+  * http://winmerge.org/
+  * https://sourceforge.net/projects/winmerge/
+  * http://meldmerge.org/
+    * https://gitlab.gnome.org/GNOME/meld
 
 
 ## Diagramming & Design Tools
 - [Sparx Enterprise Architect](http://www.sparxsystems.com/)
-  + Open Source Alternatives:
-    * [PlantYML](http://plantuml.com/) - new, evaluating...
-    * [Archi](https://www.archimatetool.com/)
+
+- Open Source Alternatives:
+  * [PlantYML](http://plantuml.com/) - (still evaluating...)
+  * [Archi](https://www.archimatetool.com/)
 
 
 
@@ -236,6 +239,7 @@ __These are the primary software programs that I typically have installed on my 
   + Don't forget to confirm that the ../Scripts folder is added to the Path environment variable
   + Update Pip
     * ```python -m pip install -U pip```
+  + https://github.com/intltechventures/Lab.Python/blob/master/install_modules.bat
 
 - [R](https://www.r-project.org/)
 
@@ -250,7 +254,7 @@ __These are the primary software programs that I typically have installed on my 
   + [nodejs](https://nodejs.org/en/)
   + [npmjs](https://www.npmjs.com/)
     * npm install --global yarn
-
+  + https://github.com/intltechventures/Lab.JavaScript/blob/master/packages.sh
 
 
 ## Seconday Software Development Languages
@@ -362,7 +366,7 @@ __These are the primary software programs that I typically have installed on my 
 
 - [sbt](http://www.scala-sbt.org/)
 
-- [CBT](https://github.com/cvogt/cbt) - new, evaluating...
+- [CBT](https://github.com/cvogt/cbt) - (stil evaluating...)
 
 
 
