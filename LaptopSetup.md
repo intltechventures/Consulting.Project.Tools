@@ -2,9 +2,10 @@
 # My Laptop Setup    
 - Kelvin D. Meeks
   + kmeeks@intltechventures.com
+  + https://www.linkedin.com/in/kelvinmeeks/
   + http://www.intltechventures.com
 
-  + Current Laptop: 
+  + Current Primary Laptop:
     * MSI GT72 6QE, Intel® Core™ i7-6700HQ, 24GB RAM (DDR4 2133MHz), Three SSD drvies (256GB M.2 SATA, 1TB M.2 SATA, 1TB SATA), 8.4 lbs
     
 
@@ -44,10 +45,10 @@ __These are the primary software programs that I typically have installed on my 
     * "On 28 May 2014, the TrueCrypt official website, truecrypt.org, began redirecting visitors to truecrypt.sourceforge.net with a HTTP 301 "Moved Permanently" status"
     * "On 28 May 2014, the TrueCrypt website announced that the project was no longer maintained and recommended users find alternative solutions. Though development of TrueCrypt has ceased, an independent audit of TrueCrypt (published in March 2015) has concluded that no significant flaws are present"
     * "Shortly after the end of life announcement of TrueCrypt, Gibson Research Corporation posted an announcement titled "Yes... TrueCrypt is still safe to use" and a Final Release Repository to host the last official non-crippled version 7.1 of TrueCrypt"
-    * "TrueCrypt is vulnerable to various known attacks which are also present in other software-based disk encryption software such as BitLocker. To prevent those, the documentation distributed with TrueCrypt requires users to follow various security precautions" - [Some of those attacks are detailed are detailed in the Wikipedia article]
+    * "TrueCrypt is vulnerable to various known attacks which are also present in other software-based disk encryption software such as BitLocker. To prevent those, the documentation distributed with TrueCrypt requires users to follow various security precautions" - [Some of those attacks are detailed in the Wikipedia article]
 
 - [GnuPG](https://www.gnupg.org/)
-- Curated sourcess for inclusion in hosts file
+- Curated sources for inclusion in hosts file
   + https://github.com/StevenBlack/hosts
     * Update Windows file: ```%SystemRoot%\system32\drivers\etc\hosts```
 
@@ -79,7 +80,7 @@ __These are the primary software programs that I typically have installed on my 
 
 ### PDF Reader
 
-- [Adopbe Reader](https://get.adobe.com/reader/)
+- [Adobe Reader](https://get.adobe.com/reader/)
   * Fonts: (needed to print certain documents, e.g. WA Healthcare 1095-A)
     * [Adobe Acrobat Reader DC Font Pack (Continuous) - For Acrobat Reader DC version 19.x](https://supportdownloads.adobe.com/thankyou.jsp?ftpID=6484&fileID=6484)
 
@@ -214,7 +215,7 @@ __These are the primary software programs that I typically have installed on my 
 ## Version Control Tools
 
 - [Git](https://git-scm.com/)
-  + Change Git Bash Optons (upper-left corner of the Bash window, right-clic)
+  + Change Git Bash Options (upper-left corner of the Bash window, right-click)
     * Font Size: 12
   + modify the .vmrc with the details in my dot.files git repository
     * https://github.com/intltechventures/dot.files/blob/master/.vimrc 
@@ -276,19 +277,19 @@ __These are the primary software programs that I typically have installed on my 
 
 
 
-## Machine Learning
+## Machine Learning Frameworks
 
 - [TensorFlow](https://www.tensorflow.org/install/)
 
 
 
-## Data Analytics
+## Data Analytic Technologies
 
 - [Jupyter](https://jupyter.org/)
 
 
 
-## Databases
+## Database Technologies
 
 - [MariaDB](https://mariadb.org/)
 
@@ -455,7 +456,7 @@ __These are the primary software programs that I typically have installed on my 
  
 ## Communication Tools
 
-- [GoToMeeting](www.gotomeeting.com/‎)
+- [GoToMeeting](https://www.gotomeeting.com)
 
 - [Skype](https://www.skype.com/en/) 
 
@@ -477,25 +478,23 @@ __These are the primary software programs that I typically have installed on my 
 
 
 
-## Postcasting, Video Recording Tools
+## Video and Postcasting Tools
 
-- [Open Broadcaster Software](https://obsproject.com/) - GPLv2 license
+- [Camtasia](https://www.techsmith.com/camtasia.html)
+
+- [Open Broadcaster Software](https://obsproject.com/) 
+  + GPLv2 license
+
+ - [VideoLan VLC media player](http://www.videolan.org)
 
 
-
-## Video/Graphic Tools
+## Image/Graphic Tools
 
 - [Graphviz](http:www.graphviz.org)
 
 - [GIMP](https://www.gimp.org/downloads/)
 
 - [SnagIt](https://www.techsmith.com/snagit.html)
-
-- [Camtasia](https://www.techsmith.com/camtasia.html)
-
-- [Open Broadcaster Software](https://obsproject.com/) - new, evaluating...
-
-- [VideoLan VLC media player](http://www.videolan.org)
 
 
 
@@ -532,7 +531,7 @@ __These are the primary software programs that I typically have installed on my 
 
 ## Windows Environment Variables
 
-- DOTNET_CLI_TELEMETRY_OPTOUT=1
+- ```DOTNET_CLI_TELEMETRY_OPTOUT=1```
   + The .NET Core tools collect usage data in order to help us improve your experience. The data is anonymous and doesn't include command-line arguments. The data is collected by Microsoft and shared with the community. You can opt-out of telemetry by setting the DOTNET_CLI_TELEMETRY_OPTOUT environment variable to '1' or 'true' using your favorite shell.
   + Read more about .NET Core CLI Tools telemetry: https://aka.ms/dotnet-cli-telemetry
 
@@ -623,3 +622,12 @@ __These are the primary software programs that I typically have installed on my 
   + ```get-AppxPackage flipboard | Remove-AppxPackage```
   + Also see:
     * https://drive.google.com/file/d/0BxEm-kEuxjnrOHpESC0wcHE3YTA/view
+
+
+
+# My Personal Utility Scripts
+
+## shazam.bat - Automated Rescue Steps for a Corrupted Windows System
+- https://github.com/intltechventures/Personal.Windows.Utils/blob/master/shazam.bat
+
+
