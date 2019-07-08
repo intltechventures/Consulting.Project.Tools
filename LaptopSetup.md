@@ -432,7 +432,7 @@ __These are the primary software programs that I typically have installed on my 
 
 ## Documentation Generation/Publishing Tools
 
-- Sphinx  (TO BE EVALUTED)
+- Sphinx  (TO BE EVALUATED)
   + http://www.sphinx-doc.org/en
     * http://www.sphinx-doc.org/en/master/
 
@@ -652,7 +652,7 @@ __These are the primary software programs that I typically have installed on my 
 
 
 # Removed Technologies
-- [VirtualBox])(https://www.virtualbox.org/) - (Oracle)
+- [VirtualBox](https://www.virtualbox.org/) - (Oracle)
   * Conflicts with running Docker
 
 
