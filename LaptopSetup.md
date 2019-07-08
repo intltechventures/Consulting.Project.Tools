@@ -5,9 +5,12 @@
   + https://www.linkedin.com/in/kelvinmeeks/
   + http://www.intltechventures.com
 
-  + Current Primary Laptop:
+  + __Current Primary Laptop__:
     * MSI GT72 6QE, Intel® Core™ i7-6700HQ, 24GB RAM (DDR4 2133MHz), Three SSD drvies (256GB M.2 SATA, 1TB M.2 SATA, 1TB SATA), 8.4 lbs
-    
+
+  + __Secondary Laptop__:
+    * Lenovo Ideapad 110-15ACL, AMD A8-7410 2.2Ghz, 8GB RAM (1,600 MHz), 1TB SATA SSD, 4.8 lbs
+
 
 __These are the primary software programs that I typically have installed on my personal development machine...__
 
