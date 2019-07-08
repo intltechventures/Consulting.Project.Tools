@@ -1,12 +1,14 @@
 
 # My Laptop Setup    
 - Kelvin D. Meeks
-  * kmeeks@intltechventures.com
-  * http://www.intltechventures.com
+  + kmeeks@intltechventures.com
+  + http://www.intltechventures.com
 
-- These are the primary software programs that I typically have installed on my personal development machine...
-  * Current Laptop: MSI GT72 6QE, Intel® Core™ i7-6700HQ, 24GB RAM (DDR4 2133MHz), Three SSD drvies (256GB M.2 SATA, 1TB M.2 SATA, 1TB SATA), 8.4 lbs
+  + Current Laptop: 
+    * MSI GT72 6QE, Intel® Core™ i7-6700HQ, 24GB RAM (DDR4 2133MHz), Three SSD drvies (256GB M.2 SATA, 1TB M.2 SATA, 1TB SATA), 8.4 lbs
+    
 
+__These are the primary software programs that I typically have installed on my personal development machine...__
 
 
 ## Application Package Managers (evaluating...)
