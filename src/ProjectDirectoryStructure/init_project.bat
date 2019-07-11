@@ -3,7 +3,7 @@ cls
 REM 
 REM ***************************************************************************
 REM init_project.bat
-set version=1.2.0
+set version=1.2.1
 REM
 REM Client Project Directory Setup Script
 REM
@@ -132,12 +132,23 @@ mkdir admin\calendars\%year%
 
 mkdir admin\contacts
 mkdir admin\contacts\IT
+mkdir admin\contacts\IT\Architecture
+mkdir admin\contacts\IT\Engineering
+mkdir admin\contacts\IT\Operations
+mkdir admin\contacts\IT\DevOps
+mkdir admin\contacts\IT\QA
+mkdir admin\contacts\IT\Security
+mkdir admin\contacts\IT\Infrastructure
+mkdir admin\contacts\IT\Networking
+mkdir admin\contacts\PMO
 mkdir admin\contacts\SMEs
 mkdir admin\contacts\stakeholders
 mkdir admin\contacts\vendors
 
-mkdir admin\contracts\%year%\originals
-mkdir admin\contracts\%year%\signed
+mkdir admin\contracts\%year%\10_originals
+mkdir admin\contracts\%year%\20_ITV_signed
+mkdir admin\contracts\%year%\30_client_signed
+mkdir admin\contracts\%year%\40_final
 
 mkdir admin\facilities\locations
 mkdir admin\HR

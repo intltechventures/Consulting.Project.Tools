@@ -1,11 +1,14 @@
-Over the course of my career - I've had experiences that repeated themselves - in varying locations, and varying circumstance -  to such an extent - that I've long wanted to codify them for the benefit of others.    
 
-These are intended as heuristics to provide guidance when navigating the stormy seas that arise from time-to-time - in life, as well as business.   
+# Rules of Meeks
 
-Unless otherwise noted - these are all my own original thinking. 
+- Over the course of my career - I've had experiences that repeated themselves - in varying locations, and varying circumstance -  to such an extent - that I've long wanted to codify them for the benefit of others.    
 
-Rules of Meeks
-====
+- These are intended as heuristics to provide guidance when navigating the stormy seas that arise from time-to-time - in life, as well as business.   
+
+- Unless otherwise noted - these are all my own original thinking. 
+
+- I strongly suggest you read these with a sense of humor, and a frosty cold beverage of your choice...
+
 
 \#0XX - The General Purpose Rules
 ====
