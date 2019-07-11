@@ -1,18 +1,18 @@
+@ECHO off
+cls
 REM 
 REM ***************************************************************************
 REM Client Project Directory Setup Script
 REM Author: Kelvin D. Meeks
 REM Email: kmeeks@intltechventures.com 
 REM Created: 2019-06-28
-REM	Version 1.1.5
+REM Update: 2019-07-10
+REM Version 1.1.6
 REM International Technology Ventures, Inc.
 REM https://www.intltechventures.com
 REM ***************************************************************************
 REM 
-
-@ECHO off
-cls
-
+ECHO.
 ECHO You need to run this from the specific root directory, created for a specific client project
 pause
 
@@ -21,22 +21,25 @@ REM ***************************************************************************
 REM Constructing Date and Time String
 REM ***************************************************************************
 REM 
+ECHO.
+ECHO Preparing Date Fields...
 for /f %%I in ('wmic os get localdatetime ^|find "20"') do set dt=%%I
 REM dt format is assumed to be in YYYYMMDDhhmmss...
-echo %dt%
+echo "...Date/Time String: %dt%"
 
 set year=%dt:~0,4%
-echo "Year: %year%"
+echo "...Year: %year%"
 
 set month=%dt:~4,2%
-echo "Month: %month%"
+echo "...Month: %month%"
 
 set day=%dt:~6,2%
-echo "Day: %day%"
+echo "...Day: %day%"
 
 set dt=%year%-%month%-%day%
 REM dt format is now YYYY-MM-DD
-echo %dt%
+echo "YYYY-MM-DD: %dt%"
+
 
 
 REM 
@@ -53,13 +56,14 @@ REM ***************************************************************************
 REM Prepare First _journals Directory Entry
 REM	
 REM References:
-REM 	https://docs.microsoft.com/en-us/previous-versions/windows/desktop/wmitimepprov/win32-localtime
-REM			DayOfWeek
-REM				"Current day of the current week that matches the query (0 6). By convention, the value 0 is always Sunday, regardless of the culture or the locale set on the machine."
+REM https://docs.microsoft.com/en-us/previous-versions/windows/desktop/wmitimepprov/win32-localtime
+REM 
+REM	DayOfWeek
+REM	"Current day of the current week that matches the query (0 6). By convention, the value 0 is always Sunday, regardless of the culture or the locale set on the machine."
 REM ***************************************************************************
 REM 
-
-
+ECHO.
+ECHO Preparing First Journal Entry...
 REM Get Day-of-Week...
 for /F "skip=2 tokens=2-4 delims=," %%A in ('WMIC Path Win32_LocalTime Get DayOfWeek /Format:csv') do set dayNumber=%%A  
 
@@ -108,13 +112,15 @@ mkdir admin\facilities\locations
 mkdir admin\HR
 mkdir admin\invoices\%year%\%month%
 mkdir admin\invoice.payments\%year%\%month%
-mkdir admin\kudos
+mkdir admin\kudos\%year%
 mkdir admin\memos\%year%
 mkdir admin\onboarding
 mkdir admin\onboarding\laptop
 mkdir admin\onboarding\training
 mkdir admin\org_charts\%year%
 mkdir admin\policies
+mkdir admin\policies\HR
+mkdir admin\policies\Travel
 mkdir admin\procedures
 mkdir admin\proposals\%year%
 mkdir admin\recommendations\%year%
@@ -163,14 +169,20 @@ mkdir sparx\images
 
 mkdir special_projects\%year%
 
-mkdir status_reports\%year%\%month%
-
 mkdir travel\%year%\%month%
 
+touch travel\commute.txt
+ECHO. >> travel\commute.txt
+ECHO Google Map Link: Driving Route from Home to Client Office >> travel\commute.txt
+ECHO. >> travel\commute.txt
+ECHO Google Map Link: Driving Route from Client Office to Home >> travel\commute.txt
+ECHO. >> travel\commute.txt
+
 touch travel\hotels.txt
-ECHO Google Map Link: Driving Route from Home to Client Office >> travel\hotels.txt
-ECHO.
-ECHO Google Map Link: Driving Route from Client Office to Home >> travel\hotels.txt
+ECHO. >> travel\hotels.txt
+ECHO Google Map Link: Hotels in the vicinity >> travel\hotels.txt
+ECHO. >> travel\hotels.txt
+
 
 mkdir vendors
 
@@ -193,14 +205,12 @@ ECHO. >> info.txt
 echo Company URL: >> info.txt
 ECHO. >> info.txt
 ECHO. >> info.txt
-ECHO. >> info.txt
 
 echo # Employees: >> info.txt
 ECHO. >> info.txt
 echo Annual Revenue: >> info.txt
 ECHO. >> info.txt
 echo Stock Symbol: >> info.txt
-ECHO. >> info.txt
 ECHO. >> info.txt
 ECHO. >> info.txt
 
