@@ -3,7 +3,7 @@ cls
 REM 
 REM ***************************************************************************
 REM init_project.bat
-set version=1.1.9
+set version=1.2.0
 REM
 REM Client Project Directory Setup Script
 REM
@@ -158,7 +158,7 @@ mkdir admin\recommendations\%year%
 mkdir admin\training\%year%
 
 
-ECHO Preparing arhitecture\ directory entries...
+ECHO Preparing architecture\ directory entries...
 
 mkdir architecture
 
@@ -168,15 +168,20 @@ mkdir architecture\EA\APM\BU\XYZ\%year%
 mkdir architecture\EA\APM\BU\XYZ\%year%\inventory
 mkdir architecture\EA\APM\BU\XYZ\%year%\roadmap
 mkdir architecture\EA\APM\BU\XYZ\%year%\views
-
+mkdir architecture\EA\APM\BU\XYZ\%year%\assessment\TIME\_report
+mkdir architecture\EA\APM\BU\XYZ\%year%\assessment\TIME\tolerate
+mkdir architecture\EA\APM\BU\XYZ\%year%\assessment\TIME\invest
+mkdir architecture\EA\APM\BU\XYZ\%year%\assessment\TIME\migrate
+mkdir architecture\EA\APM\BU\XYZ\%year%\assessment\TIME\eliminate
 
 mkdir architecture\EA\assessments\%year%
 mkdir architecture\EA\assessments\%year%\maturity
 mkdir architecture\EA\assessments\%year%\report 
-mkdir architecture\EA\assessments\%year%\TIME\Tolerate
-mkdir architecture\EA\assessments\%year%\TIME\Invest
-mkdir architecture\EA\assessments\%year%\TIME\Migrate
-mkdir architecture\EA\assessments\%year%\TIME\Eliminate
+mkdir architecture\EA\assessments\%year%\TIME\_report
+mkdir architecture\EA\assessments\%year%\TIME\tolerate
+mkdir architecture\EA\assessments\%year%\TIME\invest
+mkdir architecture\EA\assessments\%year%\TIME\migrate
+mkdir architecture\EA\assessments\%year%\TIME\eliminate
 
 mkdir architecture\EA\documentation
 
