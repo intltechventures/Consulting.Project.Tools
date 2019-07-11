@@ -3,7 +3,7 @@ cls
 REM 
 REM ***************************************************************************
 REM init_project.bat
-REM version 1.1.8
+set version=1.1.9
 REM
 REM Client Project Directory Setup Script
 REM
@@ -25,6 +25,9 @@ REM https://github.com/intltechventures/Consulting.Project.Tools/blob/master/tax
 REM 
 REM ***************************************************************************
 REM 
+ECHO.
+ECHO Starting init_batch.bat
+ECHO Version: %version%
 ECHO.
 ECHO You need to run this from the specific root directory, created for a specific client project
 pause
@@ -233,8 +236,8 @@ ECHO Preparing background\ directory entries...
 
 mkdir background
 mkdir background\company
+mkdir background\company\locations
 mkdir background\company\products
-mkdir background\company\services
 mkdir background\company\services
 mkdir background\company\business_lines
 mkdir background\company\subsidiaries
