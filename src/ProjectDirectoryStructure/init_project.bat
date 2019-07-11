@@ -3,7 +3,7 @@ cls
 REM 
 REM ***************************************************************************
 REM init_project.bat
-REM version 1.1.7
+REM version 1.1.8
 REM
 REM Client Project Directory Setup Script
 REM
@@ -126,9 +126,16 @@ mkdir admin\_status_reports\%year%\%month%
 mkdir admin\_templates
 mkdir admin\_timesheets\%year%\%month%
 mkdir admin\calendars\%year%
+
 mkdir admin\contacts
+mkdir admin\contacts\IT
+mkdir admin\contacts\SMEs
+mkdir admin\contacts\stakeholders
+mkdir admin\contacts\vendors
+
 mkdir admin\contracts\%year%\originals
 mkdir admin\contracts\%year%\signed
+
 mkdir admin\facilities\locations
 mkdir admin\HR
 mkdir admin\invoices\%year%\%month%
@@ -152,18 +159,23 @@ ECHO Preparing arhitecture\ directory entries...
 
 mkdir architecture
 
-mkdir architecture\analysis\SWOT 
+mkdir architecture\EA\analysis\SWOT 
 
-mkdir architecture\applications
-mkdir architecture\applications\inventory\%year%
-mkdir architecture\applications\views
-mkdir architecture\applications\views\App_1
-mkdir architecture\applications\views\App_2
-mkdir architecture\applications\views\App_3
+mkdir architecture\EA\APM\BU\XYZ\%year%
+mkdir architecture\EA\APM\BU\XYZ\%year%\inventory
+mkdir architecture\EA\APM\BU\XYZ\%year%\roadmap
+mkdir architecture\EA\APM\BU\XYZ\%year%\views
 
-mkdir architecture\assessments\%year%
 
-mkdir architecture\documentation
+mkdir architecture\EA\assessments\%year%
+mkdir architecture\EA\assessments\%year%\maturity
+mkdir architecture\EA\assessments\%year%\report 
+mkdir architecture\EA\assessments\%year%\TIME\Tolerate
+mkdir architecture\EA\assessments\%year%\TIME\Invest
+mkdir architecture\EA\assessments\%year%\TIME\Migrate
+mkdir architecture\EA\assessments\%year%\TIME\Eliminate
+
+mkdir architecture\EA\documentation
 
 mkdir architecture\EA\governance\TGB\meetings\%year%\%month%
 mkdir architecture\EA\governance\TGB\members\%year%
@@ -183,7 +195,7 @@ mkdir architecture\EA\governance\procedures
 
 mkdir architecture\EA\roadmap\%year%
 mkdir architecture\EA\roadmap\%year%\AS-IS
-mkdir architecture\EA\roadmap\%yar%\TO-BE
+mkdir architecture\EA\roadmap\%year%\TO-BE
 
 mkdir architecture\EA\seminars\%year%\%month%
 
@@ -200,6 +212,8 @@ mkdir architecture\infrastructure
 
 mkdir architecture\references
 
+mkdir architecture\references\OSS
+
 mkdir architecture\references\shared_services
 mkdir architecture\references\shared_services\alerting
 mkdir architecture\references\shared_services\authentication
@@ -208,22 +222,25 @@ mkdir architecture\references\shared_services\ETL
 mkdir architecture\references\shared_services\low_code
 mkdir architecture\references\shared_services\messaging
 mkdir architecture\references\shared_services\MFT
+mkdir architecture\references\shared_services\monitoring
 mkdir architecture\references\shared_services\scheduling
 mkdir architecture\references\shared_services\SMS
 mkdir architecture\references\shared_services\workflow
-
-mkdir architecture\references\operations
-mkdir architecture\references\operations\monitoring
-mkdir architecture\references\operations\
 
 mkdir architecture\security
 
 ECHO Preparing background\ directory entries...
 
 mkdir background
-mkdir background\_profiles
 mkdir background\company
+mkdir background\company\products
+mkdir background\company\services
+mkdir background\company\services
+mkdir background\company\business_lines
+mkdir background\company\subsidiaries
+mkdir background\company\partnerships
 mkdir background\glassdoor.com
+mkdir background\linkedin.com\profiles
 mkdir background\news.company\%year%\%month%
 mkdir background\news.competitors\%year%\%month%
 mkdir background\news.industry\%year%\%month%
@@ -242,7 +259,7 @@ mkdir engineering\CD
 mkdir engineering\coding
 mkdir engineering\coding\standards
 mkdir engineering\UX
-mkdir engineering\UX\standards
+mkdir engineering\UI\standards
 
 mkdir gitrepos
 
@@ -250,8 +267,21 @@ ECHO Preparing remaining misc. directory entries...
 
 mkdir presentations\%year%
 
+
 mkdir references
 mkdir references\regulatory
+mkdir references\DevOps
+mkdir references\operations
+mkdir references\operationsmonitoring
+mkdir references\operationsjobs
+mkdir references\operationsjobs\ad_hoc
+mkdir references\operationsjobs\daily
+mkdir references\operationsjobs\weekly
+mkdir references\operationsjobs\quarterly
+mkdir references\operationsjobs\monthly
+mkdir references\operationsjobs\yearly
+mkdir references\tips
+
 
 mkdir research\%year%
 
