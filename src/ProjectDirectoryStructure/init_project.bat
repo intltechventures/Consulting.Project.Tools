@@ -2,14 +2,27 @@
 cls
 REM 
 REM ***************************************************************************
+REM init_project.bat
+REM version 1.1.7
+REM
 REM Client Project Directory Setup Script
-REM Author: Kelvin D. Meeks
-REM Email: kmeeks@intltechventures.com 
-REM Created: 2019-06-28
-REM Update: 2019-07-10
-REM Version 1.1.6
+REM
 REM International Technology Ventures, Inc.
 REM https://www.intltechventures.com
+REM
+REM Author: Kelvin D. Meeks
+REM Email: kmeeks@intltechventures.com 
+REM
+REM Created: 2019-06-28
+REM Update:  2019-07-10
+REM
+REM github 
+REM https://github.com/intltechventures/Consulting.Project.Tools/blob/master/src/ProjectDirectoryStructure/init_project.bat
+REM
+REM TO-DO:
+REM Incorporate additional ideas from:
+REM https://github.com/intltechventures/Consulting.Project.Tools/blob/master/taxonomies/ClassificationCodes.md
+REM 
 REM ***************************************************************************
 REM 
 ECHO.
@@ -47,7 +60,8 @@ REM ***************************************************************************
 REM Prepare _journals Directory
 REM ***************************************************************************
 REM 
-
+ECHO.
+ECHO Preparing _journals\%year%\%month% folder...
 mkdir _journals\%year%\%month%
 
 
@@ -75,22 +89,27 @@ if %dayNumber% == 3 set dayName=Wednesday
 if %dayNumber% == 4 set dayName=Thursday
 if %dayNumber% == 5 set dayName=Friday
 if %dayNumber% == 6 set dayName=Saturday
-echo Set Day Name: %dayName%
+echo "...Day Name Set: %dayName%"
 
 if exist _journals\%year%\%month%\%dt%.txt goto SKIP_JOURNAL_CREATION
+ECHO "...Creating Journal File: _journals\%year%\%month%\%dt%.txt"
 
-touch _journals\%year%\%month%\%dt%.txt
-echo. >> _journals\%year%\%month%\%dt%.txt
 
-set journal_header=%dt% %dayName%
-echo %journal_header% >> _journals\%year%\%month%\%dt%.txt
+TOUCH _journals\%year%\%month%\%dt%.txt
+ECHO. >> _journals\%year%\%month%\%dt%.txt
+
+SET journal_header=%dt% %dayName%
+ECHO %journal_header% >> _journals\%year%\%month%\%dt%.txt
 
 REM Get just the current directory name (not the full path) - as the client name
 for %%I in (.) do set client=%%~nxI
-echo Client: %client% >> _journals\%year%\%month%\%dt%.txt
+ECHO Client: %client% >> _journals\%year%\%month%\%dt%.txt
 
+ECHO Location: >> _journals\%year%\%month%\%dt%.txt
+ECHO. >> _journals\%year%\%month%\%dt%.txt
 
-echo Location: >> _journals\%year%\%month%\%dt%.txt
+ECHO 09:00- >> _journals\%year%\%month%\%dt%.txt
+ECHO. >> _journals\%year%\%month%\%dt%.txt
 
 :SKIP_JOURNAL_CREATION
 
@@ -99,6 +118,8 @@ REM ***************************************************************************
 REM Prepare other initial directories
 REM ***************************************************************************
 REM 
+ECHO.
+ECHO Preparing admin\ directory entries...
 
 mkdir admin
 mkdir admin\_status_reports\%year%\%month%
@@ -127,24 +148,77 @@ mkdir admin\recommendations\%year%
 mkdir admin\training\%year%
 
 
+ECHO Preparing arhitecture\ directory entries...
+
 mkdir architecture
+
 mkdir architecture\analysis\SWOT 
+
 mkdir architecture\applications
 mkdir architecture\applications\inventory\%year%
+mkdir architecture\applications\views
+mkdir architecture\applications\views\App_1
+mkdir architecture\applications\views\App_2
+mkdir architecture\applications\views\App_3
+
 mkdir architecture\assessments\%year%
+
 mkdir architecture\documentation
-mkdir architecture\EA\governance\TGB\%year%\%month%
+
+mkdir architecture\EA\governance\TGB\meetings\%year%\%month%
+mkdir architecture\EA\governance\TGB\members\%year%
 mkdir architecture\EA\governance\TGB\process
-mkdir architecture\EA\governance\ARB\%year%\%month%
+mkdir architecture\EA\governance\TGB\schedule\%year%
+
+mkdir architecture\EA\governance\ARB\meetings\%year%\%month%
+mkdir architecture\EA\governance\ARB\members\%year%
 mkdir architecture\EA\governance\ARB\process
+mkdir architecture\EA\governance\ARB\schedule\%year%
+
+mkdir architecture\EA\governance\principles
 mkdir architecture\EA\governance\policies
 mkdir architecture\EA\governance\standards
 mkdir architecture\EA\governance\specifications
 mkdir architecture\EA\governance\procedures
+
+mkdir architecture\EA\roadmap\%year%
+mkdir architecture\EA\roadmap\%year%\AS-IS
+mkdir architecture\EA\roadmap\%yar%\TO-BE
+
+mkdir architecture\EA\seminars\%year%\%month%
+
+mkdir architecture\EA\views
+mkdir architecture\EA\views\conceptual
+mkdir architecture\EA\views\endpoints
+mkdir architecture\EA\views\data
+mkdir architecture\EA\views\data_flows
+mkdir architecture\EA\views\infrastructure
+mkdir architecture\EA\views\processes
+mkdir architecture\EA\views\security
+
 mkdir architecture\infrastructure
+
 mkdir architecture\references
+
+mkdir architecture\references\shared_services
+mkdir architecture\references\shared_services\alerting
+mkdir architecture\references\shared_services\authentication
+mkdir architecture\references\shared_services\authorization
+mkdir architecture\references\shared_services\ETL
+mkdir architecture\references\shared_services\low_code
+mkdir architecture\references\shared_services\messaging
+mkdir architecture\references\shared_services\MFT
+mkdir architecture\references\shared_services\scheduling
+mkdir architecture\references\shared_services\SMS
+mkdir architecture\references\shared_services\workflow
+
+mkdir architecture\references\operations
+mkdir architecture\references\operations\monitoring
+mkdir architecture\references\operations\
+
 mkdir architecture\security
 
+ECHO Preparing background\ directory entries...
 
 mkdir background
 mkdir background\_profiles
@@ -155,17 +229,35 @@ mkdir background\news.competitors\%year%\%month%
 mkdir background\news.industry\%year%\%month%
 
 
+ECHO Preparing engineering\ directory entries...
+
+mkdir engineering
+mkdir engineering\governance
+mkdir engineering\governance\principles
+mkdir engineering\governance\policies
+mkdir engineering\governance\standards
+mkdir engineering\governance\specifications
+mkdir engineering\CI
+mkdir engineering\CD
+mkdir engineering\coding
+mkdir engineering\coding\standards
+mkdir engineering\UX
+mkdir engineering\UX\standards
+
+mkdir gitrepos
+
+ECHO Preparing remaining misc. directory entries...
+
 mkdir presentations\%year%
 
 mkdir references
 mkdir references\regulatory
 
-mkdir research
+mkdir research\%year%
 
 mkdir sparx\models
 mkdir sparx\reports
 mkdir sparx\images
-
 
 mkdir special_projects\%year%
 
@@ -183,7 +275,6 @@ ECHO. >> travel\hotels.txt
 ECHO Google Map Link: Hotels in the vicinity >> travel\hotels.txt
 ECHO. >> travel\hotels.txt
 
-
 mkdir vendors
 
 
@@ -194,6 +285,8 @@ REM ***************************************************************************
 REM 
 
 if exist info.txt goto END_JOB
+ECHO.
+ECHO Preparing info.txt skeleton...
 
 touch info.txt
 ECHO. >> info.txt
