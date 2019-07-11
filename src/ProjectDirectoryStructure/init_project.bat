@@ -4,6 +4,7 @@ REM Client Project Directory Setup Script
 REM Author: Kelvin D. Meeks
 REM Email: kmeeks@intltechventures.com 
 REM Created: 2019-06-28
+REM	Version 1.1.5
 REM International Technology Ventures, Inc.
 REM https://www.intltechventures.com
 REM ***************************************************************************
@@ -105,34 +106,72 @@ mkdir admin\contracts\%year%\originals
 mkdir admin\contracts\%year%\signed
 mkdir admin\facilities\locations
 mkdir admin\HR
+mkdir admin\invoices\%year%\%month%
+mkdir admin\invoice.payments\%year%\%month%
 mkdir admin\kudos
 mkdir admin\memos\%year%
 mkdir admin\onboarding
 mkdir admin\onboarding\laptop
 mkdir admin\onboarding\training
-mkdir admin\org_charts
+mkdir admin\org_charts\%year%
 mkdir admin\policies
 mkdir admin\procedures
-mkdir admin\proposals
+mkdir admin\proposals\%year%
+mkdir admin\recommendations\%year%
 mkdir admin\training\%year%
 
+
+mkdir architecture
+mkdir architecture\analysis\SWOT 
+mkdir architecture\applications
+mkdir architecture\applications\inventory\%year%
+mkdir architecture\assessments\%year%
+mkdir architecture\documentation
+mkdir architecture\EA\governance\TGB\%year%\%month%
+mkdir architecture\EA\governance\TGB\process
+mkdir architecture\EA\governance\ARB\%year%\%month%
+mkdir architecture\EA\governance\ARB\process
+mkdir architecture\EA\governance\policies
+mkdir architecture\EA\governance\standards
+mkdir architecture\EA\governance\specifications
+mkdir architecture\EA\governance\procedures
+mkdir architecture\infrastructure
+mkdir architecture\references
+mkdir architecture\security
+
+
 mkdir background
-mkdir background\company
 mkdir background\_profiles
+mkdir background\company
 mkdir background\glassdoor.com
 mkdir background\news.company\%year%\%month%
 mkdir background\news.competitors\%year%\%month%
-mkdir background\news.industry%year%\%month%
+mkdir background\news.industry\%year%\%month%
 
-mkdir invoices\%year%\%month%
-mkdir invoice.payments\%year%\%month%
 
-mkdir presentations
+mkdir presentations\%year%
+
 mkdir references
+mkdir references\regulatory
+
 mkdir research
-mkdir sparx
-mkdir special_projects\%year%\
-mkdir travel\%year%\
+
+mkdir sparx\models
+mkdir sparx\reports
+mkdir sparx\images
+
+
+mkdir special_projects\%year%
+
+mkdir status_reports\%year%\%month%
+
+mkdir travel\%year%\%month%
+
+touch travel\hotels.txt
+ECHO Google Map Link: Driving Route from Home to Client Office >> travel\hotels.txt
+ECHO.
+ECHO Google Map Link: Driving Route from Client Office to Home >> travel\hotels.txt
+
 mkdir vendors
 
 
@@ -145,56 +184,83 @@ REM
 if exist info.txt goto END_JOB
 
 touch info.txt
-echo. >> info.txt
+ECHO. >> info.txt
+ECHO. >> info.txt
 echo Client Name: %1 >> info.txt
+ECHO. >> info.txt
 echo Address: >> info.txt
+ECHO. >> info.txt
 echo Company URL: >> info.txt
-echo. >> info.txt
-echo. >> info.txt
+ECHO. >> info.txt
+ECHO. >> info.txt
+ECHO. >> info.txt
 
 echo # Employees: >> info.txt
+ECHO. >> info.txt
 echo Annual Revenue: >> info.txt
+ECHO. >> info.txt
 echo Stock Symbol: >> info.txt
-echo. >> info.txt
-echo. >> info.txt
-echo. >> info.txt
+ECHO. >> info.txt
+ECHO. >> info.txt
+ECHO. >> info.txt
 
 echo Opportunity Source: >> info.txt
-echo. >> info.txt
-echo. >> info.txt
+ECHO. >> info.txt
+ECHO. >> info.txt
 
 echo Start Date: >> info.txt 
+ECHO. >> info.txt
 echo End Date: >> info.txt
+ECHO. >> info.txt
 echo Subcontracting Firm: >> info.txt
+ECHO. >> info.txt
 echo Rate: >> info.txt
-echo. >> info.txt
-echo. >> info.txt
+ECHO. >> info.txt
+ECHO. >> info.txt
+
 
 echo Help Desk: >> info.txt
-echo. >> info.txt
+ECHO. >> info.txt
 
-echo Directions: >> info.txt
-echo. >> info.txt
+echo Building/Facilities: >> info.txt
+ECHO. >> info.txt
+
+echo Building/Security: >> info.txt
+ECHO. >> info.txt
+
+
+echo Directions [Google Map Link]: >> info.txt
+ECHO. >> info.txt
 
 echo Time Tracking URL: >> info.txt
-echo. >> info.txt
+ECHO. >> info.txt
 
 echo Web Email URL: >> info.txt
-echo. >> info.txt
+ECHO. >> info.txt
 
 echo Corporate Network Access: >> info.txt
-echo. >> info.txt
+ECHO. >> info.txt
 
 echo VPN Access: >> info.txt
-echo. >> info.txt
+ECHO. >> info.txt
 
 echo Login Account Details: >> info.txt
-echo. >> info.txt
+ECHO. >> info.txt
+
+
+ECHO Travel Company: >> info.txt
+ECHO Reservations Number: >> info.txt 
+ECHO Reservations URL: >> info.txt 
+ECHO Corporate Account ID: >> info.txt 
+ECHO. >> info.txt
+
 
 echo Guest WiFi SID: >> info.txt
 echo Guest WiFi User ID: >> info.txt
 echo Guest WiFi Password: >> info.txt
-echo. >> info.txt
+ECHO. >> info.txt
+
 
 :END_JOB
-echo Finished!
+ECHO. 
+ECHO Finished!
