@@ -3,7 +3,7 @@ cls
 REM 
 REM ***************************************************************************
 REM init_project.bat
-set version=1.2.3
+set version=1.2.4
 REM
 REM Client Project Directory Setup Script
 REM
@@ -14,7 +14,7 @@ REM Author: Kelvin D. Meeks
 REM Email: kmeeks@intltechventures.com 
 REM
 REM Created: 2019-06-28
-REM Update:  2019-07-14
+REM Update:  2019-07-15
 REM
 REM github 
 REM https://github.com/intltechventures/Consulting.Project.Tools/blob/master/src/ProjectDirectoryStructure/init_project.bat
@@ -121,6 +121,10 @@ REM ***************************************************************************
 REM Prepare other initial directories
 REM ***************************************************************************
 REM 
+
+
+REM ***************************************************************************
+REM 
 ECHO.
 ECHO Preparing admin\ directory entries...
 
@@ -170,6 +174,10 @@ mkdir admin\recommendations\%year%
 mkdir admin\training\%year%
 
 
+
+REM ***************************************************************************
+REM 
+ECHO.
 ECHO Preparing architecture\ directory entries...
 
 mkdir architecture
@@ -249,6 +257,10 @@ mkdir architecture\references\shared_services\workflow
 
 mkdir architecture\security
 
+
+REM ***************************************************************************
+REM 
+ECHO.
 ECHO Preparing background\ directory entries...
 
 mkdir background
@@ -266,6 +278,10 @@ mkdir background\news.competitors\%year%\%month%
 mkdir background\news.industry\%year%\%month%
 
 
+
+REM ***************************************************************************
+REM 
+ECHO.
 ECHO Preparing engineering\ directory entries...
 
 mkdir engineering
@@ -283,10 +299,17 @@ mkdir engineering\UI\standards
 
 mkdir gitrepos
 
+REM ***************************************************************************
+REM 
+ECHO.
 ECHO Preparing remaining misc. directory entries...
 
-mkdir presentations\%year%
 
+mkdir deliverables\%year%
+
+mkdir planning\%year%
+
+mkdir presentations\%year%
 
 mkdir references
 mkdir references\regulatory
@@ -301,7 +324,6 @@ mkdir references\operationsjobs\quarterly
 mkdir references\operationsjobs\monthly
 mkdir references\operationsjobs\yearly
 mkdir references\tips
-
 
 mkdir research\%year%
 
@@ -335,6 +357,9 @@ REM ***************************************************************************
 REM 
 
 if exist info.txt goto END_JOB
+
+REM ***************************************************************************
+REM 
 ECHO.
 ECHO Preparing info.txt skeleton...
 
@@ -342,17 +367,28 @@ touch info.txt
 ECHO. >> info.txt
 ECHO. >> info.txt
 echo Client Name: %1 >> info.txt
+
 ECHO. >> info.txt
 echo Address: >> info.txt
+
 ECHO. >> info.txt
 echo Company URL: >> info.txt
+
+ECHO. >> info.txt
+echo Company URL, Executive Leadership Team: >> info.txt
+
+ECHO. >> info.txt
+echo Company LinkedIn URL: >> info.txt
+
 ECHO. >> info.txt
 ECHO. >> info.txt
 
 echo # Employees: >> info.txt
 ECHO. >> info.txt
+
 echo Annual Revenue: >> info.txt
 ECHO. >> info.txt
+
 echo Stock Symbol: >> info.txt
 ECHO. >> info.txt
 ECHO. >> info.txt
