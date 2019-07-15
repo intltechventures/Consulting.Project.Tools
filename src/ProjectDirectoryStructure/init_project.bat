@@ -3,7 +3,7 @@ cls
 REM 
 REM ***************************************************************************
 REM init_project.bat
-set version=1.2.2
+set version=1.2.3
 REM
 REM Client Project Directory Setup Script
 REM
@@ -14,7 +14,7 @@ REM Author: Kelvin D. Meeks
 REM Email: kmeeks@intltechventures.com 
 REM
 REM Created: 2019-06-28
-REM Update:  2019-07-10
+REM Update:  2019-07-14
 REM
 REM github 
 REM https://github.com/intltechventures/Consulting.Project.Tools/blob/master/src/ProjectDirectoryStructure/init_project.bat
@@ -363,27 +363,34 @@ ECHO. >> info.txt
 
 echo Start Date: >> info.txt 
 ECHO. >> info.txt
+
 echo End Date: >> info.txt
 ECHO. >> info.txt
+
 echo Subcontracting Firm: >> info.txt
 ECHO. >> info.txt
+
+
 echo Rate: >> info.txt
 ECHO. >> info.txt
 ECHO. >> info.txt
 
 
-echo Help Desk: >> info.txt
+echo Building - Help Desk: >> info.txt
 ECHO. >> info.txt
 
-echo Building/Facilities: >> info.txt
+echo Building - Facilities: >> info.txt
 ECHO. >> info.txt
 
-echo Building/Security: >> info.txt
+echo Building - Security: >> info.txt
 ECHO. >> info.txt
 
-
-echo Directions [Google Map Link]: >> info.txt
+echo Building - Parking: >> info.txt
 ECHO. >> info.txt
+
+echo Building - Directions [Google Map Link]: >> info.txt
+ECHO. >> info.txt
+
 
 echo Time Tracking URL: >> info.txt
 ECHO. >> info.txt
