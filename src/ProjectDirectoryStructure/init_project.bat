@@ -380,7 +380,13 @@ echo Company URL, Executive Leadership Team: >> info.txt
 ECHO. >> info.txt
 echo Company LinkedIn URL: >> info.txt
 
+echo Glassoor URL: >> info.txt
 ECHO. >> info.txt
+
+ECHO. >> info.txt
+ECHO. >> info.txt
+
+echo Date Founded: >> info.txt
 ECHO. >> info.txt
 
 echo # Employees: >> info.txt
@@ -403,14 +409,15 @@ ECHO. >> info.txt
 echo End Date: >> info.txt
 ECHO. >> info.txt
 
-echo Subcontracting Firm: >> info.txt
+ECHO Subcontracting Firm: >> info.txt
 ECHO. >> info.txt
-
 
 echo Rate: >> info.txt
 ECHO. >> info.txt
-ECHO. >> info.txt
 
+echo Invoice Submission Email: >> info.txt
+ECHO. >> info.txt 
+ECHO. >> info.txt
 
 echo Building - Help Desk: >> info.txt
 ECHO. >> info.txt
