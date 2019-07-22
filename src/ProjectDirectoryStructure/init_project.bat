@@ -3,7 +3,7 @@ cls
 REM 
 REM ***************************************************************************
 REM init_project.bat
-set version=1.2.4
+set version=1.2.5
 REM
 REM Client Project Directory Setup Script
 REM
@@ -14,7 +14,7 @@ REM Author: Kelvin D. Meeks
 REM Email: kmeeks@intltechventures.com 
 REM
 REM Created: 2019-06-28
-REM Update:  2019-07-15
+REM Update:  2019-07-22
 REM
 REM github 
 REM https://github.com/intltechventures/Consulting.Project.Tools/blob/master/src/ProjectDirectoryStructure/init_project.bat
@@ -264,13 +264,16 @@ ECHO.
 ECHO Preparing background\ directory entries...
 
 mkdir background
+mkdir background\BBB.org\%year%
 mkdir background\company
+mkdir background\company\collateral
 mkdir background\company\locations
 mkdir background\company\products
 mkdir background\company\services
 mkdir background\company\business_lines
 mkdir background\company\subsidiaries
 mkdir background\company\partnerships
+mkdir background\company\www
 mkdir background\glassdoor.com
 mkdir background\linkedin.com\profiles
 mkdir background\news.company\%year%\%month%
