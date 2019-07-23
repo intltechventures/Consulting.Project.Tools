@@ -1,7 +1,6 @@
 
 # Glossary
 
-
 |Term | Definition|
 |-----|-----------|
 ABC         | Activity Based Costing
@@ -249,6 +248,7 @@ SSH         | Secure Shell
 SSP         | System Security Plan
 SW          | Software
 SWAG        | Silly Wild-Ass Guess (also see ROM), aka an estimate 
+TAM         | Total Addressable Market
 TCV         | Total Contract Value (TCV) 
 TDD         | Test-Driven-Development
 TGB         | Technology Governance Boarda
