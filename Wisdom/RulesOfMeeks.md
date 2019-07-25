@@ -71,7 +71,7 @@
 **\#006 - "Listen more than you talk"**
 
 
-**\#007 - "No job is worth sacrificing your Family, Friends, Integrity"**
+**\#007 - "No job is worth sacrificing your Family, Friends, Health, or Integrity"**
 
 
 **\#008 - "Life is too short to put up with shitty tools"**
