@@ -265,7 +265,7 @@
 * [Ellen Ripley, Aliens](https://www.youtube.com/watch?v=nnHmUk_J6xQ)
 
 
-**\#997 - "Two in the head, one in the heart" **
+**\#997 - "Two in the head, one in the heart"**
 * Modification of the [Zombieland Double-Tap rule #2]( http://zombie.wikia.com/wiki/Zombieland_Survival_Rules).  You know, for the zombie apocalypse...
 
 
