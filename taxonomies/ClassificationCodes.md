@@ -35,7 +35,9 @@ My ideas for this were stimulated and informed by the practical and real-world *
 I plan to continue refactoring and evolving this to provide a better organization and grouping.  However, since this may give someone a useful starting point, I'm publishing it as-is for now.
 
 ___
-Usage: Consider for a moment that you are assigned a role on a massively large project. How do you even begin to organize your thoughts, artifacts, and work-streams?  
+**Usage Senarios:**
+
+Consider for a moment that you are assigned a role on a massively large project. How do you even begin to organize your thoughts, artifacts, and work-streams?  
 
 Now, imagine that these kinds of massively large (or even just fairly large) projects occur with some frequency - either within your organization - or in different organizations, over the arc of your career. 
 
@@ -47,7 +49,9 @@ Also consider, how much easier it would be to 'harvest' or 'borrow' pre-existing
 
 Now you may have a glimmer of a glimpse into why I believe having a system of naming things is important. 
 
-Note: These codes are not intended as the final designation for a given artifact. For each artifact, you could simply append a sequentially assigned discriminator - or a unique document name. The utility is in being able to quickly know where to search across a large corpus of artifacts and documents (potentially spanning multiple very large projects) - and locate those artifacts which are germaine to your need/focus. 
+Another possible usage for the classification codes - as keywords associated to documents - which could provide a consistent naming convention for tagging and searching for similar types of content.
+
+These codes are not intended as the final designation for a given artifact. For each artifact, you could simply append a sequentially assigned discriminator - or a unique document name. The utility is in being able to quickly know where to search across a large corpus of artifacts and documents (potentially spanning multiple very large projects) - and locate those artifacts which are germaine to your need/focus. 
 
 For example:   
 * A document named  with a prefix of "AA.00.10.010 - some document_name"  
