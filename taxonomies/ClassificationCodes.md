@@ -553,12 +553,56 @@ ___
 - Non-Functional Requirements
   + http://en.wikipedia.org/wiki/Non-functional_requirement
 
+- Wikipedia Articles
+  + https://en.wikipedia.org/wiki/Enterprise_architecture_artifacts
 
 
 ### Academic Papers
+(For further/future research)
+
+- TO-DO: 
+  * Continue to Locate/Add links to useful resources here...
+  * Review these citations for ideas to incoporate...
+
+
+- G. Antunes, et al. Ontology-based enterprise architecture model analysis. In Proceedings of the 29th Annual ACM Symposium on Applied Computing, 2014.
+  + https://dl.acm.org/citation.cfm?doid=2554850.2555176
+  + DOI:10.1145/2554850.2555176
+
+
+- M. Bakhshandeh. Ontology-driven Analysisof Enterprise Architecture Models. PhD Thesis, UNIVERSIDADE DE LISBOAINSTITUTO SUPERIOR T ́ECNICO, 2016.
+  + https://www.inesc-id.pt/publications/12470/pdf/
+
+- S. Buckl, F. Matthes, and C. M. Schweda. Conceptual models for cross-cutting aspects in enterprise architecture modeling. In 14th IEEE Enterprise Distributed Object Computing
+Conference, 2010.
+- S. Buckl, C. M. Schweda, and F. Matthes. A design theory nexus for situational enterprise architecture management. In 14th IEEE Enterprise Distributed Object Computing
+Conference, 2010
+
+- M. Fox, M. Grueninger, K. Kosanke, J. Nell, "Ontologies for enterprise modelling", Enterprise Engineering and Integration ser. Research Reports Esprit, pp. 190-200, 1997.
+
+- M. Galster. Dependencies, traceability and consistency in software architecture: towards a view-based perspective. In Proceedings of the 5th European Conference on Software
+Architecture, 2011
+
+- H. Hoang, J. Jung, and C. Tran. Ontology-based approaches for cross-enterprise collaboration: a literature review on semantic business process management. Enterprise Information
+Systems, pages 1–17, 2013
+
+
+- M. Kaczmarek. Categories of Ontologies' Applications in the Realm of Enterprise Modeling. In IEEE 17th Conference on Business Informatics, 2015
+  + https://ieeexplore.ieee.org/document/7264721
+  + DOI: 10.1109/CBI.2015.47 
+
+- S. Oussena, J. Essien. Validating enterprise architecture using ontology-based approach: A case study of student internship programme. 3rd International Symposium ISKO-Maghreb, 2013.
+  + https://ieeexplore.ieee.org/document/6728200
+  + DOI: 10.1109/ISKO-Maghreb.2013.6728200 
+
+- J. Saat, U. Franke, R. Lagerstrom, and M. Ekstedt. Enterprise architecture meta models for it/business alignment situations. In 14th IEEE Enterprise Distributed Object Computing
+Conference, 2010
+
+
+### Interesting Non-Academic Articles, Blog Posts, etc.
 - TO-DO: Locate/Add links to useful resources here...
 
 
-### Interesting/Related Articles
-- TO-DO: Locate/Add links to useful resources  here...
+### Suggested Books
+- TO-DO: Locate/Add links to useful resources here...
 
