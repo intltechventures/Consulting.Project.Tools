@@ -16,7 +16,7 @@ Author: Kelvin D. Meeks
 
 
 ___
-This is an illustrative (but not exhaustive) set of alphanumeric classification codes to provide general guidance, across the enterprise, in devising an approach to organizing artifact with a consistent identification strategy.
+This is an **illustrative (but not exhaustive)** set of alphanumeric classification codes to provide general guidance, across the enterprise, in devising an approach to organizing artifact with a consistent identification strategy.
 
 Goal & Purpose: To improve the efficiency of team membersin being able to locate/reuse  artifacts - within a project, and to be able to easily locate  artificats of a similar type/cateogry in other projects. 
 
@@ -40,8 +40,11 @@ Note: These codes are not intended as the final designation for a given artifact
 
 For example:   
 * A document named  with a prefix of "AA.00.10.100 - some document_name"  
-* might reside in a directory structure \AA\00\10\
-* The "AA.00.10.100" prefix  would clearying inicate that this document was related to Business Definition > Core Aspects > Business Scope
+* might reside in a directory structure \AA\00\10\100\
+* or, even it were to be dumped in some higher-level folder - by virtue of the prefix, the sort-ordering of the directory would make locating a document for a given subject matter a relatively painless task.
+* The "AA.00.10.100" prefix would clearying inicate that this document was related to Business Definition > Core Aspects > Business Scope
+
+Over time, teams would come to know the numbering scheme - and would be able to easily locate documents based on their growing familiarity of the taxonomy. 
 ___
 
 
