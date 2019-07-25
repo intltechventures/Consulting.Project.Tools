@@ -1,7 +1,7 @@
 # Artifact Classification Codes - A Taxonomy
 
 Copyright 2016-2019, International Technology Ventures, Inc.  
-Release under [The MIT License](https://opensource.org/licenses/MIT)
+Releassed under [The MIT License](https://opensource.org/licenses/MIT)
 
 A potentially useful resource for helping large organizations/ teams better organize artifacts and details for large-scale projects (such as Proposal Development, RFP Responses, Architecture, Requirements, High Level Design, Detail Level Design, Test Plans, Operations, Training, etc.)  
 
