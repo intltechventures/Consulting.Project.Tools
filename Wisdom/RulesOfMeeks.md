@@ -14,6 +14,8 @@
 ====
 
 \#1 - "Always assume they are lying bastards - and then seek to prove that assumption false."
+
+* Now, you might imagine that this is phrased too negatively for your gentle sensibilities. But, listen here cupcake, you would be wrong. Focus on the positive - which is the second part of the rule.
 * This rule arose from my repeated experience of dealing with unscrupulous carpet-bagger software sales reps - who often would literally make claims about the capabilities of software systems they were selling, which did not yet exist (aka as "Vaporware").  
 * Over time, I've found that application of this rule to many situations - in particular, the verification admonition - would have saved me untold buckets of grief. For example:
   * Verbal promises? Get it in writing.
@@ -32,10 +34,12 @@
 * Also see [Leroy Jethro Gibb, NCIS, Rule #3](http://ncis.wikia.com/wiki/Gibbs%27s_Rules) 
   * "Don't believe what you're told. Double check" - Gibbs
 
+
 \#2 - "Never share something with someone, unless you expect them to act on it"
 
 
 \#3 - "When in doubt about an estimate, multiply by three"
+
 * This is hard-won wisdom that has proven itself again, and again.
 * This rule originated with my own early experiences trying to estimate software development tasks for myself - and over time, I learned that it was pretty damn good heuristic for many of the developers that I managed (at least  until they established  a higher level of reliability).
 * 9 times out of 10, when you ask someone for an estimate - if they are honest, dilligent, and have confidence in their skill - they will be naturally optimistic. However, in my experience, most managers (and, engineers/developers) do not adequately include sufficient contingency (if at all) in their plans for the following:
@@ -215,8 +219,8 @@
 \#9xx - The Emergency Rules
 ====
 
-\#901 - "Your All-Purpose Survival Kit: Improvise, Adapt, Overcome"
-
+\#901 - Your All-Purpose Survival Kit: "Improvise, Overcome, Adapt"
+* A tip of the hat to [Marine Sgt. Thomas Highway (Clint Eastwood), Heartbreak Ridge (1986)](https://www.imdb.com/title/tt0091187/)
 
 \#902 - "Always know your exits"
 
@@ -226,6 +230,7 @@
 
 
 \#904 - "Always carry a knife"
+* See [Gibbs Rule #9](http://ncis.wikia.com/wiki/Gibbs%27s_Rules)
 
 
 \#905 - "Priorities: Shelter, Water, Food, Fire"
@@ -234,6 +239,7 @@
 \#993 - "If you want to survive out here, you’ve got to know where your towel is"
   * "... a towel has immense psychological value. For some reason, if a strag (strag: nonhitchhiker) discovers that a hitchhiker has his towel with him, he will automatically assume that he is also in possession of a toothbrush, washcloth, soap, tin of biscuits, flask, compass, map, ball of string, gnat spray, wet-weather gear, space suit etc., etc. Furthermore, the strag will then happily lend the hitchhiker any of these or a dozen other items that the hitchhiker might accidentally have "lost". What the strag will think is that any man who can hitch the length and breadth of the galaxy, rough it, slum it, struggle against terrible odds, win through, and still knows where his towel is, is clearly a man to be reckoned with."  
   * [The Hitchhiker's Guide to the Galaxy ](https://en.wikiquote.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(film))
+
 
 \#994 - "A wounded animal can heal - and attack again"
 
