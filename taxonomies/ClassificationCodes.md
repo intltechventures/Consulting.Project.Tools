@@ -42,7 +42,7 @@ Also consider, how much easier it would be to 'harvest' or 'borrow' pre-existing
 
 Now you may have a glimmer of a glimpse into why I believe having a system of naming things is important. 
 
-Note: These codes are not intended as the final designation for a given artifact. For each artifact, you could simply append a sequentially assigned discriminator - or a unique document name. The utility is in being able to quickly (an consistently) search across a large corpus of artifacts and documents (potentially spanning multiple very large projects) - and locate those artifacts which are germaine to your focus. 
+Note: These codes are not intended as the final designation for a given artifact. For each artifact, you could simply append a sequentially assigned discriminator - or a unique document name. The utility is in being able to quickly know where to search across a large corpus of artifacts and documents (potentially spanning multiple very large projects) - and locate those artifacts which are germaine to your need/focus. 
 
 For example:   
 * A document named  with a prefix of "AA.00.10.010 - some document_name"  
@@ -533,7 +533,7 @@ ___
 
 ___
 
-## Referneces
+## Additional References
 
 ### Additional Sources for Ideas:   
 
@@ -551,6 +551,6 @@ ___
 - TO-DO: Locate/Add links to useful resources here...
 
 
-### Articles
+### Interesting/Related Articles
 - TO-DO: Locate/Add links to useful resources  here...
 
