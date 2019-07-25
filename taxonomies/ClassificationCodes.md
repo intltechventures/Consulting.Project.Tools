@@ -1,24 +1,25 @@
 # Artifact Classification Codes - A Taxonomy
 
-Copyright 2016, Kelvin D. Meeks   
-Release under The MIT License (MIT)
+Copyright 2016-2019, International Technology Ventures, Inc.  
+Release under [The MIT License](https://opensource.org/licenses/MIT)
 
-Useful for organizing artifacts and details for large-scale projects (such as Proposal Development, RFP Responses, Architecture, Requirements, High Level Design, Detail Level Design, Test Plans, Operations, Training, etc.)  
+A potentially useful resource for  for organizing artifacts and details for large-scale projects (such as Proposal Development, RFP Responses, Architecture, Requirements, High Level Design, Detail Level Design, Test Plans, Operations, Training, etc.)  
+
 
 Author: Kelvin D. Meeks   
-kmeeks@intltechventures.com  
-http://www.intltechventures.com    
+* kmeeks@intltechventures.com  
+* http://www.intltechventures.com    
 
 ### STATUS: __WORKING DRAFT__
-### March 2019 Update: reworking the entire structure & content (current focus is the AA.0000.00 Business section - exploring a new approach to numbering system...)
+
+**July 24, 2019 Update:** A major reworking of the numbering scheme, structure, and organization has been completed. I'll let this bake for awhile and then come back for the next iteration of improvements and elaboration.  But, it is in much better / more usable shape, now. 
 
 
-### TO-DO: 
-```
-- Rationalize Numbering Schemes To Be More Consistent Within A Category, And Across Sub-Categories
-```
+___
+This is an illustrative (but not exhaustive) set of alphanumeric classification codes to provide general guidance, across the enterprise, in devising an approach to organizing artifact with a consistent identification strategy.
 
-This is an illustrative (but not exhaustive) set of numeric classification codes to provide general guidance, across the enterprise, in devising an approach to artifact numbering & categorization.
+Goal & Purpose: To improve the efficiency of team membersin being able to locate/reuse  artifacts - within a project, and to be able to easily locate  artificats of a similar type/cateogry in other projects. 
+
 
 My original draft of this was for a particular client engagement back in 2004-2005.  I plan to continue refactoring and evolving this to provide a better organization and grouping.  However, since this may give someone a useful starting point, I'm publishing it as-is for now.
 
@@ -38,13 +39,16 @@ Now you may have a glimmer of a glimpse into why I believe having a system of na
 Note: These codes are not intended as the final designation for a given artifact. For each artifact, you could simply append a sequentially assigned discriminator - or a unique document name. The utility is in being able to quickly (an consistently) search across a large corpus of artifacts and documents (potentially spanning multiple very large projects) - and locate those artifacts which are germaine to your focus. 
 
 For example:   
-A document with a prefix of "AA.0010.00_some_document_name"  
-...would reside in a directory structure \A00\10\00  
+* A document named  with a prefix of "AA.00.10.100 - some document_name"  
+* might reside in a directory structure \AA\00\10\
+* The "AA.00.10.100" prefix  would clearying inicate that this document was related to Business Definition > Core Aspects > Business Scope
 ___
 
+
 ## AA.xx.xx.xxx - Business Definition
-<details>
+
 ### AA.00.xx.xxx - Business: Core Aspects 
+
 - AA.00.10.000 Business Description
   + AA.00.10.100 Business Scope
   + AA.00.10.200 Business Leadership
@@ -89,6 +93,7 @@ ___
 
 
 ### AA.10.xx.xxx  - Business: Financial Aspects
+
 - AA.10.00.000 Finance
   + AA.10.10.000 Finance Organization
     * AA.10.10.010 Financial Structure
@@ -118,6 +123,7 @@ ___
 
 
 ### AA.20.xx.xxx - Business: Architecture, Current
+
 - AA.20.00.000 Business Architecture - Current State
   + AA.20.10.000 Business Information Flows
   + AA.20.20.000 Key Processes
@@ -126,12 +132,13 @@ ___
 
 
 ### AA.30.xx.xxx - Business: Architecture, Future
+
 - AA.30.00.000 Business Architecture - Future State
-</details>
 
 
 
 ## AB.xx.xx.xxx Product Management
+
 - AB.00.10.000 Product Backlog
 - AB.00.20.000 Sprint Planning
 - AB.00.30.000 Sprint Organization
@@ -140,27 +147,25 @@ ___
 
 
 ## AC.xx.xx.xxx Architecture: Enterprise
-<details>
+
 - AC.00.10.000 Enterprise System Context
 - AC.00.20.000 Enterprise Diagram Views
 - AC.00.30.000 Enterprise System Components
 - AC.00.40.000 Enterprise Software Asset Inventory
 - AC.00.50.000 Enterprise Third-Party External Services
-</details>
 
 
 ## AD.xx.xx.xxx Architecture: Data 
-<details>
+
 - AD.10.10.000 Enterprise Data Dictionary
 - AD.10.20.000 Enterprise Ontologies
 - AD.10.30.000 Enterprise Canonical Message Models
 - AD.10.40.000 Enterprise Data Model 
 - AD.10.99.000 Enterprise Data Governance
-</details>
 
 
 ## AE.xx.xx.xxx Architecture: Security
-<details>
+
 - AE.10.00.000 User Management
   + AE.10.00.010 User Provisioning
   + AE.10.00.020 User Profile Management
@@ -184,11 +189,10 @@ ___
 
 - AE.80.00.000 Payment Card Institute (PCI-DSS) Compliance
 
-</details>
 
 
 ## AF.xx.xx.xxx Architecture: Integration
-<details>
+
 - AF.00.00.000 Integration Patterns
 
 - AF.10.00.000 Real-Time Services
@@ -238,10 +242,10 @@ ___
   + AF.40.80.000 Validation
   + AF.40.90.000 Membership
   + AF.40.99.000 External Third Party  
-</details>
+
 
 ## AG.xx.xx.xxx Architecture: Shared Services
-<details>
+
 - AG.00.00.000 Databases
 - AG.00.00.000 Application Servers
 - AG.00.00.000 Message Queues
@@ -265,11 +269,10 @@ ___
 - AG.00.00.000 Log Event Streaming
 - AG.00.00.000 Log Visualization
 - AG.00.00.000 Log Event Notifications
-</details>
 
 
 ## AH.xx.xx.xxx Architecture: Infrastructure
-<details>
+
 - AH.00.00.000 Facilities
   + AH.00.10.000 Physical Access Security
   + AH.00.20.000 Electrical
@@ -306,18 +309,16 @@ ___
   + AH.30.40.000 Servers, Database
   + AH.30.50.000 Servers, Cache
   + AH.30.60.000 Servers, Utility  
-</details>
 	
 	
 ## AI.xx.xx.xxx Disaster Recovery (DR)
-<details>
+
 - AI.00.10.000 DR Infrastructure
 - AI.00.20.000 Backup & Recovery Procedures  
-</details>
  
  
 ## AJ.xx.xx.xxx Non-Functional Requirements (NFRs)
-<details>
+
 - AJ.00.00.000 Accessibility
 - AJ.00.00.000 Audit and Control
 - AJ.00.00.000 Availability
@@ -363,11 +364,10 @@ ___
 - AJ.00.00.000 Supportability
 - AJ.00.00.000 Testability
 - AJ.00.00.000 Usability  
-</details>
 
 
 ## AK.xx.xx.xxx User Interface Design
-<details>
+
 - AK.00.10.000 Look & Feel Style Guides
 - AK.00.20.000 Internationalization
 
@@ -422,13 +422,13 @@ ___
 - AK.50.00.000 Application-Specific UI Functionality  
 
 - AK.60.00.000 Admin-Specific UI Functionality  
-</details>
 
 
 
 ## AL.xx.xx.xxx Reporting
-<details>
+
 ### AL.00.xx.xxx General Reporting
+
 - AL.00.10.000 Report Design Assets/Tools/Templates
 - AL.00.20.000 Operational Reporting
 - AL.00.30.000 Management Reporting
@@ -440,20 +440,22 @@ ___
 
 
 ### AL.10.xx.xxx Business Intelligence Reporting
+
 - AL.10.10.000 Business Intelligence Reporting
 
 
 ### AL.20.xx.xxx Data Analytics Reporting
+
 - AL.20.10.000 Data Analytics Reporting
 
 
 ### AL.30.xx.xxx Data Analytics Reporting
+
 - AL.20.10.000 Data Analytics Reporting
-</details>
 
 
 ## AM.xx.xx.xxx DevOps
-<details>
+
 - AM.00.10.000 Operations Procedures
 - AM.00.20.000 Operations Runbooks
 - AM.00.30.000 Managed File Transfers
@@ -478,17 +480,14 @@ ___
 - AM.30.20.000 Restore Processes   
 
 - AM.99.00.000 Disaster Recovery  
-</details>
 
 
 ## AN.xx.xx.xxx Core Application Requirements  
-<details>
+
 - Project Specific, TBD...
-</details>
 
 
 ## ZZ.xx.xx.xxx Reference Documentation
-<details>
 
 - ZZ.00.00.000 Application Training Material
   + ZZ.00.10.000 Train-The-Trainer
@@ -517,10 +516,9 @@ ___
   + ZZ.40.10.000 DevOps Procedures
   + ZZ.40.20.000 Batch Job Runbooks  
 
-</details>
 
 
-____
+___
 
 ## Referneces
 
@@ -535,9 +533,11 @@ ____
   + http://en.wikipedia.org/wiki/Non-functional_requirement
 
 
-### Academic Papers
 
+### Academic Papers
+- TO-DO: Locate/Add links to useful resources here...
 
 
 ### Articles
+- TO-DO: Locate/Add links to useful resources  here...
 
