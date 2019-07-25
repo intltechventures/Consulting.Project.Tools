@@ -13,7 +13,7 @@
 \#0XX - The General Purpose Rules
 ====
 
-\#1 - "Always assume they are lying bastards - and then seek to prove that assumption false."
+##\#1 - "Always assume they are lying bastards - and then seek to prove that assumption false."##
 
 * Now, you might imagine that this is phrased too negatively for your gentle sensibilities. But, listen here cupcake, you would be wrong. Focus on the positive - which is the second part of the rule.
 * This rule arose from my repeated experience of dealing with unscrupulous carpet-bagger software sales reps - who often would literally make claims about the capabilities of software systems they were selling, which did not yet exist (aka as "Vaporware").  
