@@ -197,7 +197,7 @@
 
 
 
-\#7xx - On Career Choices
+\#7xx - On Managing Your Professional Career
 ====
 
 **\#701 - "Don't get comfortable, stay hungry to always learn, grow,  and stretch yourself"**
@@ -209,7 +209,14 @@
 **\#703 - "Value opportunity and challenges, over a salary. Every time. Always."**
 
 
+**\#704 - "Rest before you get tired"**
+
+
+**\#705 - "NEVER pull all-nighters. It will permanently damage your health in ways you cannot imagine"
+
+
 **\#799 - "Never forget - a full-time job doesn't come with any guarantee"**
+
 
 
 
