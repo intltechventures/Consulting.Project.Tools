@@ -212,7 +212,7 @@
 **\#704 - "Rest before you get tired"**
 
 
-**\#705 - "NEVER pull all-nighters. It will permanently damage your health in ways you cannot imagine"
+**\#705 - "NEVER pull all-nighters. It will permanently damage your health in ways you cannot imagine"**
 
 
 **\#799 - "Never forget - a full-time job doesn't come with any guarantee"**
