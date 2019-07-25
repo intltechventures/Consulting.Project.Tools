@@ -10,7 +10,9 @@ kmeeks@intltechventures.com
 http://www.intltechventures.com    
 
 ### STATUS: __WORKING DRAFT__
-### March 2019 Update: reworking the entire structure & content (current focus is the A00.00.00 Business section - exploring a new approach to numbering system...)
+### March 2019 Update: reworking the entire structure & content (current focus is the AA.0000.00 Business section - exploring a new approach to numbering system...)
+
+
 ### TO-DO: 
 ```
 - Rationalize Numbering Schemes To Be More Consistent Within A Category, And Across Sub-Categories
@@ -21,381 +23,502 @@ This is an illustrative (but not exhaustive) set of numeric classification codes
 My original draft of this was for a particular client engagement back in 2004-2005.  I plan to continue refactoring and evolving this to provide a better organization and grouping.  However, since this may give someone a useful starting point, I'm publishing it as-is for now.
 
 ___
-Usage: Consider for a moment that you are assigned a role on a massively large project. How do you even begin to organize your thoughts, artifacts, and workstreams?  
+Usage: Consider for a moment that you are assigned a role on a massively large project. How do you even begin to organize your thoughts, artifacts, and work-streams?  
 
 Now, imagine that these kinds of massively large (or even just fairly large) projects occur with some frequency - either within your organization - or in different organizations, over the arc of your career. 
 
-Being able to know where informaiton is stored - and how it is decomposed is the the hallmark of establishing a repeatable process. 
+Being able to know where information is stored - and how it is decomposed is the the hallmark of establishing a repeatable process. 
 
-Abandon your ad hoc, wasteful, re-invent-the-wheel, approaches of the past - and consider whether it might be beneficial to you (and your colleagues) to adopt some rational, well organized, way of identifying artifacts - such that you could easily move across projects/teams - and quickly find the relevant informaion you need. 
+Abandon your ad hoc, wasteful, re-invent-the-wheel, approaches of the past - and consider whether it might be beneficial to you (and your colleagues) to adopt some rational, well organized, way of identifying artifacts - such that you could easily move across projects/teams - and quickly find the relevant information you need. 
 
-Also consider, how much easier it would be to 'harvest' or 'borrow' pre-existing arifacts from previous efforts. 
+Also consider, how much easier it would be to 'harvest' or 'borrow' pre-existing artifacts from previous efforts. 
 
 Now you may have a glimmer of a glimpse into why I believe having a system of naming things is important. 
 
-Note: Theese codes are not intended as the final designation for a given artifact. For each artifact, you could simply append a sequentially assigned discrimantor - or a unique document name. The utility is in being able to quickly (an consistently) search across a large corpus of artifacts and documents (potentially spanning multiple very large projects) - and locate those artfiacts which are germaine to your focus. 
+Note: These codes are not intended as the final designation for a given artifact. For each artifact, you could simply append a sequentially assigned discriminator - or a unique document name. The utility is in being able to quickly (an consistently) search across a large corpus of artifacts and documents (potentially spanning multiple very large projects) - and locate those artifacts which are germaine to your focus. 
 
 For example:   
-A document with a prefix of "A00.10.00_some_document_name"  
+A document with a prefix of "AA.0010.00_some_document_name"  
 ...would reside in a directory structure \A00\10\00  
 ___
 
-## A00.00.00 Business 
+## AA.xx.xx.xxx - Business Definition
 <details>
-- A00.10.00 Business Description
-  + A00.10.10 Business Scope
-  + A00.10.20 Business Leadership
-  + A00.10.30 Business Structure
+### AA.00.xx.xxx - Business: Core Aspects 
+- AA.00.10.000 Business Description
+  + AA.00.10.100 Business Scope
+  + AA.00.10.200 Business Leadership
+  + AA.00.10.300 Business Structure
 
 
-- A00.20.00 Business 
-  + A00.20.10 Business Capabilities
-  + A00.20.20 Business Functions
-  + A00.20.30 Business Products
-  + A00.20.40 Business Services
+- AA.00.20.000 Business Model
+  + AA.00.20.010 Business Capabilities
+  + AA.00.20.020 Business Functions
+  + AA.00.20.030 Business Products
+  + AA.00.20.040 Business Services
 
 
-- A00.30.00 Business Plan
-  + A00.30.10 Business Vision
-  + A00.30.20 Business Principles
-  + A00.30.30 Business Strategy
-  + A00.30.40 Business Roadmap
-  + A00.30.50 Business Plan
+- AA.00.30.000 Business Plan
+  + AA.00.30.010 Business Vision
+  + AA.00.30.020 Business Principles
+  + AA.00.30.030 Business Strategy
+  + AA.00.30.040 Business Roadmap
+  + AA.00.30.050 Business Plan
 
 
-- A00.40.00 Business Market Focus
-  + A00.40.10 Business Markets
-  + A00.40.20 Locations
-  + A00.40.30 Market Segments
+- AA.00.00.40.000 Business Markets
+  + AA.00.40.010 Market Segments
+  + AA.00.40.020 Locations
+  + AA.00.40.030 Market Segments
+
+- AA.00.50.000 Business Relationships
+  + AA.00.50.010 Business Customers
+  + AA.00.50.020 Business Suppliers
+  + AA.00.50.030 Business Vendors
+  + AA.00.50.040 Business Joint Ventures
+  + AA.00.50.050 Business Partners 
+  + AA.00.50.060 Business Subsidiaries
+
+- AA.00.60.000 Business Market Forces
+  + AA.00.60.010 Business Competitors 
+  + AA.00.60.020 Business Competitive Forces
+  + AA.00.60.030 Business Market Analysis (e.g. Share, Growth Projections, etc.)
+  + AA.00.60.040 Business Constraints (e.g. Legal, Regulatory)
+  + AA.00.60.050 Business Risks (e.g. Resources, Capital, Funding, Skills, Materials, Costs, etc.)
+  + AA.00.60.060 Business SWOT (Strengths, Weaknesses, Opportunities, Threats)
 
 
-- A00.50.00 Business Relationships
-  + A00.50.10 Business Customers
-  + A00.50.20 Business Suppliers
-  + A00.50.30 Business Vendors
-  + A00.50.40 Business Joint Ventures
-  + A00.50.50 Business Partners 
-  + A00.50.60 Business Subsidiaries
+### AA.10.xx.xxx  - Business: Financial Aspects
+- AA.10.00.000 Finance
+  + AA.10.10.000 Finance Organization
+    * AA.10.10.010 Financial Structure
+    * AA.10.10.020 Chart of Accounts
+    * AA.10.10.030 Transaction Types
+    * AA.10.10.040 Accounting Processes
+    * AA.10.10.050 Financial Reporting 
+  + AA.10.20.000 Tax Matters
+    * AA.10.20.010 Tax Rates Local
+	* AA.10.20.020 Tax Rates Country&
+	* AA.10.20.030 Tax Rates State
+	* AA.10.20.040 Tax Rates National
+	* AA.10.20.050 Tax Rates VAT
+	* AA.10.20.060 Tax Rates Foreign
+  + AA.10.30.000 Foreign Currency 
+    * AA.10.30.010 Currency Exchange Rates
+  + AA.10.40.000 Customer Revenue/Cost 
+    * AA.10.40.010 Customer Acquisition Costs
+    * AA.10.40.020 Customer Lifetime Revenue Projections
+    * AA.10.40.030 Customer Lifetime Cost Projections
+    * AA.10.40.040 Customer Retention Projections
+  + AA.10.50.000 Operating Costs
+  + AA.10.60.000 Other Revenue Sources
+    * AA.10.60.010 Ad Sales
+    * AA.10.60.020 Affiliate Sales Channels
 
 
-- A00.50.00 Busiess Market Forces
-  + A00.50.10 Business Competitors 
-  + A00.50.20 Business Competitive Forces
-  + A00.50.30 Business Market Analysis (e.g. Share, Growth Projections, etc.)
-  + A00.50.40 Business Constraints (e.g. Legal, Regulatory)
-  + A00.50.50 Business Risks (e.g. Resources, Capital, Funding, Skills, Materials, Costs, etc.)
-  + A00.50.60 Business SWOT (Strengths, Weaknesses, Opportunities, Threats)
+
+### AA.20.xx.xxx - Business: Architecture, Current
+- AA.20.00.000 Business Architecture - Current State
+  + AA.20.10.000 Business Information Flows
+  + AA.20.20.000 Key Processes
+  + AA.20.30.000 Critical Business Rules
+  + AA.20.40.000 Important Key Business Epics 
 
 
-- A10.00.00 Finance
-  + A10.10.00 Finance Organization
-    + A10.10.10 Financial Structure
-    + A10.10.20 Chart of Accounts
-    + A10.10.30 Transaction Types
-    + A10.10.40 Accounting Processes
-    + A10.10.50 Financial Reporting 
-  + A10.20.00 Tax Matters
-    * A10.20.10 Tax Rates & Calculations (e.g. Local, County, State, National, Foreign))
-  + A10.30.00 Foreign Currency Concerns
-    * A10.30.10 Currency Exchange Considerations
-  + A10.40.00 Customer Revenue/Cost 
-    * A10.40.10 Customer Acquisition Costs
-    * A10.40.20 Customer Lifetime Revenue Projections
-    * A10.40.30 Customer Lifetime Cost Projections
-    * A10.40.40 Customer Retention Projections
-  + A10.50.00 Operating Costs
-  + A10.60.00 Other Revenue Sources
-    * A10.60.10 Ad Sales
-    * A10.60.20 Affiliate Sales Channels
+### AA.30.xx.xxx - Business: Architecture, Future
+- AA.30.00.000 Business Architecture - Future State
+</details>
 
 
-- A20.00.00 Business Architecture - Current State
-  + A20.10.00 Business Information Flows
-  + A20.20.00 Key Processes
-  + A20.30.00 Critical Business Rules
-  + A20.40.00 Important Key Business Epics 
 
-- A30.00.00 Business Architecture - Future State
+## AB.xx.xx.xxx Product Management
+- AB.00.10.000 Product Backlog
+- AB.00.20.000 Sprint Planning
+- AB.00.30.000 Sprint Organization
+- AB.00.40.000 Sprint Metrics
+
+
+
+## AC.xx.xx.xxx Architecture: Enterprise
+<details>
+- AC.00.10.000 Enterprise System Context
+- AC.00.20.000 Enterprise Diagram Views
+- AC.00.30.000 Enterprise System Components
+- AC.00.40.000 Enterprise Software Asset Inventory
+- AC.00.50.000 Enterprise Third-Party External Services
+</details>
+
+
+## AD.xx.xx.xxx Architecture: Data 
+<details>
+- AD.10.10.000 Enterprise Data Dictionary
+- AD.10.20.000 Enterprise Ontologies
+- AD.10.30.000 Enterprise Canonical Message Models
+- AD.10.40.000 Enterprise Data Model 
+- AD.10.99.000 Enterprise Data Governance
+</details>
+
+
+## AE.xx.xx.xxx Architecture: Security
+<details>
+- AE.10.00.000 User Management
+  + AE.10.00.010 User Provisioning
+  + AE.10.00.020 User Profile Management
+
+- AE.10.10.000 User Access
+  + AE.10.10.010 Access Control List
+  + AE.10.10.020 LDAP
+  + AE.10.10.030 User Authentication, 2FA
+  + AE.10.10.040 User Authorization
+  + AE.10.10.050 Single-Sign-On (SSO)
+  + AE.10.10.060 Federated Single-Sign-On (SSO)
+  + AE.10.10.070 Password Reset
+
+
+- AE.20.00.000 Defense in Depth
+  + AE.20.10.000 Intrusion Detection
+  + AE.20.20.000 File Monitoring
+  + AE.20.30.000 Anti-Virus
+  + AE.20.40.000 Firewall
+  + AE.20.50.000 Web Access Firewall (WAF)
+
+- AE.80.00.000 Payment Card Institute (PCI-DSS) Compliance
 
 </details>
 
 
-## 0100.xxxx Enterprise Architecture
-* 0100.0100 Enterprise System Context
-* 0100.0200 Enterprise Diagram Views
-* 0100.0300 Enterprise System Components
-* 0100.0400 Enterprise Data Model 
-* 0100.0500 Enterprise Data Governance
-* 0100.0600 Enterprise Data Dictionary
-* 0100.0700 Enterprise Ontologies
-* 0100.0800 Enterprise Canonical Message Models
-* 0100.1000 Enterprise Software Asset Inventory
-* 0100.2000 Enterprise Third-Party External Services
+## AF.xx.xx.xxx Architecture: Integration
+<details>
+- AF.00.00.000 Integration Patterns
 
-## 0200.xxxx Common Services
-* 0200.1010 Databases
-* 0200.1020 Application Servers
-* 0200.1030 Message Queues
-* 0200.1040 Email
-* 0200.1050 Workflow
-* 0200.1060 Scheduling
-* 0200.1070 Distributed Computing 
-* 0200.1080 Manage File Transfers
-* 0200.1090 Service Discovery
+- AF.10.00.000 Real-Time Services
+  + AF.10.10.000 Conversions
+  + AF.10.20.000 Legacy Systems
+  + AF.10.30.000 Customer Master
+  + AF.10.40.000 General Ledger
+  + AF.10.50.000 Financial
+  + AF.10.60.000 Inventory
+  + AF.10.70.000 File Maintenance
+  + AF.10.80.000 Validation
+  + AF.10.90.000 Membership
+  + AF.10.99.000 External Third Party  
 
-* 0200.2000 Security
-* 0200.2010 Encryption Services
-* 0200.2020 Compression Services
-* 0200.2030 Auditing
-* 0200.2040 Authentication
-* 0200.2050 Authorization
+- AF.20.00.000 In-bound Batch Jobs
+  + AF.20.10.000 Conversions
+  + AF.20.20.000 Legacy Systems
+  + AF.20.30.000 Customer Master
+  + AF.20.40.000 General Ledger
+  + AF.20.50.000 Financial
+  + AF.20.60.000 Inventory
+  + AF.20.70.000 File Maintenance
+  + AF.20.80.000 Validation
+  + AF.20.90.000 Membership
+  + AF.20.99.000 External Third Party  
 
-* 0200.3000 Log Management
-* 0200.3010 Log Event Capture
-* 0200.3020 Log Aggregation
-* 0200.3030 Log Event Streaming
-* 0200.3040 Log Visualization
-* 0200.3050 Log Event Notifications
+- AF.30.00.000 Out-bound Batch Jobs
+  + AF.30.10.000 Conversions	 
+  + AF.30.20.000 Legacy Systems
+  + AF.30.30.000 Customer Master
+  + AF.30.40.000 General Ledger
+  + AF.30.50.000 Financial
+  + AF.30.60.000 Inventory
+  + AF.30.70.000 File Maintenance
+  + AF.30.80.000 Validation
+  + AF.30.90.000 Membership
+  + AF.30.99.000 External Third Party  
+
+- AF.40.00.000 Internal Batch Jobs
+  + AF.40.10.000 Conversions
+  + AF.40.20.000 Legacy Systems
+  + AF.40.30.000 Customer Master
+  + AF.40.40.000 General Ledger
+  + AF.40.50.000 Financial
+  + AF.40.60.000 Inventory
+  + AF.40.70.000 File Maintenance
+  + AF.40.80.000 Validation
+  + AF.40.90.000 Membership
+  + AF.40.99.000 External Third Party  
+</details>
+
+## AG.xx.xx.xxx Architecture: Shared Services
+<details>
+- AG.00.00.000 Databases
+- AG.00.00.000 Application Servers
+- AG.00.00.000 Message Queues
+- AG.00.00.000 Email
+- AG.00.00.000 Workflow
+- AG.00.00.000 Scheduling
+- AG.00.00.000 Distributed Computing 
+- AG.00.00.000 Manage File Transfer (MFT)
+- AG.00.00.000 Service Discovery
+
+- AG.00.00.000 Security
+- AG.00.00.000 Encryption Services
+- AG.00.00.000 Compression Services
+- AG.00.00.000 Auditing
+- AG.00.00.000 Authentication
+- AG.00.00.000 Authorization
+
+- AG.00.00.000 Log Management
+- AG.00.00.000 Log Event Capture
+- AG.00.00.000 Log Aggregation
+- AG.00.00.000 Log Event Streaming
+- AG.00.00.000 Log Visualization
+- AG.00.00.000 Log Event Notifications
+</details>
 
 
-## 0300.xxxx Data Center Facilities
-* 0300.1000 Physical Access Security
-* 0300.1100 Electrical
-* 0300.1200 Telecommunications
-* 0300.1300 Data Storage
-* 0300.1400 Heating & Cooling
-* 0300.1500 Air Quality
-* 0300.1600 Sensors
-* 0300.1700 Alarms
-* 0300.9000 Disaster Recovery
+## AH.xx.xx.xxx Architecture: Infrastructure
+<details>
+- AH.00.00.000 Facilities
+  + AH.00.10.000 Physical Access Security
+  + AH.00.20.000 Electrical
+  + AH.00.30.000 Telecommunications
+  + AH.00.40.000 Heating & Cooling
+  + AH.00.50.000 Air Quality
+  + AH.00.60.000 Sensors
+  + AH.00.70.000 Alarms
+  + AH.00.80.000 Facilities Disaster Recovery
 
-## 0400.xxxx Infrastructure & network
-* 0400.0010 Network Topology
-* 0400.0020 Content Distribution Network (CDN)
-* 0400.0030 DNS
-* 0400.0040 Load Balancing
-* 0400.0050 Firewalls
-* 0400.0060 Routers
-* 0400.0070 Hardware Accelerators - Encryption
-* 0400.0080 Hardware Accelerators - Compression  
+- AH.10.00.000 Telecom
+- AH.10.10.000 Network Topology
+- AH.10.20.000 Content Distribution Network (CDN)
+- AH.10.30.000 DNS
+- AH.10.40.000 Load Balancing
+- AH.10.50.000 Firewalls
+- AH.10.60.000 Routers
+- AH.10.70.000 Hardware Accelerators - Encryption
+- AH.10.80.000 Hardware Accelerators - Compression  
 
-* 0400.2000 Storage
-* 0400.2010 Network Attached Storage Devices  
+- AH.20.00.000 Data Storage
+  + AH.20.10.000 On Premise Storage
+  + AH.20.20.000 Network Attached Storage Devices  
+  + AH.20.30.000 Cloud Service Storage
+    * AH.20.30.010 Cloud Service Storage, Hot
+	* AH.20.30.020 Cloud Service Storage, Warm
+	* AH.20.30.030 Cloud Service Storage, Cold
+	* AH.20.30.030 Cloud Service Storage, Archive
 
-* 0400.3000 Servers
-* 0400.3010 Application Servers
-* 0400.3020 Web Servers
-* 0400.3030 Database Servers
-* 0400.3040 Cache servers  
-
-* 0400.9000 Disaster Recovery (DR)  
+- AH.30.00.000 Servers/VMs/Containers
+  + AH.30.10.000 Servers, General Purpose
+  + AH.30.20.000 Servers, Application
+  + AH.30.30.000 Servers, Web Servers
+  + AH.30.40.000 Servers, Database
+  + AH.30.50.000 Servers, Cache
+  + AH.30.60.000 Servers, Utility  
+</details>
 	
-## 0900.xxxx Disaster Recovery (DR)
-* 0900.1000 DR Infrastructure
-* 0900.2000 Backup & Recovery Procedures  
+	
+## AI.xx.xx.xxx Disaster Recovery (DR)
+<details>
+- AI.00.10.000 DR Infrastructure
+- AI.00.20.000 Backup & Recovery Procedures  
+</details>
  
-## 1000.0000 Non Functional Requirements
-* 1000.0010 Accessibility
-* 1000.0020 Audit and Control
-* 1000.0030 Availability
-* 1000.0040 Backup	
-* 1000.0050 Capacity
-* 1000.0060 Certification
-* 1000.0070 Compliance
-* 1000.0080 Configuration management
-* 1000.0090 Dependencies
-* 1000.0100 Deployment
-* 1000.0110 Documentation
-* 1000.0120 Disaster Recovery
-* 1000.0130 Efficiency
-* 1000.0140 Effectiveness
-* 1000.0150 Escrow
-* 1000.0160 Extensibility
-* 1000.0170 Failure Management
-* 1000.0180 Fault Tolerance
-* 1000.0190 Interoperability
-* 1000.0200 Legal and Licensing
-* 1000.0210 Maintainability
-* 1000.0220 Modifiability
-* 1000.0230 Network Topology
-* 1000.0240 Open Source (Vitality, License Suitability, License Confirmation, Governance)
-* 1000.0250 Operability
-* 1000.0260 Performance
-* 1000.0270 Platform Compatibility
-* 1000.0280 Price
-* 1000.0290 Privacy
-* 1000.0300 Portability
-* 1000.0310 Quality
-* 1000.0320 Recovery
-* 1000.0330 Reliability
-* 1000.0340 Reporting
-* 1000.0350 Resilience
-* 1000.0360 Resource Constraints
-* 1000.0370 Response Time
-* 1000.0380 Robustness
-* 1000.0390 Safety
-* 1000.0400 Security
-* 1000.0410 Standards
-* 1000.0420 Stability
-* 1000.0430 Supportability
-* 1000.0440 Testability
-* 1000.0450 Usability  
-
-## 2000.xxxx User Interface
-* 2000.1100 Look & Feel Style Guides
-* 2000.1200 Internationalization
-* 2000.1300 Site Map
-* 2000.1400 User Help  
-
-* 2000.2000 Common UI Elements
-* 2000.2010 Logos 
-* 2000.2020 Privacy Policy
-* 2000.2030 Contact Us
-* 2000.2040 Company 
-* 2000.2050 About
-* 2000.2060 Our Products
-* 2000.2070 Our Services
-* 2000.2080 Newsletter Sign-up
-* 2000.2090 Blog
-* 2000.2100 Latest News
-* 2000.2110 Login
-* 2000.2120 Logout  
-
-* 2000.3000 UI Messages
-* 2000.3010 Invalid User ID
-* 2000.3020 Invalid Password
-* 2000.3030 Contact Support
-* 2000.3040 Page Not Found
-* 2000.3050 Unauthorized Access
-* 2000.3060 Invalid Action Attempted  
-
-* 2000.4000 Data Validation Rules  
-
-* 2000.5000 Application Functionality  
-
-* 2000.6000 Admin Functionality  
+ 
+## AJ.xx.xx.xxx Non-Functional Requirements (NFRs)
+<details>
+- AJ.00.00.000 Accessibility
+- AJ.00.00.000 Audit and Control
+- AJ.00.00.000 Availability
+- AJ.00.00.000 Backup	
+- AJ.00.00.000 Capacity
+- AJ.00.00.000 Certification
+- AJ.00.00.000 Compliance
+- AJ.00.00.000 Configuration management
+- AJ.00.00.000 Dependencies
+- AJ.00.00.000 Deployment
+- AJ.00.00.000 Documentation
+- AJ.00.00.000 Disaster Recovery
+- AJ.00.00.000 Efficiency
+- AJ.00.00.000 Effectiveness
+- AJ.00.00.000 Escrow
+- AJ.00.00.000 Extensibility
+- AJ.00.00.000 Failure Management
+- AJ.00.00.000 Fault Tolerance
+- AJ.00.00.000 Interoperability
+- AJ.00.00.000 Legal and Licensing
+- AJ.00.00.000 Maintainability
+- AJ.00.00.000 Modifiability
+- AJ.00.00.000 Network Topology
+- AJ.00.00.000 Open Source (Vitality, License Suitability, License Confirmation, Governance)
+- AJ.00.00.000 Operability
+- AJ.00.00.000 Performance
+- AJ.00.00.000 Platform Compatibility
+- AJ.00.00.000 Price
+- AJ.00.00.000 Privacy
+- AJ.00.00.000 Portability
+- AJ.00.00.000 Quality
+- AJ.00.00.000 Recovery
+- AJ.00.00.000 Reliability
+- AJ.00.00.000 Reporting
+- AJ.00.00.000 Resilience
+- AJ.00.00.000 Resource Constraints
+- AJ.00.00.000 Response Time
+- AJ.00.00.000 Robustness
+- AJ.00.00.000 Safety
+- AJ.00.00.000 Security
+- AJ.00.00.000 Standards
+- AJ.00.00.000 Stability
+- AJ.00.00.000 Supportability
+- AJ.00.00.000 Testability
+- AJ.00.00.000 Usability  
+</details>
 
 
-## 3000.xxxx Documentation
-* 3000.0000 Operation Procedures
-* 3000.1000 Runbooks  
+## AK.xx.xx.xxx User Interface Design
+<details>
+- AK.00.10.000 Look & Feel Style Guides
+- AK.00.20.000 Internationalization
 
-* 3000.2000 User Guides
-* 3000.2100 Admin Guides
-* 3000.2200 Developer Guides  
+- AK.10.10.000 Common UI Elements
+- AK.10.20.000 Logos 
 
-* 3000.3000 Training Material
-* 3000.3100 Train-The-Trainer
-* 3000.3200 End User Training  
+- AK.20.10.000 Standard Public Content
+  + AK.20.10.010 Privacy Policy
+  + AK.20.10.020 Contact Us
+  + AK.20.10.030 Company 
+  + AK.20.10.040 About
+  + AK.20.10.050 Products
+  + AK.20.10.060 Services
+  + AK.20.10.070 Newsletter
+  + AK.20.10.080 Blog
+  + AK.20.10.090 Latest News
+  + AK.20.10.100 Site Map	
+  + AK.20.10.110 Help  
+  + AK.20.10.120 Support  
+  + AK.20.10.130 Report a Bug
+  
 
-## 4000.0000 Reporting
-* 4000.0010 Report Design Assets/Tools/Templates
-* 4000.0020 Operational Reporting
-* 4000.0030 Management Reporting
-* 4000.0040 Compliance Reporting
-* 4000.0050 Audit Reporting
-* 4000.0060 System Stats
-* 4000.0070 Dashboards  
+- AK.20.20.000 Authenticated Access
+  + AK.20.20.010 Login
+  + AK.20.20.020 Logout  
 
-## 5000.xxxx Operations
-* 5000.0100 Operations Procedures
-* 5000.0200 Operations Runbooks
-* 5000.0300 Managed File Transfers
-* 5000.0400 Operations / Systems Monitoring
-* 5000.0500 Alerts & Notifications  
+- AK.30.10.000 Common UI Error Messages
+  + AK.30.10.010 Invalid User ID
+  + AK.30.10.020 Invalid Password
+  + AK.30.10.030 Contact Support
+  + AK.30.10.040 Page Not Found
+  + AK.30.10.050 Unauthorized Access
+  + AK.30.10.060 Invalid Action Attempted  
 
-* 5000.1000 Job Schedules
-* 5000.1010 Special (ad-hoc, on-demand)
-* 5000.1020 daily
-* 5000.1030 weekly
-* 5000.1040 bi-weekly
-* 5000.1050 monthly
-* 5000.1060 bi-monthly
-* 5000.1070 quarterly
-* 5000.1080 annually
-* 5000.1090 semi-annually
-* 5000.1100 irregularly scheduled  
+- AK.40.00.000 Common UI Data Validation Rules  
+  + AK.40.10.000 General Validation
+    * AK.40.10.010 Date Validation
+    * AK.40.10.020 Email Validation
+    * AK.40.10.030 URL Validation
+	* AK.40.10.040 Phone Number Validation	
+	* AK.40.10.050 Credit Card Validation 	
+	* AK.40.10.060 Tax ID (SSN or TIN) Validation  
+  + AK.40.20.000 Address Validation 
+    * AK.40.20.010 Street Validation  
+    * AK.40.20.020 City Validation
+    * AK.40.20.030 Postal Code Validation  
+    * AK.40.20.040 Country Validation
+    * AK.40.20.050 Residence Address Validation
+    * AK.40.20.060 Business Address Validation  
 
-* 5000.2000 Conversions  
+  
+- AK.50.00.000 Application-Specific UI Functionality  
 
-* 5000.3000 Backup Processes  
-
-* 5000.4000 Restore Processes   
-
-* 5000.9000 Disaster Recovery  
-
-
-## 6000.xxxx Security
-* 6000.1000 User Provisioning
-* 6000.1100 User Authentication
-* 6000.1200 User Authorization
-* 6000.1300 Single-Sign-On (SSO)
-* 6000.1400 Federated Single-Sign-On (SSO)
-* 6000.1500 Password Reset
-* 6000.1600 User Profile Management
-* 6000.1700 Access Control List
-* 6000.2000 LDAP
-* 6000.2100 Automated Security Processes
-* 6000.2110 Intrusion Detection
-* 6000.2120 File Monitoring
-* 6000.2130 Anti-Virus
-* 6000.2140 Firewall
-* 6000.2150 Denial of Service (DoS) Prevention   
-
-* 6000.3000 Payment Card Institute (PCI)  
+- AK.60.00.000 Admin-Specific UI Functionality  
+</details>
 
 
-## 7000.xxxx Core Application Requirements  
+
+## AL.xx.xx.xxx Reporting
+<details>
+### AL.00.xx.xxx General Reporting
+- AL.00.10.000 Report Design Assets/Tools/Templates
+- AL.00.20.000 Operational Reporting
+- AL.00.30.000 Management Reporting
+- AL.00.40.000 Financial Reporting
+- AL.00.50.000 Compliance Reporting
+- AL.00.60.000 Audit Reporting
+- AL.00.70.000 System Monitoring Reporting
+- AL.00.80.000 Dashboards  
 
 
-## 8000.xxxx Integrations
-* 8100.xxxx Real-Time Services
-* 8100.0000 Conversions
-* 8100.1000 Legacy Systems
-* 8100.2000 Customer Master
-* 8100.2100 General Ledger
-* 8100.2200 Financial
-* 8100.2300 Inventory
-* 8100.2400 File Maintenance
-* 8100.2500 Validation
-* 8100.2600 Membership
-* 8100.2700 External Third Party  
+### AL.10.xx.xxx Business Intelligence Reporting
+- AL.10.10.000 Business Intelligence Reporting
 
-* 8200.xxxx In-bound Batch Jobs
-* 8200.0000 Conversions
-* 8200.1000 Legacy Systems
-* 8200.2000 Customer Master
-* 8200.2100 General Ledger
-* 8200.2200 Financial
-* 8200.2300 Inventory
-* 8200.2400 File Maintenance
-* 8200.2500 Validation
-* 8200.2600 Membership
-* 8200.2700 External Third Party  
 
-* 8300.xxxx Out-bound Batch Jobs
-* 8300.1000 Conversions	 
-* 8300.1000 Legacy Systems
-* 8300.2000 Customer Master
-* 8300.2100 General Ledger
-* 8300.2200 Financial
-* 8300.2300 Inventory
-* 8300.2400 File Maintenance
-* 8300.2500 Validation
-* 8300.2600 Membership
-* 8300.2700 External Third Party  
+### AL.20.xx.xxx Data Analytics Reporting
+- AL.20.10.000 Data Analytics Reporting
 
-* 8400.xxxx Internal Batch Jobs
-* 8400.0000 Conversions
-* 8400.1000 Legacy Systems
-* 8400.2000 Customer Master
-* 8400.2100 General Ledger
-* 8400.2200 Financial
-* 8400.2300 Inventory
-* 8400.2400 File Maintenance
-* 8400.2500 Validation
-* 8400.2600 Membership
-* 8400.2700 External Third Party  
+
+### AL.30.xx.xxx Data Analytics Reporting
+- AL.20.10.000 Data Analytics Reporting
+</details>
+
+
+## AM.xx.xx.xxx DevOps
+<details>
+- AM.00.10.000 Operations Procedures
+- AM.00.20.000 Operations Runbooks
+- AM.00.30.000 Managed File Transfers
+- AM.00.40.000 Operations / Systems Monitoring
+- AM.00.50.000 Alerts & Notifications  
+
+- AM.10.00.000 Job Schedules
+  + AM.10.10.000 Special (ad-hoc, on-demand, irregular)
+  + AM.10.20.000 daily
+  + AM.10.30.000 weekly
+  + AM.10.40.000 bi-weekly
+  + AM.10.50.000 monthly
+  + AM.10.60.000 bi-monthly
+  + AM.10.70.000 quarterly
+  + AM.10.80.000 semi-annually
+  + AM.10.90.000 annually  
+
+
+- AM.20.00.000 Conversion Processes
+
+- AM.30.10.000 Backup Processes  
+- AM.30.20.000 Restore Processes   
+
+- AM.99.00.000 Disaster Recovery  
+</details>
+
+
+## AN.xx.xx.xxx Core Application Requirements  
+<details>
+- Project Specific, TBD...
+</details>
+
+
+## ZZ.xx.xx.xxx Reference Documentation
+<details>
+
+- ZZ.00.00.000 Application Training Material
+  + ZZ.00.10.000 Train-The-Trainer
+  + ZZ.00.20.000 End-User Training
+
+
+- ZZ.10.00.000 Application End-User Documentation 
+  + ZZ.10.10.000 User Guides
+  + ZZ.10.20.000 FAQs
+  + ZZ.10.30.000 Quick Reference
+  + ZZ.10.40.000 How To
+
+
+- ZZ.20.00.00 Application Administration Documentation
+  + ZZ.20.10.000 Admin Guide
+  + ZZ.20.20.000 Installation
+  + ZZ.20.30.000 Configuration
+
+
+- ZZ.30.00.000 Engineering Documentation
+  + ZZ.30.10.000 Developer Guides  
+  + ZZ.30.20.000 Coding Standards
+
+
+- ZZ.40.00.000 DevOps Documentation
+  + ZZ.40.10.000 DevOps Procedures
+  + ZZ.40.20.000 Batch Job Runbooks  
+
+</details>
+
 
 ____
 
@@ -404,8 +527,10 @@ ____
 ### Additional Sources for Ideas:   
 
 - [The Open Group, TOGAF - Enterprise Architecture standard](http://www.opengroup.org/subjectareas/enterprise/togaf)
-- Dewey Decimal System(
+
+- Dewey Decimal System
   + http://www.gutenberg.org/files/12513/12513-h/12513-h.htm
+  
 - Non-Functional Requirements
   + http://en.wikipedia.org/wiki/Non-functional_requirement
 
