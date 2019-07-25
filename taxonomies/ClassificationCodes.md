@@ -16,12 +16,18 @@ Author: Kelvin D. Meeks
 
 
 ___
-This is an **illustrative (but not exhaustive)** set of alphanumeric classification codes to provide general guidance, across the enterprise, in devising an approach to organizing artifact with a consistent identification strategy.
+This is an **illustrative (but not exhaustive)** set of alphanumeric classification codes to provide general guidance, across the enterprise, in devising an approach to organizing artifacts - with guidance toward a consistent identification strategy.
 
-Goal & Purpose: To improve the efficiency of team membersin being able to locate/reuse  artifacts - within a project, and to be able to easily locate  artificats of a similar type/cateogry in other projects. 
+Goal & Purpose: To improve the efficiency of team membersin being able to locate/communicate/reuse  artifacts - within a project, across projects, and across an enterpise - and to be able to easily locate  artificats of a similar type/cateogry in other projects / business groups / applicaiton teams.
 
 
-My original draft of this was for a particular client engagement back in 2004-2005.  I plan to continue refactoring and evolving this to provide a better organization and grouping.  However, since this may give someone a useful starting point, I'm publishing it as-is for now.
+My ideas for this were stimulated and informed by the practical and real-world **massive pain & challenges** of creating/organizing/sharings/finding documents during the following periods:
+* 1995-1996, $100M+ project 
+* 2002-2003, $100M+ project
+* 2004-2005, helping establish a start-ups new engineering team 
+* 2006-2009, leading the effort to establish a new enteprise architectture tream 
+
+I plan to continue refactoring and evolving this to provide a better organization and grouping.  However, since this may give someone a useful starting point, I'm publishing it as-is for now.
 
 ___
 Usage: Consider for a moment that you are assigned a role on a massively large project. How do you even begin to organize your thoughts, artifacts, and work-streams?  
