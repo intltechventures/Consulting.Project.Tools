@@ -3,7 +3,7 @@
 Copyright 2016-2019, International Technology Ventures, Inc.  
 Release under [The MIT License](https://opensource.org/licenses/MIT)
 
-A potentially useful resource for  for organizing artifacts and details for large-scale projects (such as Proposal Development, RFP Responses, Architecture, Requirements, High Level Design, Detail Level Design, Test Plans, Operations, Training, etc.)  
+A potentially useful resource for helping large organizations/ teams better organize artifacts and details for large-scale projects (such as Proposal Development, RFP Responses, Architecture, Requirements, High Level Design, Detail Level Design, Test Plans, Operations, Training, etc.)  
 
 
 Author: Kelvin D. Meeks   
@@ -39,12 +39,12 @@ Now you may have a glimmer of a glimpse into why I believe having a system of na
 Note: These codes are not intended as the final designation for a given artifact. For each artifact, you could simply append a sequentially assigned discriminator - or a unique document name. The utility is in being able to quickly (an consistently) search across a large corpus of artifacts and documents (potentially spanning multiple very large projects) - and locate those artifacts which are germaine to your focus. 
 
 For example:   
-* A document named  with a prefix of "AA.00.10.100 - some document_name"  
-* might reside in a directory structure \AA\00\10\100\
+* A document named  with a prefix of "AA.00.10.010 - some document_name"  
+* might reside in a directory structure \AA\00\10\010\
 * or, even it were to be dumped in some higher-level folder - by virtue of the prefix, the sort-ordering of the directory would make locating a document for a given subject matter a relatively painless task.
-* The "AA.00.10.100" prefix would clearying inicate that this document was related to Business Definition > Core Aspects > Business Scope
+* The "AA.00.10.010" prefix would clearying inicate that this document was related to Business Definition > Core Aspects > Business Scope
 
-Over time, teams would come to know the numbering scheme - and would be able to easily locate documents based on their growing familiarity of the taxonomy. 
+Over time, teams would come to know the numbering scheme - and would be able to easily locate documents based on their growing familiarity with the taxonomy. 
 ___
 
 
@@ -53,10 +53,10 @@ ___
 ### AA.00.xx.xxx - Business: Core Aspects 
 
 - AA.00.10.000 Business Description
-  + AA.00.10.100 Business Scope
-  + AA.00.10.200 Business Leadership
-  + AA.00.10.300 Business Structure
-
+  + AA.00.10.010 Business Scope
+  + AA.00.10.020 Business Leadership
+  + AA.00.10.030 Business Structure
+  + AA.00.10.040 Org Charts
 
 - AA.00.20.000 Business Model
   + AA.00.20.010 Business Capabilities
@@ -64,19 +64,17 @@ ___
   + AA.00.20.030 Business Products
   + AA.00.20.040 Business Services
 
-
-- AA.00.30.000 Business Plan
+- AA.00.30.000 Business Strategy Planning
   + AA.00.30.010 Business Vision
   + AA.00.30.020 Business Principles
   + AA.00.30.030 Business Strategy
   + AA.00.30.040 Business Roadmap
-  + AA.00.30.050 Business Plan
+  + AA.00.30.050 Business Planning
 
-
-- AA.00.00.40.000 Business Markets
-  + AA.00.40.010 Market Segments
+- AA.00.00.40.000 Market Definition
+  + AA.00.40.010 Segments
   + AA.00.40.020 Locations
-  + AA.00.40.030 Market Segments
+  + AA.00.40.030 Demographics
 
 - AA.00.50.000 Business Relationships
   + AA.00.50.010 Business Customers
@@ -86,7 +84,7 @@ ___
   + AA.00.50.050 Business Partners 
   + AA.00.50.060 Business Subsidiaries
 
-- AA.00.60.000 Business Market Forces
+- AA.00.60.000 Business Market Analysis
   + AA.00.60.010 Business Competitors 
   + AA.00.60.020 Business Competitive Forces
   + AA.00.60.030 Business Market Analysis (e.g. Share, Growth Projections, etc.)
@@ -197,6 +195,12 @@ ___
 ## AF.xx.xx.xxx Architecture: Integration
 
 - AF.00.00.000 Integration Patterns
+  + AF.00.10.000 Managed File Transfer (MFT) Patterns
+  + AF.00.20.000 Batch Processing Patterns
+  + AF.00.30.000 Service/API Patterns
+  + AF.00.40.000 Messaging Patterns
+  + AF.00.50.000 Streaming Patterns
+  + AF.00.60.000 Event Driven Architecture (EDA) Patterns
 
 - AF.10.00.000 Real-Time Services
   + AF.10.10.000 Conversions
@@ -249,29 +253,30 @@ ___
 
 ## AG.xx.xx.xxx Architecture: Shared Services
 
-- AG.00.00.000 Databases
-- AG.00.00.000 Application Servers
-- AG.00.00.000 Message Queues
-- AG.00.00.000 Email
-- AG.00.00.000 Workflow
-- AG.00.00.000 Scheduling
-- AG.00.00.000 Distributed Computing 
-- AG.00.00.000 Manage File Transfer (MFT)
-- AG.00.00.000 Service Discovery
+- AG.00.10.000 Databases
+- AG.00.20.000 Application Servers
+- AG.00.30.000 Message Queues
+- AG.00.40.000 Email
+- AG.00.50.000 Workflow
+- AG.00.60.000 Scheduling
+- AG.00.70.000 Distributed Computing 
+- AG.00.80.000 Manage File Transfer (MFT)
+- AG.00.90.000 Service Discovery
 
-- AG.00.00.000 Security
-- AG.00.00.000 Encryption Services
-- AG.00.00.000 Compression Services
-- AG.00.00.000 Auditing
-- AG.00.00.000 Authentication
-- AG.00.00.000 Authorization
+- AG.10.00.000 Security
+  + AG.10.10.000 Encryption Services
+  + AG.10.20.000 Compression Services
+  + AG.10.30.000 Auditing
+  + AG.10.40.000 Authentication
+  + AG.10.50.000 Authorization
 
-- AG.00.00.000 Log Management
-- AG.00.00.000 Log Event Capture
-- AG.00.00.000 Log Aggregation
-- AG.00.00.000 Log Event Streaming
-- AG.00.00.000 Log Visualization
-- AG.00.00.000 Log Event Notifications
+- AG.20.00.000 Log Management
+  + AG.20.10.000 Log Event Capture
+  + AG.20.20.000 Log Aggregation
+  + AG.20.30.000 Log Event Streaming
+  + AG.20.40.000 Log Visualization
+  + AG.20.50.000 Log Event Notifications
+  + AG.20.60.000 Log Event Alert Generation
 
 
 ## AH.xx.xx.xxx Architecture: Infrastructure
@@ -322,51 +327,51 @@ ___
  
 ## AJ.xx.xx.xxx Non-Functional Requirements (NFRs)
 
-- AJ.00.00.000 Accessibility
-- AJ.00.00.000 Audit and Control
-- AJ.00.00.000 Availability
-- AJ.00.00.000 Backup	
-- AJ.00.00.000 Capacity
-- AJ.00.00.000 Certification
-- AJ.00.00.000 Compliance
-- AJ.00.00.000 Configuration management
-- AJ.00.00.000 Dependencies
-- AJ.00.00.000 Deployment
-- AJ.00.00.000 Documentation
-- AJ.00.00.000 Disaster Recovery
-- AJ.00.00.000 Efficiency
-- AJ.00.00.000 Effectiveness
-- AJ.00.00.000 Escrow
-- AJ.00.00.000 Extensibility
-- AJ.00.00.000 Failure Management
-- AJ.00.00.000 Fault Tolerance
-- AJ.00.00.000 Interoperability
-- AJ.00.00.000 Legal and Licensing
-- AJ.00.00.000 Maintainability
-- AJ.00.00.000 Modifiability
-- AJ.00.00.000 Network Topology
-- AJ.00.00.000 Open Source (Vitality, License Suitability, License Confirmation, Governance)
-- AJ.00.00.000 Operability
-- AJ.00.00.000 Performance
-- AJ.00.00.000 Platform Compatibility
-- AJ.00.00.000 Price
-- AJ.00.00.000 Privacy
-- AJ.00.00.000 Portability
-- AJ.00.00.000 Quality
-- AJ.00.00.000 Recovery
-- AJ.00.00.000 Reliability
-- AJ.00.00.000 Reporting
-- AJ.00.00.000 Resilience
-- AJ.00.00.000 Resource Constraints
-- AJ.00.00.000 Response Time
-- AJ.00.00.000 Robustness
-- AJ.00.00.000 Safety
-- AJ.00.00.000 Security
-- AJ.00.00.000 Standards
-- AJ.00.00.000 Stability
-- AJ.00.00.000 Supportability
-- AJ.00.00.000 Testability
-- AJ.00.00.000 Usability  
+- AJ.00.00.001 Accessibility
+- AJ.00.00.002 Audit and Control
+- AJ.00.00.003 Availability
+- AJ.00.00.004 Backup	
+- AJ.00.00.005 Capacity
+- AJ.00.00.006 Certification
+- AJ.00.00.007 Compliance
+- AJ.00.00.008 Configuration management
+- AJ.00.00.009 Dependencies
+- AJ.00.00.010 Deployment
+- AJ.00.00.011 Documentation
+- AJ.00.00.012 Disaster Recovery
+- AJ.00.00.013 Efficiency
+- AJ.00.00.014 Effectiveness
+- AJ.00.00.015 Escrow
+- AJ.00.00.016 Extensibility
+- AJ.00.00.017 Failure Management
+- AJ.00.00.018 Fault Tolerance
+- AJ.00.00.019 Interoperability
+- AJ.00.00.020 Legal and Licensing
+- AJ.00.00.021 Maintainability
+- AJ.00.00.022 Modifiability
+- AJ.00.00.023 Network Topology
+- AJ.00.00.024 Open Source (Vitality, License Suitability, License Confirmation, Governance)
+- AJ.00.00.025 Operability
+- AJ.00.00.026 Performance
+- AJ.00.00.027 Platform Compatibility
+- AJ.00.00.028 Price
+- AJ.00.00.029 Privacy
+- AJ.00.00.030 Portability
+- AJ.00.00.031 Quality
+- AJ.00.00.032 Recovery
+- AJ.00.00.033 Reliability
+- AJ.00.00.034 Reporting
+- AJ.00.00.035 Resilience
+- AJ.00.00.036 Resource Constraints
+- AJ.00.00.037 Response Time
+- AJ.00.00.038 Robustness
+- AJ.00.00.039 Safety
+- AJ.00.00.040 Security
+- AJ.00.00.041 Standards
+- AJ.00.00.042 Stability
+- AJ.00.00.043 Supportability
+- AJ.00.00.044 Testability
+- AJ.00.00.045 Usability  
 
 
 ## AK.xx.xx.xxx User Interface Design
@@ -425,7 +430,6 @@ ___
 - AK.50.00.000 Application-Specific UI Functionality  
 
 - AK.60.00.000 Admin-Specific UI Functionality  
-
 
 
 ## AL.xx.xx.xxx Reporting
