@@ -14,6 +14,11 @@ Author: Kelvin D. Meeks
 
 **July 24, 2019 Update:** A major reworking of the numbering scheme, structure, and organization has been completed. I'll let this bake for awhile and then come back for the next iteration of improvements and elaboration.  But, it is in much better / more usable shape, now. 
 
+**TO-DO**
+* Continue elaboration, in particular - Business sections
+* Better align number grouping around common activities that are often found in different areas  (e.g. Governance, Principles, Policies, Standards, Specifications, etc.)
+* Consider the question/challenges of usage: project-specific vs. application vs. enterpirse
+* Review for posssible addition of sections/details for Engineering, Quality Assurance, Audit, Compliance
 
 ___
 This is an **illustrative (but not exhaustive)** set of alphanumeric classification codes to provide general guidance, across the enterprise, in devising an approach to organizing artifacts - with guidance toward a consistent identification strategy.
@@ -69,6 +74,8 @@ ___
   + AA.00.20.020 Business Functions
   + AA.00.20.030 Business Products
   + AA.00.20.040 Business Services
+  + AA.00.20.050 Business Key Process Areas (KPAs)
+  + AA.00.20.060 Business Key Process Indicators (KPIs)
 
 - AA.00.30.000 Business Strategy Planning
   + AA.00.30.010 Business Vision
@@ -77,7 +84,7 @@ ___
   + AA.00.30.040 Business Roadmap
   + AA.00.30.050 Business Planning
 
-- AA.00.00.40.000 Market Definition
+- AA.00.40.000 Market Definition
   + AA.00.40.010 Segments
   + AA.00.40.020 Locations
   + AA.00.40.030 Demographics
@@ -135,7 +142,7 @@ ___
   + AA.20.10.000 Business Information Flows
   + AA.20.20.000 Key Processes
   + AA.20.30.000 Critical Business Rules
-  + AA.20.40.000 Important Key Business Epics 
+  + AA.20.40.000 Key Business Epics
 
 
 ### AA.30.xx.xxx - Business: Architecture, Future
@@ -495,9 +502,10 @@ ___
 - AM.99.00.000 Disaster Recovery  
 
 
-## AN.xx.xx.xxx Core Application Requirements  
+## AN.xx.xx.xxx Application Portfolios
 
 - Project Specific, TBD...
+
 
 
 ## ZZ.xx.xx.xxx Reference Documentation
