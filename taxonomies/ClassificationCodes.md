@@ -24,8 +24,8 @@ Goal & Purpose: To improve the efficiency of team membersin being able to locate
 My ideas for this were stimulated and informed by the practical and real-world **massive pain & challenges** of creating/organizing/sharings/finding documents during the following periods:
 * 1995-1996, $100M+ project 
 * 2002-2003, $100M+ project
-* 2004-2005, helping establish a start-ups new engineering team 
-* 2006-2009, leading the effort to establish a new enteprise architectture tream 
+* 2004-2005, helping establish a new start-up's engineering & architecture structure, leading new product development
+* 2006-2009, mentoring & leading the effort to establish a new enteprise architectture tream 
 
 I plan to continue refactoring and evolving this to provide a better organization and grouping.  However, since this may give someone a useful starting point, I'm publishing it as-is for now.
 
