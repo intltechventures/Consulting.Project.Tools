@@ -1,7 +1,7 @@
 
 # Consulting Project Tools
 
-This project is a toolkit of scripts and templates for setting up a project directory for consulting engagements.
+This project is intended as a toolkit of references, scripts, and templates for consulting projects.
 
 
 
