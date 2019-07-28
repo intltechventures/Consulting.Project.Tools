@@ -72,7 +72,7 @@ ___
 
 - Out-of-Scope
 
-- TBB / Open QuestionsD
+- TBD / Open Questions
 
 
 
