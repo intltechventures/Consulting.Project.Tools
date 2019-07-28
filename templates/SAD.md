@@ -394,11 +394,23 @@ ___
 
 - Backup/Recovery
 
+- Disaster Recovery
+
+
 
 ## Critical Testing Scenarios
 
+- System
 
-## Glossary
+- Integration
+
+- Performance
+
+- Reliability 
+
+
+## Glossary 
+
 
 
 ## Supplemental Material
@@ -413,8 +425,17 @@ ___
   + Standards
   
   + Specifications
+
+  + JIRA Requirements
+
+  + Git Repos
+
+  + Open Source Usage
   
   + Vendor Contracts
+
+  + Vendor Collateral
+
 
 
 ## Key Project Contacts
@@ -452,10 +473,13 @@ ___
 - Engineering 
 
 
-## Version History
+## Reersion History
 
 
-# Suggested Additional Useful References
+
+___
+
+# Additional  References
 
 - https://github.com/intltechventures/Consulting.Project.Tools/blob/master/taxonomies/ClassificationCodes.md
 
@@ -464,7 +488,9 @@ ___
 - https://www.zachman.com/about-the-zachman-framework
   * https://en.wikipedia.org/wiki/Zachman_Framework
 
-- https://en.wikipedia.org/wiki/Software_requirements_specification
+- Wikipedia Resources
+  + https://en.wikipedia.org/wiki/Software_requirements_specification
+  + https://en.wikipedia.org/wiki/Non-functional_requirement
 
 - [830-1998 - IEEE Recommended Practice for Software Requirements Specifications](https://standards.ieee.org/findstds/standard/830-1998.html)
 
