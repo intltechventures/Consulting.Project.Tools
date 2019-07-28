@@ -505,7 +505,7 @@ ___
 
 ## Revision History
 For example:
-- YYYY-MM-DD, vX.Y, Author's initial, Change Description 
+- YYYY-MM-DD, vX.Y, Author's initials, Change Description 
 
 
 ___
