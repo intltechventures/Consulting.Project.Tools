@@ -1,6 +1,6 @@
 
 # Solution Architecture Document (SAD) Template 
-(##Illustrative, Not Exhaustive**)
+(**Illustrative, Not Exhaustive**)
 
 - **This document's location:**
   + https://github.com/intltechventures/Consulting.Project.Tools/blob/master/templates/SAD.md
