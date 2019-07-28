@@ -5,9 +5,7 @@
 - **This document's location:**
   + https://github.com/intltechventures/Consulting.Project.Tools/blob/master/templates/SAD.md
   + **STATUS: WORKING DRAFT**
-  + **Last Updated: 2019-07-27**
-
-- **Author: Kelvin D. Meeks**
+  + **Last Updated: 2019-07-288888888*Author: Kelvin D. Meeks**
   + kmeeks@intltechventures.com
   + http://www.intltechventures.com
 
@@ -144,20 +142,30 @@ ___
 	* By User Group, by Frequency Period
 	* By Transaction Type, by Frequency Period
 	* By Role, by Frequency Period
+  + Size of Events/Transactions, by Type
+    * Number of Records per Event/Transaction
+    * (Bytes, KB, MB, etc.)
   + Storage Estimates / Requirements
-    * By Transaction Type, by Frequency Period
-    * Project Growth, over 3-5 years
-	* Data Retention/Archive/Purge Rules, by Transaction Type
+    * By Type, by Frequency Period
+    * Projected Growth, over 3-5 years
+	* Data Retention/Archive/Purge Rules, by Type
 	
 - File Processing
   + Types of Files
-  + Number of Files, by Processing Period, by File Type
-  + Frequency of File Processing, by File Type
+  + Number of Files
+    * By File Type, by Processing Period
+      * Daily
+      * Weekly
+      * Monthly
+      * Quarterly
+      * Annually
   + Size of Files, by File Type 
+    * Number of Records/Transactions
+    * (KB, MB, GB, TB, etc.)
   + Storage Estimates / Requirements
-    * By File Type, by Frequency Period
-    * Project Growth, over 3-5 years
-	* Data Retention/Archive/Purge Rules, by File Type
+    * By Type, by Frequency Period
+    * Projected Growth, over 3-5 years
+	* Data Retention/Archive/Purge Rules, by Type
 
 
 ## Estimates (aka ROM/SWAG)
@@ -172,7 +180,9 @@ ___
 
 ## Architecture Views - Current State
 
-- Conceptual 
+- Context Views
+
+- Conceptual Views 
 
 - Logical Views
 
@@ -201,7 +211,9 @@ ___
 
 ## Architecture Views - Future State
 
-- Conceptual 
+- Context Views 
+
+- Conceptual Views
 
 - Logical Views
 
