@@ -63,6 +63,7 @@ ___
 - Future State (TO-BE)
 
 - Alternatives Considered
+(Summarized - Provide additional details/elaboration in **References** section)
 
 - Proposed Approach
   
@@ -90,9 +91,9 @@ ___
 
 ## Critical Issues
 
-- Criticual Issue #1
+- Critical Issue #1...
 
-- Critical Issue #2
+- Critical Issue #2...
 
 
 
@@ -223,6 +224,7 @@ ___
   + API/Service Endpoints, Exposed
   + Stream Processing, Inbound
   
+
 - Outbound Data Processing
   + File Transfers,  Outbound
   + Message Queues, Outbound
@@ -331,7 +333,7 @@ ___
 - Help Desk Operations / Staffing 
 
 
-## Impact Assessment - IT / Engineering
+### Impact Assessment - IT / Engineering
 
 - IT Support Operations / Staffing 
 
@@ -339,6 +341,7 @@ ___
 
 - Transaction Processing
   + Internal 
+
   + External 
 
 - Web Service Response Times
@@ -346,7 +349,7 @@ ___
 - Batch Job Durations
 
 
-### Impact Assessment - Security
+### Impact Assessment - IT / Security
 
 - User Provisioning
   + Roles
@@ -354,25 +357,31 @@ ___
   
 - Authentication
   + Active Directory (AD) / LDAP
+
   + Single Sign-On (SSO)
     + SAML 2.0
 	+ OAuth 2.0 
 	+ OpenID
-    + Two-Factor Authentication 
+
+  + Two-Factor Authentication 
 	
 + Authorization
+  + Roles
+
+  + Permissions
 
 - Encryption
   + Encryption-At-Rest
+
   + Encryption-In-Transit
-  
+
+
+### Impact Assessment - IT / Infrastructure
+(.e.g. Cloud, Hybrid Cloud, On Prem)
+
 - Service Accounts
 
 - Virtual Private Network (VPN)
-
-
-## Infrastructure Impact Assessment
-(e.g. Cloud and/or On Premise)
 
 - Servers, Virtual Machines (VMs), Containers 
 
@@ -395,7 +404,7 @@ ___
 - IP Restrictions (e.g. whitelist, blacklist)
   
   
-## DevOps Impact Assessment
+### Impact Assessment - IT / DevOps
 
 - Deployment 
 
@@ -403,7 +412,9 @@ ___
 
 - Support Process
   + Tier-1
+
   + Tier-2
+
   + Tier-3
   
 - Monitoring / Alerting
@@ -439,13 +450,15 @@ ___
 - Security 
 
 
+
 ## Glossary 
+(table of terms/acronyms and definitions)
 
 
 
-## Supplemental Material
+## References
 
-- References
+- Supplemental Information
 
 - Citations
   + Policies
@@ -467,9 +480,22 @@ ___
   + Vendor Collateral
 
 - Alternatives Consdered
+  + Evaluation Criteria
+
   + Alternative #1
+    * Pros
+    * Cons
+    * Evaluation Score
+
   + Alternative #2
+    * Pros
+    * Cons
+    * Evaluation Score
+
   + Alternative #3
+    * Pros
+    * Cons
+    * Evaluation Score
 
 
 ## Key Project Contacts
