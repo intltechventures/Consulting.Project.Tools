@@ -503,8 +503,9 @@ ___
 - Engineering 
 
 
-## Reersion History
-
+## Revision History
+For example:
+- YYYY-MM-DD, vX.Y, Author's initial, Change Description 
 
 
 ___
