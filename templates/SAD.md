@@ -89,6 +89,10 @@ ___
 
 ## Critical Issues
 
+- Criticual Issue #1
+
+- Critical Issue #2
+
 
 
 ## Significant Unknowns 
@@ -96,7 +100,6 @@ ___
 - Business
 
 - Technical
-
 
 
 
@@ -216,13 +219,13 @@ ___
   + File Transfers,  Inbound
   + Message Queues, Inbound
   + API/Service Endpoints, Exposed
-  + Stream Processing, Outbound
+  + Stream Processing, Inbound
   
 - Outbound Data Processing
   + File Transfers,  Outbound
   + Message Queues, Outbound
   + API/Service Endpoints, Called
-  + Stream Processing, Inbound 
+  + Stream Processing, Outbound 
   
 - Internal Processing
 
@@ -230,7 +233,19 @@ ___
 
 - Business Rules
 
-- Reporting
+- Algorithms
+
+- Machine Learning
+
+- Artificial Intelligence
+
+- Internet-of-Things (IoT)
+
+- Data Analytics
+  + Reporting
+  + Business Intelligence
+  + Data Analytics
+  + Data Warehouse 
 
 - Logging
 
@@ -436,6 +451,10 @@ ___
 
   + Vendor Collateral
 
+- Alternatives Consdered
+  + Alternative #1
+  + Alternative #2
+  + Alternative #3
 
 
 ## Key Project Contacts
