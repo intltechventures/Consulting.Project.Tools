@@ -1,5 +1,6 @@
 
-# Solution Architecture Document (SAD) Template - Illustrative, Not Exhaustive
+# Solution Architecture Document (SAD) Template 
+(##Illustrative, Not Exhaustive**)
 
 - **This document's location:**
   + https://github.com/intltechventures/Consulting.Project.Tools/blob/master/templates/SAD.md
@@ -14,7 +15,7 @@
 - Releassed under [The MIT License](https://opensource.org/licenses/MIT)
 
 
-## Solution Architecture Document (SAD) - Purpose
+## SAD Purpose
 
 **Rationale:** Numerous times, in my travels as a consultant, I've encountered organizations in which there is no established standard/template for what should be included in an SAD. Quite often (even in organizations that ostensibly have a template), the artifacts that architects and engineers produce devolve into a Wild Wild West of anything-goes. Consistency engenders repeatability - which can help reduce variability in quality - and thus, a worthy goal. 
 
@@ -40,7 +41,7 @@ Investing effort in the creation of the SAD is intended for larger-scoped projec
 
 ___
 
-# SAD Exemplar Format
+# SAD Format
 
 ## Summary
 
