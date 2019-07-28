@@ -426,6 +426,8 @@ ___
 
 ## Critical Testing Scenarios
 
+- Regression 
+
 - System
 
 - Integration
@@ -433,6 +435,8 @@ ___
 - Performance
 
 - Reliability 
+
+- Security 
 
 
 ## Glossary 
