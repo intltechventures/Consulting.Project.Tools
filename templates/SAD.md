@@ -1,27 +1,32 @@
-# High-Level Design Doc (HLD) - General Purpose
 
-Rationale: Numerous times, in my travels as a consultant, I've encountered organizations in which there is no established standard/template for what should be included in an HLD. Quite often (even in organizations that ostensibly have a template), the artifacts that architects and engineers produce devolve into a Wild Wild West of anything-goes. Consistency engenders repeatability - which can help reduce variability in quality - and thus, a worthy goal. 
+# Solution Architecture Document (SAD) - Purpose
+**STATUS: WORKING DRAFT**
+**Last Updated: 2019-07-27**
+
+**Rationale:** Numerous times, in my travels as a consultant, I've encountered organizations in which there is no established standard/template for what should be included in an SAD. Quite often (even in organizations that ostensibly have a template), the artifacts that architects and engineers produce devolve into a Wild Wild West of anything-goes. Consistency engenders repeatability - which can help reduce variability in quality - and thus, a worthy goal. 
 
 Therefore, the intended purpose in sharing this...at least as a starting point for further customization by a client organization.
 
-### STATUS: WORKING DRAFT
-**Last Updated: 2019-07-27**
 
-The goal of an HLD is to facilitate communication and coordination, both within internal teams and organizations - as well as serving as a tool for communication and coordination with external partners.
+The goal of an SAD is to facilitate communication and coordination, both within internal teams and organizations - as well as serving as a tool for communication and coordination with external partners.
 
-The HLD provides a consistent format for teams to assemble details - which supports a goal of being able to achieve some level of reuse of design artifacts - and is intended to provide sufficient information to Program/Project Management to be able to plan, estimate, and coordinate large-scale development efforts.  Additionally, an HLD servces as an effective mechanism to support Design Review and Architecture Governance efforts.
+The SAD provides a consistent format for teams to assemble details - which supports a goal of being able to achieve some level of reuse of design artifacts - and is intended to provide sufficient information to Program/Project Management to be able to plan, estimate, and coordinate large-scale development efforts.  Additionally, anSAD serves as an effective mechanism to support Design Review and Architecture Governance efforts.
 
-The ideal place for an HLD to live is in a Wiki or in a Markdown file (i.e. in the git repository for the project)
+The ideal place for an SAD to live is as a MarkDown file (.md) on a git repository - or as a living wiki page. 
 
 The target level of detail is to scope the effort, provide sufficient input to the estimation process, and to clearly articulate the **How** of an approach.  
 
 The **What** should be ideally defined in a collection of User Stories, Use Cases, Feature Requests, etc. - or, minimally, in a Business Requirements Document (BRD).
 
-Investing effort in the creation of the HLD is intended for larger-scoped projects/epics - that have some non-trivial number of unknowns, technical complexity, a high number of coordination points,  or extensive external integration/coordination requirements.
+Investing effort in the creation of the SAD is intended for larger-scoped projects/epics - that have some non-trivial number of unknowns, technical complexity, a high number of coordination points,  or extensive external integration/coordination requirements.
+
+**TO-DO:**
+- Incorporate ideas from the Classification Codes Taxonomy 
+  + https://github.com/intltechventures/Consulting.Project.Tools/blob/master/taxonomies/ClassificationCodes.md
 
 ___
 
-# High Level Design Template
+# Solution Architecture Document (SAD) Template
 
 ## Summary
 
@@ -100,15 +105,26 @@ ___
 
 ## Solution Sizing Factors
 
-- Event/Transaction Frequency
-
-- Event/Transaction Volume
-  + Users, by Role/Type
-  + Transactions
-  + Storage
-	* Data Storage
-	  * Project Growth, over 3-5 years
-	* Data Archive/Retention Rules
+- Event/Transaction Processing 
+  + Types of Events/Transactions
+  + Number of Events/Transactions
+	* By User Group, by Frequency Period
+	* By Transaction Type, by Frequency Period
+	* By Role, by Frequency Period
+  + Storage Estimates / Requirements
+    * By Transaction Type, by Frequency Period
+    * Project Growth, over 3-5 years
+	* Data Retention/Archive/Purge Rules, by Transaction Type
+	
+- File Processing
+  + Types of Files
+  + Number of Files, by Processing Period, by File Type
+  + Frequency of File Processing, by File Type
+  + Size of Files, by File Type 
+  + Storage Estimates / Requirements
+    * By File Type, by Frequency Period
+    * Project Growth, over 3-5 years
+	* Data Retention/Archive/Purge Rules, by File Type
 
 
 ## Estimates (aka ROM/SWAG)
@@ -188,6 +204,53 @@ ___
 - Logging
 
 - Monitoring / Alerting
+
+- AJ.xx.xx.xxx Non-Functional Requirements (NFRs)
+  + AJ.00.00.001 Accessibility
+  + AJ.00.00.002 Audit and Control
+  + AJ.00.00.003 Availability
+  + AJ.00.00.004 Backup
+  + AJ.00.00.005 Capacity
+  + AJ.00.00.006 Certification
+  + AJ.00.00.007 Compliance
+  + AJ.00.00.008 Configuration management
+  + AJ.00.00.009 Dependencies
+  + AJ.00.00.010 Deployment
+  + AJ.00.00.011 Documentation
+  + AJ.00.00.012 Disaster Recovery
+  + AJ.00.00.013 Efficiency
+  + AJ.00.00.014 Effectiveness
+  + AJ.00.00.015 Escrow
+  + AJ.00.00.016 Extensibility
+  + AJ.00.00.017 Failure Management
+  + AJ.00.00.018 Fault Tolerance
+  + AJ.00.00.019 Interoperability
+  + AJ.00.00.020 Legal and Licensing
+  + AJ.00.00.021 Maintainability
+  + AJ.00.00.022 Modifiability
+  + AJ.00.00.023 Network Topology
+  + AJ.00.00.024 Open Source (Vitality, License Suitability, License Confirmation, Governance)
+  + AJ.00.00.025 Operability
+  + AJ.00.00.026 Performance
+  + AJ.00.00.027 Platform Compatibility
+  + AJ.00.00.028 Price
+  + AJ.00.00.029 Privacy
+  + AJ.00.00.030 Portability
+  + AJ.00.00.031 Quality
+  + AJ.00.00.032 Recovery
+  + AJ.00.00.033 Reliability
+  + AJ.00.00.034 Reporting
+  + AJ.00.00.035 Resilience
+  + AJ.00.00.036 Resource Constraints
+  + AJ.00.00.037 Response Time
+  + AJ.00.00.038 Robustness
+  + AJ.00.00.039 Safety
+  + AJ.00.00.040 Security
+  + AJ.00.00.041 Standards
+  + AJ.00.00.042 Stability
+  + AJ.00.00.043 Supportability
+  + AJ.00.00.044 Testability
+  + AJ.00.00.045 Usability
 
 
 ## Technical Dependencies
