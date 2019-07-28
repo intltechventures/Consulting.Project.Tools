@@ -1,7 +1,20 @@
 
-# Solution Architecture Document (SAD) - Purpose
-- **STATUS: WORKING DRAFT**
-- **Last Updated: 2019-07-27**
+# Solution Architecture Document (SAD) Template - Illustrative, Not Exhaustive
+
+- **This document's location:**
+  + https://github.com/intltechventures/Consulting.Project.Tools/blob/master/templates/SAD.md
+  + **STATUS: WORKING DRAFT**
+  + **Last Updated: 2019-07-27**
+
+- **Author: Kelvin D. Meeks**
+  + kmeeks@intltechventures.com
+  + http://www.intltechventures.com
+
+- Copyright 2001-2019, International Technology Ventures, Inc.
+- Releassed under [The MIT License](https://opensource.org/licenses/MIT)
+
+
+## Solution Architecture Document (SAD) - Purpose
 
 **Rationale:** Numerous times, in my travels as a consultant, I've encountered organizations in which there is no established standard/template for what should be included in an SAD. Quite often (even in organizations that ostensibly have a template), the artifacts that architects and engineers produce devolve into a Wild Wild West of anything-goes. Consistency engenders repeatability - which can help reduce variability in quality - and thus, a worthy goal. 
 
@@ -27,7 +40,7 @@ Investing effort in the creation of the SAD is intended for larger-scoped projec
 
 ___
 
-# Solution Architecture Document (SAD) Template
+# SAD Exemplar Format
 
 ## Summary
 
@@ -59,6 +72,9 @@ ___
 
 - Out-of-Scope
 
+- TBB / Open QuestionsD
+
+
 
 ## Important Risks
 (for example...)
@@ -70,10 +86,17 @@ ___
 - Resource Availability
 
 
+
 ## Critical Issues
 
 
+
 ## Significant Unknowns 
+
+- Business
+
+- Technical
+
 
 
 
@@ -86,6 +109,7 @@ ___
 - Technical Constraints 
 
 
+
 ## Business Context
 (e.g. provide citations, links - seek to avoid duplication in this document with what has already been defined elsewhere, e.g. JIRA)
 
@@ -96,13 +120,15 @@ ___
 - Stories
 
 - Use Cases 
-  
+
+
 
 ## Project Coordination/Dependencies
 
 - Internal
 
 - External
+
 
 ## Solution Sizing Factors
 
@@ -137,6 +163,7 @@ ___
 - Pessimistic
 
 
+
 ## Architecture Views - Current State
 
 - Conceptual 
@@ -154,6 +181,7 @@ ___
 - (additional views, as needed)
 
 
+
 ## Architecture Views - Transitional
 (For example...)
 
@@ -162,6 +190,7 @@ ___
 - Conversion
 
 - Shims 
+
 
 
 ## Architecture Views - Future State
@@ -179,6 +208,7 @@ ___
 - Data Model Views
 
 - (additional views, as needed)
+
 
 ## Key Architecture Design Elements
 
@@ -262,6 +292,7 @@ ___
 
 
 ## Impact Assessments
+
 
 ### Impact Assessment - Business Operations
 - Users 
@@ -366,6 +397,7 @@ ___
 
 ## Critical Testing Scenarios
 
+
 ## Glossary
 
 
@@ -383,8 +415,10 @@ ___
   + Specifications
   
   + Vendor Contracts
-  
+
+
 ## Key Project Contacts
+
 - Design Reviewers/Approvers
 
 - Business Stakeholders
@@ -417,6 +451,7 @@ ___
 
 - Engineering 
 
+
 ## Version History
 
 
@@ -432,3 +467,6 @@ ___
 - https://en.wikipedia.org/wiki/Software_requirements_specification
 
 - [830-1998 - IEEE Recommended Practice for Software Requirements Specifications](https://standards.ieee.org/findstds/standard/830-1998.html)
+
+
+
