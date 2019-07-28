@@ -1,7 +1,7 @@
 
 # Solution Architecture Document (SAD) - Purpose
-**STATUS: WORKING DRAFT**
-**Last Updated: 2019-07-27**
+- **STATUS: WORKING DRAFT**
+- **Last Updated: 2019-07-27**
 
 **Rationale:** Numerous times, in my travels as a consultant, I've encountered organizations in which there is no established standard/template for what should be included in an SAD. Quite often (even in organizations that ostensibly have a template), the artifacts that architects and engineers produce devolve into a Wild Wild West of anything-goes. Consistency engenders repeatability - which can help reduce variability in quality - and thus, a worthy goal. 
 
@@ -18,10 +18,11 @@ The target level of detail is to scope the effort, provide sufficient input to t
 
 The **What** should be ideally defined in a collection of User Stories, Use Cases, Feature Requests, etc. - or, minimally, in a Business Requirements Document (BRD).
 
-Investing effort in the creation of the SAD is intended for larger-scoped projects/epics - that have some non-trivial number of unknowns, technical complexity, a high number of coordination points,  or extensive external integration/coordination requirements.
+Investing effort in the creation of the SAD is intended for larger-scoped projects/epics - that have some non-trivial number of unknowns, technical complexity, a high number of coordination points,  or extensive external integration/coordination requirements. For smaller efforts (or, as a move toward a more Agile and Lean Architecture apporach), an [Architecture Decision Record (ADR) template](https://github.com/intltechventures/Consulting.Project.Tools/blob/master/templates/ArchitectureDecisionRecord.md) should be considered.
+
 
 **TO-DO:**
-- Incorporate ideas from the Classification Codes Taxonomy 
+- Continue incorporating ideas (and structure) from the Classification Codes Taxonomy 
   + https://github.com/intltechventures/Consulting.Project.Tools/blob/master/taxonomies/ClassificationCodes.md
 
 ___
