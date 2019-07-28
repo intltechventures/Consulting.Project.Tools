@@ -103,13 +103,14 @@ ___
 
 
 
-## Requirements / Traceability
+## Requirements 
+(e.g. citations, links - seek to avoid duplication in this document)
 
-- Business Requirements (e.g. citations, links - seek to avoid duplication in this document)
+- Business Requirements
 
-- Non-Functional Requirements 
+- Technical Requirement
 
-- Technical Constraints 
+- Requiements Traceability
 
 
 
@@ -241,11 +242,20 @@ ___
 
 - Internet-of-Things (IoT)
 
-- Data Analytics
-  + Reporting
+- Reporting
+  + End-User Reporting
+  + Corporate Reporting
+  + Business Executive Reporting
+  + Line of Business Reporting
+  + Division Reporting
+  + Department Reporting
+  + Business Operational Reporting
+  + DevOps Operational Reporting
   + Business Intelligence
   + Data Analytics
-  + Data Warehouse 
+  + Data Warehouses
+  + Data Lakes
+  + Data Cubes
 
 - Logging
 
