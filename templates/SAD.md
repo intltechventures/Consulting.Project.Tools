@@ -5,7 +5,8 @@
 - **This document's location:**
   + https://github.com/intltechventures/Consulting.Project.Tools/blob/master/templates/SAD.md
   + **STATUS: WORKING DRAFT**
-  + **Last Updated: 2019-07-288888888*Author: Kelvin D. Meeks**
+  + **Last Updated: 2019-07-28**
+  + Author: Kelvin D. Meeks
   + kmeeks@intltechventures.com
   + http://www.intltechventures.com
 
