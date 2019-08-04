@@ -96,9 +96,9 @@ __These are the primary software programs that I typically have installed on my 
     * https://github.com/Edditoria/markdown-plus-plus 
 
 - [Visual Studio Code](https://code.visualstudio.com/)
-  * https://code.visualstudio.com/docs/
-  * [Marketplace for Extensions](https://code.visualstudio.com/docs?start=true#top-extensions)
-  * My Installed Extensions:
+  + https://code.visualstudio.com/docs/
+  + [Marketplace for Extensions](https://code.visualstudio.com/docs?start=true#top-extensions)
+  + My Installed Extensions:
     * https://marketplace.visualstudio.com/itemdetails?itemName=dbaeumer.vscode-eslint  
     * https://marketplace.visualstudio.com/items?itemName=Tyriar.vscode-terminal-here
       * "Creates an intergrated terminal session at the current file's directory"
@@ -121,7 +121,8 @@ __These are the primary software programs that I typically have installed on my 
     * Scala Plugins
       * https://marketplace.visualstudio.com/items?itemName=scala-lang.scala
         * https://github.com/scala/vscode-scala-syntax
-
+    * Remote Development (Preview)
+      * https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack
 
 - Alternatives:
   * [ATOM](https://atom.io/) - (still evaluating...)
