@@ -25,7 +25,7 @@
 * "We're not going to shut the project down" - they did, two weeks later
 * "We're pre-IPO" - they had no intention of going IPO
 * "We've sent the payment" - they didn't
-* "We have a plan" - nope, nada, zip, butkus
+* "We have a plan" - nope, nada, zip, bupkis
 * "What could you do with $20M?" - they were broke and not profitable
 * "We're growing" - they laid off 50% of the division
 * A kinder gentle version of this rule might be "Inspect what you expect"
@@ -81,6 +81,9 @@
 
 
 **\#010 - "Walk out the door any time someone  asks you to lie, cheat, steal, or in any way break the law"**
+  * The CEO of the start-up company in Bellevue that wanted to steal the intellectual property of a partner
+  * The three levels of management at a major aeeropsace company that repleasted asked about the possibility of appropriating the intellectual property of a vendor - and dismissed my citing [Title 18, Chapter 90, Section 1832](https://www.law.cornell.edu/uscode/text/18/1832)
+  * The Director of a SaaS company in Bellevue that asked me to lie for him - to executive management - and his customers.
 
 
 
