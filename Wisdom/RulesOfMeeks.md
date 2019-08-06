@@ -82,7 +82,7 @@
 
 **\#010 - "Walk out the door any time someone  asks you to lie, cheat, steal, or in any way break the law"**
   * The CEO of a start-up company that wanted to steal the intellectual property of a vendor partner
-  * The three levels of management at a major aeropsace company - that repeatedly asked about the possibility of appropriating the intellectual property of a vendor, signing a contract with them - and dismissed my citing [Title 18, Chapter 90, Section 1832](https://www.law.cornell.edu/uscode/text/18/1832)
+  * The three levels of management at a major aeropsace company - that repeatedly asked about the possibility of appropriating the intellectual property of a vendor, without signing a contract with them - and dismissed my citing [Title 18, Chapter 90, Section 1832](https://www.law.cornell.edu/uscode/text/18/1832)
   * The Director of a SaaS company that asked me to lie for him - to executive management - and his customers - to hide his screw-up (releasing untested software)
 
 
