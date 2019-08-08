@@ -3,9 +3,10 @@ cls
 REM 
 REM ***************************************************************************
 REM init_project.bat
-set version=1.2.5
+set version=1.2.6
 REM
 REM Client Project Directory Setup Script
+REM (Illustrative, Not Exhaustive)
 REM
 REM International Technology Ventures, Inc.
 REM https://www.intltechventures.com
@@ -14,7 +15,7 @@ REM Author: Kelvin D. Meeks
 REM Email: kmeeks@intltechventures.com 
 REM
 REM Created: 2019-06-28
-REM Update:  2019-07-22
+REM Update:  2019-08-07
 REM
 REM github 
 REM https://github.com/intltechventures/Consulting.Project.Tools/blob/master/src/ProjectDirectoryStructure/init_project.bat
@@ -235,8 +236,29 @@ mkdir architecture\EA\views\data_flows
 mkdir architecture\EA\views\infrastructure
 mkdir architecture\EA\views\processes
 mkdir architecture\EA\views\security
+mkdir architecture\EA\views\security\Authentication
+mkdir architecture\EA\views\security\Authorization
+mkdir architecture\EA\views\security\SSO
+mkdir architecture\EA\views\security\WAF
+mkdir architecture\EA\views\security\AD
+mkdir architecture\EA\views\security\Monitoring
+mkdir architecture\EA\views\security\Monitoring\Intrusion
+mkdir architecture\EA\views\security\Monitoring\Traffic
 
 mkdir architecture\infrastructure
+mkdir architecture\infrastructure\overview
+mkdir architecture\infrastructure\inventory
+mkdir architecture\infrastructure\environments
+mkdir architecture\infrastructure\environemnts\10_DEV
+mkdir architecture\infrastructure\environemnts\20_TEST
+mkdir architecture\infrastructure\environemnts\30_QA
+mkdir architecture\infrastructure\environemnts\40_STAGE
+mkdir architecture\infrastructure\environemnts\50_TRAINING
+mkdir architecture\infrastructure\environemnts\60_SALES
+mkdir architecture\infrastructure\environemnts\70_UAT
+mkdir architecture\infrastructure\environemnts\80_BREAK_FIX
+mkdir architecture\infrastructure\environemnts\99_PROD
+
 
 mkdir architecture\references
 
@@ -318,14 +340,14 @@ mkdir references
 mkdir references\regulatory
 mkdir references\DevOps
 mkdir references\operations
-mkdir references\operationsmonitoring
-mkdir references\operationsjobs
-mkdir references\operationsjobs\ad_hoc
-mkdir references\operationsjobs\daily
-mkdir references\operationsjobs\weekly
-mkdir references\operationsjobs\quarterly
-mkdir references\operationsjobs\monthly
-mkdir references\operationsjobs\yearly
+mkdir references\operations\monitoring
+mkdir references\operations\jobs
+mkdir references\operations\jobs\ad_hoc
+mkdir references\operations\jobs\daily
+mkdir references\operations\jobs\weekly
+mkdir references\operations\jobs\quarterly
+mkdir references\operations\jobs\monthly
+mkdir references\operations\jobs\yearly
 mkdir references\tips
 
 mkdir research\%year%
