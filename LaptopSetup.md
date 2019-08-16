@@ -11,6 +11,17 @@
   + __Secondary Laptop__:
     * Lenovo Ideapad 110-15ACL, AMD A8-7410 2.2Ghz, 8GB RAM (1,600 MHz), 1TB SATA SSD, 4.8 lbs
 
+  + [Logitech K540 keyboard](https://www.amazon.com/Logitech-Wireless-Keyboard-Computers-Laptops/dp/B07QY3BJBV)
+    * Future, to evaluate:
+      * [K380 Multi-Device Bluetooth Keyboard](https://www.logitech.com/en-us/product/multi-device-keyboard-k380)
+      * [K780 K780 Multi-Device Wireless Keyboard](https://www.logitech.com/en-us/product/k780-multi-device-wireless-keyboard?crid=27)
+        * switch between (3) different devices...
+  + [Logitech M310 mouse](https://www.amazon.com/Logitech-M310-Wireless-Mouse-Symmetrical/dp/B008QS8G5O/)
+    * (This mouse came bundled with the K540 keyboard)
+    * Future, to evaluate:
+      * [M720 Triathlon, Multi-device wireless mouse](https://www.logitech.com/en-us/product/m720-triathlon?crid=7)
+
+
 
 __These are the primary software programs that I typically have installed on my personal development machine...__
 
