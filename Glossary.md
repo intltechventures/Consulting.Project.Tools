@@ -25,6 +25,7 @@ API         | [Application Programming Interface ](https://en.wikipedia.org/wiki
 APM         | Application Portfolio Management  
 ARB         | Architecture Review Board  
 ARI         | Amazon Ramdisk Image
+ARR         | Annual Recurring Revenue 
 ART         | Agile Release Train (re: Scaled Agile Framework, SAFe)
 ASCII       | [American Standard Code for Information Interchange](https://en.wikipedia.org/wiki/ASCII)
 ASP         | Application Service Provider  
@@ -180,6 +181,7 @@ MIT/LCS     | [Massachusetts Institute of Technology](https://en.wikipedia.org/w
 ML          | Machine Learning 
 MOLAP       | Multidimensional OLAP
 MOU         | Memorandum of Understanding
+MRR         | Monthly Recurring Revenue
 MSA         | Microservices Architecture  
 MSA         | Master Service Agreement
 MTD         | Maximum Tolerable Downtime
