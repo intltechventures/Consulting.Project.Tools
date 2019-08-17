@@ -139,6 +139,9 @@ __These are the primary software programs that I typically have installed on my 
   * [ATOM](https://atom.io/) - (still evaluating...)
     * https://github.com/atom/atom
 
+- For Future Consideration: Online Editors
+  + https://codeanywhere.com/
+
 
 ### Command Line Utilities
 
@@ -526,6 +529,8 @@ __These are the primary software programs that I typically have installed on my 
 - [Graphviz](http:www.graphviz.org)
 
 - [GIMP](https://www.gimp.org/downloads/)
+  + Alternatives:
+    * https://www.designer.io/en/
 
 - [SnagIt](https://www.techsmith.com/snagit.html)
 
