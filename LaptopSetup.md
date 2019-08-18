@@ -292,6 +292,10 @@ __These are the primary software programs that I typically have installed on my 
 - [Julia](http://julialang.org/)
 
 - [Perl](https://www.perl.org/)
+  + http://strawberryperl.com
+    * http://strawberryperl.com/releases.html
+    * (64bit, PDL edition = portable edition + extra PDL related modules and external libraries)
+      * http://pdl.perl.org/
 
 - [PHP ](http://php.net/)
 
