@@ -218,7 +218,7 @@
 **\#705 - "NEVER pull all-nighters. It will permanently damage your health in ways you cannot imagine"**
 
 
-**\#706 - "Beware of fast talkers - for it may portend a person with a shady character, somthing to hide...or just an asshole"**
+**\#706 - "Beware of fast talkers - for it may portend a person with a shady character, something to hide...or just an asshole"**
 
 
 **\#799 - "Never forget - a full-time job doesn't come with any guarantee"**
