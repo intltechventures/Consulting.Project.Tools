@@ -238,6 +238,7 @@
 
 
 **\#803 - "Never release on a Friday"**
+  * Also a truism in saling: "_Never start a voyage on a Friday_"
 
 
 
