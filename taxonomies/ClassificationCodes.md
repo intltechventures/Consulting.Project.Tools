@@ -561,6 +561,10 @@ ___
   + https://en.wikipedia.org/wiki/Enterprise_architecture_artifacts
 
 
+- OWL and RDF Modeling
+  + [Tutorial 4: Introducing RDFS & OWL](http://www.linkeddatatools.com/introducing-rdfs-owl)
+
+
 ### Academic Papers
 (For further/future research)
 
