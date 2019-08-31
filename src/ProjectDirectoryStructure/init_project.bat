@@ -413,7 +413,7 @@ echo Company URL, Executive Leadership Team: >> info.txt
 ECHO. >> info.txt
 echo Company LinkedIn URL: >> info.txt
 
-ECHO. >> 
+ECHO. >> info.txt 
 echo Glassoor URL: >> info.txt
 
 ECHO. >> info.txt
