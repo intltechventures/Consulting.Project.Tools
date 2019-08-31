@@ -3,7 +3,7 @@ cls
 REM 
 REM ***************************************************************************
 REM init_project.bat
-set version=1.2.6
+set version=1.2.8
 REM
 REM Client Project Directory Setup Script
 REM (Illustrative, Not Exhaustive)
@@ -15,7 +15,7 @@ REM Author: Kelvin D. Meeks
 REM Email: kmeeks@intltechventures.com 
 REM
 REM Created: 2019-06-28
-REM Update:  2019-08-07
+REM Update:  2019-08-31
 REM
 REM github 
 REM https://github.com/intltechventures/Consulting.Project.Tools/blob/master/src/ProjectDirectoryStructure/init_project.bat
@@ -141,6 +141,7 @@ mkdir admin\contacts\IT\Architecture
 mkdir admin\contacts\IT\Engineering
 mkdir admin\contacts\IT\Operations
 mkdir admin\contacts\IT\DevOps
+mkdir admin\contacts\IT\Procurement
 mkdir admin\contacts\IT\QA
 mkdir admin\contacts\IT\Security
 mkdir admin\contacts\IT\Infrastructure
@@ -266,6 +267,7 @@ mkdir architecture\references\OSS
 
 mkdir architecture\references\shared_services
 mkdir architecture\references\shared_services\alerting
+mkdir architecture\references\shared_services\AD
 mkdir architecture\references\shared_services\authentication
 mkdir architecture\references\shared_services\authorization
 mkdir architecture\references\shared_services\ETL
@@ -275,9 +277,12 @@ mkdir architecture\references\shared_services\MFT
 mkdir architecture\references\shared_services\monitoring
 mkdir architecture\references\shared_services\scheduling
 mkdir architecture\references\shared_services\SMS
+mkdir architecture\references\shared_services\SSO
 mkdir architecture\references\shared_services\workflow
 
 mkdir architecture\security
+mkdir architecture\security\WAF
+
 
 
 REM ***************************************************************************
@@ -361,13 +366,16 @@ mkdir special_projects\%year%
 mkdir travel\%year%\%month%
 
 touch travel\commute.txt
+
 ECHO. >> travel\commute.txt
 ECHO Google Map Link: Driving Route from Home to Client Office >> travel\commute.txt
+
 ECHO. >> travel\commute.txt
 ECHO Google Map Link: Driving Route from Client Office to Home >> travel\commute.txt
 ECHO. >> travel\commute.txt
 
 touch travel\hotels.txt
+
 ECHO. >> travel\hotels.txt
 ECHO Google Map Link: Hotels in the vicinity >> travel\hotels.txt
 ECHO. >> travel\hotels.txt
@@ -405,87 +413,85 @@ echo Company URL, Executive Leadership Team: >> info.txt
 ECHO. >> info.txt
 echo Company LinkedIn URL: >> info.txt
 
+ECHO. >> 
 echo Glassoor URL: >> info.txt
-ECHO. >> info.txt
 
 ECHO. >> info.txt
 ECHO. >> info.txt
-
+ECHO. >> info.txt
 echo Date Founded: >> info.txt
-ECHO. >> info.txt
 
+ECHO. >> info.txt
 echo # Employees: >> info.txt
-ECHO. >> info.txt
 
+ECHO. >> info.txt
 echo Annual Revenue: >> info.txt
-ECHO. >> info.txt
 
+ECHO. >> info.txt
 echo Stock Symbol: >> info.txt
-ECHO. >> info.txt
-ECHO. >> info.txt
 
+ECHO. >> info.txt
+ECHO. >> info.txt
 echo Opportunity Source: >> info.txt
-ECHO. >> info.txt
-ECHO. >> info.txt
 
+ECHO. >> info.txt
+ECHO. >> info.txt
 echo Start Date: >> info.txt 
-ECHO. >> info.txt
 
+ECHO. >> info.txt
 echo End Date: >> info.txt
-ECHO. >> info.txt
 
+ECHO. >> info.txt
 ECHO Subcontracting Firm: >> info.txt
-ECHO. >> info.txt
 
+ECHO. >> info.txt
 echo Rate: >> info.txt
-ECHO. >> info.txt
 
+ECHO. >> info.txt
 echo Invoice Submission Email: >> info.txt
+
 ECHO. >> info.txt 
 ECHO. >> info.txt
-
 echo Building - Help Desk: >> info.txt
-ECHO. >> info.txt
 
+ECHO. >> info.txt
 echo Building - Facilities: >> info.txt
-ECHO. >> info.txt
 
+ECHO. >> info.txt
 echo Building - Security: >> info.txt
-ECHO. >> info.txt
 
+ECHO. >> info.txt
 echo Building - Parking: >> info.txt
-ECHO. >> info.txt
 
+ECHO. >> info.txt
 echo Building - Directions [Google Map Link]: >> info.txt
+
 ECHO. >> info.txt
-
-
 echo Time Tracking URL: >> info.txt
-ECHO. >> info.txt
 
+ECHO. >> info.txt
 echo Web Email URL: >> info.txt
-ECHO. >> info.txt
 
+ECHO. >> info.txt
 echo Corporate Network Access: >> info.txt
-ECHO. >> info.txt
 
+ECHO. >> info.txt
 echo VPN Access: >> info.txt
-ECHO. >> info.txt
 
+ECHO. >> info.txt
 echo Login Account Details: >> info.txt
+
 ECHO. >> info.txt
-
-
 ECHO Travel Company: >> info.txt
 ECHO Reservations Number: >> info.txt 
 ECHO Reservations URL: >> info.txt 
 ECHO Corporate Account ID: >> info.txt 
+
 ECHO. >> info.txt
-
-
 echo Guest WiFi SID: >> info.txt
 echo Guest WiFi User ID: >> info.txt
 echo Guest WiFi Password: >> info.txt
+
 ECHO. >> info.txt
 
 
