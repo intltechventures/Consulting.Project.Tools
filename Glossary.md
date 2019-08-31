@@ -187,6 +187,7 @@ MSA         | Master Service Agreement
 MTD         | Maximum Tolerable Downtime
 MTS         | Multidimensional Type Structure (e.g. [Thomsen Diagrams](https://en.wikipedia.org/wiki/Thomsen_Diagrams))
 MTU         | Maximum Transmission Unit. Maximum frame or packet size for a particular network medium.
+MUPS        | Minimum Usable Products/Services
 MQL         | Marketing Qualified Lead
 MVP         | Minimal Viable Product 
 NAS         | Network Attached Storage 
