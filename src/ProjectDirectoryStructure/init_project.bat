@@ -414,7 +414,7 @@ ECHO. >> info.txt
 echo Company LinkedIn URL: >> info.txt
 
 ECHO. >> info.txt 
-echo Glassoor URL: >> info.txt
+echo Glassdoor URL: >> info.txt
 
 ECHO. >> info.txt
 ECHO. >> info.txt
@@ -438,7 +438,7 @@ ECHO. >> info.txt
 echo Stock Symbol: >> info.txt
 
 ECHO. >> info.txt
-echo Investor Relationis URL: >> info.txt
+echo Investor Relations URL: >> info.txt
 
 ECHO >> info.txt
 echo Yahoo Finance URL: >> info.txt
