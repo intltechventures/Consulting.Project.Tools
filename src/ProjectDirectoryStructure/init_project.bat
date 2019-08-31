@@ -440,11 +440,10 @@ echo Stock Symbol: >> info.txt
 ECHO. >> info.txt
 echo Investor Relations URL: >> info.txt
 
-ECHO >> info.txt
+ECHO. >> info.txt
 echo Yahoo Finance URL: >> info.txt
 
-
-ECHO >> info.txt
+ECHO. >> info.txt
 echo Google Finance URL: >> info.txt 
 
 
