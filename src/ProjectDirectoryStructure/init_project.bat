@@ -421,6 +421,13 @@ ECHO. >> info.txt
 ECHO. >> info.txt
 echo Date Founded: >> info.txt
 
+
+ECHO. >> info.txt
+ECHO Tech Crunch URL: >> info.txt
+
+ECHO. >> info.txt
+ECHO Angel List URL >> info.txt
+
 ECHO. >> info.txt
 echo # Employees: >> info.txt
 
@@ -429,6 +436,17 @@ echo Annual Revenue: >> info.txt
 
 ECHO. >> info.txt
 echo Stock Symbol: >> info.txt
+
+ECHO. >> info.txt
+echo Investor Relationis URL: >> info.txt
+
+ECHO >> info.txt
+echo Yahoo Finance URL: >> info.txt
+
+
+ECHO >> info.txt
+echo Google Finance URL: >> info.txt 
+
 
 ECHO. >> info.txt
 ECHO. >> info.txt
