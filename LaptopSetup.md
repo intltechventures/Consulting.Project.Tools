@@ -535,6 +535,7 @@ __These are the primary software programs that I typically have installed on my 
 
 - [GIMP](https://www.gimp.org/downloads/)
   + Alternatives:
+    * https://en.wikipedia.org/wiki/Comparison_of_raster_graphics_editors
     * https://www.designer.io/en/
     * https://krita.org/en/
 
