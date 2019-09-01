@@ -157,6 +157,7 @@ JSR         | JavaScript Remoting
 JVM         | Java Virtual Machine
 JWT         | JSON Web Token  
 k8s         | Kubernetes
+KVS         | Key-Value Storage
 LAN         | Local Area Network
 LBaaS       | Load-Balancer-as-a-Service
 LCC         | Lower Camel Case
