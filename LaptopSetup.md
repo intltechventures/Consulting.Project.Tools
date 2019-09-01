@@ -536,6 +536,7 @@ __These are the primary software programs that I typically have installed on my 
 - [GIMP](https://www.gimp.org/downloads/)
   + Alternatives:
     * https://www.designer.io/en/
+    * https://krita.org/en/
 
 - [SnagIt](https://www.techsmith.com/snagit.html)
 
