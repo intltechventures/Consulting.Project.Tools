@@ -75,10 +75,16 @@ __These are the primary software programs that I typically have installed on my 
 ### Web Browsers
 
 - [Chrome](https://www.google.com/intl/en/chrome/browser/thankyou.html?platform=win64)
-  + [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
-  + [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+  + Plugins
+    * [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
+    * [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+    * https://www.tampermonkey.net/
+      * https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
 - [Firefox](https://www.mozilla.org/firefox)
+  + Plugins
+    * https://www.greasespot.net/
+      * https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
 
 
 ### Email Client
