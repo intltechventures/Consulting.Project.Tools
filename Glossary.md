@@ -176,8 +176,10 @@ MDM         | Mobile Device Management
 MDR         | Marketing Development Representative
 MEAP        | Mobile Enterrprise Application Platform  
 MIM         | Major Incident Management
+MIMD        | [Multiple instruction streams, multiple data streams](https://en.wikipedia.org/wiki/MIMD)
 MIME        | [Multipurpose Internet Mail Extensions](https://en.wikipedia.org/wiki/MIME)
 MIPS        | Million of Instructions Per Second  
+MISD        | [Multiple Instruction Streams, Single Data Stream](https://en.wikipedia.org/wiki/MISD)
 MIT/LCS     | [Massachusetts Institute of Technology](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology) Laboratory for Computer Science
 ML          | Machine Learning 
 MOLAP       | Multidimensional OLAP
@@ -273,6 +275,8 @@ SDLC        | Software Development Lifecycle
 SDN         | Software Defined Network
 SDR         | Sales Development Representative
 SI          | System Integrator
+SIMD        | [Single InstructionStream, Multiple Data Streams](https://en.wikipedia.org/wiki/SIMD)
+SISD        | [Single Instruction Stream, Single Data Stream](https://en.wikipedia.org/wiki/SISD)
 SLA         | Service Level Agreement
 SLES        | SUSE Linux Enterprise Server
 SMART       | Specific, Measurable, Attainable, Realistic
@@ -327,6 +331,7 @@ VXLAN       | Virtual Extensible LAN
 W3          | World Wide Web (i.e. WWW)
 W3C         | [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium)
 WAF         | Web Application Firewall
+wasm        | [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly)
 WD          | Working Draft
 WIP         | Work nn Progress
 WoT         | Web of Trust
