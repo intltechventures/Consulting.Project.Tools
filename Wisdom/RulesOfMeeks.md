@@ -109,6 +109,9 @@
 **\#106 - "Never collaborate with people that deal from the bottom of the deck"**
 
 
+**\#107 - "Never do business with anyone that wears cufflinks (as part of their normal business attire)"
+
+
 
 \#2xx - On the Art of  Managing People
 ====
