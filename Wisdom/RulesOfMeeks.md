@@ -53,7 +53,7 @@
   * Effort to prepare Test Data
   * Effort to think through - and document Test Scenarios
   * Effort to develop and debug Test Scenarios
-  * Effort to developand execute Performance Tests
+  * Effort to develop and execute Performance Tests
   * Effort to debug/fix issues that usually arise during System Testing
   * Effort to prepare (and test!) deployment procedures 
   * Effort to write and document the solution's design, deployment, operational aspects, and just-enough documentation to communicate with other dependent teams/orgs
@@ -109,7 +109,7 @@
 **\#106 - "Never collaborate with people that deal from the bottom of the deck"**
 
 
-**\#107 - "Never do business with anyone that wears cufflinks (as part of their normal business attire)"
+**\#107 - "If at all possible, avoid doing business with anyone that wears cufflinks (as part of their normal business attire)"**
 
 
 
