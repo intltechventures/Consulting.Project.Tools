@@ -69,6 +69,7 @@ CUI			| Controlled Unclassified Information (CUI), as defined by Executive Order
 CX          | Customer Experience
 DAC         | Discretionary Access Control
 DARPA       | Defense Advanced Research Projects Agency
+DAST        | Dynamic Application Security Testing
 DC          | Data Center  
 DD          | Data Dictionary 
 DES         | [Data Encryption Standard](https://en.wikipedia.org/wiki/Data_Encryption_Standard)
@@ -131,6 +132,7 @@ HTTP        | [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypert
 HTTPS       | Hypertext Transfer Protocol Secure
 HW          | Hardware
 IaaS        | Infrastructure as a Service  
+IAST        | Integrated Application Security Testing
 ICMP        | Internet Control Message Protocol 
 IDE         | Integrated Development Environment    
 IDS         | Intrusion Detection System
@@ -268,6 +270,7 @@ RSA         | [Rivest–Shamir–Adleman](https://en.wikipedia.org/wiki/RSA_(cry
 SAD         | Solution Architecture Design
 SAFe        | Scaled Agile Framework
 SAM         | Successive Approximation Model, created by Allen Interactions 
+SAST        | Static Application Security Testing
 SCIM        | System for Cross-Domain Identity Management (re: RFC7644)
 SDI         | Software Defined Infrastructure
 SDK         | Software Development Kit  
