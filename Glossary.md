@@ -228,7 +228,8 @@ PCI DSS     | Payment Card Industry Data Security Standard
 PKI         | [Public Key Infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure)
 PO          | Purchase Order
 POSIX       | [Portable Operating System Interface](https://en.wikipedia.org/wiki/POSIX)
-PR          | Proposed recommendation (PR)
+PR          | Peer Review
+PR          | Proposed Recommendation 
 PR          | Pull Request
 PR          | Purchase Request
 QKD         | Quantum Key Distribution
