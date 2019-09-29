@@ -5,6 +5,7 @@
 ## Insurance Industry News Resources
 - https://www.insurancebusinessmag.com
 - https://www.insurancejournal.com
+- http://www.insurancetech.com/
 - https://www.dig-in.com/
 
 
