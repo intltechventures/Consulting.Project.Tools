@@ -138,6 +138,8 @@
 **\#207 - "Fire anyone who violates your trust. No second chances"**
 
 
+**\#208 - "Silence is often the best response to someone who has spouted foolish nonsense"**
+
 
 
 \#3xx - On Design 
