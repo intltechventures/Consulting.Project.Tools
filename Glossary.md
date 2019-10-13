@@ -146,6 +146,7 @@ IP          | Internet Protocol
 IPAM        | IP Address Management 
 IPMI        | Intelligent Platform Management Interface
 IPS         | Intrusion Prevention System
+IRM         | Individual Rights Management
 iSCI        | Internet Small Computer System Interface
 ISPF        | [Interactive System Productivity Facility](https://en.wikipedia.org/wiki/ISPF), re: IBM mainframe software product
 ISO         | [International Standrds Organization](https://en.wikipedia.org/wiki/International_Organization_for_Standardization)
