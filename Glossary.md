@@ -62,6 +62,7 @@ CRC         | Class Responsibility Collaboration
 CRL         | Certificate Revocation List
 CRM         | Customer Relationship Management
 CRUD        | Create, Read, Update, Delete
+CSD         | Conslidated Service Desk
 CSR         | Customer Service Representative
 CSS         | [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 CTO         | Chief Technology Officer  
