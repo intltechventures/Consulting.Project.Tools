@@ -18,8 +18,6 @@ AMQP        | Advanced Message Queuing Protocol
 ANSI        | [American National Standards Institute](https://en.wikipedia.org/wiki/American_National_Standards_Institute)
 AOP         | Aspect Oriented Programming
 AOT         | Ahead of Time (i.e. compiled ahead of time)
-ANSI        | American National Standards Institute
-AOP         | Aspect Oriented Programming  
 aPaaS       | Application Platform as a Service  
 API         | [Application Programming Interface ](https://en.wikipedia.org/wiki/Application_programming_interface)
 APM         | Application Portfolio Management  
@@ -47,9 +45,9 @@ C&A         | Certification & Accreditation
 CA          | Certificate Authority
 CAP         | Consistency, Availability, Partition Tolerance  
 CD          | Candidate Recommendation 
+CDE         | Cardholder Data Environment
 CDN         | Content Distribution Network
 CDO         | Chief Data Officer
-CDE         | Cardholder Data Environment
 CERN        | [European Organization for Nuclear Research](https://en.wikipedia.org/wiki/CERN), French: Organisation européenne pour la recherche nucléaire
 CGI         | [Common Gateway Interface](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
 CIF         | Customer Information File  
@@ -62,7 +60,7 @@ CRC         | Class Responsibility Collaboration
 CRL         | Certificate Revocation List
 CRM         | Customer Relationship Management
 CRUD        | Create, Read, Update, Delete
-CSD         | Conslidated Service Desk
+CSD         | Consolidated Service Desk
 CSR         | Customer Service Representative
 CSS         | [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 CTO         | Chief Technology Officer  
@@ -76,7 +74,7 @@ DD          | Data Dictionary
 DES         | [Data Encryption Standard](https://en.wikipedia.org/wiki/Data_Encryption_Standard)
 DFIR        | Digital Forensics, Incident Response  
 DHCP        | Dynamic Host Configuration Protocol 
-DLM         | Database Lifecycle Management
+DLM         | Database Life-cycle Management
 DLT         | Distributed Ledger Technology
 DN          | LDAP Distinguished Name 
 DNAT        | Destination network address translation
@@ -95,10 +93,10 @@ EAR			| Export Administration Regulations
 EBCIDIC     | [Extended Binary Coded Decimal Interchange Code](https://en.wikipedia.org/wiki/EBCDIC)
 EBS         | Elastic Block Storage (AWS)
 EFF         | [Electronic Frontier Foundation](https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation)
-EME         | [Encrypted Media Extgensions](https://en.wikipedia.org/wiki/Encrypted_Media_Extensions), re: W3C HTML5 recommendations
+EME         | [Encrypted Media Extensions](https://en.wikipedia.org/wiki/Encrypted_Media_Extensions), re: W3C HTML5 recommendations
 EPLC        | Enterprise Performance Life Cycle 
 ES          | ECMAScript (aka JavaScript)
-EVM         | Earned Value Managemenet
+EVM         | Earned Value Management
 FaaS        | Functions as a Service
 FAIL        | First Attempt In Learning (i.e. agile)
 FCoE        | Fibre Channel over Ethernet 
@@ -112,11 +110,12 @@ FQDN        | Fully Qualified Domain Name
 FSDG        |[ (GNU) Free System Distribution Guidelines](https://www.gnu.org/distros/free-system-distribution-guidelines.html)
 FTP         | [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
 FWaaS       | FireWall-as-a-Service 
+GCC         | Government Community 
 GCHQ        | British intelligence agency [Government Communications Headquarters](https://en.wikipedia.org/wiki/Government_Communications_Headquarters)
 GL          | General Ledger
-GLBA        | Gramm Leach Bliley Acta
+GLBA        | Gramm Leach Bliley Act
 gMSA        | Group Managed Service Accounts (e.g. for Swarm)
-GNU         | GNU's Not Unix! (a recusrive acronym)
+GNU         | GNU's Not Unix! (a recursive acronym)
 GOLAP       | Graph OLAP 
 GPG         | [GNU Privacy Guard](https://en.wikipedia.org/wiki/GNU_Privacy_Guard)
 GQM         | Goal, Question, Metric 
@@ -150,7 +149,7 @@ IPS         | Intrusion Prevention System
 IRM         | Individual Rights Management
 iSCI        | Internet Small Computer System Interface
 ISPF        | [Interactive System Productivity Facility](https://en.wikipedia.org/wiki/ISPF), re: IBM mainframe software product
-ISO         | [International Standrds Organization](https://en.wikipedia.org/wiki/International_Organization_for_Standardization)
+ISO         | [International Standards Organization](https://en.wikipedia.org/wiki/International_Organization_for_Standardization)
 ISOC        | [Internet Society](https://en.wikipedia.org/wiki/Internet_Society)
 ISP         | Internet Service Provider
 IT          | Information Technology  
@@ -161,6 +160,8 @@ JSR         | JavaScript Remoting
 JVM         | Java Virtual Machine
 JWT         | JSON Web Token  
 k8s         | Kubernetes
+KVM			| Kernel-based Virtual Machine (KVM) is an open source virtualization technology built into Linux
+KVM			| keyboard, video and mouse
 KVS         | Key-Value Storage
 LAN         | Local Area Network
 LBaaS       | Load-Balancer-as-a-Service
@@ -178,7 +179,7 @@ MDAP        | Mobile Application Development Platform
 MDM         | Master Data Management  
 MDM         | Mobile Device Management  
 MDR         | Marketing Development Representative
-MEAP        | Mobile Enterrprise Application Platform  
+MEAP        | Mobile Enterprise Application Platform  
 MIM         | Major Incident Management
 MIMD        | [Multiple instruction streams, multiple data streams](https://en.wikipedia.org/wiki/MIMD)
 MIME        | [Multipurpose Internet Mail Extensions](https://en.wikipedia.org/wiki/MIME)
@@ -198,8 +199,8 @@ MUPS        | Minimum Usable Products/Services
 MQL         | Marketing Qualified Lead
 MVP         | Minimal Viable Product 
 NAS         | Network Attached Storage 
-NCSA        | [National Center for Supercomputing Applications](https://en.wikipedia.org/wiki/National_Center_for_Supercomputing_Applications)
 NAT         | [Network Address Translation](https://en.wikipedia.org/wiki/Network_address_translation)
+NCSA        | [National Center for Supercomputing Applications](https://en.wikipedia.org/wiki/National_Center_for_Supercomputing_Applications)
 NDA         | Non-Disclosure Agreement
 NFS         | Network File System 
 NIST        | National Institute for Standards and Technology 
@@ -221,12 +222,12 @@ OOD         | Object Oriented Design
 OOP         | Object Oriented Programming 
 OWL         | [Web Ontology Language](https://en.wikipedia.org/wiki/Web_Ontology_Language)
 PaaS        | Platform as a Service  
+PCI DSS     | Payment Card Industry Data Security Standard
 PDCA        | Plan-Do-Check-Adjust (Shewhart’s PDCA cycle)
 PGP         | [Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
 PHI			| Protected Health Information (re: HIPPA) 
 PI          | Program Increment (re: Scaled Agile Framework, SAFe)
 PII			| Personally Identifiable Information
-PCI DSS     | Payment Card Industry Data Security Standard
 PKI         | [Public Key Infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure)
 PO          | Purchase Order
 POSIX       | [Portable Operating System Interface](https://en.wikipedia.org/wiki/POSIX)
@@ -235,15 +236,15 @@ PR          | Proposed Recommendation
 PR          | Pull Request
 PR          | Purchase Request
 QKD         | Quantum Key Distribution
-QoS         | Quality of Servicea
+QoS         | Quality of Service
 RA          | Registration Authority
-RAA         | Responsibility, Acountability, Authority 
+RAA         | Responsibility, Accountability, Authority 
 RACI        | Responsible, Accountable, Consulted, Informed  
 RAD         | Rapid Application Development 
 RAPT        | Reverse Address and Port Translation (see RAT)
 RAS         | Redundancy, Availability, Serviceability  
+RASUI       | Reliability, Availability, Serviceability, Usability and Instability  
 RAT         | Reverse Address and Port Translation (see RAPT)
-RASUI       | Reliability, Availability, Serviceability, Usability and Installability  
 RBAC        | Role Based Access Control
 RCA         | Root Cause Analysis 
 RDF         | [Resource Description Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework)
@@ -277,7 +278,7 @@ SAST        | Static Application Security Testing
 SCIM        | System for Cross-Domain Identity Management (re: RFC7644)
 SDI         | Software Defined Infrastructure
 SDK         | Software Development Kit  
-SDLC        | Software Development Lifecycle
+SDLC        | Software Development Life-cycle
 SDN         | Software Defined Network
 SDR         | Sales Development Representative
 SI          | System Integrator
@@ -309,10 +310,10 @@ TAM         | Total Addressable Market
 TAOC        | [The Art of Computer Programming]https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) (re: by Donald Knuth)
 TCV         | Total Contract Value (TCV) 
 TDD         | Test-Driven-Development
-TGB         | Technology Governance Boarda
+TGB         | Technology Governance Board
 TPM         | Trusted Platform Module 
 TRM         | Technical Reference Model
-TSO         | [Time Sharing Opton](https://en.wikipedia.org/wiki/Time_Sharing_Option), re: IBM mainframe interactive time-sharing environment
+TSO         | [Time Sharing Option](https://en.wikipedia.org/wiki/Time_Sharing_Option), re: IBM mainframe interactive time-sharing environment
 TTP         | Trusted Third Party
 UDDI        | Universal Description, Discovery, & Integration
 UDEF        | Universal Data Element Framework
@@ -322,7 +323,7 @@ UML         | Unified Modeling Language
 UTC         | Coordinated Universal Time 
 UTF         | [Unicode Transformation Format](https://en.wikipedia.org/wiki/Unicode#UTF)
 UUID        | Universal Unique Identifier
-UX          | User Exerience
+UX          | User Experience
 VA          | Validation Authority
 vCPU        | Virtual Central Processing Unit
 VDI         | Virtual Disk Image 
@@ -344,7 +345,7 @@ WoT         | Web of Trust
 WRT         | Work Recovery Time
 WSDL        | Web Service Description Language
 WWW         | [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web)
-XML         | [Extensible Markup Langauge](https://en.wikipedia.org/wiki/XML)
+XML         | [Extensible Markup Language](https://en.wikipedia.org/wiki/XML)
 XP          | eXtreme Programming
 XSL         | XML Style Language 
 XSLT        | [eXtensible Stylesheet Language Transformations](https://en.wikipedia.org/wiki/XSLT)
