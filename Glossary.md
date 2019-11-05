@@ -10,6 +10,7 @@ ACV         | Annual Contract Value
 AD          | Application Delivery  
 AD          | Active Directory
 ADDIE       | (analyze, design, development, implement, evaluate) a methodology developed by Florida State University for the U.S. Army as a repeatable and standard set of tasks to create training.  [Wikipedia Article](https://en.wikipedia.org/wiki/ADDIE_Model)
+AFCE        | Authorization for Capital Expenditure
 AI          | Artificial Intelligence  
 AKI         | Amazon Kernel Image
 ALM         | Application Lifecycle Management
@@ -74,6 +75,7 @@ DD          | Data Dictionary
 DES         | [Data Encryption Standard](https://en.wikipedia.org/wiki/Data_Encryption_Standard)
 DFIR        | Digital Forensics, Incident Response  
 DHCP        | Dynamic Host Configuration Protocol 
+DLD			| Detail-Level Design 
 DLM         | Database Life-cycle Management
 DLT         | Distributed Ledger Technology
 DN          | LDAP Distinguished Name 
