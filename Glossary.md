@@ -51,9 +51,11 @@ CDN         | Content Distribution Network
 CDO         | Chief Data Officer
 CERN        | [European Organization for Nuclear Research](https://en.wikipedia.org/wiki/CERN), French: Organisation européenne pour la recherche nucléaire
 CGI         | [Common Gateway Interface](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
+CID         | Command Identifier
 CIF         | Customer Information File  
 CIFS        | Common Internet File System
 CIO         | Chief Information Officer 
+CLI         | Command Line Interface
 CNAB        | [Cloud Native Application Bundles](https://cnab.io/)
 CORS        | Cross-Origin Resource Sharing
 CQRS        | Command Query Responsibility Segregation  
@@ -66,10 +68,13 @@ CSR         | Customer Service Representative
 CSS         | [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 CTO         | Chief Technology Officer  
 CUI			| Controlled Unclassified Information (CUI), as defined by Executive Order 13556 (2010)
+CVS         | Concurrent Version System
 CX          | Customer Experience
 DAC         | Discretionary Access Control
 DARPA       | Defense Advanced Research Projects Agency
 DAST        | Dynamic Application Security Testing
+DBA         | Database Administrator
+DBMS        | Database Management System
 DC          | Data Center  
 DD          | Data Dictionary 
 DES         | [Data Encryption Standard](https://en.wikipedia.org/wiki/Data_Encryption_Standard)
@@ -114,6 +119,8 @@ FTP         | [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transf
 FWaaS       | FireWall-as-a-Service 
 GCC         | Government Community 
 GCHQ        | British intelligence agency [Government Communications Headquarters](https://en.wikipedia.org/wiki/Government_Communications_Headquarters)
+GIN         | Generalized Inverted Index
+GIST        | Generalized Search Tree
 GL          | General Ledger
 GLBA        | Gramm Leach Bliley Act
 gMSA        | Group Managed Service Accounts (e.g. for Swarm)
@@ -124,11 +131,14 @@ GQM         | Goal, Question, Metric
 GRC         | Governance, Risk, Compliance
 GRE         | Generic Routing Encapsulation
 GRO         | Generic Receive Offload
+GUC         | Global User Configuration 
 HDFS        | Hadoop Distributed File System 
 HIPPA       | Health Insurance Portability and Accountability Act of 1996
 HLD         | High-Level Design  
 HOLAP       | Hybrid OLAP
+HOT         | Heap Oriented Tuples
 HPC         | Horizontal Pod Autoscaling (Kubernetes)
+HRAA        | Highly Restricted Access Area
 HTML        | Hyper Text Markup Language
 HTTP        | [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 HTTPS       | Hypertext Transfer Protocol Secure
@@ -157,7 +167,9 @@ ISP         | Internet Service Provider
 IT          | Information Technology  
 ITAR		| International Traffic in Arms Regulations
 ITIRB       | Information Technology Investment Review Board
+JDBC        | Java Database Connectivity
 JSON        | JavaScript Object Notation  
+JRT         | Java Routines and Types
 JSR         | JavaScript Remoting
 JVM         | Java Virtual Machine
 JWT         | JSON Web Token  
@@ -182,6 +194,7 @@ MDM         | Master Data Management
 MDM         | Mobile Device Management  
 MDR         | Marketing Development Representative
 MEAP        | Mobile Enterprise Application Platform  
+MED         | Management of External Data
 MIM         | Major Incident Management
 MIMD        | [Multiple instruction streams, multiple data streams](https://en.wikipedia.org/wiki/MIMD)
 MIME        | [Multipurpose Internet Mail Extensions](https://en.wikipedia.org/wiki/MIME)
@@ -191,6 +204,7 @@ MIT/LCS     | [Massachusetts Institute of Technology](https://en.wikipedia.org/w
 ML          | Machine Learning 
 MOLAP       | Multidimensional OLAP
 MOU         | Memorandum of Understanding
+MQL         | Marketing Qualified Lead
 MRR         | Monthly Recurring Revenue
 MSA         | Microservices Architecture  
 MSA         | Master Service Agreement
@@ -198,7 +212,7 @@ MTD         | Maximum Tolerable Downtime
 MTS         | Multidimensional Type Structure (e.g. [Thomsen Diagrams](https://en.wikipedia.org/wiki/Thomsen_Diagrams))
 MTU         | Maximum Transmission Unit. Maximum frame or packet size for a particular network medium.
 MUPS        | Minimum Usable Products/Services
-MQL         | Marketing Qualified Lead
+MVCC        | Multi Version Concurrency Control
 MVP         | Minimal Viable Product 
 NAS         | Network Attached Storage 
 NAT         | [Network Address Translation](https://en.wikipedia.org/wiki/Network_address_translation)
@@ -208,6 +222,7 @@ NFS         | Network File System
 NIST        | National Institute for Standards and Technology 
 NISQ        | Noisy Intermediate-Scale Quantum (NISQ) computers
 NLP         | Natural Language Processing
+NLS         | Natural Language Support 
 NLU         | Natural Language Understanding
 NOC         | Network Operations Center 
 NSH         | Network Service Header 
@@ -216,20 +231,25 @@ NTP         | Network Time Protocol
 OASIS       | Organization for the Advancement of Structured Information Systems
 OCM         | Organizational Change Management
 OData       | Open Data Protocol 
+ODBC        | Open Database Connectivity
+OID         | Object Identifier
 OKR         | Objectives and Key Results
 OLAP        | Online Analytical Processing
+OLB         | Object Language Bindings
 OLTP        | Online Transaction Processing 
 OOA/D       | Object Oriented Analysis and Design 
 OOD         | Object Oriented Design 
 OOP         | Object Oriented Programming 
 OWL         | [Web Ontology Language](https://en.wikipedia.org/wiki/Web_Ontology_Language)
 PaaS        | Platform as a Service  
+PAM         | Pluggable Authentication Modules
 PCI DSS     | Payment Card Industry Data Security Standard
 PDCA        | Plan-Do-Check-Adjust (Shewhart’s PDCA cycle)
 PGP         | [Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
 PHI			| Protected Health Information (re: HIPPA) 
 PI          | Program Increment (re: Scaled Agile Framework, SAFe)
 PII			| Personally Identifiable Information
+PITR        | Point In Time Recovery
 PKI         | [Public Key Infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure)
 PO          | Purchase Order
 POSIX       | [Portable Operating System Interface](https://en.wikipedia.org/wiki/POSIX)
@@ -237,6 +257,7 @@ PR          | Peer Review
 PR          | Proposed Recommendation 
 PR          | Pull Request
 PR          | Purchase Request
+PSM         | Persistent Stored Modules
 QKD         | Quantum Key Distribution
 QoS         | Quality of Service
 RA          | Registration Authority
@@ -267,6 +288,7 @@ ROLAP       | Relational OLAP
 ROM         | Rough Order of Magnitude (also see SWAG), aka an estimate
 RPA         | Robotic Process Automation
 RPC         | Remote Procedure Call
+RPM         | Redhat Package Manager
 RPO         | Recovery Point Objective
 RTE         | Release Train Engineer
 RTM         | Requirements Traceability Matrix
@@ -304,7 +326,9 @@ SRA         | Security Risk Assessment
 SRP         | Single Responsibility Principle
 SSADM       | (structured systems analysis and design methodology) - developed by  Tom DeMarco, Ed Yourdon, and Larry Constantine 
 SSH         | Secure Shell
+SSL         | Secure Sockets Layer
 SSP         | System Security Plan
+SSPI        | Security Support Provider Interface
 SVG         | [Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 SW          | Software
 SWAG        | Silly Wild-Ass Guess (also see ROM), aka an estimate 
@@ -317,6 +341,7 @@ TPM         | Trusted Platform Module
 TRM         | Technical Reference Model
 TSO         | [Time Sharing Option](https://en.wikipedia.org/wiki/Time_Sharing_Option), re: IBM mainframe interactive time-sharing environment
 TTP         | Trusted Third Party
+TXN         | Transaction
 UDDI        | Universal Description, Discovery, & Integration
 UDEF        | Universal Data Element Framework
 UI          | User Interface  
@@ -341,6 +366,7 @@ VXLAN       | Virtual Extensible LAN
 W3          | World Wide Web (i.e. WWW)
 W3C         | [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium)
 WAF         | Web Application Firewall
+WAL         | Write Ahead Log
 wasm        | [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly)
 WD          | Working Draft
 WIP         | Work nn Progress
@@ -348,6 +374,7 @@ WoT         | Web of Trust
 WRT         | Work Recovery Time
 WSDL        | Web Service Description Language
 WWW         | [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web)
+XID         | Transaction Identifier
 XML         | [Extensible Markup Language](https://en.wikipedia.org/wiki/XML)
 XP          | eXtreme Programming
 XSL         | XML Style Language 
