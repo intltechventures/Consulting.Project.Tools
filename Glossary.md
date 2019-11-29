@@ -32,12 +32,14 @@ ATDD        | Acceptance-Test-Driven-Development
 AUC         | Area Under the Curve
 B2B         | Business-to-Business
 B2C         | Business-to-Customer
-BDD         | Behavior-Driven-Development
+BDD         | [Behavior-Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
 BDUF        | Big Design Up Front
 BIA         | Business Impact Analysis
 BNF         | Backus-Naur Form
 BNS         | Business Needs Statement
-BPM         | Business Process Management, or Business Process Model
+BPF         | [Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter)
+BPM         | Business Process Management
+BPM         | Business Process Model
 BPS         | Bits Per Second
 BRD         | Business Requirements Document  
 BRM         | Business Reference Model  
@@ -258,6 +260,7 @@ PR          | Proposed Recommendation
 PR          | Pull Request
 PR          | Purchase Request
 PSM         | Persistent Stored Modules
+QA          | [Quality Assurance](https://en.wikipedia.org/wiki/Quality_assurance)
 QKD         | Quantum Key Distribution
 QoS         | Quality of Service
 RA          | Registration Authority
@@ -335,7 +338,7 @@ SWAG        | Silly Wild-Ass Guess (also see ROM), aka an estimate
 TAM         | Total Addressable Market
 TAOC        | [The Art of Computer Programming]https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) (re: by Donald Knuth)
 TCV         | Total Contract Value (TCV) 
-TDD         | Test-Driven-Development
+TDD         | [Test-Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
 TGB         | Technology Governance Board
 TPM         | Trusted Platform Module 
 TRM         | Technical Reference Model
