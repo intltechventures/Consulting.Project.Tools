@@ -66,6 +66,7 @@ CRL         | Certificate Revocation List
 CRM         | Customer Relationship Management
 CRUD        | Create, Read, Update, Delete
 CSD         | Consolidated Service Desk
+CSM         | Customer Success Manager
 CSR         | Customer Service Representative
 CSS         | [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 CTO         | Chief Technology Officer  
@@ -190,6 +191,7 @@ LSA         | Local Service Agreement
 LU          | Logical Unit  
 LVM         | Logical Volume Manager
 MAC         | Machine Access Control 
+MAU         | Monthly Active Users
 MBaaS       | Mobile Back End as a Service
 MD          | Markdown Language 
 MDA         | Multi-Dimensional Analytical (i.e.  queries)
