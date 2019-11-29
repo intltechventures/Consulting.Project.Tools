@@ -37,7 +37,7 @@ BDUF        | Big Design Up Front
 BIA         | Business Impact Analysis
 BNF         | Backus-Naur Form
 BNS         | Business Needs Statement
-BPF         | [Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter)
+BPF         | [Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter) - see eBPF
 BPM         | Business Process Management
 BPM         | Business Process Model
 BPS         | Bits Per Second
@@ -100,8 +100,10 @@ EAI         | Enterprise Application Integration
 EAMS        | Enterprise Architecture Management Suite
 EAR			| Export Administration Regulations
 EBCIDIC     | [Extended Binary Coded Decimal Interchange Code](https://en.wikipedia.org/wiki/EBCDIC)
+eBPF        | [extended Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter) - see BPF
 EBS         | Elastic Block Storage (AWS)
 EFF         | [Electronic Frontier Foundation](https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation)
+ELF         | [Executable and Linkable Format](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
 EME         | [Encrypted Media Extensions](https://en.wikipedia.org/wiki/Encrypted_Media_Extensions), re: W3C HTML5 recommendations
 EPLC        | Enterprise Performance Life Cycle 
 ES          | ECMAScript (aka JavaScript)
