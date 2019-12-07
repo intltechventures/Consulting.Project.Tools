@@ -5,6 +5,7 @@
 |-----|-----------|
 ABC         | Activity Based Costing
 ABNF        | Augmented Backus-Naur Form (see [RFC-5234](https://tools.ietf.org/html/rfc5234))
+AC          | [Axiom of Choice](https://en.wikipedia.org/wiki/Axiom_of_choice)
 ACL         | Access Control List
 ACV         | Annual Contract Value 
 AD          | Application Delivery  
@@ -186,6 +187,7 @@ LAN         | Local Area Network
 LBaaS       | Load-Balancer-as-a-Service
 LCC         | Lower Camel Case
 LDAP        | Lightweight Directory Access Protocol
+LEM         | [Law of Excluded Middle](https://en.wikipedia.org/wiki/Law_of_excluded_middle)
 LGPL        | (GNU) Lesser General Public License 
 LSA         | Local Service Agreement
 LU          | Logical Unit  
