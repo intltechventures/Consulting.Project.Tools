@@ -165,6 +165,7 @@ IPAM        | IP Address Management
 IPMI        | Intelligent Platform Management Interface
 IPS         | Intrusion Prevention System
 IRM         | Individual Rights Management
+ISA         | [Instruction Set Architecture](https://en.wikipedia.org/wiki/Instruction_set_architecture)
 iSCI        | Internet Small Computer System Interface
 ISPF        | [Interactive System Productivity Facility](https://en.wikipedia.org/wiki/ISPF), re: IBM mainframe software product
 ISO         | [International Standards Organization](https://en.wikipedia.org/wiki/International_Organization_for_Standardization)
@@ -308,6 +309,7 @@ SAD         | Solution Architecture Design
 SAFe        | Scaled Agile Framework
 SAM         | Successive Approximation Model, created by Allen Interactions 
 SAST        | Static Application Security Testing
+SBE         | Specification by Example
 SCIM        | System for Cross-Domain Identity Management (re: RFC7644)
 SDI         | Software Defined Infrastructure
 SDK         | Software Development Kit  
