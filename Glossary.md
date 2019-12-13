@@ -35,6 +35,7 @@ B2B         | Business-to-Business
 B2C         | Business-to-Customer
 BDD         | [Behavior-Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
 BDUF        | Big Design Up Front
+BGP         | Border Gateway Protocol
 BIA         | Business Impact Analysis
 BNF         | Backus-Naur Form
 BNS         | Business Needs Statement
@@ -174,6 +175,7 @@ ISP         | Internet Service Provider
 IT          | Information Technology  
 ITAR		| International Traffic in Arms Regulations
 ITIRB       | Information Technology Investment Review Board
+IX          | Internet Exchange
 JDBC        | Java Database Connectivity
 JSON        | JavaScript Object Notation  
 JRT         | Java Routines and Types
