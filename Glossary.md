@@ -173,8 +173,9 @@ ISO         | [International Standards Organization](https://en.wikipedia.org/wi
 ISOC        | [Internet Society](https://en.wikipedia.org/wiki/Internet_Society)
 ISP         | Internet Service Provider
 IT          | Information Technology  
-ITAR		| International Traffic in Arms Regulations
+ITAR		    | International Traffic in Arms Regulations
 ITIRB       | Information Technology Investment Review Board
+ITSM        | IT Service Management
 IX          | Internet Exchange
 JDBC        | Java Database Connectivity
 JSON        | JavaScript Object Notation  
@@ -315,7 +316,8 @@ SBE         | Specification by Example
 SCIM        | System for Cross-Domain Identity Management (re: RFC7644)
 SDI         | Software Defined Infrastructure
 SDK         | Software Development Kit  
-SDLC        | Software Development Life-cycle
+SDLC        | Software Development Life-cycle (aka Software Development Process)
+SDLP        | Systems Development Lifecycle Process
 SDN         | Software Defined Network
 SDR         | Sales Development Representative
 SI          | System Integrator
