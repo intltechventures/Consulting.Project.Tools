@@ -1,6 +1,8 @@
 
 # Glossary
 
+This glossary is intended to provide a single refernce to be reused across multiple projects - and design artifacts. Defining localized/specialized terms may then be limited to being addressed in specific design artifacts. The intent is to avoid duplication of a large corpus of glossary entries, in many places.
+
 |Term | Definition|
 |-----|-----------|
 ABC         | Activity Based Costing
@@ -48,6 +50,7 @@ BRM         | Business Reference Model
 BSD         | [Berkeley Software Distribution](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
 C&A         | Certification & Accreditation
 CA          | Certificate Authority
+CAB         | Change Advisory Board
 CAP         | Consistency, Availability, Partition Tolerance  
 CD          | Candidate Recommendation 
 CDE         | Cardholder Data Environment
