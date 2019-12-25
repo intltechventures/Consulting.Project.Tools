@@ -13,6 +13,7 @@ ACV         | Annual Contract Value
 AD          | Application Delivery  
 AD          | Active Directory
 ADDIE       | (analyze, design, development, implement, evaluate) a methodology developed by Florida State University for the U.S. Army as a repeatable and standard set of tasks to create training.  [Wikipedia Article](https://en.wikipedia.org/wiki/ADDIE_Model)
+ADT         | Algebraic Data Type
 AFCE        | Authorization for Capital Expenditure
 AI          | Artificial Intelligence  
 AKI         | Amazon Kernel Image
@@ -98,6 +99,7 @@ DR          | Disaster Recovery
 DRB         | Design Review Board  
 DRY         | Don't Repeat Yourself
 DSA         | [Digital Signature Algorithm](https://en.wikipedia.org/wiki/Digital_Signature_Algorithm)
+DSL         | Domain Specific Language
 DSN         | Data Source Name  
 DVI         | [Device Independent file format](https://en.wikipedia.org/wiki/Device_independent_file_format)
 DVR         | Distributed Virtual Router
@@ -127,6 +129,7 @@ FQDN        | Fully Qualified Domain Name
 FSDG        |[ (GNU) Free System Distribution Guidelines](https://www.gnu.org/distros/free-system-distribution-guidelines.html)
 FTP         | [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
 FWaaS       | FireWall-as-a-Service 
+GADTs       | Generalized Algebraic Data Types
 GCC         | Government Community 
 GCHQ        | British intelligence agency [Government Communications Headquarters](https://en.wikipedia.org/wiki/Government_Communications_Headquarters)
 GIN         | Generalized Inverted Index
