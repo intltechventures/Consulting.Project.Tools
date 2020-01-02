@@ -200,6 +200,7 @@
 **\#607 - "If you are being pressured to decide/sign immediately - walk away."**
 
 
+**\#608 - "When unacceptable terms are offered - sometimes the best counter is silence"
 
 
 \#7xx - On Managing Your Professional Career
