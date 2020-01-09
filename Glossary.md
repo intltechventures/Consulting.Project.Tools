@@ -65,6 +65,7 @@ CIFS        | Common Internet File System
 CIO         | Chief Information Officer 
 CLI         | Command Line Interface
 CNAB        | [Cloud Native Application Bundles](https://cnab.io/)
+CORBA       | [Common Object Request Broker Architecture](https://en.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture)
 CORS        | Cross-Origin Resource Sharing
 CQRS        | Command Query Responsibility Segregation  
 CRC         | Class Responsibility Collaboration
@@ -145,6 +146,7 @@ GRC         | Governance, Risk, Compliance
 GRE         | Generic Routing Encapsulation
 GRO         | Generic Receive Offload
 GUC         | Global User Configuration 
+HATEOAS     | [Hypermedia As The Engine Of Application State](https://en.wikipedia.org/wiki/HATEOAS)
 HDFS        | Hadoop Distributed File System 
 HIPPA       | Health Insurance Portability and Accountability Act of 1996
 HLD         | High-Level Design  
@@ -160,6 +162,7 @@ IaaS        | Infrastructure as a Service
 IAST        | Integrated Application Security Testing
 ICMP        | Internet Control Message Protocol 
 IDE         | Integrated Development Environment    
+IDL         | [Interface Description Language](https://en.wikipedia.org/wiki/Interface_description_language)
 IDS         | Intrusion Detection System
 IEEE        | [Institute of Electrical and Electronics Engineers](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers)
 IETF        | Internet Engineering Task Force
@@ -255,6 +258,7 @@ OKR         | Objectives and Key Results
 OLAP        | Online Analytical Processing
 OLB         | Object Language Bindings
 OLTP        | Online Transaction Processing 
+OMG         | [Object Management Group](https://en.wikipedia.org/wiki/Object_Management_Group)
 OOA/D       | Object Oriented Analysis and Design 
 OOD         | Object Oriented Design 
 OOP         | Object Oriented Programming 
