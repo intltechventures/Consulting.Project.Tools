@@ -113,9 +113,11 @@ eBPF        | [extended Berkeley Packet Filter](https://en.wikipedia.org/wiki/Be
 EBS         | Elastic Block Storage (AWS)
 EFF         | [Electronic Frontier Foundation](https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation)
 ELF         | [Executable and Linkable Format](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
+ELT         | Extract, Load, Transform
 EME         | [Encrypted Media Extensions](https://en.wikipedia.org/wiki/Encrypted_Media_Extensions), re: W3C HTML5 recommendations
 EPLC        | Enterprise Performance Life Cycle 
 ES          | ECMAScript (aka JavaScript)
+ETL         | Extract, Transform, Load
 EVM         | Earned Value Management
 FaaS        | Functions as a Service
 FAIL        | First Attempt In Learning (i.e. agile)
