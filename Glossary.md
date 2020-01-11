@@ -104,6 +104,8 @@ DSL         | Domain Specific Language
 DSN         | Data Source Name  
 DVI         | [Device Independent file format](https://en.wikipedia.org/wiki/Device_independent_file_format)
 DVR         | Distributed Virtual Router
+DW          | Data Warehouse (also see DWH, EDW)
+DWH         | Data Warehouse (also see DW, EDW)
 EA          | Enterprise Architecture  
 EAI         | Enterprise Application Integration  
 EAMS        | Enterprise Architecture Management Suite
@@ -111,6 +113,7 @@ EAR			| Export Administration Regulations
 EBCIDIC     | [Extended Binary Coded Decimal Interchange Code](https://en.wikipedia.org/wiki/EBCDIC)
 eBPF        | [extended Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter) - see BPF
 EBS         | Elastic Block Storage (AWS)
+EDW         | Enterprise Data Warehouse (also see DW, DWH)
 EFF         | [Electronic Frontier Foundation](https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation)
 ELF         | [Executable and Linkable Format](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
 ELT         | Extract, Load, Transform
