@@ -259,7 +259,13 @@ __These are the primary software programs that I typically have installed on my 
 
 - [Go](https://golang.org/)
 
-- [Java](https://www.oracle.com/java/)
+- Java
+  + Azul OpenJDK
+    * https://www.azul.com/downloads/zulu-community/?&architecture=x86-64-bit&package=jdk
+    * ```All Zulu Community builds of OpenJDK are free to download and use without restrictions.```
+  + Oracle
+    * https://www.oracle.com/java/
+
 
 - [Python](https://www.python.org/)
   + Don't forget to confirm that the ../Scripts folder is added to the Path environment variable
@@ -326,10 +332,13 @@ __These are the primary software programs that I typically have installed on my 
 ## Database Technologies
 
 - [MariaDB](https://mariadb.org/)
+  + https://mariadb.com/docs/reference/
 
 - [Microsoft SQL Server](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
-  + SQL SErver 2019 CTP
-    * https://www.microsoft.com/en-us/evalcenter/evaluate-sql-server-2019-ctp
+  + https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+  + SQL Server 2019 
+    * https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
+    * https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15
   + SQL Server 2017
     * https://www.microsoft.com/en-us/sql-server/sql-server-downloads
     * [SQL Server Management Studio (SSMS) - SQL Server 2017](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017)
@@ -347,12 +356,18 @@ __These are the primary software programs that I typically have installed on my 
       * https://github.com/tediousjs/tedious
 
 - [PostgreSQL](http://www.postgresql.org/)
+  + https://www.postgresql.org/docs/
 
 - [Oracle](https://www.oracle.com/database/)
+  + https://docs.oracle.com/en/database/index.html
+  + https://www.oracle.com/database/technologies/
+  + https://docs.oracle.com/en/database/oracle/oracle-database/19/index.html
+  + https://www.oracle.com/database/technologies/appdev/xe.html
 
 - [datomic](http://www.datomic.com/)
 
 - [Neo4j](http://neo4j.com)
+  + https://neo4j.com/developer/get-started/
 
 
 
