@@ -374,6 +374,8 @@ TTP         | Trusted Third Party
 TXN         | Transaction
 UDDI        | Universal Description, Discovery, & Integration
 UDEF        | Universal Data Element Framework
+UDF         | User Defined File
+UDF         | User Defined Function
 UI          | User Interface  
 UIMA        | Unstructured Information Management Architecture
 UML         | Unified Modeling Language
