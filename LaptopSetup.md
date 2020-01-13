@@ -405,10 +405,17 @@ __These are the primary software programs that I typically have installed on my 
 - [Jenkins](https://jenkins.io/)
 
 - [Apache Ant](http://ant.apache.org/)
+  + https://ant.apache.org/manual/index.html
 
 - [Apache Maven](https://maven.apache.org/)
+  + https://maven.apache.org/guides/index.html
+
+- [Bazel](https://www.bazel.build/)
+  + https://github.com/bazelbuild/bazel/releases
+  + https://docs.bazel.build/versions/master/bazel-overview.html
 
 - [Gradle](http://gradle.org/)
+  + https://docs.gradle.org/current/userguide/userguide.html
 
 - [sbt](http://www.scala-sbt.org/)
 
