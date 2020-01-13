@@ -364,6 +364,9 @@ __These are the primary software programs that I typically have installed on my 
   + https://docs.oracle.com/en/database/oracle/oracle-database/19/index.html
   + https://www.oracle.com/database/technologies/appdev/xe.html
     * https://docs.oracle.com/en/database/oracle/application-express/18.2/index.html
+  + SQL Developer
+    * https://www.oracle.com/database/technologies/appdev/sql-developer.html
+
 
 - [datomic](http://www.datomic.com/)
 
