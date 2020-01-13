@@ -364,9 +364,11 @@ __These are the primary software programs that I typically have installed on my 
   + https://docs.oracle.com/en/database/oracle/oracle-database/19/index.html
   + https://www.oracle.com/database/technologies/appdev/xe.html
     * https://docs.oracle.com/en/database/oracle/application-express/18.2/index.html
-  + SQL Developer
+  + Oracle SQL Developer
     * https://www.oracle.com/database/technologies/appdev/sql-developer.html
-
+    * https://docs.oracle.com/en/database/oracle/sql-developer/
+  + Oracle SQLcl
+    * https://docs.oracle.com/en/database/oracle/sql-developer-command-line/19.2/sqcug/working-sqlcl.html#GUID-1343FA2B-BDB4-4645-B4D4-CD7C3E200AC9
 
 - [datomic](http://www.datomic.com/)
 
