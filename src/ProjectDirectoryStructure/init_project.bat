@@ -3,7 +3,7 @@ cls
 REM 
 REM ***************************************************************************
 REM init_project.bat
-set version=1.2.8
+set version=1.2.9
 REM
 REM Client Project Directory Setup Script
 REM (Illustrative, Not Exhaustive)
@@ -484,7 +484,10 @@ ECHO. >> info.txt
 echo Building - Directions [Google Map Link]: >> info.txt
 
 ECHO. >> info.txt
-echo Time Tracking URL: >> info.txt
+ECHO Time Tracking URL: >> info.txt
+
+ECHO. >> info.txt
+echo Time Tracking Tasks: >> info.txt 
 
 ECHO. >> info.txt
 echo Web Email URL: >> info.txt
@@ -508,6 +511,9 @@ ECHO. >> info.txt
 echo Guest WiFi SID: >> info.txt
 echo Guest WiFi User ID: >> info.txt
 echo Guest WiFi Password: >> info.txt
+
+ECHO. >> info.txt
+ECHO Laptop Equipment ID: >> info.txt
 
 ECHO. >> info.txt
 
