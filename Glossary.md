@@ -186,6 +186,7 @@ ISPF        | [Interactive System Productivity Facility](https://en.wikipedia.or
 ISO         | [International Standards Organization](https://en.wikipedia.org/wiki/International_Organization_for_Standardization)
 ISOC        | [Internet Society](https://en.wikipedia.org/wiki/Internet_Society)
 ISP         | Internet Service Provider
+ISRS        | Information Storage and Retrieval System
 IT          | Information Technology  
 ITAR		    | International Traffic in Arms Regulations
 ITIRB       | Information Technology Investment Review Board
@@ -345,7 +346,9 @@ SMART       | SMART (Substitutable Medical Applications, Reusable Technologies)
 SMURFS      | Specifically Marketable, Useful, Releasable Feature Sets ([source](https://www.agileconnection.com/article/instead-mvps-maybe-we-should-be-releasing-smurfs)
 SOA         | [Service Oriented Architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture)
 SOAP        | [Simple Object Access Protocol](https://en.wikipedia.org/wiki/SOAP)
+SoE         | System of Engagement
 SOLID       | Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion
+SOR         | System of Record
 SOR         | System of Record
 SPICE       | Simple Protocol for Independent Computing Environments (
 SPKI        | Simple Public Key Infrastructure
@@ -357,6 +360,7 @@ SRP         | Single Responsibility Principle
 SSADM       | (structured systems analysis and design methodology) - developed by  Tom DeMarco, Ed Yourdon, and Larry Constantine 
 SSH         | Secure Shell
 SSL         | Secure Sockets Layer
+SSOT        | Single Source of Truth
 SSP         | System Security Plan
 SSPI        | Security Support Provider Interface
 SVG         | [Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
