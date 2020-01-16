@@ -207,6 +207,7 @@ LBaaS       | Load-Balancer-as-a-Service
 LCC         | Lower Camel Case
 LDAP        | Lightweight Directory Access Protocol
 LEM         | [Law of Excluded Middle](https://en.wikipedia.org/wiki/Law_of_excluded_middle)
+LeSS        | [Large Scale Scrum](https://less.works/)
 LGPL        | (GNU) Lesser General Public License 
 LSA         | Local Service Agreement
 LU          | Logical Unit  
