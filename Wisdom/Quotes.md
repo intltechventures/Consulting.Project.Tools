@@ -11,3 +11,8 @@
 ## C.A.R. Hoare
 
 - "The price of reliability is the pursuit of the utmost simplicity.", ~Turing Award lecture
+
+
+## Large Scale Scrum (LeSS)
+- "There are no such things as best practices. There are only practices that are good within a certain context"
+  + https://less.works/less/framework/why-less.html
