@@ -77,7 +77,7 @@ CSM         | Customer Success Manager
 CSR         | Customer Service Representative
 CSS         | [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 CTO         | Chief Technology Officer  
-CUI			| Controlled Unclassified Information (CUI), as defined by Executive Order 13556 (2010)
+CUI	    		| Controlled Unclassified Information (CUI), as defined by Executive Order 13556 (2010)
 CVS         | Concurrent Version System
 CX          | Customer Experience
 DAC         | Discretionary Access Control
@@ -90,7 +90,7 @@ DD          | Data Dictionary
 DES         | [Data Encryption Standard](https://en.wikipedia.org/wiki/Data_Encryption_Standard)
 DFIR        | Digital Forensics, Incident Response  
 DHCP        | Dynamic Host Configuration Protocol 
-DLD			| Detail-Level Design 
+DLD			    | Detail-Level Design 
 DLM         | Database Life-cycle Management
 DLT         | Distributed Ledger Technology
 DN          | LDAP Distinguished Name 
@@ -109,7 +109,7 @@ DWH         | Data Warehouse (also see DW, EDW)
 EA          | Enterprise Architecture  
 EAI         | Enterprise Application Integration  
 EAMS        | Enterprise Architecture Management Suite
-EAR			| Export Administration Regulations
+EAR			    | Export Administration Regulations
 EBCIDIC     | [Extended Binary Coded Decimal Interchange Code](https://en.wikipedia.org/wiki/EBCDIC)
 eBPF        | [extended Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter) - see BPF
 EBS         | Elastic Block Storage (AWS)
@@ -129,7 +129,7 @@ FDL         | (GNU) Free Documentation License
 FHIR        | Fast Healthcare Interoperability Resources (a draft standard describing data formats and elements and an application programming interface for exchanging electronic health records)
 FIPS        | [Federal Information Processing Standard](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards), re: FIPS PUB 140-2
 FIRST       | Fast Independent Repeatable Self-Validating Timely [(source)](https://dzone.com/articles/writing-your-first-unit-tests)
-FISMA		| Federal Information Security Management Act 
+FISMA		    | Federal Information Security Management Act 
 FP          | Functional Programming 
 FQDN        | Fully Qualified Domain Name 
 FSDG        |[ (GNU) Free System Distribution Guidelines](https://www.gnu.org/distros/free-system-distribution-guidelines.html)
@@ -199,8 +199,8 @@ JSR         | JavaScript Remoting
 JVM         | Java Virtual Machine
 JWT         | JSON Web Token  
 k8s         | Kubernetes
-KVM			| Kernel-based Virtual Machine (KVM) is an open source virtualization technology built into Linux
-KVM			| keyboard, video and mouse
+KVM		    	| Kernel-based Virtual Machine (KVM) is an open source virtualization technology built into Linux
+KVM			    | keyboard, video and mouse
 KVS         | Key-Value Storage
 LAN         | Local Area Network
 LBaaS       | Load-Balancer-as-a-Service
@@ -275,9 +275,9 @@ PAM         | Pluggable Authentication Modules
 PCI DSS     | Payment Card Industry Data Security Standard
 PDCA        | Plan-Do-Check-Adjust (Shewhart’s PDCA cycle)
 PGP         | [Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
-PHI			| Protected Health Information (re: HIPPA) 
+PHI			    | Protected Health Information (re: HIPPA) 
 PI          | Program Increment (re: Scaled Agile Framework, SAFe)
-PII			| Personally Identifiable Information
+PII			    | Personally Identifiable Information
 PITR        | Point In Time Recovery
 PKI         | [Public Key Infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure)
 PO          | Purchase Order
@@ -321,6 +321,8 @@ RPC         | Remote Procedure Call
 RPM         | Redhat Package Manager
 RPO         | Recovery Point Objective
 RTE         | Release Train Engineer
+RTF         | Runtime Fabric (re: MuleSoft)
+RTFM        | Read The Freaking Manual
 RTM         | Requirements Traceability Matrix
 RTT         | Round-Trip Time  
 RTO         | Recovery Time Objective  
@@ -345,6 +347,7 @@ SLES        | SUSE Linux Enterprise Server
 SMART       | Specific, Measurable, Attainable, Realistic
 SMART       | SMART (Substitutable Medical Applications, Reusable Technologies)
 SMURFS      | Specifically Marketable, Useful, Releasable Feature Sets ([source](https://www.agileconnection.com/article/instead-mvps-maybe-we-should-be-releasing-smurfs)
+SNAFU       | Situation Normal, All Fucked Up
 SOA         | [Service Oriented Architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture)
 SOAP        | [Simple Object Access Protocol](https://en.wikipedia.org/wiki/SOAP)
 SoE         | System of Engagement
@@ -398,7 +401,7 @@ VM          | Virtual Machine
 VMI         | Virtual Machine Image 
 VNC         | Virtual Network Computing
 VPN         | Virtual Private Network  
-VUCA        | Volatile, Uncertain, Complex, Ambiguous (source: [The U.S. Army War College](https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity))
+VUCA        | Volatile, Uncertain, Complex, Ambiguous (source: The U.S. Army War College, [Wikipedia](https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity))
 VXLAN       | Virtual Extensible LAN
 W3          | World Wide Web (i.e. WWW)
 W3C         | [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium)
