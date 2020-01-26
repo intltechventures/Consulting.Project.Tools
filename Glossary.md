@@ -20,6 +20,7 @@ AKI         | Amazon Kernel Image
 ALM         | Application Lifecycle Management
 AMI         | Amazon Machine Image
 AMQP        | Advanced Message Queuing Protocol
+ANN         | Artificial Neural Network
 ANSI        | [American National Standards Institute](https://en.wikipedia.org/wiki/American_National_Standards_Institute)
 AOP         | Aspect Oriented Programming
 AOT         | Ahead of Time (i.e. compiled ahead of time)
