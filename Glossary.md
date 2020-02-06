@@ -295,6 +295,7 @@ RA          | Registration Authority
 RAA         | Responsibility, Accountability, Authority 
 RACI        | Responsible, Accountable, Consulted, Informed  
 RAD         | Rapid Application Development 
+RAML        | REST API Modeling Language (RAML)
 RAPT        | Reverse Address and Port Translation (see RAT)
 RAS         | Redundancy, Availability, Serviceability  
 RASUI       | Reliability, Availability, Serviceability, Usability and Instability  

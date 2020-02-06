@@ -72,7 +72,7 @@ __These are the primary software programs that I typically have installed on my 
 
 
 
-## Essentials...
+## The Essentials...
 
 ### Web Browsers
 
@@ -111,8 +111,22 @@ __These are the primary software programs that I typically have installed on my 
 
 ### Basic Code/Text/Config Editors
 - [Notepad++](https://notepad-plus-plus.org/)
-  * Still Evaluating, additional Plugins
-    * https://github.com/Edditoria/markdown-plus-plus 
+  + Additional Plugins
+    * Markdown++
+      * https://github.com/Edditoria/markdown-plus-plus 
+    * NppRegExTractor
+      * https://github.com/viper3400/NppRegExTractor
+    * HEX-Editor
+    * JSLint
+    * JSON Viewer
+    * JSTool
+    * Mime Tools
+    * Npp Converter
+    * NppExec
+    * NppExport
+    * PyNPP
+    * RunMe
+    * Tidy2
 
 - [Visual Studio Code](https://code.visualstudio.com/)
   + https://code.visualstudio.com/docs/
