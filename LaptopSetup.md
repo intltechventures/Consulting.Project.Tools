@@ -492,6 +492,8 @@ __These are the primary software programs that I typically have installed on my 
 
 - [7-ZIp](http://www.7-zip.org/download.html)  
 
+- To Evaluate/Consider:
+  + https://github.com/microsoft/PowerToys
 
 
 ## Writing Tools
