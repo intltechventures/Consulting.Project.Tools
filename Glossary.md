@@ -311,6 +311,7 @@ RFQ         | Request for Quote
 RFS         | Request for Service (or, Solution)
 RHEL        | Red Hat Enterprise Linux 
 RIA         | Rich Internet Application  
+RION        | Raw Internet Object Notation
 RMAD        | Rapid Mobile App Development  
 RMS         | Rights Management Service
 ROE         | Return on Equity  
