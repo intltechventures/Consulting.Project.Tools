@@ -265,6 +265,7 @@ OID         | Object Identifier
 OKR         | Objectives and Key Results
 OLAP        | Online Analytical Processing
 OLB         | Object Language Bindings
+OLIN        | Online Information Network
 OLTP        | Online Transaction Processing 
 OMG         | [Object Management Group](https://en.wikipedia.org/wiki/Object_Management_Group)
 OOA/D       | Object Oriented Analysis and Design 
@@ -375,9 +376,11 @@ SW          | Software
 SWAG        | Silly Wild-Ass Guess (also see ROM), aka an estimate 
 TAM         | Total Addressable Market
 TAOC        | [The Art of Computer Programming]https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) (re: by Donald Knuth)
+TCO         | Total Cost of Ownership (see TOC)
 TCV         | Total Contract Value (TCV) 
 TDD         | [Test-Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
 TGB         | Technology Governance Board
+TOC         | Total Ownership Cost (see TCO)
 TPM         | Trusted Platform Module 
 TRM         | Technical Reference Model
 TSO         | [Time Sharing Option](https://en.wikipedia.org/wiki/Time_Sharing_Option), re: IBM mainframe interactive time-sharing environment
@@ -423,4 +426,4 @@ XP          | eXtreme Programming
 XSL         | XML Style Language 
 XSLT        | [eXtensible Stylesheet Language Transformations](https://en.wikipedia.org/wiki/XSLT)
 XSTL        | XML Transformation Language 
-YAGNI       | You Aren't Going to Need It 
+YAGNI       | You Aren't Gonna Need It 
