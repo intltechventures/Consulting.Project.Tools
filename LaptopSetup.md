@@ -64,6 +64,9 @@ __These are the primary software programs that I typically have installed on my 
     * "On 28 May 2014, the TrueCrypt website announced that the project was no longer maintained and recommended users find alternative solutions. Though development of TrueCrypt has ceased, an independent audit of TrueCrypt (published in March 2015) has concluded that no significant flaws are present"
     * "Shortly after the end of life announcement of TrueCrypt, Gibson Research Corporation posted an announcement titled "Yes... TrueCrypt is still safe to use" and a Final Release Repository to host the last official non-crippled version 7.1 of TrueCrypt"
     * "TrueCrypt is vulnerable to various known attacks which are also present in other software-based disk encryption software such as BitLocker. To prevent those, the documentation distributed with TrueCrypt requires users to follow various security precautions" - [Some of those attacks are detailed in the Wikipedia article]
+  + Possible Alternatives:
+    * https://www.veracrypt.fr/en/Home.html
+
 
 - [GnuPG](https://www.gnupg.org/)
 - Curated sources for inclusion in hosts file
