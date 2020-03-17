@@ -5,12 +5,12 @@
 - **This document's location:**
   + https://github.com/intltechventures/Consulting.Project.Tools/blob/master/templates/SAD.md
   + **STATUS: WORKING DRAFT**
-  + **Last Updated: 2019-07-28**
+  + **Last Updated: 2020-03-17**
   + Author: Kelvin D. Meeks
   + kmeeks@intltechventures.com
   + http://www.intltechventures.com
 
-- Copyright 2001-2019, International Technology Ventures, Inc.
+- Copyright 2001-2020, International Technology Ventures, Inc.
 - Releassed under [The MIT License](https://opensource.org/licenses/MIT)
 
 
@@ -29,7 +29,7 @@ The ideal place for an SAD to live is as a MarkDown file (.md) on a git reposito
 
 The target level of detail is to scope the effort, provide sufficient input to the estimation process, and to clearly articulate the **How** of an approach.  
 
-The **What** should be ideally defined in a collection of User Stories, Use Cases, Feature Requests, etc. - or, minimally, in a Business Requirements Document (BRD).
+The **What** should ideally be defined in a collection of User Stories, Use Cases, Feature Requests, etc. - or, minimally, in a Business Requirements Document (BRD).
 
 Investing effort in the creation of the SAD is intended for larger-scoped projects/epics - that have some non-trivial number of unknowns, technical complexity, a high number of coordination points,  or extensive external integration/coordination requirements. For smaller efforts (or, as a move toward a more Agile and Lean Architecture apporach), an [Architecture Decision Record (ADR) template](https://github.com/intltechventures/Consulting.Project.Tools/blob/master/templates/ArchitectureDecisionRecord.md) should be considered.
 
@@ -41,6 +41,9 @@ Investing effort in the creation of the SAD is intended for larger-scoped projec
 ___
 
 # SAD Format
+
+## Table of Contents
+
 
 ## Summary
 
@@ -80,11 +83,11 @@ ___
 ## Important Risks
 (for example...)
 
-- Funding Approval
+- Funding Risks
 
-- Technical Unknowns
+- Technical Risks
 
-- Resource Availability
+- Resource Risks (e.g. availability, skills)
 
 
 
@@ -99,9 +102,14 @@ ___
 ## Significant Unknowns 
 
 - Business
-
+  + Business Unknown #1 
+  + Business Unknown #2
+  + Business Unknown #3
+  
 - Technical
-
+  + Technical Unknown #1
+  + Technical Unknown #2
+  + Technical Unknown #3  
 
 
 ## Requirements 
@@ -111,7 +119,7 @@ ___
 
 - Technical Requirement
 
-- Requiements Traceability
+- Requirements Traceability
 
 
 
@@ -123,6 +131,8 @@ ___
 - Epics
 
 - Stories
+
+- Features 
 
 - Use Cases 
 
@@ -137,7 +147,7 @@ ___
 
 ## Solution Sizing Factors
 
-- Event/Transaction Processing 
+- APIs - Event/Transaction Processing 
   + Types of Events/Transactions
   + Number of Events/Transactions
 	* By User Group, by Frequency Period
@@ -150,8 +160,9 @@ ___
     * By Type, by Frequency Period
     * Projected Growth, over 3-5 years
 	* Data Retention/Archive/Purge Rules, by Type
+		
 	
-- File Processing
+- Batch - File Processing
   + Types of Files
   + Number of Files
     * By File Type, by Processing Period
@@ -182,6 +193,8 @@ ___
 ## Architecture Views - Current State
 
 - Context Views
+  + Business Architecture Views 
+  + Enterprise Architecture Views 
 
 - Conceptual Views 
 
@@ -194,6 +207,14 @@ ___
 - Data Flow Views
 
 - Data Model Views
+
+- Integration Architecture Views 
+
+- Infrastructure Architecture Views
+
+- Network Architecture Views 
+
+- Security Architecture Views 
 
 - (additional views, as needed)
 
@@ -212,9 +233,11 @@ ___
 
 ## Architecture Views - Future State
 
-- Context Views 
+- Context Views
+  + Business Architecture Views 
+  + Enterprise Architecture Views 
 
-- Conceptual Views
+- Conceptual Views 
 
 - Logical Views
 
@@ -226,24 +249,35 @@ ___
 
 - Data Model Views
 
-- (additional views, as needed)
+- Integration Architecture Views 
 
+- Infrastructure Architecture Views
+
+- Network Architecture Views 
+
+- Security Architecture Views 
+
+- (additional views, as needed)
 
 ## Key Architecture Design Elements
 
 - Inbound Data Processing
-  + File Transfers,  Inbound
-  + Message Queues, Inbound
   + API/Service Endpoints, Exposed
   + Stream Processing, Inbound
+  + File Transfers,  Inbound
+  + Message Queues, Inbound
   
 
 - Outbound Data Processing
-  + File Transfers,  Outbound
-  + Message Queues, Outbound
   + API/Service Endpoints, Called
   + Stream Processing, Outbound 
-  
+  + File Transfers,  Outbound
+  + Message Queues, Outbound
+
+- Shared Services/Functions 
+ 
+- Utility Services/Functions  
+
 - Internal Processing
 
 - Data Transformations
@@ -273,7 +307,7 @@ ___
   + Data Lakes
   + Data Cubes
 
-- Logging
+- Logging & Log Aggregation
 
 - Monitoring / Alerting
 
@@ -337,6 +371,9 @@ ___
 
 ### Impact Assessment - Business Operations
 - Users 
+  + Internal
+  + Customers
+  + Third-Party/Parnters
 
 - Business Processes
   + Manual Processes / Staffing
@@ -419,8 +456,11 @@ ___
   
 ### Impact Assessment - IT / DevOps
 
-- Deployment 
+- Continuous Integration (CI)
 
+- Deployment 
+  + Continuous Deployment (CD) 
+  
 - Support Hours
 
 - Support Process
@@ -442,7 +482,7 @@ ___
 
 - Data Storage
 
-- Backup/Recovery
+- Backup/Restore
 
 - Disaster Recovery
 
@@ -458,15 +498,22 @@ ___
 
 - Performance
 
-- Reliability 
+- Chaos Engineering Testing (i.e. Site Reliability Engineering) 
 
 - Security 
 
+- Audit/Compliance 
+  + Data Privacy
+	* [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)
+	* [CCPA](https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act)
+  + [PCI/DSS](https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard)
+  + [HIPPA](https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard)
 
 
 ## Glossary 
 (table of terms/acronyms and definitions)
-
+- https://github.com/intltechventures/Consulting.Project.Tools/blob/master/Glossary.md
+  + (provided as a suggested starting point)
 
 
 ## References
@@ -474,10 +521,10 @@ ___
 - Supplemental Information
 
 - Citations
-  + Policies
-  
   + Principles
   
+  + Policies
+    
   + Standards
   
   + Specifications
@@ -492,8 +539,9 @@ ___
 
   + Vendor Collateral
 
-- Alternatives Consdered
+- Alternatives Considered
   + Evaluation Criteria
+  + Decision Summary 
 
   + Alternative #1
     * Pros
@@ -513,19 +561,19 @@ ___
 
 ## Key Project Contacts
 
-- Design Reviewers/Approvers
+- SAD Reviewers/Approvers
 
 - Business Stakeholders
 
 - Business Operations
 
-- IT Project Management 
+- IT Program Management 
 
 - IT Project Management
 
 - Finance/Budget/Funding
 
-- Procurement
+- Strategic Sourcing/Procurement
 
 - Key Subject Matter Experts (SMEs)
   + SMEs: Business Stakeholders
@@ -541,6 +589,7 @@ ___
 - Enterprise Architecture
 
 - Solution Architecture 
+
 - Enterprise Security
 
 - Engineering 
@@ -567,6 +616,4 @@ ___
   + https://en.wikipedia.org/wiki/Non-functional_requirement
 
 - [830-1998 - IEEE Recommended Practice for Software Requirements Specifications](https://standards.ieee.org/findstds/standard/830-1998.html)
-
-
 
