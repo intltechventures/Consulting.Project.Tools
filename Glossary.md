@@ -348,6 +348,8 @@ SIMD        | [Single InstructionStream, Multiple Data Streams](https://en.wikip
 SISD        | [Single Instruction Stream, Single Data Stream](https://en.wikipedia.org/wiki/SISD)
 SLA         | Service Level Agreement
 SLES        | SUSE Linux Enterprise Server
+SLI         | [Service Level Indicator](https://landing.google.com/sre/resources/practicesandprocesses/art-of-slos/) - a quantifiable measure of service reliability
+SLO         | [Service Level Objectives](https://landing.google.com/sre/resources/practicesandprocesses/art-of-slos/) - a reliability target for an SLI 
 SMART       | Specific, Measurable, Attainable, Realistic
 SMART       | SMART (Substitutable Medical Applications, Reusable Technologies)
 SMURFS      | Specifically Marketable, Useful, Releasable Feature Sets ([source](https://www.agileconnection.com/article/instead-mvps-maybe-we-should-be-releasing-smurfs)
