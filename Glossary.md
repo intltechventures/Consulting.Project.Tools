@@ -254,6 +254,7 @@ NLP         | Natural Language Processing
 NLS         | Natural Language Support 
 NLU         | Natural Language Understanding
 NOC         | Network Operations Center 
+NPM         | [Node Package Manager](https://www.npmjs.com/)
 NSH         | Network Service Header 
 NTE         | Not To Exceed
 NTP         | Network Time Protocol 
