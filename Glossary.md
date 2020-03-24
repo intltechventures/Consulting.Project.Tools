@@ -259,6 +259,7 @@ NSH         | Network Service Header
 NTE         | Not To Exceed
 NTP         | Network Time Protocol 
 OASIS       | Organization for the Advancement of Structured Information Systems
+OCI         | Open Container Initiative
 OCM         | Organizational Change Management
 OData       | Open Data Protocol 
 ODBC        | Open Database Connectivity
