@@ -276,6 +276,7 @@ OOP         | Object Oriented Programming
 OWL         | [Web Ontology Language](https://en.wikipedia.org/wiki/Web_Ontology_Language)
 PaaS        | Platform as a Service  
 PAM         | Pluggable Authentication Modules
+PASETO      | platform-agnostic security tokens
 PCI DSS     | Payment Card Industry Data Security Standard
 PDCA        | Plan-Do-Check-Adjust (Shewhart’s PDCA cycle)
 PGP         | [Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
