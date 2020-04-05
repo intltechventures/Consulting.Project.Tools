@@ -292,13 +292,19 @@ __These are the primary software programs that I typically have installed on my 
 
 - [R](https://www.r-project.org/)
 
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+  + Re: [Visual Studio IDE](https://visualstudio.microsoft.com/)
+
 - [GNU GCC](https://gcc.gnu.org/)
   + [MingW (and MSYS)](http://www.mingw.org/)
   + [Cyqwin](http://www.cygwin.com/)
 
 - JavaScript
+  + https://www.ecma-international.org/publications/standards/Ecma-262.htm)
+  + http://www.ecma-international.org/ecma-262/10.0/
   + https://github.com/v8/v8
   + https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  + https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
   + https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_Next_support_in_Mozilla
   + [nodejs](https://nodejs.org/en/)
   + [npmjs](https://www.npmjs.com/)
@@ -315,6 +321,13 @@ __These are the primary software programs that I typically have installed on my 
 - [Rust](http://rust-lang.org/)
 
 - [Groovy](http://www.groovy-lang.org/)
+  + https://groovy-lang.org/documentation.html
+  + https://github.com/apache/groovy
+	* http://groovy-lang.org/ides.html
+  + https://groovy-lang.org/single-page-documentation.html
+  + https://github.com/groovy/groovy-eclipse
+  + https://github.com/groovy/groovy-eclipse/wiki
+    * https://dist.springsource.org/release/GRECLIPSE/e4.15
 
 - [Clojure](https://clojure.org/)
 
