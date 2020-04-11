@@ -370,6 +370,7 @@ SQL         | Sales Qualified Lead
 SQL         | Structured Query Language
 SRA         | Security Risk Assessment
 SRP         | Single Responsibility Principle
+SRS         | Secure and Reliable Systems
 SSADM       | (structured systems analysis and design methodology) - developed by  Tom DeMarco, Ed Yourdon, and Larry Constantine 
 SSH         | Secure Shell
 SSL         | Secure Sockets Layer
