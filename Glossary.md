@@ -83,6 +83,7 @@ CVS         | Concurrent Version System
 CX          | Customer Experience
 DAC         | Discretionary Access Control
 DARPA       | Defense Advanced Research Projects Agency
+DARQ        | Distributed Ledger Technology (DLT), Artificial Intelligence (AI), Extended Reality (XR), Quantum Computing ~ re: Accenture
 DAST        | Dynamic Application Security Testing
 DBA         | Database Administrator
 DBMS        | Database Management System
@@ -429,6 +430,7 @@ WWW         | [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web)
 XID         | Transaction Identifier
 XML         | [Extensible Markup Language](https://en.wikipedia.org/wiki/XML)
 XP          | eXtreme Programming
+XR          | Extended Reality
 XSL         | XML Style Language 
 XSLT        | [eXtensible Stylesheet Language Transformations](https://en.wikipedia.org/wiki/XSLT)
 XSTL        | XML Transformation Language 
