@@ -401,6 +401,7 @@ UDF         | User Defined Function
 UI          | User Interface  
 UIMA        | Unstructured Information Management Architecture
 UML         | Unified Modeling Language
+USL         | [Universal Scalability Law](http://www.perfdynamics.com/Manifesto/USLscalability.html) ~ [Neil J. Gunther](https://en.wikipedia.org/wiki/Neil_J._Gunther)
 UTC         | Coordinated Universal Time 
 UTF         | [Unicode Transformation Format](https://en.wikipedia.org/wiki/Unicode#UTF)
 UUID        | Universal Unique Identifier
