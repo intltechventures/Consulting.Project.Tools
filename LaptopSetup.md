@@ -141,6 +141,7 @@ __These are the primary software programs that I typically have installed on my 
         * ```ctrl/cmd+shift+p```
         * View > Command Palette > ``` terminalHere.create```
       * https://github.com/Tyriar/vscode-terminal-here
+      * https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel
     * https://marketplace.visualstudio.com/items?itemName=YoshinoriN.current-file-path
     * Go Tools
       * gocode
