@@ -212,6 +212,7 @@ LEM         | [Law of Excluded Middle](https://en.wikipedia.org/wiki/Law_of_excl
 LeSS        | [Large Scale Scrum](https://less.works/)
 LGPL        | (GNU) Lesser General Public License 
 LSA         | Local Service Agreement
+LSM         | [Log-Structured Merge-Tree](https://en.wikipedia.org/wiki/Log-structured_merge-tree)
 LU          | Logical Unit  
 LVM         | Logical Volume Manager
 MAC         | Machine Access Control 
