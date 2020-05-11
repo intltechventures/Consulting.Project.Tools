@@ -295,6 +295,7 @@ PR          | Pull Request
 PR          | Purchase Request
 PSM         | Persistent Stored Modules
 QA          | [Quality Assurance](https://en.wikipedia.org/wiki/Quality_assurance)
+QAQA        | Quantum Approximate Optimization Algorithm
 QKD         | Quantum Key Distribution
 QoS         | Quality of Service
 RA          | Registration Authority
@@ -417,6 +418,7 @@ VM          | Virtual Machine
 VMI         | Virtual Machine Image 
 VNC         | Virtual Network Computing
 VPN         | Virtual Private Network  
+VQF         | Variational Quantum Factoring 
 VUCA        | Volatile, Uncertain, Complex, Ambiguous (source: The U.S. Army War College, [Wikipedia](https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity))
 VXLAN       | Virtual Extensible LAN
 W3          | World Wide Web (i.e. WWW)
