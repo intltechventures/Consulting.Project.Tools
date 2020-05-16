@@ -287,6 +287,7 @@ PI          | Program Increment (re: Scaled Agile Framework, SAFe)
 PII			    | Personally Identifiable Information
 PITR        | Point In Time Recovery
 PKI         | [Public Key Infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure)
+PPI         | Protected Personal Information
 PO          | Purchase Order
 POSIX       | [Portable Operating System Interface](https://en.wikipedia.org/wiki/POSIX)
 PR          | Peer Review
