@@ -224,8 +224,10 @@ MDAP        | Mobile Application Development Platform
 MDM         | Master Data Management  
 MDM         | Mobile Device Management  
 MDR         | Marketing Development Representative
+MEAN        | MongoDB, Express.js, Angular.js, Node.js
 MEAP        | Mobile Enterprise Application Platform  
 MED         | Management of External Data
+MERN        | MongoDB, Express.js, React.js, Node.js
 MIM         | Major Incident Management
 MIMD        | [Multiple instruction streams, multiple data streams](https://en.wikipedia.org/wiki/MIMD)
 MIME        | [Multipurpose Internet Mail Extensions](https://en.wikipedia.org/wiki/MIME)
