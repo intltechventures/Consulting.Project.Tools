@@ -3,12 +3,12 @@
 
 
 ## Priority Ranking Scheme
-1 - Critical ("must have")
-2 - High 
-3 - Medium
-4 - Low ("nice to have")
-5 - Future Roadmap
-9 - Out-of-Scope
+#1 - Critical ("must have")
+#2 - High 
+#3 - Medium
+#4 - Low ("nice to have")
+#5 - Future Roadmap
+#9 - Out-of-Scope
 
 
 ## Requirement Numbering Scheme
