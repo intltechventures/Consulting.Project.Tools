@@ -6,6 +6,7 @@ This glossary is intended to provide a single refernce to be reused across multi
 |Term | Definition|
 |-----|-----------|
 ABC         | Activity Based Costing
+ABC         | Area of Business Concern
 ABNF        | Augmented Backus-Naur Form (see [RFC-5234](https://tools.ietf.org/html/rfc5234))
 AC          | [Axiom of Choice](https://en.wikipedia.org/wiki/Axiom_of_choice)
 ACL         | Access Control List
@@ -281,6 +282,7 @@ OWL         | [Web Ontology Language](https://en.wikipedia.org/wiki/Web_Ontology
 PaaS        | Platform as a Service  
 PAM         | Pluggable Authentication Modules
 PASETO      | platform-agnostic security tokens
+PBI         | Product Backlog Item (i.e. Scrum)
 PCI DSS     | Payment Card Industry Data Security Standard
 PDCA        | Plan-Do-Check-Adjust (Shewhart’s PDCA cycle)
 PGP         | [Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
@@ -431,6 +433,7 @@ WAL         | Write Ahead Log
 wasm        | [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly)
 WD          | Working Draft
 WIP         | Work nn Progress
+WLM         | Work Lifecycle Management
 WoT         | Web of Trust
 WRT         | Work Recovery Time
 WSDL        | Web Service Description Language
