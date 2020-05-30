@@ -346,6 +346,7 @@ SAD         | Solution Architecture Design
 SAFe        | Scaled Agile Framework
 SAM         | Successive Approximation Model, created by Allen Interactions 
 SAST        | Static Application Security Testing
+SAW         | Statement of Architecture Work
 SBE         | Specification by Example
 SCIM        | System for Cross-Domain Identity Management (re: RFC7644)
 SDI         | Software Defined Infrastructure
