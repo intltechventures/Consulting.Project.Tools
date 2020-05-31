@@ -354,6 +354,7 @@ SDK         | Software Development Kit
 SDLC        | Software Development Life-cycle (aka Software Development Process)
 SDLP        | Systems Development Lifecycle Process
 SDN         | Software Defined Network
+SDP         | Software Defined Perimeter (also see VPN)
 SDR         | Sales Development Representative
 SI          | System Integrator
 SIMD        | [Single InstructionStream, Multiple Data Streams](https://en.wikipedia.org/wiki/SIMD)
