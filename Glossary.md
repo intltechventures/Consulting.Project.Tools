@@ -96,6 +96,7 @@ DHCP        | Dynamic Host Configuration Protocol
 DLD			    | Detail-Level Design 
 DLM         | Database Life-cycle Management
 DLT         | Distributed Ledger Technology
+DMAIC       | [Define, Measure, Analayze, Improve, Control](https://en.wikipedia.org/wiki/DMAIC) (re: Six Sigma)
 DN          | LDAP Distinguished Name 
 DNAT        | Destination network address translation
 DNS         | Domain Name System
