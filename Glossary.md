@@ -284,6 +284,7 @@ PaaS        | Platform as a Service
 PAM         | Pluggable Authentication Modules
 PASETO      | platform-agnostic security tokens
 PBI         | Product Backlog Item (i.e. Scrum)
+PBL         | Product Backlog (i.e. Scrum)
 PCI DSS     | Payment Card Industry Data Security Standard
 PDCA        | Plan-Do-Check-Adjust (Shewhart’s PDCA cycle)
 PGP         | [Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
@@ -293,6 +294,7 @@ PII			    | Personally Identifiable Information
 PITR        | Point In Time Recovery
 PKI         | [Public Key Infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure)
 PPI         | Protected Personal Information
+PO          | Product Owner
 PO          | Purchase Order
 POSIX       | [Portable Operating System Interface](https://en.wikipedia.org/wiki/POSIX)
 PR          | Peer Review
@@ -440,6 +442,7 @@ WLM         | Work Lifecycle Management
 WoT         | Web of Trust
 WRT         | Work Recovery Time
 WSDL        | Web Service Description Language
+WSJF        | Weighted Shortest Job First (re: Scaled Agile Framework, SAFe)
 WWW         | [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web)
 XID         | Transaction Identifier
 XML         | [Extensible Markup Language](https://en.wikipedia.org/wiki/XML)
