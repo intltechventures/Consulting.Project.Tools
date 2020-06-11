@@ -23,7 +23,9 @@
 
   + [ULBRE Soho KVM Switch 4 Port USB 3.0 Sharing Box Selector, 4Port Peripheral Switcher KM Adapter KVM Console Hub for Office PC Printer Mouse Keyboard](https://www.amazon.com/dp/B07DKD7JHG/) 
 
-  + [Logitech H390 USB Headset w/Noise-Canceling Microphone](https://www.walmart.com/ip/Logitech-H390-USB-Headset-w-Noise-Canceling-Microphone/8198023)
+  + Logitech H390 USB Headset w/Noise-Canceling Microphone
+    * https://www.walmart.com/ip/Logitech-H390-USB-Headset-w-Noise-Canceling-Microphone/8198023
+    * https://www.amazon.com/Logitech-logitech-noisecanceling-Microphone-Packaging/dp/B075G4JT4S/
 
 
 
