@@ -56,11 +56,14 @@ CA          | Certificate Authority
 CAB         | Change Advisory Board
 CAP         | Consistency, Availability, Partition Tolerance  
 CD          | Candidate Recommendation 
+CD          | Continuous Delivery
 CDE         | Cardholder Data Environment
 CDN         | Content Distribution Network
 CDO         | Chief Data Officer
 CERN        | [European Organization for Nuclear Research](https://en.wikipedia.org/wiki/CERN), French: Organisation européenne pour la recherche nucléaire
 CGI         | [Common Gateway Interface](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
+CI          | Continuous Integration
+CI/CD       | Continuous Integration / Continuous Delivery (or, Continous Deployment)
 CID         | Command Identifier
 CIF         | Customer Information File  
 CIFS        | Common Internet File System
@@ -90,6 +93,7 @@ DBA         | Database Administrator
 DBMS        | Database Management System
 DC          | Data Center  
 DD          | Data Dictionary 
+DDoS        | Distributed denial-of-service (i.e. a network traffic attack)
 DES         | [Data Encryption Standard](https://en.wikipedia.org/wiki/Data_Encryption_Standard)
 DFIR        | Digital Forensics, Incident Response  
 DHCP        | Dynamic Host Configuration Protocol 
@@ -172,6 +176,7 @@ IAST        | Integrated Application Security Testing
 ICMP        | Internet Control Message Protocol 
 IDE         | Integrated Development Environment    
 IDL         | [Interface Description Language](https://en.wikipedia.org/wiki/Interface_description_language)
+IdP         | Identity Provider
 IDS         | Intrusion Detection System
 IEEE        | [Institute of Electrical and Electronics Engineers](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers)
 IETF        | Internet Engineering Task Force
@@ -270,6 +275,7 @@ OCM         | Organizational Change Management
 OData       | Open Data Protocol 
 ODBC        | Open Database Connectivity
 OID         | Object Identifier
+OIDC        | OpenID Connect
 OKR         | Objectives and Key Results
 OLAP        | Online Analytical Processing
 OLB         | Object Language Bindings
@@ -348,6 +354,7 @@ RSA         | [Rivest–Shamir–Adleman](https://en.wikipedia.org/wiki/RSA_(cry
 SAD         | Solution Architecture Design
 SAFe        | Scaled Agile Framework
 SAM         | Successive Approximation Model, created by Allen Interactions 
+SAML        | Security Assertion Markup Language
 SAST        | Static Application Security Testing
 SAW         | Statement of Architecture Work
 SBE         | Specification by Example
