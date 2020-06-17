@@ -687,6 +687,9 @@ __These are the primary software programs that I typically have installed on my 
 
 - https://ohmyz.sh/
 
+- https://inkscape.org/
+  + a Free and open source vector graphics editor for GNU/Linux, Windows and MacOS X
+
 
 # Windows OS Performance Optimizations
 
