@@ -282,6 +282,8 @@ __These are the primary software programs that I typically have installed on my 
 - [Go](https://golang.org/)
 
 - Java
+  + OpenJDK
+    * https://openjdk.java.net/
   + Azul OpenJDK
     * https://www.azul.com/downloads/zulu-community/?&architecture=x86-64-bit&package=jdk
     * ```All Zulu Community builds of OpenJDK are free to download and use without restrictions.```
