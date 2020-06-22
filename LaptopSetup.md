@@ -477,7 +477,8 @@ __These are the primary software programs that I typically have installed on my 
 - [Docker](https://www.docker.com/)
   + [Docker Community Edition](https://store.docker.com/editions/community/docker-ce-desktop-windows)
   + [Docker Hub](https://hub.docker.com/)
-
+  + Enable Microsoft Windows WSL:
+    * ```Enable-WindowsOptionalFeature -Online -FeatureName $("VirtualMachinePlatform", "Microsoft-Windows-Subsystem-Linux")```
 
 - Container/VM OS Options:
 
