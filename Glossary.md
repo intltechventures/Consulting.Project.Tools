@@ -154,6 +154,7 @@ gMSA        | Group Managed Service Accounts (e.g. for Swarm)
 GNU         | GNU's Not Unix! (a recursive acronym)
 GOLAP       | Graph OLAP 
 GPG         | [GNU Privacy Guard](https://en.wikipedia.org/wiki/GNU_Privacy_Guard)
+GQL         | [Graph Query Language](https://www.gqlstandards.org/home)
 GQM         | Goal, Question, Metric 
 GRC         | Governance, Risk, Compliance
 GRE         | Generic Routing Encapsulation
