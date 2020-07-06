@@ -139,6 +139,7 @@ FIPS        | [Federal Information Processing Standard](https://en.wikipedia.org
 FIRST       | Fast Independent Repeatable Self-Validating Timely [(source)](https://dzone.com/articles/writing-your-first-unit-tests)
 FISMA		    | Federal Information Security Management Act 
 FP          | Functional Programming 
+FPGA        | Field-Programmable Gate Arrays
 FQDN        | Fully Qualified Domain Name 
 FSDG        |[ (GNU) Free System Distribution Guidelines](https://www.gnu.org/distros/free-system-distribution-guidelines.html)
 FTP         | [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
@@ -328,6 +329,7 @@ RDF         | [Resource Description Framework](https://en.wikipedia.org/wiki/Res
 REST        | [Representational State Transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)
 RFC         | Request for Comments
 RFI         | Request for Information
+RFM         | Requency, Frequency, Monetary 
 RFP         | Request for Proposal
 RFQ         | Request for Quote
 RFS         | Request for Service (or, Solution)
