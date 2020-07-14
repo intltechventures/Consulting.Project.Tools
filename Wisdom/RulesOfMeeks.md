@@ -109,6 +109,9 @@
 **\#107 - "If at all possible, avoid doing business with anyone that wears cufflinks (as part of their normal business attire)"**
 
 
+**\#108 - "If at all possible, avoid doing business with anyone that wears their hair in a douchebag topknot"**
+
+
 
 \#2xx - On the Art of  Managing People
 ====
