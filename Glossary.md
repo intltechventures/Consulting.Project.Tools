@@ -104,6 +104,7 @@ DMAIC       | [Define, Measure, Analayze, Improve, Control](https://en.wikipedia
 DN          | LDAP Distinguished Name 
 DNAT        | Destination network address translation
 DNS         | Domain Name System
+DoS         | Denial of Service 
 DR          | Disaster Recovery  
 DRB         | Design Review Board  
 DRY         | Don't Repeat Yourself
@@ -135,6 +136,7 @@ FAIL        | First Attempt In Learning (i.e. agile)
 FCoE        | Fibre Channel over Ethernet 
 FDL         | (GNU) Free Documentation License
 FHIR        | Fast Healthcare Interoperability Resources (a draft standard describing data formats and elements and an application programming interface for exchanging electronic health records)
+FIDO        | Fast Identity Online
 FIPS        | [Federal Information Processing Standard](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards), re: FIPS PUB 140-2
 FIRST       | Fast Independent Repeatable Self-Validating Timely [(source)](https://dzone.com/articles/writing-your-first-unit-tests)
 FISMA		    | Federal Information Security Management Act 
@@ -237,6 +239,7 @@ MEAN        | MongoDB, Express.js, Angular.js, Node.js
 MEAP        | Mobile Enterprise Application Platform  
 MED         | Management of External Data
 MERN        | MongoDB, Express.js, React.js, Node.js
+MFA         | Multifactor Authentication
 MIM         | Major Incident Management
 MIMD        | [Multiple instruction streams, multiple data streams](https://en.wikipedia.org/wiki/MIMD)
 MIME        | [Multipurpose Internet Mail Extensions](https://en.wikipedia.org/wiki/MIME)
@@ -251,6 +254,7 @@ MRR         | Monthly Recurring Revenue
 MSA         | Microservices Architecture  
 MSA         | Master Service Agreement
 MTD         | Maximum Tolerable Downtime
+mTLS        | Mutual Transport Layer Security
 MTS         | Multidimensional Type Structure (e.g. [Thomsen Diagrams](https://en.wikipedia.org/wiki/Thomsen_Diagrams))
 MTU         | Maximum Transmission Unit. Maximum frame or packet size for a particular network medium.
 MUPS        | Minimum Usable Products/Services
@@ -287,14 +291,18 @@ OMG         | [Object Management Group](https://en.wikipedia.org/wiki/Object_Man
 OOA/D       | Object Oriented Analysis and Design 
 OOD         | Object Oriented Design 
 OOP         | Object Oriented Programming 
+OPA         | Open Policy Agent
+OTP         | One-Time Passcode
 OWL         | [Web Ontology Language](https://en.wikipedia.org/wiki/Web_Ontology_Language)
 PaaS        | Platform as a Service  
 PAM         | Pluggable Authentication Modules
+PAP         | Policy Administration Point
 PASETO      | platform-agnostic security tokens
 PBI         | Product Backlog Item (i.e. Scrum)
 PBL         | Product Backlog (i.e. Scrum)
 PCI DSS     | Payment Card Industry Data Security Standard
 PDCA        | Plan-Do-Check-Adjust (Shewhart’s PDCA cycle)
+PDP         | Policy Decision Point
 PGP         | [Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
 PHI			    | Protected Health Information (re: HIPPA) 
 PI          | Program Increment (re: Scaled Agile Framework, SAFe)
@@ -400,6 +408,7 @@ SSL         | Secure Sockets Layer
 SSOT        | Single Source of Truth
 SSP         | System Security Plan
 SSPI        | Security Support Provider Interface
+STS         | Security Token Service
 SVG         | [Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 SW          | Software
 SWAG        | Silly Wild-Ass Guess (also see ROM), aka an estimate 
@@ -410,6 +419,7 @@ TCO         | Total Cost of Ownership (see TOC)
 TCV         | Total Contract Value (TCV) 
 TDD         | [Test-Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
 TGB         | Technology Governance Board
+TLS         | Transport Layer Security
 TOC         | Total Ownership Cost (see TCO)
 TPM         | Trusted Platform Module 
 TRM         | Technical Reference Model
