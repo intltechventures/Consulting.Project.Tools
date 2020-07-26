@@ -55,6 +55,7 @@ C&A         | Certification & Accreditation
 CA          | Certificate Authority
 CAB         | Change Advisory Board
 CAP         | Consistency, Availability, Partition Tolerance  
+CAS         | [Compare-And-Swap | Compare-And-Set](https://en.wikipedia.org/wiki/Compare-and-swap)
 CD          | Candidate Recommendation 
 CD          | Continuous Delivery
 CDE         | Cardholder Data Environment
