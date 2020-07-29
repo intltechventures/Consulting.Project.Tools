@@ -141,7 +141,7 @@
 **\#208 - "Silence is often the best response to someone who has spouted foolish nonsense"**
 
 
-**\#209 - "Never underestimate someone's willingness to resist change - when keeping their job depends on the status quo remaining stable"
+**\#209 - "Never underestimate someone's willingness to resist change - when keeping their job depends on the status quo remaining stable"**
 
 
 
