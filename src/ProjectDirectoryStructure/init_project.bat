@@ -416,6 +416,9 @@ echo Company LinkedIn URL: >> info.txt
 ECHO. >> info.txt 
 echo Glassdoor URL: >> info.txt
 
+ECHO. >> info.txt 
+echo Twitter URL: >> info.txt
+
 ECHO. >> info.txt
 ECHO. >> info.txt
 ECHO. >> info.txt
