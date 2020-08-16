@@ -261,6 +261,7 @@ MTU         | Maximum Transmission Unit. Maximum frame or packet size for a part
 MUPS        | Minimum Usable Products/Services
 MVCC        | Multi Version Concurrency Control
 MVP         | Minimal Viable Product 
+MVVM        | [Model-View-ViewModel](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 NAS         | Network Attached Storage 
 NAT         | [Network Address Translation](https://en.wikipedia.org/wiki/Network_address_translation)
 NCSA        | [National Center for Supercomputing Applications](https://en.wikipedia.org/wiki/National_Center_for_Supercomputing_Applications)
