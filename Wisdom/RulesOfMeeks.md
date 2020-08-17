@@ -112,6 +112,11 @@
 **\#108 - "If at all possible, avoid doing business with anyone that wears their hair in a douchebag topknot"**
 
 
+**\#109 - "Don't do stupid shit"**
+  + Examples:
+    * https://blog.scribd.com/home/welcome-slideshare-to-the-scribd-community
+
+
 
 \#2xx - On the Art of  Managing People
 ====
