@@ -239,7 +239,9 @@ __These are the primary software programs that I typically have installed on my 
       * A Visual Studio Code extension with rich support for the Python language (for all actively supported versions of the language: 2.7, >=3.5), including features such as IntelliSense, linting, debugging, code navigation, code formatting, Jupyter notebook support, refactoring, variable explorer, test explorer, snippets, and more!
     * https://marketplace.visualstudio.com/items?itemName=humao.rest-client
       * REST Client allows you to send HTTP request and view the response in Visual Studio Code directly.
-
+    * https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode
+      * AsciiDoc support for Visual Studio Code
+      * https://github.com/asciidoctor/asciidoctor-vscode
 
 
 - [Eclipse](http://www.eclipse.org)
