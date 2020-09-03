@@ -26,6 +26,7 @@ ANSI        | [American National Standards Institute](https://en.wikipedia.org/w
 AOP         | Aspect Oriented Programming
 AOT         | Ahead of Time (i.e. compiled ahead of time)
 aPaaS       | Application Platform as a Service  
+APAC        | Asia/Pacfic
 API         | [Application Programming Interface ](https://en.wikipedia.org/wiki/Application_programming_interface)
 APM         | Application Portfolio Management  
 ARB         | Architecture Review Board  
@@ -41,6 +42,7 @@ B2C         | Business-to-Customer
 BDD         | [Behavior-Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
 BDUF        | Big Design Up Front
 BGP         | Border Gateway Protocol
+BI          | Business Intelligence
 BIA         | Business Impact Analysis
 BNF         | Backus-Naur Form
 BNS         | Business Needs Statement
@@ -61,8 +63,10 @@ CD          | Continuous Delivery
 CDE         | Cardholder Data Environment
 CDN         | Content Distribution Network
 CDO         | Chief Data Officer
+CDO         | Care Delivery Organizatoin
 CERN        | [European Organization for Nuclear Research](https://en.wikipedia.org/wiki/CERN), French: Organisation européenne pour la recherche nucléaire
 CGI         | [Common Gateway Interface](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
+CI          | Configuration Item (i.e. in a CMDB)
 CI          | Continuous Integration
 CI/CD       | Continuous Integration / Continuous Delivery (or, Continous Deployment)
 CID         | Command Identifier
@@ -70,6 +74,7 @@ CIF         | Customer Information File
 CIFS        | Common Internet File System
 CIO         | Chief Information Officer 
 CLI         | Command Line Interface
+CMDB        | Configuration Management Database
 CNAB        | [Cloud Native Application Bundles](https://cnab.io/)
 CORBA       | [Common Object Request Broker Architecture](https://en.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture)
 CORS        | Cross-Origin Resource Sharing
@@ -111,6 +116,7 @@ DRB         | Design Review Board
 DRY         | Don't Repeat Yourself
 DSA         | [Digital Signature Algorithm](https://en.wikipedia.org/wiki/Digital_Signature_Algorithm)
 DSL         | Domain Specific Language
+DSML        | Data Science and Machine Learning
 DSN         | Data Source Name  
 DVI         | [Device Independent file format](https://en.wikipedia.org/wiki/Device_independent_file_format)
 DVR         | Distributed Virtual Router
@@ -269,6 +275,7 @@ NDA         | Non-Disclosure Agreement
 NFS         | Network File System 
 NIST        | National Institute for Standards and Technology 
 NISQ        | Noisy Intermediate-Scale Quantum (NISQ) computers
+NLG         | Natural Language Generation
 NLP         | Natural Language Processing
 NLS         | Natural Language Support 
 NLU         | Natural Language Understanding
