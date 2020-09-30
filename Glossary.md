@@ -35,6 +35,7 @@ ARR         | Annual Recurring Revenue
 ART         | Agile Release Train (re: Scaled Agile Framework, SAFe)
 ASCII       | [American Standard Code for Information Interchange](https://en.wikipedia.org/wiki/ASCII)
 ASP         | Application Service Provider  
+AST         | Application Security Testing
 ATDD        | Acceptance-Test-Driven-Development
 AUC         | Area Under the Curve
 B2B         | Business-to-Business
@@ -84,6 +85,7 @@ CRL         | Certificate Revocation List
 CRM         | Customer Relationship Management
 CRUD        | Create, Read, Update, Delete
 CSD         | Consolidated Service Desk
+CSI         | Container Storage Interface (e.g. Kubernetes)
 CSM         | Customer Success Manager
 CSR         | Customer Service Representative
 CSS         | [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
