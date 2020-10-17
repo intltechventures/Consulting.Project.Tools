@@ -187,6 +187,8 @@ ___
 - AE.10.00.000 User Management
   + AE.10.00.010 User Provisioning
   + AE.10.00.020 User Profile Management
+  + AE.10.00.999 User De-Provisioning
+
 
 - AE.10.10.000 User Access
   + AE.10.10.010 Access Control List
@@ -204,8 +206,27 @@ ___
   + AE.20.30.000 Anti-Virus
   + AE.20.40.000 Firewall
   + AE.20.50.000 Web Access Firewall (WAF)
+  + AE.20.60.000 Data Loss Protection (DLP)
+  + AE.20.70.000 Network Traffic Monitoring
+  + AE.20.80.000 User Activity Monitoring
+  + AE.20.90.000 Device Activity Monitoring
+
+
+- AE.70.00.000 Healthcare Regulations and Compliance
+  + AE.70.10.000 HIPAA
+  + AE.70.20.000 CMS
+  + AE.70.30.000 HHS
+  + AE.70.40.000 
+
 
 - AE.80.00.000 Payment Card Institute (PCI-DSS) Compliance
+
+
+- AE.90.00.000 Data Privacy Regulations & Compliance
+  + AE.90.10.000 [EU General Data Protection Regulation (GDPR)](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)
+  + AE.90.20.001 United States Data Privacy Laws
+    * AE.90.20.001 [California Consumer Privacy Act (CCPA)](https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act)
+  + AE.90.20.086 United Kingdom
 
 
 
@@ -267,6 +288,12 @@ ___
   + AF.40.90.000 Membership
   + AF.40.99.000 External Third Party  
 
+- AF.50.00.000 Event Messaging
+  + AF.50.10.000 Event Types
+  + AF.50.20.000 Event Message Definitions
+  + AF.50.30.000 Event Producers
+  + AF.50.40.000 Event Subscribers
+
 
 ## AG.xx.xx.xxx Architecture: Shared Services
 
@@ -283,9 +310,10 @@ ___
 - AG.10.00.000 Security
   + AG.10.10.000 Encryption Services
   + AG.10.20.000 Compression Services
-  + AG.10.30.000 Auditing
-  + AG.10.40.000 Authentication
-  + AG.10.50.000 Authorization
+  + AG.10.30.000 Audit Services
+  + AG.10.40.000 Authentication Services
+  + AG.10.50.000 Authorization Services
+  + AG.10.60.000 Provisionging Services
 
 - AG.20.00.000 Log Management
   + AG.20.10.000 Log Event Capture
@@ -473,9 +501,11 @@ ___
 - AL.20.10.000 Data Analytics Reporting
 
 
-### AL.30.xx.xxx Data Analytics Reporting
+### AL.30.xx.xxx Data Warehouse / Data Lake Reporting
 
-- AL.20.10.000 Data Analytics Reporting
+- AL.30.10.000 Data Warehouse Reporting
+- AL.30.20.000 Data Lake Reproting
+
 
 
 ## AM.xx.xx.xxx DevOps
