@@ -159,6 +159,14 @@
 **\#302 - "Elegance. Simplicity. Economy. Less is more"**
 
 
+**\#303 - "When your mind feel stuck, move your body"**
+
+
+**\#304 - "Flailing may create the appearance of a lot of activity (and perhaps may seem to imply progress) - but, it is not a very efficient operating model."
+
+
+**\#305 - "Much good would accrue - if we make a distinction between what is appropriate for trial-and-error engineering - and what benefits may accrue to valuing some judicious levels of investment in deep design work."
+
 
 
 \#4xx - On Building/Making Things
@@ -168,22 +176,29 @@
 
 
 
-
-
 \#5xx - On The Art of Managing a Business
 ====
 
 **\#501 - "Misplaced assumptions are the root of all fuck-ups."**
 
+
 **\#502 - "Meetings should be short, focused, and prep work should be done in advance."**
+
 
 **\#503 - "Preparation, dissemination, and review of meeting material should occur prior to the meeting.  Fire people who violate this rule more than once."**
 
+
 **\#504 - "The purpose of a meeting should be to reach a decision - not chew the fat, meander, or seek to inform (send an email, post a wiki page, publish a position paper)."**
+
 
 **\#505 - "Invitees to a meeting should be kept to a minimum - invitees should be either one of the decision makers, or key subject matter specialists."**
 
+
 **\#506 - "You can survive a long time with $1 of profit on every deal/sale"**
+
+
+**\#507 - "When something is being hidden by others - consider this first: What is
+their financial motive?"
 
 
 
