@@ -162,10 +162,10 @@
 **\#303 - "When your mind feel stuck, move your body"**
 
 
-**\#304 - "Flailing may create the appearance of a lot of activity (and perhaps may seem to imply progress) - but, it is not a very efficient operating model."
+**\#304 - "Flailing may create the appearance of a lot of activity (and perhaps may seem to imply progress) - but, it is not a very efficient operating model."**
 
 
-**\#305 - "Much good would accrue - if we make a distinction between what is appropriate for trial-and-error engineering - and what benefits may accrue to valuing some judicious levels of investment in deep design work."
+**\#305 - "Much good would accrue - if we make a distinction between what is appropriate for trial-and-error engineering - and what benefits may accrue to valuing some judicious levels of investment in deep design work."**
 
 
 
@@ -197,8 +197,7 @@
 **\#506 - "You can survive a long time with $1 of profit on every deal/sale"**
 
 
-**\#507 - "When something is being hidden by others - consider this first: What is
-their financial motive?"
+**\#507 - "When something is being hidden by others - consider this first: What is their financial motive?"**
 
 
 
