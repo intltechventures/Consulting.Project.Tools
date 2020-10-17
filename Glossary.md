@@ -56,6 +56,7 @@ BRM         | Business Reference Model
 BSD         | [Berkeley Software Distribution](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
 C&A         | Certification & Accreditation
 CA          | Certificate Authority
+CAAS        | Container as a Service
 CAB         | Change Advisory Board
 CAP         | Consistency, Availability, Partition Tolerance  
 CAS         | [Compare-And-Swap | Compare-And-Set](https://en.wikipedia.org/wiki/Compare-and-swap)
