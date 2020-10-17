@@ -77,6 +77,7 @@ CIFS        | Common Internet File System
 CIO         | Chief Information Officer 
 CLI         | Command Line Interface
 CMDB        | Configuration Management Database
+CMF         | Content Monitoring and Filtering (see DLP)
 CNAB        | [Cloud Native Application Bundles](https://cnab.io/)
 CORBA       | [Common Object Request Broker Architecture](https://en.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture)
 CORS        | Cross-Origin Resource Sharing
@@ -108,6 +109,7 @@ DFIR        | Digital Forensics, Incident Response
 DHCP        | Dynamic Host Configuration Protocol 
 DLD			    | Detail-Level Design 
 DLM         | Database Life-cycle Management
+DLP         | [Data Loss Prevention](https://en.wikipedia.org/wiki/Data_loss_prevention_software)
 DLT         | Distributed Ledger Technology
 DMAIC       | [Define, Measure, Analayze, Improve, Control](https://en.wikipedia.org/wiki/DMAIC) (re: Six Sigma)
 DN          | LDAP Distinguished Name 
@@ -138,6 +140,7 @@ ELF         | [Executable and Linkable Format](https://en.wikipedia.org/wiki/Exe
 ELT         | Extract, Load, Transform
 EME         | [Encrypted Media Extensions](https://en.wikipedia.org/wiki/Encrypted_Media_Extensions), re: W3C HTML5 recommendations
 EPLC        | Enterprise Performance Life Cycle 
+EPS         | Extrusion Prevention System (see DLP)
 ES          | ECMAScript (aka JavaScript)
 ETL         | Extract, Transform, Load
 EVM         | Earned Value Management
@@ -191,15 +194,17 @@ ICMP        | Internet Control Message Protocol
 IDE         | Integrated Development Environment    
 IDL         | [Interface Description Language](https://en.wikipedia.org/wiki/Interface_description_language)
 IdP         | Identity Provider
-IDS         | Intrusion Detection System
+IDS         | [Intrusion Detection System](https://en.wikipedia.org/wiki/Intrusion_detection_system)
 IEEE        | [Institute of Electrical and Electronics Engineers](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers)
 IETF        | Internet Engineering Task Force
+ILDP        | Information Leak Detection and Prevention (see DLP)
 INVEST      | Independent Negotiable Valuable Estimable Small Testable [(source)](http://wiki.c2.com/?InvestModelForUserStories)
 IOPS        | Input/Output Operations Per Second
 IoT         | Internet of Things
 IP          | Intellectual Property  
 IP          | Internet Protocol  
 IPAM        | IP Address Management 
+IPC         | Information Proteciton and Control (see DLP)
 IPMI        | Intelligent Platform Management Interface
 IPS         | Intrusion Prevention System
 IRM         | Individual Rights Management
