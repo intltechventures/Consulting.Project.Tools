@@ -16,3 +16,9 @@
 ## Large Scale Scrum (LeSS)
 - "There are no such things as best practices. There are only practices that are good within a certain context"
   + https://less.works/less/framework/why-less.html
+
+
+## Others
+- "A company that rewards firefights breeds arsonists." - Erik Weber
+
+
