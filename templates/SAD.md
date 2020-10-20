@@ -126,27 +126,38 @@ ___
 ## Business Context
 (e.g. provide citations, links - seek to avoid duplication in this document with what has already been defined elsewhere, e.g. JIRA)
 
-- Business Processes
+### Business Capabilities
 
-- Epics
 
-- Stories
+### Business Functions
 
-- Features 
 
-- Use Cases 
+### Business Processes
+
+
+### Epics
+
+
+### Stories
+
+
+### Features 
+
+
+### Use Cases 
 
 
 
 ## Project Coordination/Dependencies
 
-- Internal
+### Internal
 
-- External
+### External
 
 
 ## Solution Sizing Factors
 
+### API Considerations
 - APIs - Event/Transaction Processing 
   + Types of Events/Transactions
   + Number of Events/Transactions
@@ -160,7 +171,17 @@ ___
     * By Type, by Frequency Period
     * Projected Growth, over 3-5 years
 	* Data Retention/Archive/Purge Rules, by Type
-		
+
+### APIs - North-South
+
+
+### APIs - East-West
+
+
+### APIs - South-North
+
+
+### Batch Considerations
 	
 - Batch - File Processing
   + Types of Files
@@ -178,6 +199,15 @@ ___
     * By Type, by Frequency Period
     * Projected Growth, over 3-5 years
 	* Data Retention/Archive/Purge Rules, by Type
+
+
+### Batch - Internal 
+
+
+### Batch - Inbound
+
+
+### Batch - Outbound
 
 
 ## Estimates (aka ROM/SWAG)
@@ -258,6 +288,7 @@ ___
 - Security Architecture Views 
 
 - (additional views, as needed)
+
 
 ## Key Architecture Design Elements
 
@@ -361,9 +392,10 @@ ___
 
 ## Technical Dependencies
 
-- Internal 
+### Technical Dependencies -  Internal 
 
-- External
+### Technical Dependencies -  External
+
 
 
 ## Impact Assessments
@@ -510,7 +542,8 @@ ___
   + [HIPPA](https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard)
 
 
-## Glossary 
+
+## Glossary    
 (table of terms/acronyms and definitions)
 - https://github.com/intltechventures/Consulting.Project.Tools/blob/master/Glossary.md
   + (provided as a suggested starting point)
@@ -529,6 +562,14 @@ ___
   
   + Specifications
 
+  + Legal 
+  
+  + Regulatory
+
+  + Compliance
+
+  + Data Privacy
+
   + JIRA Requirements
 
   + Git Repos
@@ -539,24 +580,33 @@ ___
 
   + Vendor Collateral
 
-- Alternatives Considered
-  + Evaluation Criteria
-  + Decision Summary 
+## Alternatives Considered
 
-  + Alternative #1
-    * Pros
-    * Cons
-    * Evaluation Score
+### Evaluation Criteria
 
-  + Alternative #2
-    * Pros
-    * Cons
-    * Evaluation Score
+### Decision Summary 
 
-  + Alternative #3
-    * Pros
-    * Cons
-    * Evaluation Score
+### Alternatives
+- Alternative #1
+  + Summary
+  + Findings
+  + Pros
+  + Cons
+  + Evaluation Score
+
+- Alternative #2
+  + Summary
+  + Findings 
+  + Pros
+  + Cons
+  + Evaluation Score
+
+- Alternative #3
+  + Summary
+  + Findings
+  + Pros
+  + Cons
+  + Evaluation Score
 
 
 ## Key Project Contacts
