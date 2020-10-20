@@ -53,12 +53,12 @@ ___
 
 - Business Goals
 
-- Business Drivers/Forces
+- Business Forces/Drivers
 
 - Business Constraints
-  * Budget 
-  * Timeline
-  * Resources
+  + Budget 
+  + Timeline
+  + Resources
 
 - Current State (AS-IS)
 
@@ -76,7 +76,8 @@ ___
 
 - Out-of-Scope
 
-- TBD / Open Questions
+
+## Open Questions
 
 
 
@@ -88,7 +89,6 @@ ___
 - Technical Risks
 
 - Resource Risks (e.g. availability, skills)
-
 
 
 ## Critical Issues
@@ -115,16 +115,22 @@ ___
 ## Requirements 
 (e.g. citations, links - seek to avoid duplication in this document)
 
-- Business Requirements
+### Business Requirements
 
-- Technical Requirement
+### Technical Requirement
 
-- Requirements Traceability
+### Requirements Traceability
 
 
 
 ## Business Context
 (e.g. provide citations, links - seek to avoid duplication in this document with what has already been defined elsewhere, e.g. JIRA)
+
+### Busienss Motiviations
+
+
+### Business Goals
+
 
 ### Business Capabilities
 
