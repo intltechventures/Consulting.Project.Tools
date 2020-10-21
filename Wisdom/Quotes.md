@@ -18,7 +18,12 @@
   + https://less.works/less/framework/why-less.html
 
 
-## Others
+## Tim Ottinger
+- "It’s all very, very simple. If I improve my tools/skills/knowledge, I’m
+  faster next sprint. If I work harder, I’m no faster next sprint."
+
+
+## Erik Weber 
 - "A company that rewards firefights breeds arsonists." - Erik Weber
 
 
