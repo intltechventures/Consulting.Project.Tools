@@ -189,6 +189,7 @@ HTTP        | [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypert
 HTTPS       | Hypertext Transfer Protocol Secure
 HW          | Hardware
 IaaS        | Infrastructure as a Service  
+IaC         | Infrastructure as Code
 IAST        | Integrated Application Security Testing
 ICMP        | Internet Control Message Protocol 
 IDE         | Integrated Development Environment    
