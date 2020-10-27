@@ -251,6 +251,9 @@
 **\#706 - "Beware of fast talkers - for it may portend a person with a shady character, something to hide...or just an asshole"**
 
 
+**\#707 - "Never stay in a place where no one sees your value."**
+
+
 **\#799 - "Never forget - a full-time job doesn't come with any guarantee"**
 
 
