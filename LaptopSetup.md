@@ -210,6 +210,8 @@ __These are the primary software programs that I typically have installed on my 
 
 
 - [Visual Studio Code](https://code.visualstudio.com/)
+  + Disable these configuration settings
+    * ```telemetry.enableTelemetry```
   + Marketplace Extensions:
     * https://marketplace.visualstudio.com/items?itemName=YoshinoriN.current-file-path
       * display current file's path from absolute (root directory) or workspace highest directory in StatusBar by Unix style or Windows style.
@@ -221,6 +223,8 @@ __These are the primary software programs that I typically have installed on my 
       * https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-develop-use-vscode?view=sql-server-2017
     * https://marketplace.visualstudio.com/items?itemName=octref.vetur
       * Vue tooling for VS Code
+    * https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
+      * C/C++ IntelliSense, debugging, and code browsing.
     * https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code
       * Dart language support and debugger for Visual Studio Code.
     * https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker
@@ -242,6 +246,7 @@ __These are the primary software programs that I typically have installed on my 
     * https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode
       * AsciiDoc support for Visual Studio Code
       * https://github.com/asciidoctor/asciidoctor-vscode
+
 
 
 - [Eclipse](http://www.eclipse.org)
