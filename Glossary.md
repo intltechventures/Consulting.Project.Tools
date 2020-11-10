@@ -78,6 +78,7 @@ CIO         | Chief Information Officer
 CLI         | Command Line Interface
 CMDB        | Configuration Management Database
 CMF         | Content Monitoring and Filtering (see DLP)
+cn          | Common Name, re: LDAP
 CNAB        | [Cloud Native Application Bundles](https://cnab.io/)
 CORBA       | [Common Object Request Broker Architecture](https://en.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture)
 CORS        | Cross-Origin Resource Sharing
@@ -101,6 +102,8 @@ DARQ        | Distributed Ledger Technology (DLT), Artificial Intelligence (AI),
 DAST        | Dynamic Application Security Testing
 DBA         | Database Administrator
 DBMS        | Database Management System
+dc          | [Domain
+Component](https://en.wikipedia.org/wiki/Domain_Name_System), re: LDAP
 DC          | Data Center  
 DD          | Data Dictionary 
 DDoS        | Distributed denial-of-service (i.e. a network traffic attack)
@@ -112,9 +115,10 @@ DLM         | Database Life-cycle Management
 DLP         | [Data Loss Prevention](https://en.wikipedia.org/wiki/Data_loss_prevention_software)
 DLT         | Distributed Ledger Technology
 DMAIC       | [Define, Measure, Analayze, Improve, Control](https://en.wikipedia.org/wiki/DMAIC) (re: Six Sigma)
-DN          | LDAP Distinguished Name 
+DN          | Distinguished Name, re: LDAP
 DNAT        | Destination network address translation
-DNS         | Domain Name System
+DNS         | [Domain Name
+System](https://en.wikipedia.org/wiki/Domain_Name_System)
 DoS         | Denial of Service 
 DR          | Disaster Recovery  
 DRB         | Design Review Board  
@@ -235,7 +239,12 @@ KVS         | Key-Value Storage
 LAN         | Local Area Network
 LBaaS       | Load-Balancer-as-a-Service
 LCC         | Lower Camel Case
-LDAP        | Lightweight Directory Access Protocol
+LDAP        | [Lightweight Directory Access
+Protocol](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol)
+LDIF        | [LDAP Data Interchange
+Format](https://en.wikipedia.org/wiki/LDAP_Data_Interchange_Format), [RFC 2849 The
+LDAP Data Interchange Format (LDIF) - Technical
+Specification](https://tools.ietf.org/html/rfc2849)
 LEM         | [Law of Excluded Middle](https://en.wikipedia.org/wiki/Law_of_excluded_middle)
 LeSS        | [Large Scale Scrum](https://less.works/)
 LGPL        | (GNU) Lesser General Public License 
@@ -312,6 +321,7 @@ OOD         | Object Oriented Design
 OOP         | Object Oriented Programming 
 OPA         | Open Policy Agent
 OTP         | One-Time Passcode
+ou          | Organizational Unit, re: LDAP 
 OWL         | [Web Ontology Language](https://en.wikipedia.org/wiki/Web_Ontology_Language)
 PaaS        | Platform as a Service  
 PAM         | Pluggable Authentication Modules
@@ -355,6 +365,7 @@ RAT         | Reverse Address and Port Translation (see RAPT)
 RBAC        | Role Based Access Control
 RCA         | Root Cause Analysis 
 RDF         | [Resource Description Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework)
+RDN         | Relative Distinguished Name, re: LDAP
 REST        | [Representational State Transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)
 RFC         | Request for Comments
 RFI         | Request for Information
@@ -408,8 +419,10 @@ SLO         | [Service Level Objectives](https://landing.google.com/sre/resource
 SMART       | Specific, Measurable, Attainable, Realistic
 SMART       | SMART (Substitutable Medical Applications, Reusable Technologies)
 SMURFS      | Specifically Marketable, Useful, Releasable Feature Sets ([source](https://www.agileconnection.com/article/instead-mvps-maybe-we-should-be-releasing-smurfs)
+sn          | Surname, re: LDAP
 SNAFU       | Situation Normal, All Fucked Up
 SOA         | [Service Oriented Architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture)
+SOA         | [Start of Authority](https://en.wikipedia.org/wiki/SOA_record) record, re: DNS
 SOAP        | [Simple Object Access Protocol](https://en.wikipedia.org/wiki/SOAP)
 SoE         | System of Engagement
 SOLID       | Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion
@@ -445,6 +458,7 @@ TOC         | Total Ownership Cost (see TCO)
 TPM         | Trusted Platform Module 
 TRM         | Technical Reference Model
 TSO         | [Time Sharing Option](https://en.wikipedia.org/wiki/Time_Sharing_Option), re: IBM mainframe interactive time-sharing environment
+TTL         | Time To Live
 TTP         | Trusted Third Party
 TXN         | Transaction
 UDDI        | Universal Description, Discovery, & Integration
