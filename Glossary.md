@@ -139,6 +139,7 @@ EFF         | [Electronic Frontier Foundation](https://en.wikipedia.org/wiki/Ele
 ELF         | [Executable and Linkable Format](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
 ELT         | Extract, Load, Transform
 EME         | [Encrypted Media Extensions](https://en.wikipedia.org/wiki/Encrypted_Media_Extensions), re: W3C HTML5 recommendations
+ENI         | Elastic Network Interface (re: AWS)
 EPLC        | Enterprise Performance Life Cycle 
 EPS         | Extrusion Prevention System (see DLP)
 ES          | ECMAScript (aka JavaScript)
@@ -326,6 +327,8 @@ PHI			    | Protected Health Information (re: HIPPA)
 PI          | Program Increment (re: Scaled Agile Framework, SAFe)
 PII			    | Personally Identifiable Information
 PITR        | Point In Time Recovery
+PKCE        | Proof Key for Code Exchange (pronounced "pixy"), re: [RFC
+7636](https://tools.ietf.org/html/rfc7636)
 PKI         | [Public Key Infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure)
 PPI         | Protected Personal Information
 PO          | Product Owner
