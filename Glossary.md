@@ -63,6 +63,7 @@ CAS         | [Compare-And-Swap | Compare-And-Set](https://en.wikipedia.org/wiki
 CD          | Candidate Recommendation 
 CD          | Continuous Delivery
 CDE         | Cardholder Data Environment
+CDM         | Common Data Model
 CDN         | Content Distribution Network
 CDO         | Chief Data Officer
 CDO         | Care Delivery Organizatoin
@@ -141,6 +142,7 @@ eBPF        | [extended Berkeley Packet Filter](https://en.wikipedia.org/wiki/Be
 EBS         | Elastic Block Storage (AWS)
 EDW         | Enterprise Data Warehouse (also see DW, DWH)
 EFF         | [Electronic Frontier Foundation](https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation)
+EHR         | Electronic Health Record(s)
 ELF         | [Executable and Linkable Format](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
 ELT         | Extract, Load, Transform
 EME         | [Encrypted Media Extensions](https://en.wikipedia.org/wiki/Encrypted_Media_Extensions), re: W3C HTML5 recommendations
@@ -168,6 +170,7 @@ FWaaS       | FireWall-as-a-Service
 GADTs       | Generalized Algebraic Data Types
 GCC         | Government Community 
 GCHQ        | British intelligence agency [Government Communications Headquarters](https://en.wikipedia.org/wiki/Government_Communications_Headquarters)
+GDPR        | Genera Data Protection Regulation (re: EU)
 GIN         | Generalized Inverted Index
 GIST        | Generalized Search Tree
 GL          | General Ledger
@@ -176,6 +179,7 @@ gMSA        | Group Managed Service Accounts (e.g. for Swarm)
 GNU         | GNU's Not Unix! (a recursive acronym)
 GOLAP       | Graph OLAP 
 GPG         | [GNU Privacy Guard](https://en.wikipedia.org/wiki/GNU_Privacy_Guard)
+GPU         | Graphical Processing Unit
 GQL         | [Graph Query Language](https://www.gqlstandards.org/home)
 GQM         | Goal, Question, Metric 
 GRC         | Governance, Risk, Compliance
@@ -339,6 +343,7 @@ PBL         | Product Backlog (i.e. Scrum)
 PCI DSS     | Payment Card Industry Data Security Standard
 PDCA        | Plan-Do-Check-Adjust (Shewhart’s PDCA cycle)
 PDP         | Policy Decision Point
+PDSA        | Plan-Do-Stuy-Act
 PGP         | [Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
 PHI			    | Protected Health Information (re: HIPPA) 
 PI          | Program Increment (re: Scaled Agile Framework, SAFe)
@@ -358,7 +363,9 @@ PR          | Purchase Request
 PSM         | Persistent Stored Modules
 QA          | [Quality Assurance](https://en.wikipedia.org/wiki/Quality_assurance)
 QAQA        | Quantum Approximate Optimization Algorithm
+QI          | Quality Improvement 
 QKD         | Quantum Key Distribution
+QMS         | Quality Management System
 QoS         | Quality of Service
 RA          | Registration Authority
 RAA         | Responsibility, Accountability, Authority 
@@ -464,6 +471,7 @@ TLS         | Transport Layer Security
 TM          | Topic Model, re: NER, NLP, DL, ML
 TOC         | Total Ownership Cost (see TCO)
 TPM         | Trusted Platform Module 
+TPU         | Tensor Processing Unit(s) 
 TRM         | Technical Reference Model
 TSO         | [Time Sharing Option](https://en.wikipedia.org/wiki/Time_Sharing_Option), re: IBM mainframe interactive time-sharing environment
 TTL         | Time To Live
