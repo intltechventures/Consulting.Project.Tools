@@ -291,6 +291,7 @@ NAS         | Network Attached Storage
 NAT         | [Network Address Translation](https://en.wikipedia.org/wiki/Network_address_translation)
 NCSA        | [National Center for Supercomputing Applications](https://en.wikipedia.org/wiki/National_Center_for_Supercomputing_Applications)
 NDA         | Non-Disclosure Agreement
+NER         | Named Entity Recognition, re: ML
 NFS         | Network File System 
 NIST        | National Institute for Standards and Technology 
 NISQ        | Noisy Intermediate-Scale Quantum (NISQ) computers
