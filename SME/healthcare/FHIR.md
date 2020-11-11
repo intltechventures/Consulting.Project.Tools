@@ -2,6 +2,10 @@
 # Fast Healthcare Interoperability Resources (FHIR)
 
 ## References
+- https://www.cms.gov/Regulations-and-Guidance/Guidance/Interoperability/index
+
+- http://hl7.org/fhir/R4/
+
 - http://hl7.org/implement/standards/fhir/
   + https://www.hl7.org/fhir/overview.html
   + https://www.hl7.org/fhir/summary.html
