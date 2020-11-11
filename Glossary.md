@@ -84,6 +84,7 @@ CORBA       | [Common Object Request Broker Architecture](https://en.wikipedia.o
 CORS        | Cross-Origin Resource Sharing
 CQRS        | Command Query Responsibility Segregation  
 CRC         | Class Responsibility Collaboration
+CRF         | Conditional Random Fields 
 CRL         | Certificate Revocation List
 CRM         | Customer Relationship Management
 CRUD        | Create, Read, Update, Delete
@@ -182,9 +183,11 @@ GRE         | Generic Routing Encapsulation
 GRO         | Generic Receive Offload
 GUC         | Global User Configuration 
 HATEOAS     | [Hypermedia As The Engine Of Application State](https://en.wikipedia.org/wiki/HATEOAS)
+HCI         | Human-Computer Interaction
 HDFS        | Hadoop Distributed File System 
 HIPPA       | Health Insurance Portability and Accountability Act of 1996
 HLD         | High-Level Design  
+HMM         | Hidden Markov Models
 HOLAP       | Hybrid OLAP
 HOT         | Heap Oriented Tuples
 HPC         | Horizontal Pod Autoscaling (Kubernetes)
@@ -201,6 +204,7 @@ IDE         | Integrated Development Environment
 IDL         | [Interface Description Language](https://en.wikipedia.org/wiki/Interface_description_language)
 IdP         | Identity Provider
 IDS         | [Intrusion Detection System](https://en.wikipedia.org/wiki/Intrusion_detection_system)
+IE          | Information Extraction, re: NER, DL, ML, NLP
 IEEE        | [Institute of Electrical and Electronics Engineers](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers)
 IETF        | Internet Engineering Task Force
 ILDP        | Information Leak Detection and Prevention (see DLP)
@@ -213,6 +217,7 @@ IPAM        | IP Address Management
 IPC         | Information Proteciton and Control (see DLP)
 IPMI        | Intelligent Platform Management Interface
 IPS         | Intrusion Prevention System
+IR          | Information Retrieval 
 IRM         | Individual Rights Management
 ISA         | [Instruction Set Architecture](https://en.wikipedia.org/wiki/Instruction_set_architecture)
 iSCI        | Internet Small Computer System Interface
@@ -261,6 +266,7 @@ MDAP        | Mobile Application Development Platform
 MDM         | Master Data Management  
 MDM         | Mobile Device Management  
 MDR         | Marketing Development Representative
+ME          | Maximum Entropy 
 MEAN        | MongoDB, Express.js, Angular.js, Node.js
 MEAP        | Mobile Enterprise Application Platform  
 MED         | Management of External Data
@@ -455,6 +461,7 @@ TCV         | Total Contract Value (TCV)
 TDD         | [Test-Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
 TGB         | Technology Governance Board
 TLS         | Transport Layer Security
+TM          | Topic Model, re: NER, NLP, DL, ML
 TOC         | Total Ownership Cost (see TCO)
 TPM         | Trusted Platform Module 
 TRM         | Technical Reference Model
