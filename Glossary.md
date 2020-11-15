@@ -137,6 +137,7 @@ EA          | Enterprise Architecture
 EAI         | Enterprise Application Integration  
 EAMS        | Enterprise Architecture Management Suite
 EAR			    | Export Administration Regulations
+ECA         | Embodied Conversational Agent(s)
 EBCIDIC     | [Extended Binary Coded Decimal Interchange Code](https://en.wikipedia.org/wiki/EBCDIC)
 eBPF        | [extended Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter) - see BPF
 EBS         | Elastic Block Storage (AWS)
@@ -384,6 +385,7 @@ REST        | [Representational State Transfer](https://en.wikipedia.org/wiki/Re
 RFC         | Request for Comments
 RFI         | Request for Information
 RFM         | Requency, Frequency, Monetary 
+RFO         | Reason for Outage
 RFP         | Request for Proposal
 RFQ         | Request for Quote
 RFS         | Request for Service (or, Solution)
