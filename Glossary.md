@@ -192,6 +192,7 @@ HCI         | Human-Computer Interaction
 HDFS        | Hadoop Distributed File System 
 HIPPA       | Health Insurance Portability and Accountability Act of 1996
 HLD         | High-Level Design  
+HLP         | Human Level Performance (re: Machine Learning)
 HMM         | Hidden Markov Models
 HOLAP       | Hybrid OLAP
 HOT         | Heap Oriented Tuples
