@@ -366,8 +366,10 @@ PSM         | Persistent Stored Modules
 QA          | [Quality Assurance](https://en.wikipedia.org/wiki/Quality_assurance)
 QAQA        | Quantum Approximate Optimization Algorithm
 QI          | Quality Improvement 
+QIT         | QUality Improvement Team
 QKD         | Quantum Key Distribution
 QMS         | Quality Management System
+QMT         | Quality Monitoring Team
 QoS         | Quality of Service
 RA          | Registration Authority
 RAA         | Responsibility, Accountability, Authority 
