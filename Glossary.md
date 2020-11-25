@@ -20,7 +20,8 @@ AI          | Artificial Intelligence
 AKI         | Amazon Kernel Image
 ALM         | Application Lifecycle Management
 AMI         | Amazon Machine Image
-AMQP        | Advanced Message Queuing Protocol
+AMQP        | [Advanced Message Queuing
+Protocol](https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol)
 ANN         | Artificial Neural Network
 ANSI        | [American National Standards Institute](https://en.wikipedia.org/wiki/American_National_Standards_Institute)
 AOP         | Aspect Oriented Programming
@@ -93,11 +94,13 @@ CSD         | Consolidated Service Desk
 CSI         | Container Storage Interface (e.g. Kubernetes)
 CSM         | Customer Success Manager
 CSR         | Customer Service Representative
+CSR         | Certificate Signing Request 
 CSS         | [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 CTO         | Chief Technology Officer  
 CUI	    		| Controlled Unclassified Information (CUI), as defined by Executive Order 13556 (2010)
 CVS         | Concurrent Version System
 CX          | Customer Experience
+CXN         | Customer Experience Network
 DAC         | Discretionary Access Control
 DARPA       | Defense Advanced Research Projects Agency
 DARQ        | Distributed Ledger Technology (DLT), Artificial Intelligence (AI), Extended Reality (XR), Quantum Computing ~ re: Accenture
@@ -237,9 +240,14 @@ ITAR		    | International Traffic in Arms Regulations
 ITIRB       | Information Technology Investment Review Board
 ITSM        | IT Service Management
 IX          | Internet Exchange
+JCP         | [Java Community
+Process](https://en.wikipedia.org/wiki/Java_Community_Process)
 JDBC        | Java Database Connectivity
+JMS         | [Jakarta Messaging (formerly  Java Messaging
+Service)](https://en.wikipedia.org/wiki/Jakarta_Messaging), re: JSR 343
 JSON        | JavaScript Object Notation  
 JRT         | Java Routines and Types
+JSR         | [Java Specification Request](https://www.jcp.org/en/jsr/all)
 JSR         | JavaScript Remoting
 JVM         | Java Virtual Machine
 JWT         | JSON Web Token  
@@ -286,6 +294,7 @@ MISD        | [Multiple Instruction Streams, Single Data Stream](https://en.wiki
 MIT/LCS     | [Massachusetts Institute of Technology](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology) Laboratory for Computer Science
 ML          | Machine Learning 
 MOLAP       | Multidimensional OLAP
+MOM         | Message Oriented Middleware
 MOU         | Memorandum of Understanding
 MQL         | Marketing Qualified Lead
 MRR         | Monthly Recurring Revenue
