@@ -89,6 +89,12 @@ __These are the primary software programs that I typically have installed on my 
     * [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
     * https://www.tampermonkey.net/
       * https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+  + Chrome Configuration Modifications
+    + Disable Media Volume Control Pop-up
+      * https://www.howtogeek.com/426284/how-to-stop-chrome-or-edge-from-taking-over-your-media-keys/
+      * https://winaero.com/how-to-dismiss-windows-10-media-volume-control-pop-up/
+      * ```chrome://flags/#hardware-media-key-handling```
+
 
 - [Firefox](https://www.mozilla.org/firefox)
   + Plugins
