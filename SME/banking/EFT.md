@@ -52,7 +52,7 @@
 1. https://en.wikipedia.org/wiki/Electronic_Fund_Transfer_Act
 1. https://www.investopedia.com/terms/e/electronic-funds-transfer-act.asp
 1. https://www.investopedia.com/terms/r/regulation-e.asp
-1. https://www.consumerfinance.gov/compliance/supervision-examinations/electronic-fund-transfer-act-efta-examination-procedures/
+  + https://www.consumerfinance.gov/compliance/supervision-examinations/electronic-fund-transfer-act-efta-examination-procedures/
 1. https://files.consumerfinance.gov/f/documents/cfpb_supervision-and-examination-manual_efta-exam-procedures-incl-remittances_2019-03.pdf
 1. https://www.federalreserve.gov/boarddocs/supmanual/cch/efta.pdf
 1. https://www.consumerfinance.gov/rules-policy/final-rules/electronic-fund-transfers-regulation-e/
@@ -80,8 +80,8 @@
 1. https://en.wikipedia.org/wiki/Comparison_of_payment_systems
 1. https://en.wikipedia.org/wiki/ISO_8583
 1. ASC X12N Health Care Claim Payment/Advice (835) transaction
-  1. https://www.federalregister.gov/documents/2012/01/10/2012-132/administrative-simplification-adoption-of-standards-for-health-care-electronic-funds-transfers-efts
-  1. https://www.federalregister.gov/documents/2012/01/10/2012-132/administrative-simplification-adoption-of-standards-for-health-care-electronic-funds-transfers-efts
-  1. https://support.changehealthcare.com/customer-resources/hipaa-simplified/transactions/era-eft https://www.federalregister.gov/documents/2009/01/16/E9-740/health-insurance-reform-modifications-to-the-health-insurance-portability-and-accountability-act
-    1. "The standard for Healthcare EFT transactions is the Cash Concentration/Disbursement plus Addenda (CCD+) implementation specifications from the 2011 National Automated Clearing House Association (NACHA) Operating Rule"
+  + https://www.federalregister.gov/documents/2012/01/10/2012-132/administrative-simplification-adoption-of-standards-for-health-care-electronic-funds-transfers-efts
+  + https://www.federalregister.gov/documents/2012/01/10/2012-132/administrative-simplification-adoption-of-standards-for-health-care-electronic-funds-transfers-efts
+  + https://support.changehealthcare.com/customer-resources/hipaa-simplified/transactions/era-eft https://www.federalregister.gov/documents/2009/01/16/E9-740/health-insurance-reform-modifications-to-the-health-insurance-portability-and-accountability-act
+    * "The standard for Healthcare EFT transactions is the Cash Concentration/Disbursement plus Addenda (CCD+) implementation specifications from the 2011 National Automated Clearing House Association (NACHA) Operating Rule"
 
