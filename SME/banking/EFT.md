@@ -68,6 +68,9 @@
 1. https://en.wikipedia.org/wiki/Credit_card
 1. https://en.wikipedia.org/wiki/Card_association
 1. https://en.wikipedia.org/wiki/Debit_card
+1. https://en.wikipedia.org/wiki/FSA_debit_card
+1. https://en.wikipedia.org/wiki/Health_savings_account
+1. https://en.wikipedia.org/wiki/Health_reimbursement_account
 1. https://en.wikipedia.org/wiki/Electronic_benefit_transfer
 1. https://en.wikipedia.org/wiki/Point_of_sale
 1. https://en.wikipedia.org/wiki/Payment_gateway
