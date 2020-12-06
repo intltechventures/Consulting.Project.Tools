@@ -100,6 +100,10 @@ __These are the primary software programs that I typically have installed on my 
   + Plugins
     * https://www.greasespot.net/
       * https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
+  + Firefox Configuration Modification
+    + Disable Media Volume Control Pop-up
+      * https://winaero.com/enable-or-disable-media-controls-in-mozilla-firefox/
+        * ```media.hardwaremediakeys.enabled=false```
 
 
 ### Email Client
