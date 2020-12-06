@@ -103,6 +103,7 @@ __These are the primary software programs that I typically have installed on my 
   + Firefox Configuration Modification
     + Disable Media Volume Control Pop-up
       * https://winaero.com/enable-or-disable-media-controls-in-mozilla-firefox/
+      * https://support.mozilla.org/en-US/questions/1301997
         * ```media.hardwaremediakeys.enabled=false```
 
 
