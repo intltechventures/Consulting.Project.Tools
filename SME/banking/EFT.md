@@ -3,6 +3,13 @@
 
 ## EFT Integration Discussion Questions
 
+1. What are the possible forces and constraints that may need to be considered
+   in evaluating potential EFT strategies/solutions for this effort?
+      * Timing?
+      * Resources?
+      * Budget?
+      * Technology?
+      * Other?
 1. Who are the external third-parties involved in the planned EFT transaction flows?
 1. What are the specific EFT transaction flows that need to be supported?
 1. Will these EFT transaction flows be strictly B2B, or will B2C flows also be supported?
@@ -28,7 +35,7 @@
 1. Is there a requirement to send an ASC X12N Health Care Claim Payment/Advice (835) - coordinated with the EFT processing for this integration?
 1. Are there any scenarios in which a payment card will be physically presented to complete a transaction (i.e. EFT via a Point-of-Sale device)?
 1. Which credit card payment providers will need to be supported by the EFT integration (e.g. American Express, Discover, JCB International, MasterCard, Visa, etc.)
-1. Are there an existing PCI-DSS compliant solution capabilities/elements within the organization today?
+1. Are there any existing PCI-DSS compliant solution capabilities/elements within the organization today?
 1. Does the organization have a current PCI-DSS Certification?
 1. Does the organization utilize an independent third-party for PCI-DSS assessments?
 1. What were the findings of the most recent PCI-DSS Assessment?
