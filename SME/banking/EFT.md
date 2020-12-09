@@ -43,6 +43,18 @@
 1. Are there any existing EFT Fraud Detection capabilities available within the organization, or will the Payment Gateway Processor be responsible for that?
 
 
+
+## ACH References
+- The Electronic Fund Transfer  Act (EFTA) (15 USC 1693 et seq.) of 1978
+  + https://www.federalreserve.gov/boarddocs/caletters/2008/0807/08-07_attachment.pdf
+
+- NACHA.org
+  + https://www.nacha.org/news
+  + https://en.wikipedia.org/wiki/NACHA
+    * "National Automated Clearing House Association (NACHA) manages the development, administration, and governance of the ACH Network, the backbone for the electronic movement of money and data in the United States. It is funded by the financial institutions it governs. The ACH Network serves as a network for direct consumer, business, and government payments, and annually facilitates billions of payments such as direct deposit and direct payment."
+
+
+
 ## PCI-DSS References
 
 1. https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard
@@ -53,6 +65,7 @@
 1. https://www.pcisecuritystandards.org/documents/Prioritized-Approach-for-PCI-DSS-v3_2_1.pdf
 1. https://www.pcisecuritystandards.org/documents/PCI_DSS_v3-2-1.pdf
 1. https://www.pcisecuritystandards.org/documents/PCI_DSS_Summary_of_Changes_3-2-1.pdf
+
 
 ## Electronic Fund Transfer Act (EFTA) - (Regulation E) References
 
@@ -69,6 +82,10 @@
 1. https://www.fdic.gov/news/financial-institution-letters/2019/fil19009b.pdf
 1. https://www.fdic.gov/news/financial-institution-letters/2016/fil16076.html
 
+
+## OFAC
+- A Framework for OFAC Compliance Commitments
+  + https://home.treasury.gov/system/files/126/framework_ofac_cc.pdf
 
 ## General Background Reading References
 
