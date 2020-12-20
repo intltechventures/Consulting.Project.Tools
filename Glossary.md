@@ -160,6 +160,8 @@ FaaS        | Functions as a Service
 FAIL        | First Attempt In Learning (i.e. agile)
 FCoE        | Fibre Channel over Ethernet 
 FDL         | (GNU) Free Documentation License
+FHE         | Fully Homomorphic Encryption (e.g.,
+[IBM](https://www.ibm.com/security/services/homomorphic-encryption_)
 FHIR        | Fast Healthcare Interoperability Resources (a draft standard describing data formats and elements and an application programming interface for exchanging electronic health records)
 FIDO        | Fast Identity Online
 FIPS        | [Federal Information Processing Standard](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards), re: FIPS PUB 140-2
