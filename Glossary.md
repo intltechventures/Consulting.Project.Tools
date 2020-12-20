@@ -160,7 +160,8 @@ FaaS        | Functions as a Service
 FAIL        | First Attempt In Learning (i.e. agile)
 FCoE        | Fibre Channel over Ethernet 
 FDL         | (GNU) Free Documentation License
-FHE         | Fully Homomorphic Encryption (e.g.,
+FHE         | Fully [Homomorphic
+Encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption) (e.g.,
 [IBM](https://www.ibm.com/security/services/homomorphic-encryption_)
 FHIR        | Fast Healthcare Interoperability Resources (a draft standard describing data formats and elements and an application programming interface for exchanging electronic health records)
 FIDO        | Fast Identity Online
