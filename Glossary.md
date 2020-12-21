@@ -10,6 +10,8 @@ ABC         | Area of Business Concern
 ABNF        | Augmented Backus-Naur Form (see [RFC-5234](https://tools.ietf.org/html/rfc5234))
 AC          | [Axiom of Choice](https://en.wikipedia.org/wiki/Axiom_of_choice)
 ACL         | Access Control List
+ACME        | [Automatic Certificate Management
+Environment](https://en.wikipedia.org/wiki/Automated_Certificate_Management_Environment), alsos see [RFC 8555](https://tools.ietf.org/html/rfc8555)
 ACV         | Annual Contract Value 
 AD          | Application Delivery  
 AD          | Active Directory
