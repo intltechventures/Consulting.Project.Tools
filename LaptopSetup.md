@@ -34,6 +34,12 @@ __These are the primary software programs that I typically have installed on my 
 
 ## Application Package Managers (still evaluating...)
 
+- winget
+  + https://github.com/microsoft/winget-cli
+    * https://github.com/microsoft/winget-pkgs
+      * https://github.com/microsoft/winget-pkgs/tree/master/manifests
+  + https://devblogs.microsoft.com/commandline/windows-package-manager-preview/
+
 - https://chocolatey.org/
 
 - https://sdkman.io/
