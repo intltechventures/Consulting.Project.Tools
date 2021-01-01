@@ -526,6 +526,7 @@ W3C         | [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wi
 WAF         | Web Application Firewall
 WAL         | Write Ahead Log
 wasm        | [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly)
+WCCP        | [Web Cache Communication Protocol](https://en.wikipedia.org/wiki/Web_Cache_Communication_Protocol)
 WD          | Working Draft
 WIP         | Work nn Progress
 WLM         | Work Lifecycle Management
