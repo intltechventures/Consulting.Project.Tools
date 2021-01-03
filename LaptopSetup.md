@@ -608,7 +608,7 @@ __These are the primary software programs that I typically have installed on my 
 
 
 
-## Music, eBook, Audio
+## Misc. - Music, eBook, Audio
 
 - [iTunes](http://www.apple.com/itunes/)
   + Alternatives
@@ -622,6 +622,19 @@ __These are the primary software programs that I typically have installed on my 
   + https://github.com/audacity/audacity
   + https://www.fosshub.com/Audacity.html
 
+- [MuseScore](https://musescore.org/)
+  + https://github.com/musescore/MuseScore
+  + https://musescore.org/en/handbook
+    * "Create, play and print beautiful sheet music"
+    * https://musescore.org/en/handbook/file-formats
+      * "Apart from native format files (*.mscz and *.mscx), MuseScore can also
+        open MusicXML, compressed MusicXML and MIDI files, as well as a variety
+        of files in other formats."
+      * https://musescore.org/en/handbook/file-formats#mscx
+        * "MSCX is the uncompressed version of the MuseScore file format. A score
+          saved in this format will retain all information, except images. It can
+          be opened with a text editor, allowing the user access to the file's
+          source code."
 
 
 ## Video and Postcasting Tools
