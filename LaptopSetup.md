@@ -190,9 +190,14 @@ __These are the primary software programs that I typically have installed on my 
   + https://codeanywhere.com/
 
 
-### Command Line Utilities
+### Utilities
 
 - [Cygwin](https://www.cygwin.com/)
+
+- [Microsoft Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
+
+- [TeraCopy](https://codesector.com/teracopy)
+
 
 
 ### File Diff Utilities
