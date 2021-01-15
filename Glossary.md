@@ -376,6 +376,8 @@ PR          | Peer Review
 PR          | Proposed Recommendation 
 PR          | Pull Request
 PR          | Purchase Request
+PSD2        | [Payment Services Directive](https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines_202006_psd2_afterpublicconsultation_en.pdf) (Directive 2015/2366/EU of the European
+Parliament andof the Council of 23 December 2015)
 PSM         | Persistent Stored Modules
 QA          | [Quality Assurance](https://en.wikipedia.org/wiki/Quality_assurance)
 QAQA        | Quantum Approximate Optimization Algorithm
@@ -496,6 +498,8 @@ TSO         | [Time Sharing Option](https://en.wikipedia.org/wiki/Time_Sharing_O
 TTL         | Time To Live
 TTP         | Trusted Third Party
 TXN         | Transaction
+UCaaS       | [Unified Communications as a
+Service](https://en.wikipedia.org/wiki/Unified_communications_as_a_service)
 UDDI        | Universal Description, Discovery, & Integration
 UDEF        | Universal Data Element Framework
 UDF         | User Defined File
