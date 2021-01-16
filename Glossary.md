@@ -32,6 +32,8 @@ aPaaS       | Application Platform as a Service
 APAC        | Asia/Pacfic
 API         | [Application Programming Interface ](https://en.wikipedia.org/wiki/Application_programming_interface)
 APM         | Application Portfolio Management  
+APM         | Application Performance Management
+APM         | Application Performance Monitoring
 ARB         | Architecture Review Board  
 ARI         | Amazon Ramdisk Image
 ARR         | Annual Recurring Revenue 
