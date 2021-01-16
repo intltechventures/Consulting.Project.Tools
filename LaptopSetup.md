@@ -762,9 +762,22 @@ __These are the primary software programs that I typically have installed on my 
 
 
 ## Remove Bloatware from Windows (NOTE: Need to evaluate this further, CAVEAT: have not yet applied this...)
-- ```remove-appxpackage``` command documentation
-  + https://docs.microsoft.com/en-us/powershell/module/appx/remove-appxpackage?view=win10-ps
+
+- https://docs.microsoft.com/en-us/powershell/module/appx/remove-appxpackage?view=win10-ps 
+  + ```remove-appxpackage``` 
+
+- https://docs.microsoft.com/en-us/powershell/module/appx/get-appxpackage?view=win10-ps
+  + To get a list of installed package:
+    * ```Get-AppxPackage |Select Name, PackageFullName```
+
+- Also see, for additional ideas:
+  + https://github.com/W4RH4WK/Debloat-Windows-10
+    * https://github.com/W4RH4WK/Debloat-Windows-10/blob/master/scripts/remove-default-apps.ps1
+
+
 - Source: https://www.reddit.com/r/pcmasterrace/comments/736tfh/skype_is_officially_bloatware_uninstalled_it/
+  + Note: Should probably use ```-Allusers``` on both sides, for each command
+
   + ```get-appxpackage messaging | remove-appxpackage```
   + ```get-appxpackage sway | remove-appxpackage```
   + ```get-appxpackage commsphone | remove-appxpackage```
