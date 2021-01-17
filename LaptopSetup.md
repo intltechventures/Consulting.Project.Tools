@@ -762,6 +762,7 @@ __These are the primary software programs that I typically have installed on my 
 
 
 ## Remove Bloatware from Windows (NOTE: Need to evaluate this further, CAVEAT: have not yet applied this...)
+- NOTE: You'll need to launch PowerShell as Administrator
 
 - https://docs.microsoft.com/en-us/powershell/module/appx/remove-appxpackage?view=win10-ps 
   + ```remove-appxpackage``` 
@@ -771,7 +772,11 @@ __These are the primary software programs that I typically have installed on my 
     * ```Get-AppxPackage |Select Name, PackageFullName```
 
 - Also see, for additional ideas:
-  + https://github.com/W4RH4WK/Debloat-Windows-10
+  + https://www.pdq.com/blog/remove-appx-packages/
+    * See ```The process for preventing the software from installing in the future is very similar. The only difference
+      in the command is “provisioned” is added to the command name (Get-AppxProvisionedPackage)```
+
++ https://github.com/W4RH4WK/Debloat-Windows-10
     * https://github.com/W4RH4WK/Debloat-Windows-10/blob/master/scripts/remove-default-apps.ps1
 
 
