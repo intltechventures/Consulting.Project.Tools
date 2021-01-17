@@ -2,16 +2,18 @@
 # Travel Per Diem Resources
 
 ## Rerenences
-- 
+- https://en.wikipedia.org/wiki/Per_diem
+
 
 ## United States Government References
+
 - Civilian Personnel Per Diem Bulletin (Non-Foreign Overseas Per Diem Rates)
   + https://aoprals.state.gov/content.asp?content_id=296&menu_id=75
 
 - Per Diem Rates in the continental United States ("CONUS Rates") 
   + https://www.gsa.gov/travel/plan-book/per-diem-rates/per-diem-rates-lookup
 
-- Foreign Per Diem Rates by Location
+- Foreign Per Diem Rates, by Location
   + https://aoprals.state.gov/web920/per_diem.asp
     * Note "Maximum Lodging Rate" and "M & IE Rate" (Meals and Incidental Expenses)
     * "The M&IE rate is based on these meal costs plus an additional amount, equal to 10% of the combined lodging and meal costs, to cover incidental travel expenses."
