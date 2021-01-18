@@ -3,7 +3,7 @@ cls
 REM 
 REM ***************************************************************************
 REM init_project.bat
-set version=1.2.9
+set version=1.3.0
 REM
 REM Client Project Directory Setup Script
 REM (Illustrative, Not Exhaustive)
@@ -15,7 +15,7 @@ REM Author: Kelvin D. Meeks
 REM Email: kmeeks@intltechventures.com 
 REM
 REM Created: 2019-06-28
-REM Update:  2019-08-31
+REM Update:  2021-01-18
 REM
 REM github 
 REM https://github.com/intltechventures/Consulting.Project.Tools/blob/master/src/ProjectDirectoryStructure/init_project.bat
@@ -32,6 +32,30 @@ ECHO Version: %version%
 ECHO.
 ECHO You need to run this from the specific root directory, created for a specific client project
 pause
+
+
+REM Get just the current directory name (not the full path)
+REM NOTE: nx means file name and extension only
+REM Reference: 
+REM 	https://superuser.com/questions/160702/get-current-folder-name-by-a-dos-command
+REM 	https://www.robvanderwoude.com/ntfor.php
+for %%I in (.) do set currentDir=%%~nxI
+
+ECHO Current Directory: %currentDir%
+pause
+
+REM REMEMBER - when doing string comparisons against variables, put them in quotes
+REM Reference:
+REM 	https://stackoverflow.com/questions/14954271/string-comparison-in-batch-file
+if "%currentDir%" == "_projects" goto START
+if "%currentDir%" == "test" goto START
+if "%currentDir%" == "Kelvin" goto ERROR_INVALID_DIRECTORY
+if "%currentDir%" == "" goto ERROR_INVALID_DIRECTORY
+
+goto ERROR_INVALID_DIRECTORY
+
+
+:START
 
 REM 
 REM ***************************************************************************
@@ -294,12 +318,15 @@ mkdir background
 mkdir background\BBB.org\%year%
 mkdir background\company
 mkdir background\company\collateral
+mkdir background\company\collateral
+mkdir background\company\collateral\logos
 mkdir background\company\locations
 mkdir background\company\products
 mkdir background\company\services
 mkdir background\company\business_lines
 mkdir background\company\subsidiaries
 mkdir background\company\partnerships
+mkdir background\company\photos
 mkdir background\company\www
 mkdir background\glassdoor.com
 mkdir background\linkedin.com\profiles
@@ -519,6 +546,16 @@ ECHO. >> info.txt
 ECHO Laptop Equipment ID: >> info.txt
 
 ECHO. >> info.txt
+
+goto END_JOB 
+
+:ERROR_INVALID_DIRECTORY
+ECHO.
+ECHO ERROR
+ECHO - Remember: You need to change to an appropriate Project directory in d:\_intltechventures\projects
+d:
+cd "D:\_intltechventures\_projects"
+dir
 
 
 :END_JOB
