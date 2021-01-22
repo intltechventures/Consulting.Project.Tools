@@ -531,7 +531,7 @@ VXLAN       | Virtual Extensible LAN
 W3          | World Wide Web (i.e. WWW)
 W3C         | [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium)
 WAF         | Web Application Firewall
-WAL         | Write Ahead Log
+WAL         | [Write-ahead Logging](https://en.wikipedia.org/wiki/Write-ahead_logging))
 wasm        | [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly)
 WCCP        | [Web Cache Communication Protocol](https://en.wikipedia.org/wiki/Web_Cache_Communication_Protocol)
 WD          | Working Draft
