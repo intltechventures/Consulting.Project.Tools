@@ -494,7 +494,10 @@ __These are the primary software programs that I typically have installed on my 
 
 
 
-## Deployment / Cloud / Container / VM Tools
+## Deployment / Cloud / Kubernetes / Container / VM Tools
+
+- [minikube](https://minikube.sigs.k8s.io/docs/)
+  + https://github.com/kubernetes/minikube
 
 - [AWS Command Line Interface (CLI)](https://aws.amazon.com/cli/)
 
