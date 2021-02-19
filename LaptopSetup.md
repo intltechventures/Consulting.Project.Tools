@@ -229,6 +229,12 @@ __These are the primary software programs that I typically have installed on my 
   + https://visualstudio.microsoft.com/downloads/
   + Marketplace Extensions:
     * https://marketplace.visualstudio.com/items?itemName=YoshinoriN.current-file-path
+    * Markdown Editor
+       * https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor
+       * https://github.com/madskristensen/MarkdownEditor
+    * GitHub Extension for Visual Studio
+      * https://marketplace.visualstudio.com/items?itemName=GitHub.GitHubExtensionforVisualStudio
+      * https://visualstudio.github.com/
 
 
 - [Visual Studio Code](https://code.visualstudio.com/)
