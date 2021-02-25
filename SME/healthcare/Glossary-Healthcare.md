@@ -41,3 +41,13 @@
   + Medical Diagnostic Equipment
   + Medical Device Engineering
 
+
+- PBM
+  + Pharmacy Benefit Manager
+    * https://en.wikipedia.org/wiki/Pharmacy_benefit_management
+    * https://www.pbm.va.gov/
+    * [July 2019, MEDICARE PART D, Use of Pharmacy Benefit Managers and Efforts to Manage Drug Expenditures and
+      Utilization](https://www.gao.gov/assets/710/700259.pdf)
+    * [2019-08-13 GAO-19-498, Medicare Part D: Use of Pharmacy Benefit Managers and Efforts to Manage Drug Expenditures and Utilization](https://www.gao.gov/products/GAO-19-498)
+
+
