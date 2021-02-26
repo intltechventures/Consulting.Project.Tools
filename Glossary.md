@@ -291,6 +291,7 @@ MDR         | Marketing Development Representative
 ME          | Maximum Entropy 
 MEAN        | MongoDB, Express.js, Angular.js, Node.js
 MEAP        | Mobile Enterprise Application Platform  
+MECE        | [Mutually Exclusive, Collectivelivey Exhaustive](https://en.wikipedia.org/wiki/MECE_principle) Principle
 MED         | Management of External Data
 MERN        | MongoDB, Express.js, React.js, Node.js
 MFA         | Multifactor Authentication
