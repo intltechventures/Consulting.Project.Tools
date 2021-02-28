@@ -92,6 +92,8 @@ __These are the primary software programs that I typically have installed on my 
 - [Chrome](https://www.google.com/intl/en/chrome/browser/thankyou.html?platform=win64)
   + Plugins
     * [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
+	  * Or, download stand-alone app:
+	  * https://www.postman.com/
     * [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
     * https://www.tampermonkey.net/
       * https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
