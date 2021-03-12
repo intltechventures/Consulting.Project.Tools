@@ -22,6 +22,7 @@ AI          | Artificial Intelligence
 AKI         | Amazon Kernel Image
 ALM         | Application Lifecycle Management
 AMI         | Amazon Machine Image
+AOT         | Ahead of Time
 AMQP        | [Advanced Message Queuing
 Protocol](https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol)
 ANN         | Artificial Neural Network
@@ -251,6 +252,7 @@ IX          | Internet Exchange
 JCP         | [Java Community
 Process](https://en.wikipedia.org/wiki/Java_Community_Process)
 JDBC        | Java Database Connectivity
+JIT         | Just in Time
 JMS         | [Jakarta Messaging (formerly  Java Messaging
 Service)](https://en.wikipedia.org/wiki/Jakarta_Messaging), re: JSR 343
 JSON        | JavaScript Object Notation  
