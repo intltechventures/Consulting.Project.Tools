@@ -379,6 +379,7 @@ PO          | Product Owner
 PO          | Purchase Order
 POSIX       | [Portable Operating System Interface](https://en.wikipedia.org/wiki/POSIX)
 PR          | Peer Review
+PR          | Production Ready
 PR          | Proposed Recommendation 
 PR          | Pull Request
 PR          | Purchase Request
