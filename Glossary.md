@@ -69,6 +69,7 @@ CAP         | Consistency, Availability, Partition Tolerance
 CAS         | [Compare-And-Swap | Compare-And-Set](https://en.wikipedia.org/wiki/Compare-and-swap)
 CD          | Candidate Recommendation 
 CD          | Continuous Delivery
+CDC         | Change Data Capture
 CDE         | Cardholder Data Environment
 CDM         | Common Data Model
 CDN         | Content Distribution Network
@@ -317,6 +318,7 @@ MTS         | Multidimensional Type Structure (e.g. [Thomsen Diagrams](https://e
 MTU         | Maximum Transmission Unit. Maximum frame or packet size for a particular network medium.
 MUPS        | Minimum Usable Products/Services
 MVCC        | Multi Version Concurrency Control
+MVI         | Model-View-Intent 
 MVP         | Minimal Viable Product 
 MVVM        | [Model-View-ViewModel](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 NAS         | Network Attached Storage 
