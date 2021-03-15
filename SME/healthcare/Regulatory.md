@@ -1,7 +1,16 @@
 
 # Healthcare Regulatory SME Resource
 
-## 45 CFR
+## 42 CFR - Public Health
+
+- Code of Federal Regulations, Title 42, Public Health, Pt. 400-413
+- https://www.law.cornell.edu/cfr/text/42
+
+ 
+## 45 CFR - PUblic Wealfare
+
+- https://www.law.cornell.edu/cfr/text/45
+
 - https://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/index.html
 - https://www.hhs.gov/ohrp/regulations-and-policy/index.html
 
