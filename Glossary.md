@@ -157,6 +157,7 @@ EHR         | Electronic Health Record(s)
 ELF         | [Executable and Linkable Format](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
 ELT         | Extract, Load, Transform
 EME         | [Encrypted Media Extensions](https://en.wikipedia.org/wiki/Encrypted_Media_Extensions), re: W3C HTML5 recommendations
+EMS         | [Execution Management System](https://en.wikipedia.org/wiki/Execution_management_system)
 ENI         | Elastic Network Interface (re: AWS)
 EPLC        | Enterprise Performance Life Cycle 
 EPS         | Extrusion Prevention System (see DLP)
@@ -420,6 +421,7 @@ RFS         | Request for Service (or, Solution)
 RHEL        | Red Hat Enterprise Linux 
 RIA         | Rich Internet Application  
 RION        | Raw Internet Object Notation
+RL          | Reinforcement Learning
 RMAD        | Rapid Mobile App Development  
 RMS         | Rights Management Service
 ROE         | Return on Equity  
