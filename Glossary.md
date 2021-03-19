@@ -328,6 +328,7 @@ NCSA        | [National Center for Supercomputing Applications](https://en.wikip
 NDA         | Non-Disclosure Agreement
 NER         | Named Entity Recognition, re: ML
 NFS         | Network File System 
+NFT         | [Non-Fungible Token](https://en.wikipedia.org/wiki/Non-fungible_token)
 NIST        | National Institute for Standards and Technology 
 NISQ        | Noisy Intermediate-Scale Quantum (NISQ) computers
 NLG         | Natural Language Generation
