@@ -3,7 +3,7 @@ cls
 REM 
 REM ***************************************************************************
 REM init_project.bat
-set version=1.3.0
+set version=1.3.1
 REM
 REM Client Project Directory Setup Script
 REM (Illustrative, Not Exhaustive)
@@ -15,9 +15,9 @@ REM Author: Kelvin D. Meeks
 REM Email: kmeeks@intltechventures.com 
 REM
 REM Created: 2019-06-28
-REM Update:  2021-01-18
+REM Update:  2021-03-21
 REM
-REM github 
+REM github file location
 REM https://github.com/intltechventures/Consulting.Project.Tools/blob/master/src/ProjectDirectoryStructure/init_project.bat
 REM
 REM TO-DO:
@@ -47,15 +47,27 @@ pause
 REM REMEMBER - when doing string comparisons against variables, put them in quotes
 REM Reference:
 REM 	https://stackoverflow.com/questions/14954271/string-comparison-in-batch-file
-if "%currentDir%" == "_projects" goto START
-if "%currentDir%" == "test" goto START
+
+
+REM Prevent these conditions, always...
 if "%currentDir%" == "Kelvin" goto ERROR_INVALID_DIRECTORY
 if "%currentDir%" == "" goto ERROR_INVALID_DIRECTORY
 
+
+REM Check if the parent directory of the currentDir is "_projects" or "test"...
+pushd .
+cd ..
+if "%currentDir%" == "_projects" goto START
+if "%currentDir%" == "test" goto START
+
+REM Everything else is an error condition
 goto ERROR_INVALID_DIRECTORY
 
 
 :START
+
+REM Remember to pop back into currentDir, from the pushd, above...
+popd
 
 REM 
 REM ***************************************************************************
