@@ -3,7 +3,7 @@ cls
 REM 
 REM ***************************************************************************
 REM init_project.bat
-set version=1.3.1
+set version=1.3.2
 REM
 REM Client Project Directory Setup Script
 REM (Illustrative, Not Exhaustive)
@@ -57,8 +57,9 @@ if "%currentDir%" == "" goto ERROR_INVALID_DIRECTORY
 REM Check if the parent directory of the currentDir is "_projects" or "test"...
 pushd .
 cd ..
-if "%currentDir%" == "_projects" goto START
-if "%currentDir%" == "test" goto START
+for %%I in (.) do set parentDir=%%~nxI
+if "%parentDir%" == "_projects" goto START
+if "%parentDir%" == "test" goto START
 
 REM Everything else is an error condition
 goto ERROR_INVALID_DIRECTORY
@@ -194,6 +195,8 @@ mkdir admin\contracts\%year%\40_final
 mkdir admin\contracts\%year%\90_COI
 
 mkdir admin\facilities\locations
+mkdir admin\facilities\parking
+mkdir admin\housing
 mkdir admin\HR
 mkdir admin\invoices\%year%\%month%
 mkdir admin\invoice.payments\%year%\%month%
@@ -211,7 +214,21 @@ mkdir admin\proposals\%year%
 mkdir admin\recommendations\%year%
 mkdir admin\training\%year%
 
-
+touch admin\links.html
+REM Remember to escape *EACH* shell metacharacters with "^"
+ECHO ^<html^> >> admin\links.html
+ECHO ^<head^> >> admin\links.html
+ECHO ^<title^>{client name} Links^</title^> >> admin\links.html
+ECHO ^</head^> >> admin\links.html
+ECHO ^<body^> >> admin\links.html
+ECHO. >> admin\links.html
+ECHO ^<em^>iMatch Links^</em^> >> admin\links.html
+ECHO ^<ul^> >> admin\links.html
+ECHO ^<li^>^<a href="" target="_blank"^>{Time Sheet Portal}^</a^>^</li^> >> admin\links.html
+ECHO ^</ul^> >> admin\links.html
+ECHO. >> admin\links.html
+ECHO ^</body^> >> admin\links.html
+ECHO ^</html^> >> admin\links.html
 
 REM ***************************************************************************
 REM 
@@ -247,6 +264,31 @@ mkdir architecture\EA\governance\TGB\meetings\%year%\%month%
 mkdir architecture\EA\governance\TGB\members\%year%
 mkdir architecture\EA\governance\TGB\process
 mkdir architecture\EA\governance\TGB\schedule\%year%
+
+mkdir architecture\EA\governance\TRM\meetings\%year%\%month%
+mkdir architecture\EA\governance\TRM\members\%year%
+mkdir architecture\EA\governance\TRM\process
+mkdir architecture\EA\governance\TRM\schedule\%year%
+
+mkdir architecture\EA\governance\APIs\meetings\%year%\%month%
+mkdir architecture\EA\governance\APIs\members\%year%
+mkdir architecture\EA\governance\APIs\process
+mkdir architecture\EA\governance\APIs\schedule\%year%
+
+mkdir architecture\EA\governance\Data\meetings\%year%\%month%
+mkdir architecture\EA\governance\Data\members\%year%
+mkdir architecture\EA\governance\Data\process
+mkdir architecture\EA\governance\Data\schedule\%year%
+
+mkdir architecture\EA\governance\Repository\meetings\%year%\%month%
+mkdir architecture\EA\governance\Repository\members\%year%
+mkdir architecture\EA\governance\Repository\process
+mkdir architecture\EA\governance\Repository\schedule\%year%
+
+mkdir architecture\EA\governance\Security\meetings\%year%\%month%
+mkdir architecture\EA\governance\Security\members\%year%
+mkdir architecture\EA\governance\Security\process
+mkdir architecture\EA\governance\Secureity\schedule\%year%
 
 mkdir architecture\EA\governance\ARB\meetings\%year%\%month%
 mkdir architecture\EA\governance\ARB\members\%year%
@@ -286,15 +328,15 @@ mkdir architecture\infrastructure
 mkdir architecture\infrastructure\overview
 mkdir architecture\infrastructure\inventory
 mkdir architecture\infrastructure\environments
-mkdir architecture\infrastructure\environemnts\10_DEV
-mkdir architecture\infrastructure\environemnts\20_TEST
-mkdir architecture\infrastructure\environemnts\30_QA
-mkdir architecture\infrastructure\environemnts\40_STAGE
-mkdir architecture\infrastructure\environemnts\50_TRAINING
-mkdir architecture\infrastructure\environemnts\60_SALES
-mkdir architecture\infrastructure\environemnts\70_UAT
-mkdir architecture\infrastructure\environemnts\80_BREAK_FIX
-mkdir architecture\infrastructure\environemnts\99_PROD
+mkdir architecture\infrastructure\environments\10_DEV
+mkdir architecture\infrastructure\environments\20_TEST
+mkdir architecture\infrastructure\environments\30_QA
+mkdir architecture\infrastructure\environments\40_STAGE
+mkdir architecture\infrastructure\environments\50_TRAINING
+mkdir architecture\infrastructure\environments\60_SALES
+mkdir architecture\infrastructure\environments\70_UAT
+mkdir architecture\infrastructure\environments\80_BREAK_FIX
+mkdir architecture\infrastructure\environments\99_PROD
 
 
 mkdir architecture\references
@@ -303,21 +345,40 @@ mkdir architecture\references\OSS
 
 mkdir architecture\references\shared_services
 mkdir architecture\references\shared_services\alerting
-mkdir architecture\references\shared_services\AD
-mkdir architecture\references\shared_services\authentication
-mkdir architecture\references\shared_services\authorization
+mkdir architecture\references\shared_services\IAM
+mkdir architecture\references\shared_services\IAM\AD
+mkdir architecture\references\shared_services\IAM\AuthN
+mkdir architecture\references\shared_services\IAM\AuthZ
+mkdir architecture\references\shared_services\IAM\RBAC
+mkdir architecture\references\shared_services\IAM\SSO
 mkdir architecture\references\shared_services\ETL
 mkdir architecture\references\shared_services\low_code
+mkdir architecture\references\shared_services\no_code
 mkdir architecture\references\shared_services\messaging
+mkdir architecture\references\shared_services\streaming
+mkdir architecture\references\shared_services\events
 mkdir architecture\references\shared_services\MFT
 mkdir architecture\references\shared_services\monitoring
 mkdir architecture\references\shared_services\scheduling
 mkdir architecture\references\shared_services\SMS
-mkdir architecture\references\shared_services\SSO
+mkdir architecture\references\shared_services\push_notifications
 mkdir architecture\references\shared_services\workflow
 
 mkdir architecture\security
+mkdir architecture\security\IAM
+mkdir architecture\security\DMZ
 mkdir architecture\security\WAF
+mkdir architecture\security\Monitoring
+mkdir architecture\security\Monitoring\Egress
+mkdir architecture\security\Monitoring\Ingress
+mkdir architecture\security\Scanning
+mkdir architecture\security\Scanning\Code
+mkdir architecture\security\Scanning\Devices
+mkdir architecture\security\Certifications
+mkdir architecture\security\Certifications\HIPAA
+mkdir architecture\security\Certifications\HITRUST
+mkdir architecture\security\Certifications\SOC2
+mkdir architecture\security\Certifications\PCI-DSS
 
 
 
