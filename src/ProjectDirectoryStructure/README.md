@@ -13,8 +13,13 @@ The goal is to provide a systematic approach - so that new team members are able
 ## Revision History
 - 2019-06-28: Initial creation of ```init_project.bat``` 
 
+- 2021-03-21: v1.3.1 of init_project.bat
 
 
 
-## TODO
-- extract Architecture-specific concerns from the original ```ProjectDirectorySetup.py``` - and restructure the proposed directory structure to incorporate new ideas, lessons learned, etc.
+
+## Future Script Ideas
+- Write script to append notes to a personaly daily journal entry - with a date/time stamp (when initiated in a specific
+  project folder - see _journals folder created by "init_project.bat"
+
+
