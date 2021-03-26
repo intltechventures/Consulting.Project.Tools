@@ -149,7 +149,7 @@
 **\#209 - "Never underestimate someone's willingness to resist change - when keeping their job depends on the status quo remaining stable"**
 
 
-**\#210 - "A cracked window needs to be replaced. Sames goes for someone that demonstrate a breach of integrity."**
+**\#210 - "A cracked window must be replaced. Same goes for someone that demonstrate a breach of integrity."**
 
 
 \#3xx - On Design 
