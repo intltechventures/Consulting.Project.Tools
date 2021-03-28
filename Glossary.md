@@ -219,6 +219,7 @@ HW          | Hardware
 IaaS        | Infrastructure as a Service  
 IaC         | Infrastructure as Code
 IAST        | Integrated Application Security Testing
+IC          | Individual Contributor
 ICMP        | Internet Control Message Protocol 
 IDE         | Integrated Development Environment    
 IDL         | [Interface Description Language](https://en.wikipedia.org/wiki/Interface_description_language)
@@ -264,6 +265,7 @@ JSR         | JavaScript Remoting
 JVM         | Java Virtual Machine
 JWT         | JSON Web Token  
 k8s         | Kubernetes
+KPI         | [Key Performance Indicators](https://en.wikipedia.org/wiki/Performance_indicator)
 KVM		    	| Kernel-based Virtual Machine (KVM) is an open source virtualization technology built into Linux
 KVM			    | keyboard, video and mouse
 KVS         | Key-Value Storage
@@ -378,6 +380,8 @@ PITR        | Point In Time Recovery
 PKCE        | Proof Key for Code Exchange (pronounced "pixy"), re: [RFC
 7636](https://tools.ietf.org/html/rfc7636)
 PKI         | [Public Key Infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure)
+PM          | Project Management
+PMO         | Project Management Office
 PPI         | Protected Personal Information
 PO          | Product Owner
 PO          | Purchase Order
@@ -475,6 +479,7 @@ SoE         | System of Engagement
 SOLID       | Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion
 SOR         | System of Record
 SOR         | System of Record
+SOW         | Statement of WOrk
 SPICE       | Simple Protocol for Independent Computing Environments (
 SPKI        | Simple Public Key Infrastructure
 SPOT        | Single Point Of Truth
