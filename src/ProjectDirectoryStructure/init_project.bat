@@ -3,7 +3,7 @@ cls
 REM 
 REM ***************************************************************************
 REM init_project.bat
-set version=1.3.2
+set version=1.3.3
 REM
 REM Client Project Directory Setup Script
 REM (Illustrative, Not Exhaustive)
@@ -15,7 +15,7 @@ REM Author: Kelvin D. Meeks
 REM Email: kmeeks@intltechventures.com 
 REM
 REM Created: 2019-06-28
-REM Update:  2021-03-21
+REM Update:  2021-03-28
 REM
 REM github file location
 REM https://github.com/intltechventures/Consulting.Project.Tools/blob/master/src/ProjectDirectoryStructure/init_project.bat
@@ -60,6 +60,8 @@ cd ..
 for %%I in (.) do set parentDir=%%~nxI
 if "%parentDir%" == "_projects" goto START
 if "%parentDir%" == "test" goto START
+if "%parentDir%" == "10 Opportunities" goto START
+if "%parentDir%" == "120 Prospects" goto START
 
 REM Everything else is an error condition
 goto ERROR_INVALID_DIRECTORY
@@ -216,6 +218,7 @@ mkdir admin\training\%year%
 
 touch admin\links.html
 REM Remember to escape *EACH* shell metacharacters with "^"
+REM See other options: https://stackoverflow.com/questions/7308586/using-batch-echo-with-special-characters
 ECHO ^<html^> >> admin\links.html
 ECHO ^<head^> >> admin\links.html
 ECHO ^<title^>{client name} Links^</title^> >> admin\links.html
@@ -391,7 +394,6 @@ mkdir background
 mkdir background\BBB.org\%year%
 mkdir background\company
 mkdir background\company\collateral
-mkdir background\company\collateral
 mkdir background\company\collateral\logos
 mkdir background\company\locations
 mkdir background\company\products
@@ -462,6 +464,9 @@ mkdir sparx\reports
 mkdir sparx\images
 
 mkdir special_projects\%year%
+
+
+mkdir photos\%year%
 
 mkdir travel\%year%\%month%
 
