@@ -310,7 +310,8 @@ __These are the primary software programs that I typically have installed on my 
   + Make sure you have the latest "Git Credential Manager for Windows"
     * https://github.com/Microsoft/Git-Credential-Manager-for-Windows/releases/latest
 
-- [Subversion](https://sliksvn.com/download/)  
+- Subversion
+  + https://sliksvn.com/download/
 
 
 	
