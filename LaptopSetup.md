@@ -128,11 +128,18 @@ __These are the primary software programs that I typically have installed on my 
       * https://support.mozilla.org/en-US/questions/1019583
 
 
-### PDF Reader
+### eBook Readers
 
 - [Adobe Reader](https://get.adobe.com/reader/)
-  * Fonts: (needed to print certain documents, e.g. WA Healthcare 1095-A)
+  + Fonts: (needed to print certain documents, e.g. WA Healthcare 1095-A)
     * [Adobe Acrobat Reader DC Font Pack (Continuous) - For Acrobat Reader DC version 19.x](https://supportdownloads.adobe.com/thankyou.jsp?ftpID=6484&fileID=6484)
+
+- Kindle 
+  + https://www.amazon.com/kindle-dbs/fd/kcp
+
+- Calibre
+  + https://calibre-ebook.com/
+  + https://en.wikipedia.org/wiki/Calibre_(software)
 
 
 ### Basic Code/Text/Config Editors
