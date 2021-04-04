@@ -249,6 +249,11 @@ __These are the primary software programs that I typically have installed on my 
 - [Visual Studio Code](https://code.visualstudio.com/)
   + Disable these configuration settings
     * ```telemetry.enableTelemetry```
+  + Suggested: Disable Program Data Package Cache
+    * https://www.quora.com/Can-I-delete-the-folder-C-ProgramData-Package-Cache
+      * Disable: ```"%ProgramFiles(x86)%\Microsoft Visual Studio\Installer\vs_installer.exe" --nocache```
+      * Enable: ```"%ProgramFiles(x86)%\Microsoft Visual Studio\Installer\vs_installer.exe" repair --passive --norestart --cache
+        ```
   + Marketplace Extensions:
     * https://marketplace.visualstudio.com/items?itemName=YoshinoriN.current-file-path
       * display current file's path from absolute (root directory) or workspace highest directory in StatusBar by Unix style or Windows style.
@@ -682,6 +687,16 @@ __These are the primary software programs that I typically have installed on my 
     * https://krita.org/en/
 
 - [SnagIt](https://www.techsmith.com/snagit.html)
+
+
+## Map Tools
+
+- Garmin Express
+  + https://www.garmin.com/en-US/software/express/windows/
+  + Note: Garmin doesn't clean-up after itself - so you will need to manually monitor/clean-up left-over folders in the
+    following locations:
+      * ```C:\ProgramData\Garmin\CoreService\Downloads\Map```
+      * ```C:\ProgramData\Garmin\CoreService\Downloads\Temp```
 
 
 
