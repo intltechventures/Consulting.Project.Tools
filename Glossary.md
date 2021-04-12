@@ -38,6 +38,7 @@ Management](https://en.wikipedia.org/wiki/Application_performance_management)
 APM         | Application Performance Monitoring
 ARB         | Architecture Review Board  
 ARI         | Amazon Ramdisk Image
+ARN         | [Amazon Resource Name](https://docs.aws.amazon.com/general/latest/gr/aws-arns-and-namespaces.html)
 ARR         | Annual Recurring Revenue 
 ART         | Agile Release Train (re: Scaled Agile Framework, SAFe)
 ASCII       | [American Standard Code for Information Interchange](https://en.wikipedia.org/wiki/ASCII)
@@ -108,7 +109,7 @@ CUI	    		| Controlled Unclassified Information (CUI), as defined by Executive O
 CVS         | Concurrent Version System
 CX          | Customer Experience
 CXN         | Customer Experience Network
-DAC         | Discretionary Access Control
+DAC         | [Discretionary Access Control](https://en.wikipedia.org/wiki/Discretionary_access_control)
 DARPA       | Defense Advanced Research Projects Agency
 DARQ        | Distributed Ledger Technology (DLT), Artificial Intelligence (AI), Extended Reality (XR), Quantum Computing ~ re: Accenture
 DAST        | Dynamic Application Security Testing
@@ -218,16 +219,20 @@ HTTPS       | Hypertext Transfer Protocol Secure
 HW          | Hardware
 IaaS        | Infrastructure as a Service  
 IaC         | Infrastructure as Code
+IAM         | [Identity and Access Management](https://en.wikipedia.org/wiki/Identity_management)
 IAST        | Integrated Application Security Testing
 IC          | Individual Contributor
 ICMP        | Internet Control Message Protocol 
+IdAM        | See IAM
 IDE         | Integrated Development Environment    
 IDL         | [Interface Description Language](https://en.wikipedia.org/wiki/Interface_description_language)
+IdM         | Identity Management, also see IAM
 IdP         | Identity Provider
 IDS         | [Intrusion Detection System](https://en.wikipedia.org/wiki/Intrusion_detection_system)
 IE          | Information Extraction, re: NER, DL, ML, NLP
 IEEE        | [Institute of Electrical and Electronics Engineers](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers)
 IETF        | Internet Engineering Task Force
+IGA         | Identity Governance and Administration, see IAM
 ILDP        | Information Leak Detection and Prevention (see DLP)
 INVEST      | Independent Negotiable Valuable Estimable Small Testable [(source)](http://wiki.c2.com/?InvestModelForUserStories)
 IOPS        | Input/Output Operations Per Second
@@ -286,6 +291,7 @@ LSM         | [Log-Structured Merge-Tree](https://en.wikipedia.org/wiki/Log-stru
 LU          | Logical Unit  
 LVM         | Logical Volume Manager
 MAC         | Machine Access Control 
+MAC         | [Mandatory Access Control](https://en.wikipedia.org/wiki/Mandatory_access_control)
 MAU         | Monthly Active Users
 MBaaS       | Mobile Back End as a Service
 MD          | Markdown Language 
@@ -411,7 +417,7 @@ RAPT        | Reverse Address and Port Translation (see RAT)
 RAS         | Redundancy, Availability, Serviceability  
 RASUI       | Reliability, Availability, Serviceability, Usability and Instability  
 RAT         | Reverse Address and Port Translation (see RAPT)
-RBAC        | Role Based Access Control
+RBAC        | [Role Based Access Control](https://en.wikipedia.org/wiki/Role-based_access_control)
 RCA         | Root Cause Analysis 
 RDF         | [Resource Description Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework)
 RDN         | Relative Distinguished Name, re: LDAP
