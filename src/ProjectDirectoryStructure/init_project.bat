@@ -3,7 +3,7 @@ cls
 REM 
 REM ***************************************************************************
 REM init_project.bat
-set version=1.3.3
+set version=1.3.4
 REM
 REM Client Project Directory Setup Script
 REM (Illustrative, Not Exhaustive)
@@ -15,7 +15,7 @@ REM Author: Kelvin D. Meeks
 REM Email: kmeeks@intltechventures.com 
 REM
 REM Created: 2019-06-28
-REM Update:  2021-03-28
+REM Update:  2021-04-15
 REM
 REM github file location
 REM https://github.com/intltechventures/Consulting.Project.Tools/blob/master/src/ProjectDirectoryStructure/init_project.bat
@@ -61,7 +61,7 @@ for %%I in (.) do set parentDir=%%~nxI
 if "%parentDir%" == "_projects" goto START
 if "%parentDir%" == "test" goto START
 if "%parentDir%" == "10 Opportunities" goto START
-if "%parentDir%" == "120 Prospects" goto START
+if "%parentDir%" == "20 Prospects" goto START
 
 REM Everything else is an error condition
 goto ERROR_INVALID_DIRECTORY
