@@ -59,7 +59,7 @@
   * Effort to write and document the solution's design, deployment, operational aspects, and just-enough documentation to communicate with other dependent teams/orgs
   * Effort to perform the inevitable rework that arises when designing someting new for the first time
   * Unplanned meetings/interruptions - team productivity hits when folks have to attend meetings, training, the inevitable sick days - and accounting for slowdowns around holidays
-* This rule has also proven to be true when dealing with boat yards that have been tasked with maintenance/repair jobs on my sailboat.
+* This rule has also proven to be true when dealing with boat yards that have been tasked with maintenance/repair jobs on my sailboat. Usually, the factor is closer to 5x in that case.
 
 
 **\#004 - "Always let the other side bring up their offer first"**
@@ -100,7 +100,7 @@
 **\#104 - "Sometimes, what looks like winning - is just the setup for the denouement."**
 
 
-**\#105 - "Never accept work from (or keep) clients who are rude or disrespectful."**
+**\#105 - "Never accept work from (or keep) clients who are rude, or disrespectful."**
 
 
 **\#106 - "Never collaborate with people that deal from the bottom of the deck"**
@@ -115,6 +115,7 @@
 **\#109 - "Don't do stupid shit"**
   + Examples:
     * https://blog.scribd.com/home/welcome-slideshare-to-the-scribd-community
+    * The shitty Time Tracking system used internally by AT&T in 1996 - that was built on Lotus Notes
 
 
 
@@ -161,7 +162,7 @@
 **\#302 - "Elegance. Simplicity. Economy. Less is more"**
 
 
-**\#303 - "When your mind feel stuck, move your body"**
+**\#303 - "When your mind feels stuck, move your body"**
 
 
 **\#304 - "Flailing may create the appearance of a lot of activity (and perhaps may seem to imply progress) - but, it is not a very efficient operating model."**
