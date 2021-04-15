@@ -27,3 +27,7 @@
 - "A company that rewards firefights breeds arsonists." - Erik Weber
 
 
+## Nicholas Murray Butler 
+- [March 1931](https://quoteinvestigator.com/2018/07/05/make-happen/): "The vast population of this earth, and indeed nations themselves, may readily be divided into three
+  groups. There are the few who make things happen, the many more who watch things happen, and the overwhelming majority
+  who have no notion of what happens." 
