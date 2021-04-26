@@ -152,6 +152,7 @@ ECA         | Embodied Conversational Agent(s)
 EBCIDIC     | [Extended Binary Coded Decimal Interchange Code](https://en.wikipedia.org/wiki/EBCDIC)
 eBPF        | [extended Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter) - see BPF
 EBS         | Elastic Block Storage (AWS)
+EDA         | Event-Driven Architecture 
 EDW         | Enterprise Data Warehouse (also see DW, DWH)
 EFF         | [Electronic Frontier Foundation](https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation)
 EHR         | Electronic Health Record(s)
@@ -307,6 +308,7 @@ MECE        | [Mutually Exclusive, Collectivelivey Exhaustive](https://en.wikipe
 MED         | Management of External Data
 MERN        | MongoDB, Express.js, React.js, Node.js
 MFA         | Multifactor Authentication
+MFE         | [Micro-Frontends](https://martinfowler.com/articles/micro-frontends.html)
 MIM         | Major Incident Management
 MIMD        | [Multiple instruction streams, multiple data streams](https://en.wikipedia.org/wiki/MIMD)
 MIME        | [Multipurpose Internet Mail Extensions](https://en.wikipedia.org/wiki/MIME)
