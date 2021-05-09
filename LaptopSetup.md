@@ -288,7 +288,8 @@ __These are the primary software programs that I typically have installed on my 
     * https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode
       * AsciiDoc support for Visual Studio Code
       * https://github.com/asciidoctor/asciidoctor-vscode
-
+    * https://marketplace.visualstudio.com/items?itemName=TheUMLetTeam.umlet
+      * Free UML Tool for Fast UML Diagrams
 
 
 - [Eclipse](http://www.eclipse.org)
