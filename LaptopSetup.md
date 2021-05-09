@@ -224,10 +224,18 @@ __These are the primary software programs that I typically have installed on my 
 
 
 ## Diagramming & Design Tools
+
 - [Sparx Enterprise Architect](http://www.sparxsystems.com/)
 
 - Open Source Alternatives:
-  * [PlantYML](http://plantuml.com/) - (still evaluating...)
+
+  + [Umlet](https://www.umlet.com/)
+    * https://www.umlet.com/changes.htm 
+    * https://github.com/umlet/umlet
+    * https://marketplace.visualstudio.com/items?itemName=TheUMLetTeam.umlet
+    * Online version
+      * http://www.umletino.com/
+
   * [Archi](https://www.archimatetool.com/)
 
 
@@ -293,7 +301,7 @@ __These are the primary software programs that I typically have installed on my 
 
 
 - [Eclipse](http://www.eclipse.org)
-  + [The plugins that I usually install](https://github.com/intltechventures/EclipseNotes/blob/master/README.md)
+  + [See the plugins that I usually install](https://github.com/intltechventures/EclipseNotes/blob/master/README.md)
 
 - [Android Studio / SDK](http://developer.android.com/sdk/index.html)
 
