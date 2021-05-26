@@ -207,6 +207,7 @@ HATEOAS     | [Hypermedia As The Engine Of Application State](https://en.wikiped
 HCI         | Human-Computer Interaction
 HDFS        | Hadoop Distributed File System 
 HIPPA       | Health Insurance Portability and Accountability Act of 1996
+HiPPO       | [Highly Paid Person's Opinion](https://architectelevator.com/cloud/selecting-cloud-provider/)
 HLD         | High-Level Design  
 HLP         | Human Level Performance (re: Machine Learning)
 HMM         | Hidden Markov Models
