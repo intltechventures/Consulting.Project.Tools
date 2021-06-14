@@ -1,6 +1,16 @@
 
 # Glossary - Healthcare
 
+
+- Administrative Services Only (ASO)
+  + https://en.wikipedia.org/wiki/Self-funded_health_care
+    * "Self-funded health care, also known as Administrative Services Only (ASO), is a self insurance arrangement in the
+      United States whereby an employer provides health or disability benefits to employees using the company's own
+      funds. This is different from fully insured plans where the employer contracts an insurance company to cover
+      the employees and dependents."
+  + https://en.wikipedia.org/wiki/Self-insurance
+
+
 - CMS
   + Centers for Medicare & Medicaid Services 
     * https://en.wikipedia.org/wiki/Centers_for_Medicare_%26_Medicaid_Services
