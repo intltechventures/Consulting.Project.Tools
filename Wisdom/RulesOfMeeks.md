@@ -237,7 +237,7 @@
 **\#701 - "Don't get comfortable, stay hungry to always learn, grow,  and stretch yourself"**
 
 
-**\#702 - "If you can't point to a signficant accomplishment in the last 12 months - it is time for you to move on."**
+**\#702 - "If you can't point to a significant accomplishment in the last 12 months - it is time for you to move on."**
 
 
 **\#703 - "Value opportunity and challenges, over a salary. Every time. Always."**
