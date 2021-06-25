@@ -9,3 +9,9 @@
 
 - https://www.beckershospitalreview.com/
   + https://www.beckershospitalreview.com/telehealth.html
+
+
+## Podcasts
+
+- GeekWire: Health Tech Podcast
+  + https://www.geekwire.com/healthtech/
