@@ -76,6 +76,7 @@ CDM         | Common Data Model
 CDN         | Content Distribution Network
 CDO         | Chief Data Officer
 CDO         | Care Delivery Organizatoin
+CEP         | [Complex Event Processing](https://en.wikipedia.org/wiki/Complex_event_processing)
 CERN        | [European Organization for Nuclear Research](https://en.wikipedia.org/wiki/CERN), French: Organisation européenne pour la recherche nucléaire
 CGI         | [Common Gateway Interface](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
 CI          | Configuration Item (i.e. in a CMDB)
@@ -164,6 +165,7 @@ ENI         | Elastic Network Interface (re: AWS)
 EPLC        | Enterprise Performance Life Cycle 
 EPS         | Extrusion Prevention System (see DLP)
 ES          | ECMAScript (aka JavaScript)
+ESP         | [Event Stream Processing](https://en.wikipedia.org/wiki/Event_stream_processing)
 ETL         | Extract, Transform, Load
 EVM         | Earned Value Management
 FaaS        | Functions as a Service
