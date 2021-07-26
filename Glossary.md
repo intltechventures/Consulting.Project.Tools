@@ -110,6 +110,7 @@ CUI	    		| Controlled Unclassified Information (CUI), as defined by Executive O
 CVS         | Concurrent Version System
 CX          | Customer Experience
 CXN         | Customer Experience Network
+DA          | Data Architecture 
 DAC         | [Discretionary Access Control](https://en.wikipedia.org/wiki/Discretionary_access_control)
 DARPA       | Defense Advanced Research Projects Agency
 DARQ        | Distributed Ledger Technology (DLT), Artificial Intelligence (AI), Extended Reality (XR), Quantum Computing ~ re: Accenture
@@ -124,6 +125,7 @@ DDoS        | Distributed denial-of-service (i.e. a network traffic attack)
 DES         | [Data Encryption Standard](https://en.wikipedia.org/wiki/Data_Encryption_Standard)
 DFIR        | Digital Forensics, Incident Response  
 DHCP        | Dynamic Host Configuration Protocol 
+DIM         | Domain Information Model
 DLD			    | Detail-Level Design 
 DLM         | Database Life-cycle Management
 DLP         | [Data Loss Prevention](https://en.wikipedia.org/wiki/Data_loss_prevention_software)
@@ -238,6 +240,7 @@ IEEE        | [Institute of Electrical and Electronics Engineers](https://en.wik
 IETF        | Internet Engineering Task Force
 IGA         | Identity Governance and Administration, see IAM
 ILDP        | Information Leak Detection and Prevention (see DLP)
+IM          | Information Model
 INVEST      | Independent Negotiable Valuable Estimable Small Testable [(source)](http://wiki.c2.com/?InvestModelForUserStories)
 IOPS        | Input/Output Operations Per Second
 IoT         | Internet of Things
