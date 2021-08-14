@@ -153,6 +153,9 @@
 **\#210 - "A cracked window must be replaced. Same goes for someone that demonstrates a breach of integrity."**
 
 
+**\#211 - "Indecision in an organization is like rot in a wooden boat. It must be cut out - and replaced."**
+
+
 \#3xx - On Design 
 ====
 
