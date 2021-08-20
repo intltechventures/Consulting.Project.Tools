@@ -95,6 +95,7 @@ CORBA       | [Common Object Request Broker Architecture](https://en.wikipedia.o
 CORS        | Cross-Origin Resource Sharing
 CQRS        | Command Query Responsibility Segregation  
 CRC         | Class Responsibility Collaboration
+CRDT        | [Conflict-Free Replicated Data Type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
 CRF         | Conditional Random Fields 
 CRL         | Certificate Revocation List
 CRM         | Customer Relationship Management
@@ -405,6 +406,7 @@ PR          | Production Ready
 PR          | Proposed Recommendation 
 PR          | Pull Request
 PR          | Purchase Request
+PRR         | Production Readiness Reviews
 PSD2        | [Payment Services Directive](https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines_202006_psd2_afterpublicconsultation_en.pdf) (Directive 2015/2366/EU of the European
 Parliament andof the Council of 23 December 2015)
 PSM         | Persistent Stored Modules
