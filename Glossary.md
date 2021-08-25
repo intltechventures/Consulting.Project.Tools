@@ -113,6 +113,7 @@ CX          | Customer Experience
 CXN         | Customer Experience Network
 DA          | Data Architecture 
 DAC         | [Discretionary Access Control](https://en.wikipedia.org/wiki/Discretionary_access_control)
+DAR         | Decision Analysis and Resolution technique
 DARPA       | Defense Advanced Research Projects Agency
 DARQ        | Distributed Ledger Technology (DLT), Artificial Intelligence (AI), Extended Reality (XR), Quantum Computing ~ re: Accenture
 DAST        | Dynamic Application Security Testing
