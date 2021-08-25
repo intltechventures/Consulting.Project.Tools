@@ -478,6 +478,7 @@ SDN         | Software Defined Network
 SDP         | Software Defined Perimeter (also see VPN)
 SDR         | Sales Development Representative
 SI          | System Integrator
+SIAM        | Service Integration and Management
 SIMD        | [Single InstructionStream, Multiple Data Streams](https://en.wikipedia.org/wiki/SIMD)
 SISD        | [Single Instruction Stream, Single Data Stream](https://en.wikipedia.org/wiki/SISD)
 SLA         | Service Level Agreement
