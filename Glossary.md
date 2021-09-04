@@ -430,6 +430,7 @@ RASUI       | Reliability, Availability, Serviceability, Usability and Instabili
 RAT         | Reverse Address and Port Translation (see RAPT)
 RBAC        | [Role Based Access Control](https://en.wikipedia.org/wiki/Role-based_access_control)
 RCA         | Root Cause Analysis 
+RCE         | Remote Code Execution
 RDF         | [Resource Description Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework)
 RDN         | Relative Distinguished Name, re: LDAP
 REST        | [Representational State Transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)
