@@ -119,8 +119,7 @@ DARQ        | Distributed Ledger Technology (DLT), Artificial Intelligence (AI),
 DAST        | Dynamic Application Security Testing
 DBA         | Database Administrator
 DBMS        | Database Management System
-dc          | [Domain
-Component](https://en.wikipedia.org/wiki/Domain_Name_System), re: LDAP
+dc          | [Domain Component](https://en.wikipedia.org/wiki/Domain_Name_System), re: LDAP
 DC          | Data Center  
 DD          | Data Dictionary 
 DDoS        | Distributed denial-of-service (i.e. a network traffic attack)
@@ -138,6 +137,7 @@ DNAT        | Destination network address translation
 DNS         | [Domain Name
 System](https://en.wikipedia.org/wiki/Domain_Name_System)
 DoS         | Denial of Service 
+DP          | [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
 DR          | Disaster Recovery  
 DRB         | Design Review Board  
 DRY         | Don't Repeat Yourself
