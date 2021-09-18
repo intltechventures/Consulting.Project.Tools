@@ -3,7 +3,7 @@ cls
 REM 
 REM ***************************************************************************
 REM init_project.bat
-set version=1.3.5
+set version=1.3.6
 REM
 REM Client Project Directory Setup Script
 REM (Illustrative, Not Exhaustive)
@@ -15,7 +15,7 @@ REM Author: Kelvin D. Meeks
 REM Email: kmeeks@intltechventures.com 
 REM
 REM Created: 2019-06-28
-REM Update:  2021-09-15
+REM Update:  2021-09-18
 REM
 REM github file location
 REM https://github.com/intltechventures/Consulting.Project.Tools/blob/master/src/ProjectDirectoryStructure/init_project.bat
@@ -513,7 +513,7 @@ ECHO. >> info.txt
 echo Company URL: >> info.txt
 
 ECHO. >> info.txt
-echo Company URL, Executive Leadership Team: >> info.txt
+echo Company URL:, Executive Leadership Team: >> info.txt
 
 ECHO. >> info.txt
 echo Company LinkedIn URL: >> info.txt
@@ -523,6 +523,9 @@ echo Glassdoor URL: >> info.txt
 
 ECHO. >> info.txt 
 echo Twitter URL: >> info.txt
+
+ECHO. >> info.txt 
+echo YouTube URL: >> info.txt
 
 ECHO. >> info.txt
 ECHO. >> info.txt
@@ -534,7 +537,7 @@ ECHO. >> info.txt
 ECHO Tech Crunch URL: >> info.txt
 
 ECHO. >> info.txt
-ECHO Angel List URL >> info.txt
+ECHO Angel List URL: >> info.txt
 
 ECHO. >> info.txt
 echo # Employees: >> info.txt
