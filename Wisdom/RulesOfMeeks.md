@@ -118,6 +118,10 @@
     * The shitty Time Tracking system used internally by AT&T in 1996 - that was built on Lotus Notes
 
 
+**\#110 - "Hope is not a viable strategy. You must have a plan. You must execute against your plan.  And, you must continually
+reassess whether your plan is actually working"**
+
+
 
 \#2xx - On the Art of  Managing People
 ====
