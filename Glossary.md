@@ -549,6 +549,8 @@ UTF         | [Unicode Transformation Format](https://en.wikipedia.org/wiki/Unic
 UUID        | Universal Unique Identifier
 UX          | User Experience
 VA          | Validation Authority
+VAPT        | [Vulnerability Assessment and Penetration
+Testing](https://en.wikipedia.org/wiki/Vulnerability_assessment_(computing)#Vulnerability_assessment_vs_penetration_testing)
 vCPU        | Virtual Central Processing Unit
 VDI         | Virtual Disk Image 
 VHD         | Virtual Hard Disk 
