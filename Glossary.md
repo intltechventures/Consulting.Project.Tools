@@ -155,6 +155,7 @@ EAMS        | Enterprise Architecture Management Suite
 EAR			    | Export Administration Regulations
 ECA         | Embodied Conversational Agent(s)
 EBCIDIC     | [Extended Binary Coded Decimal Interchange Code](https://en.wikipedia.org/wiki/EBCDIC)
+EBIT        | Earnings Before Interest & Tax
 eBPF        | [extended Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter) - see BPF
 EBS         | Elastic Block Storage (AWS)
 EDA         | Event-Driven Architecture 
@@ -447,6 +448,7 @@ RION        | Raw Internet Object Notation
 RL          | Reinforcement Learning
 RMAD        | Rapid Mobile App Development  
 RMS         | Rights Management Service
+ROCE        | Return on Capital Employed 
 ROE         | Return on Equity  
 ROI         | Return on Investment  
 ROIT        | Return on Information Technology  
@@ -482,6 +484,7 @@ SI          | System Integrator
 SIAM        | Service Integration and Management
 SIMD        | [Single InstructionStream, Multiple Data Streams](https://en.wikipedia.org/wiki/SIMD)
 SISD        | [Single Instruction Stream, Single Data Stream](https://en.wikipedia.org/wiki/SISD)
+SKU         | [Stock Keeping Unit](https://en.wikipedia.org/wiki/Stock_keeping_unit)
 SLA         | Service Level Agreement
 SLES        | SUSE Linux Enterprise Server
 SLI         | [Service Level Indicator](https://landing.google.com/sre/resources/practicesandprocesses/art-of-slos/) - a quantifiable measure of service reliability
@@ -501,6 +504,7 @@ SOR         | System of Record
 SOW         | Statement of WOrk
 SPICE       | Simple Protocol for Independent Computing Environments (
 SPKI        | Simple Public Key Infrastructure
+SPOF        | [Single Point of Failure](https://en.wikipedia.org/wiki/Single_point_of_failure)
 SPOT        | Single Point Of Truth
 SQL         | Sales Qualified Lead
 SQL         | Structured Query Language
