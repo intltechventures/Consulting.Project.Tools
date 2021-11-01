@@ -11,6 +11,11 @@
 
 - Tom Johnson
   + https://idratherbewriting.com/
+    * Selected Blog Posts, illustrative - not exhaustive:
+      * [Technical writing course Q&A -- 'Become a Technical Writer', with Bobby
+        Kennedy](https://idratherbewriting.com/blog/technical-writing-course-become-a-technical-writer-bobby-kennedy/)
+
+        
 
 - Write The Docs
   + https://www.writethedocs.org
