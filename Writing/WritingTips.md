@@ -1,6 +1,11 @@
 
 # Writing Tips
 
+## General References
+
+- https://en.wikipedia.org/wiki/Technical_writing
+
+
 
 ## Web Sites
 
@@ -17,13 +22,34 @@
 
 ## Technical Writing Courses
 
-- Google
+- Google.com
   + https://developers.google.com/tech-writing
+
+
+- Coursera.org
+  + Technical Writing
+    * This course is part of the English for Research Publication Purposes Specialization
+    * https://www.coursera.org/learn/technical-writing
 
 
 - University of Arkansas at Little Rock (UALR)
   + RHET 3326 Technical Writing 
     * https://ualr.edu/online/courses/rhet-3326-technical-writing/
+
+
+- University of Wisconcsin, Eau CLaire
+  + Continuing Education, Technical Writing: Online Certificate Programs and Classes
+    * https://ce.uwec.edu/professional-development/leadership-management/technical-writing-online-certificate-programs-classes/
+
+
+- LearningTree.com
+  + Introduction To Technical Writing Training
+    * https://www.learningtree.com/courses/319/introduction-to-technical-writing-training/
+
+
+- Udemy.com
+  + Technical Writing Courses
+    * https://www.udemy.com/topic/technical-writing/
 
 
 ## Books
