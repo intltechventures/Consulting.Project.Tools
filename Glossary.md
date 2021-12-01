@@ -62,6 +62,7 @@ BPS         | Bits Per Second
 BRD         | Business Requirements Document  
 BRM         | Business Reference Model  
 BSD         | [Berkeley Software Distribution](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
+C5          | Command, Control, Computers, Communications and Cyber 
 C&A         | Certification & Accreditation
 CA          | Certificate Authority
 CAAS        | Container as a Service
