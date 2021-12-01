@@ -332,6 +332,7 @@ MQL         | Marketing Qualified Lead
 MRR         | Monthly Recurring Revenue
 MSA         | Microservices Architecture  
 MSA         | Master Service Agreement
+MSP         | [Managed Service Provider](https://en.wikipedia.org/wiki/Managed_services)
 MTD         | Maximum Tolerable Downtime
 mTLS        | Mutual Transport Layer Security
 MTS         | Multidimensional Type Structure (e.g. [Thomsen Diagrams](https://en.wikipedia.org/wiki/Thomsen_Diagrams))
