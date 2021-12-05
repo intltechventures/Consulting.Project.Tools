@@ -872,3 +872,10 @@ __These are the primary software programs that I typically have installed on my 
   * Conflicts with running Docker
 
 
+
+# Future Wishlist Software to Acquire 
+
+- SolidWorks
+  + https://www.solidworks.com/
+  + https://www.solidworks.com/how-to-buy
+  + https://en.wikipedia.org/wiki/SolidWorks
