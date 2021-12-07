@@ -192,6 +192,7 @@ FQDN        | Fully Qualified Domain Name
 FSDG        |[ (GNU) Free System Distribution Guidelines](https://www.gnu.org/distros/free-system-distribution-guidelines.html)
 FTP         | [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
 FWaaS       | FireWall-as-a-Service 
+GA          | Google Analytics
 GADTs       | Generalized Algebraic Data Types
 GCC         | Government Community 
 GCHQ        | British intelligence agency [Government Communications Headquarters](https://en.wikipedia.org/wiki/Government_Communications_Headquarters)
@@ -424,7 +425,7 @@ QMT         | Quality Monitoring Team
 QoS         | Quality of Service
 RA          | Registration Authority
 RAA         | Responsibility, Accountability, Authority 
-RACI        | Responsible, Accountable, Consulted, Informed  
+RACI        | Responsible, Accountable, Consult, Inform  
 RAD         | Rapid Application Development 
 RAML        | REST API Modeling Language (RAML)
 RAPT        | Reverse Address and Port Translation (see RAT)
@@ -485,6 +486,7 @@ SDR         | Sales Development Representative
 SI          | System Integrator
 SIAM        | Service Integration and Management
 SIMD        | [Single InstructionStream, Multiple Data Streams](https://en.wikipedia.org/wiki/SIMD)
+SIPOC       | Supplier, Input, Process, Output, Customer
 SISD        | [Single Instruction Stream, Single Data Stream](https://en.wikipedia.org/wiki/SISD)
 SKU         | [Stock Keeping Unit](https://en.wikipedia.org/wiki/Stock_keeping_unit)
 SLA         | Service Level Agreement
