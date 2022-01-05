@@ -379,6 +379,7 @@ OOA/D       | Object Oriented Analysis and Design
 OOD         | Object Oriented Design 
 OOP         | Object Oriented Programming 
 OPA         | Open Policy Agent
+OTC         | Order-to-Cash
 OTP         | One-Time Passcode
 ou          | Organizational Unit, re: LDAP 
 OWL         | [Web Ontology Language](https://en.wikipedia.org/wiki/Web_Ontology_Language)
@@ -415,6 +416,7 @@ PRR         | Production Readiness Reviews
 PSD2        | [Payment Services Directive](https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines_202006_psd2_afterpublicconsultation_en.pdf) (Directive 2015/2366/EU of the European
 Parliament andof the Council of 23 December 2015)
 PSM         | Persistent Stored Modules
+PTP         | Procure-to-Pay
 QA          | [Quality Assurance](https://en.wikipedia.org/wiki/Quality_assurance)
 QAQA        | Quantum Approximate Optimization Algorithm
 QI          | Quality Improvement 
@@ -465,6 +467,7 @@ RTE         | Release Train Engineer
 RTF         | Runtime Fabric (re: MuleSoft)
 RTFM        | Read The Freaking Manual
 RTM         | Requirements Traceability Matrix
+RTR         | Record-to-Report
 RTT         | Round-Trip Time  
 RTO         | Recovery Time Objective  
 RSA         | [Rivest–Shamir–Adleman](https://en.wikipedia.org/wiki/RSA_(cryptosystem), re: one of the first public-key cryptosystems
