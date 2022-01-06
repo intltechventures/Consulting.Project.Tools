@@ -62,6 +62,7 @@ BPS         | Bits Per Second
 BRD         | Business Requirements Document  
 BRM         | Business Reference Model  
 BSD         | [Berkeley Software Distribution](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
+BYOD        | Bring Your Own Device
 C5          | Command, Control, Computers, Communications and Cyber 
 C&A         | Certification & Accreditation
 CA          | Certificate Authority
@@ -83,6 +84,7 @@ CGI         | [Common Gateway Interface](https://en.wikipedia.org/wiki/Common_Ga
 CI          | Configuration Item (i.e. in a CMDB)
 CI          | Continuous Integration
 CI/CD       | Continuous Integration / Continuous Delivery (or, Continous Deployment)
+CIA         | Confidentiality, Integrity, Availability
 CID         | Command Identifier
 CIF         | Customer Information File  
 CIFS        | Common Internet File System
@@ -90,6 +92,7 @@ CIO         | Chief Information Officer
 CLI         | Command Line Interface
 CMDB        | Configuration Management Database
 CMF         | Content Monitoring and Filtering (see DLP)
+CMM         | Capability Maturity Model
 cn          | Common Name, re: LDAP
 CNAB        | [Cloud Native Application Bundles](https://cnab.io/)
 CORBA       | [Common Object Request Broker Architecture](https://en.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture)
@@ -117,13 +120,14 @@ DAC         | [Discretionary Access Control](https://en.wikipedia.org/wiki/Discr
 DAR         | Decision Analysis and Resolution technique
 DARPA       | Defense Advanced Research Projects Agency
 DARQ        | Distributed Ledger Technology (DLT), Artificial Intelligence (AI), Extended Reality (XR), Quantum Computing ~ re: Accenture
+DAS         | Direct Attached Storage 
 DAST        | Dynamic Application Security Testing
 DBA         | Database Administrator
 DBMS        | Database Management System
 dc          | [Domain Component](https://en.wikipedia.org/wiki/Domain_Name_System), re: LDAP
 DC          | Data Center  
 DD          | Data Dictionary 
-DDoS        | Distributed denial-of-service (i.e. a network traffic attack)
+DDoS        | Distributed Denial-of-Service (i.e. a network traffic attack)
 DES         | [Data Encryption Standard](https://en.wikipedia.org/wiki/Data_Encryption_Standard)
 DFIR        | Digital Forensics, Incident Response  
 DHCP        | Dynamic Host Configuration Protocol 
@@ -166,13 +170,16 @@ EHR         | Electronic Health Record(s)
 ELF         | [Executable and Linkable Format](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
 ELT         | Extract, Load, Transform
 EME         | [Encrypted Media Extensions](https://en.wikipedia.org/wiki/Encrypted_Media_Extensions), re: W3C HTML5 recommendations
+EMEA        | Europe, the Middle East, and Africa
 EMS         | [Execution Management System](https://en.wikipedia.org/wiki/Execution_management_system)
 ENI         | Elastic Network Interface (re: AWS)
 EPLC        | Enterprise Performance Life Cycle 
 EPS         | Extrusion Prevention System (see DLP)
+ERM         | Enterprise Risk Management 
 ES          | ECMAScript (aka JavaScript)
 ESP         | [Event Stream Processing](https://en.wikipedia.org/wiki/Event_stream_processing)
 ETL         | Extract, Transform, Load
+EU          | European Union 
 EVM         | Earned Value Management
 FaaS        | Functions as a Service
 FAIL        | First Attempt In Learning (i.e. agile)
@@ -228,12 +235,14 @@ HTML        | Hyper Text Markup Language
 HTTP        | [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 HTTPS       | Hypertext Transfer Protocol Secure
 HW          | Hardware
+IA          | Information Assurance
 IaaS        | Infrastructure as a Service  
 IaC         | Infrastructure as Code
 IAM         | [Identity and Access Management](https://en.wikipedia.org/wiki/Identity_management)
 IAST        | Integrated Application Security Testing
 IC          | Individual Contributor
 ICMP        | Internet Control Message Protocol 
+ICT         | Information Communications and Technology 
 IdAM        | See IAM
 IDE         | Integrated Development Environment    
 IDL         | [Interface Description Language](https://en.wikipedia.org/wiki/Interface_description_language)
@@ -245,6 +254,7 @@ IEEE        | [Institute of Electrical and Electronics Engineers](https://en.wik
 IETF        | Internet Engineering Task Force
 IGA         | Identity Governance and Administration, see IAM
 ILDP        | Information Leak Detection and Prevention (see DLP)
+IM          | Incident Management 
 IM          | Information Model
 INVEST      | Independent Negotiable Valuable Estimable Small Testable [(source)](http://wiki.c2.com/?InvestModelForUserStories)
 IOPS        | Input/Output Operations Per Second
@@ -259,10 +269,11 @@ IR          | Information Retrieval
 IRM         | Individual Rights Management
 ISA         | [Instruction Set Architecture](https://en.wikipedia.org/wiki/Instruction_set_architecture)
 iSCI        | Internet Small Computer System Interface
-ISPF        | [Interactive System Productivity Facility](https://en.wikipedia.org/wiki/ISPF), re: IBM mainframe software product
+ISMS        | Information Security Management System
 ISO         | [International Standards Organization](https://en.wikipedia.org/wiki/International_Organization_for_Standardization)
 ISOC        | [Internet Society](https://en.wikipedia.org/wiki/Internet_Society)
 ISP         | Internet Service Provider
+ISPF        | [Interactive System Productivity Facility](https://en.wikipedia.org/wiki/ISPF), re: IBM mainframe software product
 ISRS        | Information Storage and Retrieval System
 IT          | Information Technology  
 ITAR		    | International Traffic in Arms Regulations
@@ -302,10 +313,12 @@ LSA         | Local Service Agreement
 LSM         | [Log-Structured Merge-Tree](https://en.wikipedia.org/wiki/Log-structured_merge-tree)
 LU          | Logical Unit  
 LVM         | Logical Volume Manager
+MAO         | Maximum Acceptable Outage
 MAC         | Machine Access Control 
 MAC         | [Mandatory Access Control](https://en.wikipedia.org/wiki/Mandatory_access_control)
 MAU         | Monthly Active Users
 MBaaS       | Mobile Back End as a Service
+MBCO        | Minimum Business Continuity Objective 
 MD          | Markdown Language 
 MDA         | Multi-Dimensional Analytical (i.e.  queries)
 MDAP        | Mobile Application Development Platform  
@@ -337,6 +350,8 @@ MSA         | Master Service Agreement
 MSP         | [Managed Service Provider](https://en.wikipedia.org/wiki/Managed_services)
 MTD         | Maximum Tolerable Downtime
 mTLS        | Mutual Transport Layer Security
+MTDL        | Maximum Tolerable Data Loss
+MTPD        | Maximum Tolerable Period of Disruption 
 MTS         | Multidimensional Type Structure (e.g. [Thomsen Diagrams](https://en.wikipedia.org/wiki/Thomsen_Diagrams))
 MTU         | Maximum Transmission Unit. Maximum frame or packet size for a particular network medium.
 MUPS        | Minimum Usable Products/Services
@@ -365,6 +380,7 @@ NTP         | Network Time Protocol
 OASIS       | Organization for the Advancement of Structured Information Systems
 OCI         | Open Container Initiative
 OCM         | Organizational Change Management
+OCTAVE      | Operationally Critical Threat, Asset, and Vulnerability Evaluation 
 OData       | Open Data Protocol 
 ODBC        | Open Database Connectivity
 OID         | Object Identifier
@@ -386,17 +402,20 @@ OWL         | [Web Ontology Language](https://en.wikipedia.org/wiki/Web_Ontology
 PaaS        | Platform as a Service  
 PAM         | Pluggable Authentication Modules
 PAP         | Policy Administration Point
+PAS         | Publicly Available Specification
 PASETO      | platform-agnostic security tokens
 PBI         | Product Backlog Item (i.e. Scrum)
 PBL         | Product Backlog (i.e. Scrum)
 PCI DSS     | Payment Card Industry Data Security Standard
-PDCA        | Plan-Do-Check-Adjust (Shewhart’s PDCA cycle)
+PDCA        | Plan-Do-Check-Adjust (Shewhart’s PDCA cycle, aka the Deming Cycle)
+PDSA        | Plan-Do-Study-Act
 PDP         | Policy Decision Point
 PDSA        | Plan-Do-Stuy-Act
 PGP         | [Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
 PHI			    | Protected Health Information (re: HIPPA) 
 PI          | Program Increment (re: Scaled Agile Framework, SAFe)
 PII			    | Personally Identifiable Information
+PIN         | Personal Identification Number 
 PITR        | Point In Time Recovery
 PKCE        | Proof Key for Code Exchange (pronounced "pixy"), re: [RFC
 7636](https://tools.ietf.org/html/rfc7636)
@@ -429,6 +448,7 @@ RA          | Registration Authority
 RAA         | Responsibility, Accountability, Authority 
 RACI        | Responsible, Accountable, Consult, Inform  
 RAD         | Rapid Application Development 
+RAID        | Redundant Array of Independent Disks
 RAML        | REST API Modeling Language (RAML)
 RAPT        | Reverse Address and Port Translation (see RAT)
 RAS         | Redundancy, Availability, Serviceability  
@@ -475,6 +495,7 @@ SAD         | Solution Architecture Design
 SAFe        | Scaled Agile Framework
 SAM         | Successive Approximation Model, created by Allen Interactions 
 SAML        | Security Assertion Markup Language
+SAN         | Storage Area Networks 
 SAST        | Static Application Security Testing
 SAW         | Statement of Architecture Work
 SBE         | Specification by Example
@@ -486,6 +507,8 @@ SDLP        | Systems Development Lifecycle Process
 SDN         | Software Defined Network
 SDP         | Software Defined Perimeter (also see VPN)
 SDR         | Sales Development Representative
+SFIA        | [Skills Framework for the Information
+Age](https://en.wikipedia.org/wiki/Skills_Framework_for_the_Information_Age)
 SI          | System Integrator
 SIAM        | Service Integration and Management
 SIMD        | [Single InstructionStream, Multiple Data Streams](https://en.wikipedia.org/wiki/SIMD)
@@ -567,6 +590,7 @@ VDI         | Virtual Disk Image
 VHD         | Virtual Hard Disk 
 VIF         | Virtual Network InterFace
 VIP         | Virtual IP address
+VLAN        | Virtual Local Area Network 
 VM          | Virtual Machine
 VMI         | Virtual Machine Image 
 VNC         | Virtual Network Computing
@@ -578,9 +602,11 @@ W3          | World Wide Web (i.e. WWW)
 W3C         | [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium)
 WAF         | Web Application Firewall
 WAL         | [Write-ahead Logging](https://en.wikipedia.org/wiki/Write-ahead_logging))
+WAP         | Wireless Access Point 
 wasm        | [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly)
 WCCP        | [Web Cache Communication Protocol](https://en.wikipedia.org/wiki/Web_Cache_Communication_Protocol)
 WD          | Working Draft
+Wi-Fi       | Wireless Fidelity
 WIP         | Work nn Progress
 WLM         | Work Lifecycle Management
 WoT         | Web of Trust
