@@ -164,6 +164,7 @@ EBIT        | Earnings Before Interest & Tax
 eBPF        | [extended Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter) - see BPF
 EBS         | Elastic Block Storage (AWS)
 EDA         | Event-Driven Architecture 
+EDR         | endpoint detection & response (i.e., cybersecurity security software)
 EDW         | Enterprise Data Warehouse (also see DW, DWH)
 EFF         | [Electronic Frontier Foundation](https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation)
 EHR         | Electronic Health Record(s)
