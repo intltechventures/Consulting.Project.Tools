@@ -160,6 +160,11 @@ reassess whether your plan is actually working"**
 **\#211 - "Indecision in an organization is like rot in a wooden boat. It must be cut out - and replaced."**
 
 
+**\#212 - "There are some folks - that even if you give them explicit written instructions on how to wipe their ass, and blow
+their nose - will still end up walking around with shit all over their faces."**
+
+
+
 \#3xx - On Design 
 ====
 
