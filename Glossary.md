@@ -47,7 +47,7 @@ AST         | Application Security Testing
 ATDD        | Acceptance-Test-Driven-Development
 AUC         | Area Under the Curve
 B2B         | Business-to-Business
-B2C         | Business-to-Customer
+B2C         | Business-to-Consumer
 BDD         | [Behavior-Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
 BDUF        | Big Design Up Front
 BGP         | Border Gateway Protocol
@@ -97,6 +97,7 @@ cn          | Common Name, re: LDAP
 CNAB        | [Cloud Native Application Bundles](https://cnab.io/)
 CORBA       | [Common Object Request Broker Architecture](https://en.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture)
 CORS        | Cross-Origin Resource Sharing
+CPG         | Consumer Packaged Goods (e.g. industry)
 CQRS        | Command Query Responsibility Segregation  
 CRC         | Class Responsibility Collaboration
 CRDT        | [Conflict-Free Replicated Data Type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
@@ -150,6 +151,7 @@ DSA         | [Digital Signature Algorithm](https://en.wikipedia.org/wiki/Digita
 DSL         | Domain Specific Language
 DSML        | Data Science and Machine Learning
 DSN         | Data Source Name  
+DTC         | direct-to-consumer
 DVI         | [Device Independent file format](https://en.wikipedia.org/wiki/Device_independent_file_format)
 DVR         | Distributed Virtual Router
 DW          | Data Warehouse (also see DWH, EDW)
@@ -623,3 +625,4 @@ XSL         | XML Style Language
 XSLT        | [eXtensible Stylesheet Language Transformations](https://en.wikipedia.org/wiki/XSLT)
 XSTL        | XML Transformation Language 
 YAGNI       | You Aren't Gonna Need It 
+3PL         | Third-Party Logistics providers 
