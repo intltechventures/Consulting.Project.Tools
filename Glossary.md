@@ -95,6 +95,7 @@ CMF         | Content Monitoring and Filtering (see DLP)
 CMM         | Capability Maturity Model
 cn          | Common Name, re: LDAP
 CNAB        | [Cloud Native Application Bundles](https://cnab.io/)
+CNCF        | [Cloud Native Computing Foundation]9https://www.cncf.io/)
 CORBA       | [Common Object Request Broker Architecture](https://en.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture)
 CORS        | Cross-Origin Resource Sharing
 CPG         | Consumer Packaged Goods (e.g. industry)
