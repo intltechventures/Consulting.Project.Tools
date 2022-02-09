@@ -113,6 +113,7 @@ CRL         | Certificate Revocation List
 CRM         | Customer Relationship Management
 CRUD        | Create, Read, Update, Delete
 CSD         | Consolidated Service Desk
+CSDM        | [Common Service Data Model](https://docs.servicenow.com/bundle/paris-servicenow-platform/page/product/csdm-implementation/concept/csdm-basics.html) (re: ServiceNow)
 CSI         | Container Storage Interface (e.g. Kubernetes)
 CSM         | Customer Success Manager
 CSR         | Customer Service Representative
@@ -565,6 +566,7 @@ SME         | Subject Matter Expert
 SMURFS      | Specifically Marketable, Useful, Releasable Feature Sets ([source](https://www.agileconnection.com/article/instead-mvps-maybe-we-should-be-releasing-smurfs)
 sn          | Surname, re: LDAP
 SNAFU       | Situation Normal, All Fucked Up
+SNOW        | [ServiceNow](https://www.servicenow.com/)
 SO          | Sales Order
 SOP         | Standard Operating Procedure
 SOA         | [Service Oriented Architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture)
