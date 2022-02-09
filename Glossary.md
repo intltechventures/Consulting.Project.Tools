@@ -148,8 +148,7 @@ DLT         | Distributed Ledger Technology
 DMAIC       | [Define, Measure, Analayze, Improve, Control](https://en.wikipedia.org/wiki/DMAIC) (re: Six Sigma)
 DN          | Distinguished Name, re: LDAP
 DNAT        | Destination network address translation
-DNS         | [Domain Name
-System](https://en.wikipedia.org/wiki/Domain_Name_System)
+DNS         | [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System)
 DoS         | Denial of Service 
 DP          | [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
 DR          | Disaster Recovery  
