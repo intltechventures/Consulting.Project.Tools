@@ -11,13 +11,11 @@ ABC         | Area of Business Concern
 ABNF        | Augmented Backus-Naur Form (see [RFC-5234](https://tools.ietf.org/html/rfc5234))
 AC          | [Axiom of Choice](https://en.wikipedia.org/wiki/Axiom_of_choice)
 ACL         | Access Control List
-ACME        | [Automatic Certificate Management
-Environment](https://en.wikipedia.org/wiki/Automated_Certificate_Management_Environment), alsos see [RFC 8555](https://tools.ietf.org/html/rfc8555)
+ACME        | [Automatic Certificate Management Environment](https://en.wikipedia.org/wiki/Automated_Certificate_Management_Environment), alsos see [RFC 8555](https://tools.ietf.org/html/rfc8555)
 ACV         | Annual Contract Value 
 AD          | Application Delivery  
 AD          | Active Directory
-ADA         | [The Americans with Disabilities Act of 1990 or ADA (42 U.S.C. §
-12101)](https://en.wikipedia.org/wiki/Americans_with_Disabilities_Act_of_1990)
+ADA         | [The Americans with Disabilities Act of 1990 or ADA (42 U.S.C. § 12101)](https://en.wikipedia.org/wiki/Americans_with_Disabilities_Act_of_1990)
 ADDIE       | (analyze, design, development, implement, evaluate) a methodology developed by Florida State University for the U.S. Army as a repeatable and standard set of tasks to create training.  [Wikipedia Article](https://en.wikipedia.org/wiki/ADDIE_Model)
 ADT         | Algebraic Data Type
 AFCE        | Authorization for Capital Expenditure
@@ -26,8 +24,7 @@ AKI         | Amazon Kernel Image
 ALM         | Application Lifecycle Management
 AMI         | Amazon Machine Image
 AMS         | Application Managed Service
-AMQP        | [Advanced Message Queuing
-Protocol](https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol)
+AMQP        | [Advanced Message Queuing Protocol](https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol)
 ANN         | Artificial Neural Network
 ANSI        | [American National Standards Institute](https://en.wikipedia.org/wiki/American_National_Standards_Institute)
 AOP         | Aspect Oriented Programming
@@ -36,8 +33,7 @@ aPaaS       | Application Platform as a Service
 APAC        | Asia/Pacfic
 API         | [Application Programming Interface ](https://en.wikipedia.org/wiki/Application_programming_interface)
 APM         | Application Portfolio Management  
-APM         | [Application Performance
-Management](https://en.wikipedia.org/wiki/Application_performance_management)
+APM         | [Application Performance Management](https://en.wikipedia.org/wiki/Application_performance_management)
 APM         | Application Performance Monitoring
 ARB         | Architecture Review Board  
 ARI         | Amazon Ramdisk Image
@@ -179,8 +175,7 @@ eBPF        | [extended Berkeley Packet Filter](https://en.wikipedia.org/wiki/Be
 EBS         | Elastic Block Storage (AWS)
 EDA         | Event-Driven Architecture 
 EDI         | Electronic Data Interchange
-EDIFECT     | [Electronic Data Interchange for Administration, Commerce and
-Transport](https://en.wikipedia.org/wiki/EDIFACT)
+EDIFECT     | [Electronic Data Interchange for Administration, Commerce and Transport](https://en.wikipedia.org/wiki/EDIFACT)
 EDR         | endpoint detection & response (i.e., cybersecurity security software)
 EDW         | Enterprise Data Warehouse (also see DW, DWH)
 EEA         | European Economic Area
@@ -208,9 +203,7 @@ FAIL        | First Attempt In Learning (i.e. agile)
 FC          | Fulfillment Center, i.e., a third-party logics (3PL) warehouse
 FCoE        | Fibre Channel over Ethernet 
 FDL         | (GNU) Free Documentation License
-FHE         | Fully [Homomorphic
-Encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption) (e.g.,
-[IBM](https://www.ibm.com/security/services/homomorphic-encryption_)
+FHE         | Fully [Homomorphic Encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption) (e.g., [IBM](https://www.ibm.com/security/services/homomorphic-encryption_)
 FHIR        | Fast Healthcare Interoperability Resources (a draft standard describing data formats and elements and an application programming interface for exchanging electronic health records)
 FIDO        | Fast Identity Online
 FIPS        | [Federal Information Processing Standard](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards), re: FIPS PUB 140-2
@@ -306,12 +299,10 @@ ITAR		    | International Traffic in Arms Regulations
 ITIRB       | Information Technology Investment Review Board
 ITSM        | IT Service Management
 IX          | Internet Exchange
-JCP         | [Java Community
-Process](https://en.wikipedia.org/wiki/Java_Community_Process)
+JCP         | [Java Community Process](https://en.wikipedia.org/wiki/Java_Community_Process)
 JDBC        | Java Database Connectivity
 JIT         | Just in Time
-JMS         | [Jakarta Messaging (formerly  Java Messaging
-Service)](https://en.wikipedia.org/wiki/Jakarta_Messaging), re: JSR 343
+JMS         | [Jakarta Messaging (formerly  Java Messaging Service)](https://en.wikipedia.org/wiki/Jakarta_Messaging), re: JSR 343
 JSON        | [JavaScript Object Notation](https://en.wikipedia.org/wiki/JSON)
 JRT         | Java Routines and Types
 JSR         | [Java Specification Request](https://www.jcp.org/en/jsr/all)
@@ -327,12 +318,8 @@ KVS         | Key-Value Storage
 LAN         | Local Area Network
 LBaaS       | Load-Balancer-as-a-Service
 LCC         | Lower Camel Case
-LDAP        | [Lightweight Directory Access
-Protocol](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol)
-LDIF        | [LDAP Data Interchange
-Format](https://en.wikipedia.org/wiki/LDAP_Data_Interchange_Format), [RFC 2849 The
-LDAP Data Interchange Format (LDIF) - Technical
-Specification](https://tools.ietf.org/html/rfc2849)
+LDAP        | [Lightweight Directory Access Protocol](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol)
+LDIF        | [LDAP Data Interchange Format](https://en.wikipedia.org/wiki/LDAP_Data_Interchange_Format), [RFC 2849 The LDAP Data Interchange Format (LDIF) - Technical Specification](https://tools.ietf.org/html/rfc2849)
 LEM         | [Law of Excluded Middle](https://en.wikipedia.org/wiki/Law_of_excluded_middle)
 LeSS        | [Large Scale Scrum](https://less.works/)
 LGPL        | (GNU) Lesser General Public License 
@@ -454,8 +441,7 @@ PI          | Program Increment (re: Scaled Agile Framework, SAFe)
 PII			    | Personally Identifiable Information
 PIN         | Personal Identification Number 
 PITR        | Point In Time Recovery
-PKCE        | Proof Key for Code Exchange (pronounced "pixy"), re: [RFC
-7636](https://tools.ietf.org/html/rfc7636)
+PKCE        | Proof Key for Code Exchange (pronounced "pixy"), re: [RFC 7636](https://tools.ietf.org/html/rfc7636)
 PKI         | [Public Key Infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure)
 PM          | Project Management
 PM          | Project Manager
@@ -473,8 +459,7 @@ PR          | Proposed Recommendation
 PR          | Pull Request
 PR          | Purchase Request
 PRR         | Production Readiness Reviews
-PSD2        | [Payment Services Directive](https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines_202006_psd2_afterpublicconsultation_en.pdf) (Directive 2015/2366/EU of the European
-Parliament andof the Council of 23 December 2015)
+PSD2        | [Payment Services Directive](https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines_202006_psd2_afterpublicconsultation_en.pdf) (Directive 2015/2366/EU of the European Parliament andof the Council of 23 December 2015)
 PSM         | Persistent Stored Modules
 PTP         | Procure-to-Pay
 QA          | [Quality Assurance](https://en.wikipedia.org/wiki/Quality_assurance)
@@ -559,15 +544,12 @@ SDR         | Sales Development Representative
 SEO         | Search Engine Optimization
 SFCC        | [Salesforce Commerce Cloud](https://www.salesforce.com/products/commerce-cloud/overview/)
 SFDC        | SalesForce DotCom
-SFIA        | [Skills Framework for the Information
-Age](https://en.wikipedia.org/wiki/Skills_Framework_for_the_Information_Age)
-SFRA        | [Storefront Reference
-Architecture](https://documentation.b2c.commercecloud.salesforce.com/DOC2/index.jsp?topic=%2Fcom.demandware.dochelp%2Fcontent%2Fb2c_commerce%2Ftopics%2Fsfra%2Fb2c_sfra.html) (i.e., Salesforce B2C Commerce)
+SFIA        | [Skills Framework for the Information Age](https://en.wikipedia.org/wiki/Skills_Framework_for_the_Information_Age)
+SFRA        | [Storefront Reference Architecture](https://documentation.b2c.commercecloud.salesforce.com/DOC2/index.jsp?topic=%2Fcom.demandware.dochelp%2Fcontent%2Fb2c_commerce%2Ftopics%2Fsfra%2Fb2c_sfra.html) (i.e., Salesforce B2C Commerce)
 SFTP        | Secure File Transfer Protocol
 SI          | System Integrator
 SIAM        | Service Integration and Management
-SIEM        | [Security Information and Event
-Management](https://en.wikipedia.org/wiki/Security_information_and_event_management)
+SIEM        | [Security Information and Event Management](https://en.wikipedia.org/wiki/Security_information_and_event_management)
 SIMD        | [Single InstructionStream, Multiple Data Streams](https://en.wikipedia.org/wiki/SIMD)
 SIPOC       | Supplier, Input, Process, Output, Customer
 SISD        | [Single Instruction Stream, Single Data Stream](https://en.wikipedia.org/wiki/SISD)
@@ -636,8 +618,7 @@ TTL         | Time To Live
 TTP         | Trusted Third Party
 TXN         | Transaction
 UAT         | User Acceptance Testing
-UCaaS       | [Unified Communications as a
-Service](https://en.wikipedia.org/wiki/Unified_communications_as_a_service)
+UCaaS       | [Unified Communications as a Service](https://en.wikipedia.org/wiki/Unified_communications_as_a_service)
 UDDI        | Universal Description, Discovery, & Integration
 UDEF        | Universal Data Element Framework
 UDF         | User Defined File
@@ -652,8 +633,7 @@ UTF         | [Unicode Transformation Format](https://en.wikipedia.org/wiki/Unic
 UUID        | Universal Unique Identifier
 UX          | User Experience
 VA          | Validation Authority
-VAPT        | [Vulnerability Assessment and Penetration
-Testing](https://en.wikipedia.org/wiki/Vulnerability_assessment_(computing)#Vulnerability_assessment_vs_penetration_testing)
+VAPT        | [Vulnerability Assessment and Penetration Testing](https://en.wikipedia.org/wiki/Vulnerability_assessment_(computing)#Vulnerability_assessment_vs_penetration_testing)
 VAS         | Value-Added Services
 vCPU        | Virtual Central Processing Unit
 VDI         | Virtual Disk Image 
