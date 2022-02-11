@@ -563,6 +563,7 @@ SLO         | Single Log-out
 SMART       | Specific, Measurable, Attainable, Realistic
 SMART       | SMART (Substitutable Medical Applications, Reusable Technologies)
 SME         | Subject Matter Expert
+SMO         | Service Management Office
 SMURFS      | Specifically Marketable, Useful, Releasable Feature Sets ([source](https://www.agileconnection.com/article/instead-mvps-maybe-we-should-be-releasing-smurfs)
 sn          | Surname, re: LDAP
 SNAFU       | Situation Normal, All Fucked Up
