@@ -3,7 +3,7 @@ cls
 REM 
 REM ***************************************************************************
 REM init_project.bat
-set version=1.3.8
+set version=1.3.9
 REM
 REM Client Project Directory Setup Script
 REM (Illustrative, Not Exhaustive)
@@ -15,7 +15,7 @@ REM Author: Kelvin D. Meeks
 REM Email: kmeeks@intltechventures.com 
 REM
 REM Created: 2019-06-28
-REM Update:  2021-10-31
+REM Update:  2022-02-14
 REM
 REM github file location
 REM https://github.com/intltechventures/Consulting.Project.Tools/blob/master/src/ProjectDirectoryStructure/init_project.bat
@@ -198,6 +198,8 @@ mkdir admin\contracts\%year%\90_COI
 
 mkdir admin\facilities\locations
 mkdir admin\facilities\parking
+mkdir admin\holidays
+mkdir admin\holidays\%year%
 mkdir admin\housing
 mkdir admin\HR
 mkdir admin\invoices\%year%\%month%
