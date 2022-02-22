@@ -5,6 +5,7 @@ This glossary is intended to provide a single refernce to be reused across multi
 
 |Term | Definition|
 |-----|-----------|
+2FA         | Two-Factor Authentication
 3PL         | Third-Party Logistics providers
 ABC         | Activity Based Costing
 ABC         | Area of Business Concern
@@ -23,6 +24,7 @@ AI          | Artificial Intelligence
 AKI         | Amazon Kernel Image
 ALM         | Application Lifecycle Management
 AMI         | Amazon Machine Image
+AML         | Anti-Money Laundering
 AMS         | Application Managed Service
 AMQP        | [Advanced Message Queuing Protocol](https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol)
 ANN         | Artificial Neural Network
@@ -80,6 +82,7 @@ CD          | Candidate Recommendation
 CD          | Continuous Delivery
 CDC         | Change Data Capture
 CDE         | Cardholder Data Environment
+CDI         | Contexts and Dependency Injection 
 CDM         | Common Data Model
 CDN         | Content Distribution Network
 CDO         | Chief Data Officer
@@ -98,12 +101,14 @@ CIO         | Chief Information Officer
 CLI         | Command Line Interface
 CMDB        | Configuration Management Database
 CMF         | Content Monitoring and Filtering (see DLP)
+CMDB        | Configuration Management Database 
 CMM         | Capability Maturity Model
 cn          | Common Name, re: LDAP
 CNAB        | [Cloud Native Application Bundles](https://cnab.io/)
 CNCF        | [Cloud Native Computing Foundation]9https://www.cncf.io/)
 CORBA       | [Common Object Request Broker Architecture](https://en.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture)
 CORS        | Cross-Origin Resource Sharing
+COTS        | Commercial Off-The-Shelf
 CPG         | Consumer Packaged Goods (e.g. industry)
 CQRS        | Command Query Responsibility Segregation  
 CRC         | Class Responsibility Collaboration
@@ -194,6 +199,7 @@ EPS         | Extrusion Prevention System (see DLP)
 ERM         | Enterprise Risk Management 
 ERP         | Enterprise Resource Planning
 ES          | ECMAScript (aka JavaScript)
+ESA         | Enterprise Solution Architecture
 ESP         | [Event Stream Processing](https://en.wikipedia.org/wiki/Event_stream_processing)
 ETL         | Extract, Transform, Load
 EU          | European Union 
@@ -295,7 +301,9 @@ ISP         | Internet Service Provider
 ISPF        | [Interactive System Productivity Facility](https://en.wikipedia.org/wiki/ISPF), re: IBM mainframe software product
 ISRS        | Information Storage and Retrieval System
 IT          | Information Technology  
+IT4IT       | [The IT4IT Reference Architecture](https://www.opengroup.org/it4it), a standard of the Open Group, is a powerful tool for aligning and managing a Digital Enterprise
 ITAR		    | International Traffic in Arms Regulations
+ITIL        | [Information Technology Infrastructure Library](https://en.wikipedia.org/wiki/ITIL)
 ITIRB       | Information Technology Investment Review Board
 ITSM        | IT Service Management
 IX          | Internet Exchange
@@ -345,7 +353,7 @@ MEAP        | Mobile Enterprise Application Platform
 MECE        | [Mutually Exclusive, Collectivelivey Exhaustive](https://en.wikipedia.org/wiki/MECE_principle) Principle
 MED         | Management of External Data
 MERN        | MongoDB, Express.js, React.js, Node.js
-MFA         | Multifactor Authentication
+MFA         | Multi-Factor Authentication
 MFE         | [Micro-Frontends](https://martinfowler.com/articles/micro-frontends.html)
 MIM         | Major Incident Management
 MIMD        | [Multiple instruction streams, multiple data streams](https://en.wikipedia.org/wiki/MIMD)
@@ -356,6 +364,7 @@ MIT/LCS     | [Massachusetts Institute of Technology](https://en.wikipedia.org/w
 ML          | Machine Learning 
 MOLAP       | Multidimensional OLAP
 MOM         | Message Oriented Middleware
+MOTS        | Modified Off-The-Shelf 
 MOU         | Memorandum of Understanding
 MQL         | Marketing Qualified Lead
 MRR         | Monthly Recurring Revenue
@@ -472,16 +481,16 @@ QMT         | Quality Monitoring Team
 QoS         | Quality of Service
 RA          | Registration Authority
 RAA         | Responsibility, Accountability, Authority 
-RACI        | Responsible, Accountable, Consult, Inform  
+RACI        | Responsible, Accountable, Consulted, Informed
 RAD         | Rapid Application Development 
-RAG         | Red, Amber (Yellow), Green (see: [Traffic Light Rating System](https://en.wikipedia.org/wiki/Traffic_light_rating_system
-))
+RAG         | Red, Amber (Yellow), Green (see: [Traffic Light Rating System](https://en.wikipedia.org/wiki/Traffic_light_rating_system))
 RAID        | Redundant Array of Independent Disks
 RAML        | REST API Modeling Language (RAML)
 RAPT        | Reverse Address and Port Translation (see RAT)
 RAS         | Redundancy, Availability, Serviceability  
 RASUI       | Reliability, Availability, Serviceability, Usability and Instability  
 RAT         | Reverse Address and Port Translation (see RAPT)
+RBA         | Role-Based Authorization
 RBAC        | [Role Based Access Control](https://en.wikipedia.org/wiki/Role-based_access_control)
 RCA         | Root Cause Analysis 
 RCE         | Remote Code Execution
@@ -566,8 +575,9 @@ SME         | Subject Matter Expert
 SMO         | Service Management Office
 SMURFS      | Specifically Marketable, Useful, Releasable Feature Sets ([source](https://www.agileconnection.com/article/instead-mvps-maybe-we-should-be-releasing-smurfs)
 sn          | Surname, re: LDAP
+SN          | abbreviation for [ServiceNow](https://www.servicenow.com/)
 SNAFU       | Situation Normal, All Fucked Up
-SNOW        | [ServiceNow](https://www.servicenow.com/)
+SNOW        | abbreviation for [ServiceNow](https://www.servicenow.com/)
 SO          | Sales Order
 SOP         | Standard Operating Procedure
 SOA         | [Service Oriented Architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture)
@@ -598,6 +608,7 @@ SSOT        | Single Source of Truth
 SSP         | System Security Plan
 SSPI        | Security Support Provider Interface
 STS         | Security Token Service
+SuD         | System Under Discussion (re, see book: [Writing Effective Use Cases](https://www.amazon.com/Writing-Effective-Cases-Alistair-Cockburn/dp/0201702258))
 SVG         | [Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 SW          | Software
 SWAG        | Silly Wild-Ass Guess (also see ROM), aka an estimate 
