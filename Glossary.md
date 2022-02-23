@@ -11,6 +11,7 @@ ABC         | Activity Based Costing
 ABC         | Area of Business Concern
 ABNF        | Augmented Backus-Naur Form (see [RFC-5234](https://tools.ietf.org/html/rfc5234))
 AC          | [Axiom of Choice](https://en.wikipedia.org/wiki/Axiom_of_choice)
+ACH         | [Automated Clearing House](https://en.wikipedia.org/wiki/Automated_clearing_house)
 ACL         | Access Control List
 ACME        | [Automatic Certificate Management Environment](https://en.wikipedia.org/wiki/Automated_Certificate_Management_Environment), alsos see [RFC 8555](https://tools.ietf.org/html/rfc8555)
 ACV         | Annual Contract Value 
@@ -67,6 +68,7 @@ BPS         | Bits Per Second
 BR          | Business Rules
 BRD         | Business Requirements Document  
 BRM         | Business Reference Model  
+BSA         | Bank Secrecy Act
 BSD         | [Berkeley Software Distribution](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
 BU          | Business Unit
 BYOD        | Bring Your Own Device
@@ -81,6 +83,7 @@ CCPA        | [California Consumer Privacy Act](https://en.wikipedia.org/wiki/Ca
 CD          | Candidate Recommendation 
 CD          | Continuous Delivery
 CDC         | Change Data Capture
+CDD         | Customer Due Dilligence (also see KYC)
 CDE         | Cardholder Data Environment
 CDE         | Critical Data Element
 CDI         | Contexts and Dependency Injection 
@@ -99,6 +102,7 @@ CID         | Command Identifier
 CIF         | Customer Information File  
 CIFS        | Common Internet File System
 CIO         | Chief Information Officer 
+CIP         | Customer Identification Program
 CLI         | Command Line Interface
 CMDB        | Configuration Management Database
 CMF         | Content Monitoring and Filtering (see DLP)
@@ -211,10 +215,12 @@ EUC         | End User Computing
 EVM         | Earned Value Management
 FaaS        | Function as a Service
 FAIL        | First Attempt In Learning (i.e. agile)
+FATF        | Financial Action Task Force
 FC          | Fulfillment Center, i.e., a third-party logics (3PL) warehouse
 FCoE        | Fibre Channel over Ethernet 
 FDL         | (GNU) Free Documentation License
 FHE         | Fully [Homomorphic Encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption) (e.g., [IBM](https://www.ibm.com/security/services/homomorphic-encryption_)
+FinCEN      | [Financial Crimes Enforcement Network](https://en.wikipedia.org/wiki/Financial_Crimes_Enforcement_Network)
 FHIR        | Fast Healthcare Interoperability Resources (a draft standard describing data formats and elements and an application programming interface for exchanging electronic health records)
 FIDO        | Fast Identity Online
 FIPS        | [Federal Information Processing Standard](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards), re: FIPS PUB 140-2
@@ -271,6 +277,7 @@ IaC         | Infrastructure as Code
 IAM         | [Identity and Access Management](https://en.wikipedia.org/wiki/Identity_management)
 IAST        | Integrated Application Security Testing
 IC          | Individual Contributor
+IC          | [United States IntelligenceCommunity](https://en.wikipedia.org/wiki/United_States_Intelligence_Community)
 ICMP        | Internet Control Message Protocol 
 ICT         | Information Communications and Technology 
 IdAM        | See IAM
@@ -329,6 +336,7 @@ KT          | Knowledge Transfer
 KVM		    	| Kernel-based Virtual Machine (KVM) is an open source virtualization technology built into Linux
 KVM			    | keyboard, video and mouse
 KVS         | Key-Value Storage
+KYC         | Know Your Client | Know Your Customer 
 LAN         | Local Area Network
 LBaaS       | Load-Balancer-as-a-Service
 LCC         | Lower Camel Case
@@ -415,6 +423,8 @@ OCM         | Organizational Change Management
 OCTAVE      | Operationally Critical Threat, Asset, and Vulnerability Evaluation 
 OData       | Open Data Protocol 
 ODBC        | Open Database Connectivity
+OFAC        | [Office of Foreign Assets Control](https://en.wikipedia.org/wiki/Office_of_Foreign_Assets_Control)
+OIA         | [Office of Intelligence and Analysis](https://en.wikipedia.org/wiki/Office_of_Intelligence_and_Analysis_(Treasury_Department))
 OIC         | Oracle Integration Cloud (note: renamed in January 2019, to Oracle Integration)
 OID         | Object Identifier
 OIDC        | OpenID Connect
@@ -433,6 +443,7 @@ OOTB        | Out Of The Box
 OPA         | Open Policy Agent
 OTC         | Order-to-Cash
 OPEX        | Operational Expense 
+OSFI        | Canadanian version of OFAC
 OTP         | One-Time Passcode
 ou          | Organizational Unit, re: LDAP 
 OWASP       | [Open Web Application Security Project](https://owasp.org/)
@@ -544,6 +555,7 @@ SAM         | Successive Approximation Model, created by Allen Interactions
 SAML        | Security Assertion Markup Language
 SAN         | Storage Area Networks 
 SANS        | [The SANS Institute](https://www.sans.org/) (officially the Escal Institute of Advanced Technologies)
+SAR         | Suspicious Activity Reporting
 SAST        | Static Application Security Testing
 SAW         | Statement of Architecture Work
 SBE         | Specification by Example
@@ -554,6 +566,7 @@ SDK         | Software Development Kit
 SDLC        | Software Development Life-cycle (aka Software Development Process)
 SDLP        | Systems Development Lifecycle Process
 SDN         | Software Defined Network
+SDN         | [Specially Designated Nationals and Blocked Persons List](https://en.wikipedia.org/wiki/Specially_Designated_Nationals_and_Blocked_Persons_List)
 SDP         | Software Defined Perimeter (also see VPN)
 SDR         | Sales Development Representative
 SEO         | Search Engine Optimization
@@ -562,6 +575,7 @@ SFDC        | SalesForce DotCom
 SFIA        | [Skills Framework for the Information Age](https://en.wikipedia.org/wiki/Skills_Framework_for_the_Information_Age)
 SFRA        | [Storefront Reference Architecture](https://documentation.b2c.commercecloud.salesforce.com/DOC2/index.jsp?topic=%2Fcom.demandware.dochelp%2Fcontent%2Fb2c_commerce%2Ftopics%2Fsfra%2Fb2c_sfra.html) (i.e., Salesforce B2C Commerce)
 SFTP        | Secure File Transfer Protocol
+SFPF        | Senior Foreign Political Figures 
 SI          | System Integrator
 SIAM        | Service Integration and Management
 SIEM        | [Security Information and Event Management](https://en.wikipedia.org/wiki/Security_information_and_event_management)
@@ -627,6 +641,7 @@ TCO         | Total Cost of Ownership (see TOC)
 TCV         | Total Contract Value (TCV) 
 TDD         | [Test-Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
 TGB         | Technology Governance Board
+TFI         | [Office of Terrorism and Financial Intelligence](https://en.wikipedia.org/wiki/Office_of_Terrorism_and_Financial_Intelligence)
 TLS         | [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security)
 TM          | Topic Model, re: NER, NLP, DL, ML
 TOC         | Total Ownership Cost (see TCO)
