@@ -546,7 +546,7 @@ RTM         | Requirements Traceability Matrix
 RTR         | Record-to-Report
 RTT         | Round-Trip Time  
 RTO         | Recovery Time Objective  
-RSA         | [Rivest–Shamir–Adleman](https://en.wikipedia.org/wiki/RSA_(cryptosystem), re: one of the first public-key cryptosystems
+RSA         | [Rivest–Shamir–Adleman](https://en.wikipedia.org/wiki/RSA_(cryptosystem), re: one of the first public-key cryptosystems)
 SA          | Solution Architect
 SaaS        | [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service)
 SAD         | Solution Architecture Design
