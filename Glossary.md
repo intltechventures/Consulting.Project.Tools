@@ -219,7 +219,7 @@ FATF        | Financial Action Task Force
 FC          | Fulfillment Center, i.e., a third-party logics (3PL) warehouse
 FCoE        | Fibre Channel over Ethernet 
 FDL         | (GNU) Free Documentation License
-FHE         | Fully [Homomorphic Encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption) (e.g., [IBM](https://www.ibm.com/security/services/homomorphic-encryption_)
+FHE         | Fully [Homomorphic Encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption) (e.g., [IBM](https://www.ibm.com/security/services/homomorphic-encryption_))
 FinCEN      | [Financial Crimes Enforcement Network](https://en.wikipedia.org/wiki/Financial_Crimes_Enforcement_Network)
 FHIR        | Fast Healthcare Interoperability Resources (a draft standard describing data formats and elements and an application programming interface for exchanging electronic health records)
 FIDO        | Fast Identity Online
@@ -489,7 +489,7 @@ PSD2        | [Payment Services Directive](https://edpb.europa.eu/sites/edpb/fil
 PSM         | Persistent Stored Modules
 PTP         | Procure-to-Pay
 QA          | [Quality Assurance](https://en.wikipedia.org/wiki/Quality_assurance)
-QAQA        | Quantum Approximate Optimization Algorithm
+QAOA        | [Quantum Approximate Optimization Algorithm](https://en.wikipedia.org/wiki/Quantum_optimization_algorithms)
 QI          | Quality Improvement 
 QIT         | QUality Improvement Team
 QKD         | Quantum Key Distribution
