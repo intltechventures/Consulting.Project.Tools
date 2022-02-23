@@ -23,7 +23,7 @@ ADT         | Algebraic Data Type
 AFCE        | Authorization for Capital Expenditure
 AI          | Artificial Intelligence  
 AKI         | Amazon Kernel Image
-ALM         | Application Lifecycle Management
+ALM         | [Application Lifecycle Management](https://en.wikipedia.org/wiki/Application_lifecycle_management)
 AMI         | Amazon Machine Image
 AML         | Anti-Money Laundering
 AMS         | Application Managed Service
@@ -155,7 +155,7 @@ DGC         | Data Governance Council
 DHCP        | Dynamic Host Configuration Protocol 
 DIM         | Domain Information Model
 DLD			    | Detail-Level Design 
-DLM         | Database Life-cycle Management
+DLM         | Database Lifecycle Management
 DLP         | [Data Loss Prevention](https://en.wikipedia.org/wiki/Data_loss_prevention_software)
 DLT         | Distributed Ledger Technology
 DMAIC       | [Define, Measure, Analayze, Improve, Control](https://en.wikipedia.org/wiki/DMAIC) (re: Six Sigma)
@@ -291,6 +291,7 @@ IEEE        | [Institute of Electrical and Electronics Engineers](https://en.wik
 IETF        | [Internet Engineering Task Force](https://www.ietf.org/)
 IGA         | Identity Governance and Administration, see IAM
 ILDP        | Information Leak Detection and Prevention (see DLP)
+ILM         | [Information Lifecycle Management](https://en.wikipedia.org/wiki/Information_lifecycle_management)
 IM          | Incident Management 
 IM          | Information Model
 INVEST      | Independent Negotiable Valuable Estimable Small Testable [(source)](http://wiki.c2.com/?InvestModelForUserStories)
