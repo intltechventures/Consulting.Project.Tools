@@ -82,6 +82,7 @@ CD          | Candidate Recommendation
 CD          | Continuous Delivery
 CDC         | Change Data Capture
 CDE         | Cardholder Data Environment
+CDE         | Critical Data Element
 CDI         | Contexts and Dependency Injection 
 CDM         | Common Data Model
 CDN         | Content Distribution Network
@@ -142,9 +143,11 @@ DBMS        | Database Management System
 dc          | [Domain Component](https://en.wikipedia.org/wiki/Domain_Name_System), re: LDAP
 DC          | Data Center  
 DD          | Data Dictionary 
+DDA         | Data Design Authority
 DDoS        | Distributed Denial-of-Service (i.e. a network traffic attack)
 DES         | [Data Encryption Standard](https://en.wikipedia.org/wiki/Data_Encryption_Standard)
 DFIR        | Digital Forensics, Incident Response  
+DGC         | Data Governance Council
 DHCP        | Dynamic Host Configuration Protocol 
 DIM         | Domain Information Model
 DLD			    | Detail-Level Design 
@@ -152,6 +155,7 @@ DLM         | Database Life-cycle Management
 DLP         | [Data Loss Prevention](https://en.wikipedia.org/wiki/Data_loss_prevention_software)
 DLT         | Distributed Ledger Technology
 DMAIC       | [Define, Measure, Analayze, Improve, Control](https://en.wikipedia.org/wiki/DMAIC) (re: Six Sigma)
+DMO         | Data Management Office 
 DN          | Distinguished Name, re: LDAP
 DNAT        | Destination network address translation
 DNS         | [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System)
@@ -203,6 +207,7 @@ ESA         | Enterprise Solution Architecture
 ESP         | [Event Stream Processing](https://en.wikipedia.org/wiki/Event_stream_processing)
 ETL         | Extract, Transform, Load
 EU          | European Union 
+EUC         | End User Computing
 EVM         | Earned Value Management
 FaaS        | Function as a Service
 FAIL        | First Attempt In Learning (i.e. agile)
@@ -260,6 +265,7 @@ HTTP        | [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypert
 HTTPS       | Hypertext Transfer Protocol Secure
 HW          | Hardware
 IA          | Information Assurance
+IA          | Internal Audit
 IaaS        | Infrastructure as a Service  
 IaC         | Infrastructure as Code
 IAM         | [Identity and Access Management](https://en.wikipedia.org/wiki/Identity_management)
@@ -595,6 +601,7 @@ SPICE       | [Simple Protocol for Independent Computing Environments](https://e
 SPKI        | Simple Public Key Infrastructure
 SPOF        | [Single Point of Failure](https://en.wikipedia.org/wiki/Single_point_of_failure)
 SPOT        | Single Point Of Truth
+SOX         | Sarbanes-Oxley Act of 2002
 SQL         | Sales Qualified Lead
 SQL         | Structured Query Language
 SRA         | Security Risk Assessment
@@ -675,6 +682,7 @@ WIP         | Work nn Progress
 WLM         | Work Lifecycle Management
 WMS         | Warehouse Management System
 WoT         | Web of Trust
+WORM        | Write-Once-Read-Many
 WRT         | Work Recovery Time
 WSDL        | Web Service Description Language
 WSJF        | Weighted Shortest Job First (re: Scaled Agile Framework, SAFe)
