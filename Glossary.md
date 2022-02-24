@@ -391,6 +391,9 @@ mTLS        | Mutual Transport Layer Security
 MTDL        | Maximum Tolerable Data Loss
 MTPD        | Maximum Tolerable Period of Disruption 
 MTS         | Multidimensional Type Structure (e.g. [Thomsen Diagrams](https://en.wikipedia.org/wiki/Thomsen_Diagrams))
+MTTR        | [Mean Time to Recovery](https://en.wikipedia.org/wiki/Mean_time_to_recovery)
+MTTR        | [Mean Time to Repair](https://en.wikipedia.org/wiki/Mean_time_to_repair)
+MTTR        | Mean Time to Resolution 
 MTU         | Maximum Transmission Unit. Maximum frame or packet size for a particular network medium.
 MUPS        | Minimum Usable Products/Services
 MVCC        | Multi Version Concurrency Control
