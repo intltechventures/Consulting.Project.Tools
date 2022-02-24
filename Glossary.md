@@ -550,6 +550,7 @@ RTO         | Recovery Time Objective
 RSA         | [Rivest–Shamir–Adleman](https://en.wikipedia.org/wiki/RSA_(cryptosystem), re: one of the first public-key cryptosystems)
 SA          | Solution Architect
 SaaS        | [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service)
+SACM        | Software Asset Configuration Management (an ITIL process)
 SAD         | Solution Architecture Design
 SAFe        | Scaled Agile Framework
 SAM         | Successive Approximation Model, created by Allen Interactions 
