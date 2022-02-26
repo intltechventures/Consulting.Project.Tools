@@ -77,6 +77,7 @@ C&A         | Certification & Accreditation
 CA          | Certificate Authority
 CAAS        | Container as a Service
 CAB         | Change Advisory Board
+CaC         | Compliance as Code
 CAP         | Consistency, Availability, Partition Tolerance  
 CAS         | [Compare-And-Swap | Compare-And-Set](https://en.wikipedia.org/wiki/Compare-and-swap)
 CCPA        | [California Consumer Privacy Act](https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act)
@@ -111,6 +112,8 @@ CMM         | Capability Maturity Model
 cn          | Common Name, re: LDAP
 CNAB        | [Cloud Native Application Bundles](https://cnab.io/)
 CNCF        | [Cloud Native Computing Foundation]9https://www.cncf.io/)
+CoE         | Center of Excellence
+CoP         | Community of Practice 
 CORBA       | [Common Object Request Broker Architecture](https://en.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture)
 CORS        | Cross-Origin Resource Sharing
 COTS        | Commercial Off-The-Shelf
@@ -565,6 +568,7 @@ SAR         | Suspicious Activity Reporting
 SAST        | Static Application Security Testing
 SAW         | Statement of Architecture Work
 SBE         | Specification by Example
+SBOM        | Software Bill of Materials 
 SCIM        | System for Cross-Domain Identity Management (re: RFC7644)
 SD          | Service Desk
 SDI         | Software Defined Infrastructure
