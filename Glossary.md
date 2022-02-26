@@ -416,6 +416,7 @@ NLS         | Natural Language Support
 NLU         | Natural Language Understanding
 NOC         | Network Operations Center 
 NPM         | [Node Package Manager](https://www.npmjs.com/)
+NPPI        | Non-Public Personal Informaiton
 NSH         | Network Service Header 
 NTE         | Not To Exceed
 NTP         | Network Time Protocol 
