@@ -440,7 +440,7 @@ NVD         | [National Vulnerability Database](https://nvd.nist.gov/)
 OASIS       | Organization for the Advancement of Structured Information Systems
 OCI         | Open Container Initiative
 OCI         | Oracle Cloud Infrastructure
-OCM         | Organizational Change Management
+OCM         | [Organizational Change Management](https://en.wikipedia.org/wiki/Change_management)
 OCTAVE      | Operationally Critical Threat, Asset, and Vulnerability Evaluation 
 OData       | Open Data Protocol 
 ODBC        | Open Database Connectivity
