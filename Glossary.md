@@ -128,6 +128,7 @@ CRUD        | Create, Read, Update, Delete
 CSD         | Consolidated Service Desk
 CSDM        | [Common Service Data Model](https://docs.servicenow.com/bundle/paris-servicenow-platform/page/product/csdm-implementation/concept/csdm-basics.html) (re: ServiceNow)
 CSI         | Container Storage Interface (e.g. Kubernetes)
+CSM         | Customer Service Management 
 CSM         | Customer Success Manager
 CSR         | Customer Service Representative
 CSR         | Certificate Signing Request 
@@ -176,6 +177,7 @@ DSL         | Domain Specific Language
 DSML        | Data Science and Machine Learning
 DSN         | Data Source Name  
 DTC         | direct-to-consumer
+DTO         | [Data Transfer Object](https://en.wikipedia.org/wiki/Data_transfer_object)
 DVI         | [Device Independent file format](https://en.wikipedia.org/wiki/Device_independent_file_format)
 DVR         | Distributed Virtual Router
 DW          | Data Warehouse (also see DWH, EDW)
@@ -184,6 +186,7 @@ EA          | Enterprise Architecture
 EAI         | Enterprise Application Integration  
 EAMS        | Enterprise Architecture Management Suite
 EAR			    | Export Administration Regulations
+EAR         | [Enterprise Application aRchive (file format)](https://en.wikipedia.org/wiki/EAR_(file_format)
 ECA         | Embodied Conversational Agent(s)
 EBCIDIC     | [Extended Binary Coded Decimal Interchange Code](https://en.wikipedia.org/wiki/EBCDIC)
 EBIT        | Earnings Before Interest & Tax
@@ -203,6 +206,8 @@ EME         | [Encrypted Media Extensions](https://en.wikipedia.org/wiki/Encrypt
 EMEA        | Europe, the Middle East, and Africa
 EMS         | [Execution Management System](https://en.wikipedia.org/wiki/Execution_management_system)
 ENI         | Elastic Network Interface (re: AWS)
+EOL         | End of Life
+EOL         | End of Line
 EPC         | Electronic Product Code
 EPLC        | Enterprise Performance Life Cycle 
 EPM         | Enterprise Performance Management 
@@ -257,6 +262,7 @@ GRC         | Governance, Risk, Compliance
 GRE         | Generic Routing Encapsulation
 GRO         | Generic Receive Offload
 GUC         | Global User Configuration 
+GUI         | [Graphical User Interface](https://en.wikipedia.org/wiki/Graphical_user_interface)
 HATEOAS     | [Hypermedia As The Engine Of Application State](https://en.wikipedia.org/wiki/HATEOAS)
 HCI         | Human-Computer Interaction
 HDFS        | Hadoop Distributed File System 
@@ -272,6 +278,7 @@ HRAA        | Highly Restricted Access Area
 HTML        | Hyper Text Markup Language
 HTTP        | [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 HTTPS       | Hypertext Transfer Protocol Secure
+HUD         | [Head-Up Display](https://en.wikipedia.org/wiki/HUD_(video_gaming))
 HW          | Hardware
 IA          | Information Assurance
 IA          | Internal Audit
@@ -324,15 +331,18 @@ ITIL        | [Information Technology Infrastructure Library](https://en.wikiped
 ITIRB       | Information Technology Investment Review Board
 ITSM        | IT Service Management
 IX          | Internet Exchange
+JAR         | [Java ARchive (file format)](https://en.wikipedia.org/wiki/JAR_(file_format))
 JCP         | [Java Community Process](https://en.wikipedia.org/wiki/Java_Community_Process)
 JDBC        | Java Database Connectivity
+JDK         | [Java Development Kit](https://en.wikipedia.org/wiki/Java_Development_Kit)
 JIT         | Just in Time
 JMS         | [Jakarta Messaging (formerly  Java Messaging Service)](https://en.wikipedia.org/wiki/Jakarta_Messaging), re: JSR 343
 JSON        | [JavaScript Object Notation](https://en.wikipedia.org/wiki/JSON)
 JRT         | Java Routines and Types
 JSR         | [Java Specification Request](https://www.jcp.org/en/jsr/all)
 JSR         | JavaScript Remoting
-JVM         | Java Virtual Machine
+JVM         | [Java Virtual Machine](https://en.wikipedia.org/wiki/Java_virtual_machine)
+JVMS        | Java Virtual Machine Specification
 JWT         | [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token)
 k8s         | Kubernetes
 KPI         | [Key Performance Indicators](https://en.wikipedia.org/wiki/Performance_indicator)
@@ -399,6 +409,7 @@ MTTR        | [Mean Time to Repair](https://en.wikipedia.org/wiki/Mean_time_to_r
 MTTR        | Mean Time to Resolution 
 MTU         | Maximum Transmission Unit. Maximum frame or packet size for a particular network medium.
 MUPS        | Minimum Usable Products/Services
+MVC         | [Model-View-Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 MVCC        | Multi Version Concurrency Control
 MVI         | Model-View-Intent 
 MVP         | Minimal Viable Product 
@@ -409,6 +420,7 @@ NAT         | [Network Address Translation](https://en.wikipedia.org/wiki/Networ
 NCSA        | [National Center for Supercomputing Applications](https://en.wikipedia.org/wiki/National_Center_for_Supercomputing_Applications)
 NDA         | Non-Disclosure Agreement
 NER         | Named Entity Recognition, re: ML
+NeRF        | Neural Radiance Fields (re: Deep Learning, optimizing continuous volumetric scene function)
 NFS         | Network File System 
 NFT         | [Non-Fungible Token](https://en.wikipedia.org/wiki/Non-fungible_token)
 NIST        | [National Institute for Standards and Technology](https://www.nist.gov/)
@@ -422,6 +434,7 @@ NPM         | [Node Package Manager](https://www.npmjs.com/)
 NPPI        | Non-Public Personal Informaiton
 NSH         | Network Service Header 
 NTE         | Not To Exceed
+NTFC        | No-Fee Terms and Conditions 
 NTP         | Network Time Protocol 
 NVD         | [National Vulnerability Database](https://nvd.nist.gov/)
 OASIS       | Organization for the Advancement of Structured Information Systems
@@ -444,6 +457,7 @@ OLIN        | Online Information Network
 OLTP        | Online Transaction Processing 
 OMG         | [Object Management Group](https://en.wikipedia.org/wiki/Object_Management_Group)
 OMS         | Order Management System
+OO          | Object Oriented
 OOA/D       | Object Oriented Analysis and Design 
 OOD         | Object Oriented Design 
 OOP         | Object Oriented Programming 
@@ -485,6 +499,7 @@ PO          | Product Owner
 PO          | Purchase Order
 POC         | Proof-of-Concept
 POD         | Point of Delivery
+POJO        | [Plain Old Java Object](https://en.wikipedia.org/wiki/Plain_old_Java_object)
 POSIX       | [Portable Operating System Interface](https://en.wikipedia.org/wiki/POSIX)
 POV         | Point of View 
 PR          | Peer Review
@@ -511,6 +526,7 @@ RAD         | Rapid Application Development
 RAG         | Red, Amber (Yellow), Green (see: [Traffic Light Rating System](https://en.wikipedia.org/wiki/Traffic_light_rating_system))
 RAID        | Redundant Array of Independent Disks
 RAML        | REST API Modeling Language (RAML)
+RAR         | [Roshal Archive (file format)](https://en.wikipedia.org/wiki/RAR_(file_format), re: archival 
 RAPT        | Reverse Address and Port Translation (see RAT)
 RAS         | Redundancy, Availability, Serviceability  
 RASUI       | Reliability, Availability, Serviceability, Usability and Instability  
@@ -579,6 +595,7 @@ SDN         | Software Defined Network
 SDN         | [Specially Designated Nationals and Blocked Persons List](https://en.wikipedia.org/wiki/Specially_Designated_Nationals_and_Blocked_Persons_List)
 SDP         | Software Defined Perimeter (also see VPN)
 SDR         | Sales Development Representative
+SE          | Standard Edition
 SEO         | Search Engine Optimization
 SFCC        | [Salesforce Commerce Cloud](https://www.salesforce.com/products/commerce-cloud/overview/)
 SFDC        | SalesForce DotCom
@@ -623,6 +640,7 @@ SPA         | [ingle-Page Application](https://en.wikipedia.org/wiki/Single-page
 SPAC        | [Special Purpose Acquisition Company](https://www.investopedia.com/terms/s/spac.asp)
 SPICE       | [Simple Protocol for Independent Computing Environments](https://en.wikipedia.org/wiki/Simple_Protocol_for_Independent_Computing_Environments) 
 SPKI        | Simple Public Key Infrastructure
+SPM         | Service Portfolio Management
 SPOF        | [Single Point of Failure](https://en.wikipedia.org/wiki/Single_point_of_failure)
 SPOT        | Single Point Of Truth
 SOX         | Sarbanes-Oxley Act of 2002
@@ -643,6 +661,7 @@ SuD         | System Under Discussion (re, see book: [Writing Effective Use Case
 SVG         | [Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 SW          | Software
 SWAG        | Silly Wild-Ass Guess (also see ROM), aka an estimate 
+T2R2        | Transparent, Traceable, Replicable and Reproducible 
 TAM         | Technical Account Manager
 TAM         | Total Addressable Market
 TAOC        | [The Art of Computer Programming]https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) (re: by Donald Knuth)
@@ -697,8 +716,9 @@ VXLAN       | Virtual Extensible LAN
 W3          | World Wide Web (i.e. WWW)
 W3C         | [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium)
 WAF         | Web Application Firewall
-WAL         | [Write-ahead Logging](https://en.wikipedia.org/wiki/Write-ahead_logging))
+WAL         | [Write-ahead Logging](https://en.wikipedia.org/wiki/Write-ahead_logging)
 WAP         | Wireless Access Point 
+WAR         | [Web Application Resource (or, Web application ARchival)](https://en.wikipedia.org/wiki/WAR_(file_format)
 wasm        | [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly)
 WCCP        | [Web Cache Communication Protocol](https://en.wikipedia.org/wiki/Web_Cache_Communication_Protocol)
 WD          | Working Draft
