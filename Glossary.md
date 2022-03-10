@@ -163,6 +163,7 @@ DLM         | Database Lifecycle Management
 DLP         | [Data Loss Prevention](https://en.wikipedia.org/wiki/Data_loss_prevention_software)
 DLT         | Distributed Ledger Technology
 DMAIC       | [Define, Measure, Analayze, Improve, Control](https://en.wikipedia.org/wiki/DMAIC) (re: Six Sigma)
+DMN         | Demand
 DMO         | Data Management Office 
 DN          | Distinguished Name, re: LDAP
 DNAT        | Destination network address translation
@@ -483,6 +484,7 @@ PDCA        | Plan-Do-Check-Adjust (Shewhart’s PDCA cycle, aka the Deming Cycl
 PDSA        | Plan-Do-Study-Act
 PDP         | Policy Decision Point
 PDSA        | Plan-Do-Stuy-Act
+PGM         | Program
 PGP         | [Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
 PHI			    | Protected Health Information (re: HIPPA) 
 PI          | Program Increment (re: Scaled Agile Framework, SAFe)
@@ -493,6 +495,7 @@ PKCE        | Proof Key for Code Exchange (pronounced "pixy"), re: [RFC 7636](ht
 PKI         | [Public Key Infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure)
 PM          | Project Management
 PM          | Project Manager
+PMI         | Project Management Institute 
 PMO         | Project Management Office
 PPI         | Protected Personal Information
 PO          | Product Owner
@@ -502,12 +505,16 @@ POD         | Point of Delivery
 POJO        | [Plain Old Java Object](https://en.wikipedia.org/wiki/Plain_old_Java_object)
 POSIX       | [Portable Operating System Interface](https://en.wikipedia.org/wiki/POSIX)
 POV         | Point of View 
+PPM         | Project Portfolio Management
 PR          | Peer Review
 PR          | Production Ready
 PR          | Proposed Recommendation 
 PR          | Pull Request
 PR          | Purchase Request
+PRJ         | Project
+PRM         | Program
 PRR         | Production Readiness Reviews
+PRT         | Portfolio
 PSD2        | [Payment Services Directive](https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines_202006_psd2_afterpublicconsultation_en.pdf) (Directive 2015/2366/EU of the European Parliament andof the Council of 23 December 2015)
 PSM         | Persistent Stored Modules
 PTP         | Procure-to-Pay
@@ -548,6 +555,7 @@ RFQ         | Request for Quote
 RFS         | Request for Service (or, Solution)
 RHEL        | Red Hat Enterprise Linux 
 RIA         | Rich Internet Application  
+RIDAC       | Risk, Issue, Decision, Action, and Request Changes records (re: ServiceNow)
 RION        | Raw Internet Object Notation
 RL          | Reinforcement Learning
 RMA         | [Return Merchandise Authorization](https://en.wikipedia.org/wiki/Return_merchandise_authorization)
@@ -711,6 +719,7 @@ VMI         | Virtual Machine Image
 VNC         | Virtual Network Computing
 VPN         | Virtual Private Network  
 VQF         | Variational Quantum Factoring 
+VSM         | Value Stream Mapping
 VUCA        | Volatile, Uncertain, Complex, Ambiguous (source: The U.S. Army War College, [Wikipedia](https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity))
 VXLAN       | Virtual Extensible LAN
 W3          | World Wide Web (i.e. WWW)
@@ -720,6 +729,7 @@ WAL         | [Write-ahead Logging](https://en.wikipedia.org/wiki/Write-ahead_lo
 WAP         | Wireless Access Point 
 WAR         | [Web Application Resource (or, Web application ARchival)](https://en.wikipedia.org/wiki/WAR_(file_format)
 wasm        | [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly)
+WBS         | Work Breakdown Structure
 WCCP        | [Web Cache Communication Protocol](https://en.wikipedia.org/wiki/Web_Cache_Communication_Protocol)
 WD          | Working Draft
 Wi-Fi       | Wireless Fidelity
