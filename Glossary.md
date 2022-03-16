@@ -59,6 +59,7 @@ BGP         | Border Gateway Protocol
 BHAG        | Big Hairy Audacious Goal
 BI          | Business Intelligence
 BIA         | Business Impact Analysis
+BIAN        | [Banking Industry Architecture Network](https://bian.org/)
 BNF         | Backus-Naur Form
 BNS         | Business Needs Statement
 BPF         | [Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter) - see eBPF
