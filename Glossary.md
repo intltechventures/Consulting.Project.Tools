@@ -96,7 +96,7 @@ CDO         | Care Delivery Organizatoin
 CEP         | [Complex Event Processing](https://en.wikipedia.org/wiki/Complex_event_processing)
 CERN        | [European Organization for Nuclear Research](https://en.wikipedia.org/wiki/CERN), French: Organisation européenne pour la recherche nucléaire
 CGI         | [Common Gateway Interface](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
-CI          | Configuration Item (i.e. in a CMDB)
+CI          | Configuration Item (i.e. in a CMDB, such as ServiceNow)
 CI          | Continuous Integration
 CI/CD       | Continuous Integration / Continuous Delivery (or, Continous Deployment)
 CIA         | Confidentiality, Integrity, Availability
@@ -408,6 +408,7 @@ MTPD        | Maximum Tolerable Period of Disruption
 MTS         | Multidimensional Type Structure (e.g. [Thomsen Diagrams](https://en.wikipedia.org/wiki/Thomsen_Diagrams))
 MTTR        | [Mean Time to Recovery](https://en.wikipedia.org/wiki/Mean_time_to_recovery)
 MTTR        | [Mean Time to Repair](https://en.wikipedia.org/wiki/Mean_time_to_repair)
+MTTR        | Mean Time to Remediate
 MTTR        | Mean Time to Resolution 
 MTU         | Maximum Transmission Unit. Maximum frame or packet size for a particular network medium.
 MUPS        | Minimum Usable Products/Services
@@ -625,6 +626,7 @@ SLES        | SUSE Linux Enterprise Server
 SLI         | [Service Level Indicator](https://landing.google.com/sre/resources/practicesandprocesses/art-of-slos/) - a quantifiable measure of service reliability
 SLO         | [Service Level Objectives](https://landing.google.com/sre/resources/practicesandprocesses/art-of-slos/) - a reliability target for an SLI 
 SLO         | Single Log-out
+SLM         | Service Level Management
 SMART       | Specific, Measurable, Attainable, Realistic
 SMART       | SMART (Substitutable Medical Applications, Reusable Technologies)
 SME         | Subject Matter Expert
