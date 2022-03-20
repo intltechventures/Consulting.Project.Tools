@@ -647,9 +647,10 @@ SOR         | System of Record
 SOR         | System of Record
 SOW         | Statement of Work
 SP          | [Service Provider](https://en.wikipedia.org/wiki/Service_provider)
-SPA         | [ingle-Page Application](https://en.wikipedia.org/wiki/Single-page_application)
+SPA         | [Single-Page Application](https://en.wikipedia.org/wiki/Single-page_application)
 SPAC        | [Special Purpose Acquisition Company](https://www.investopedia.com/terms/s/spac.asp)
 SPICE       | [Simple Protocol for Independent Computing Environments](https://en.wikipedia.org/wiki/Simple_Protocol_for_Independent_Computing_Environments) 
+SPIFFE      | [Secure Production Identity Framework for Everyone](https://spiffe.io/)
 SPKI        | Simple Public Key Infrastructure
 SPM         | Service Portfolio Management
 SPOF        | [Single Point of Failure](https://en.wikipedia.org/wiki/Single_point_of_failure)
