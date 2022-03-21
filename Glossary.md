@@ -230,6 +230,7 @@ FC          | Fulfillment Center, i.e., a third-party logics (3PL) warehouse
 FCoE        | Fibre Channel over Ethernet 
 FDL         | (GNU) Free Documentation License
 FHE         | Fully [Homomorphic Encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption) (e.g., [IBM](https://www.ibm.com/security/services/homomorphic-encryption_))
+FIDO        | see [Fast IDentity Online (FIDO) Alliance](https://en.wikipedia.org/wiki/FIDO_Alliance)
 FinCEN      | [Financial Crimes Enforcement Network](https://en.wikipedia.org/wiki/Financial_Crimes_Enforcement_Network)
 FHIR        | Fast Healthcare Interoperability Resources (a draft standard describing data formats and elements and an application programming interface for exchanging electronic health records)
 FIDO        | Fast Identity Online
