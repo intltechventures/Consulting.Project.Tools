@@ -94,6 +94,7 @@ CDM         | Common Data Model
 CDN         | Content Distribution Network
 CDO         | Chief Data Officer
 CDO         | Care Delivery Organizatoin
+CEB         | Corporate Executive Board
 CEP         | [Complex Event Processing](https://en.wikipedia.org/wiki/Complex_event_processing)
 CERN        | [European Organization for Nuclear Research](https://en.wikipedia.org/wiki/CERN), French: Organisation européenne pour la recherche nucléaire
 CGI         | [Common Gateway Interface](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
@@ -127,6 +128,7 @@ CRF         | Conditional Random Fields
 CRL         | Certificate Revocation List
 CRM         | Customer Relationship Management
 CRUD        | Create, Read, Update, Delete
+CSAT        | [Customer Satisfaction](https://en.wikipedia.org/wiki/Customer_satisfaction)
 CSD         | Consolidated Service Desk
 CSDM        | [Common Service Data Model](https://docs.servicenow.com/bundle/paris-servicenow-platform/page/product/csdm-implementation/concept/csdm-basics.html) (re: ServiceNow)
 CSI         | Container Storage Interface (e.g. Kubernetes)
@@ -732,6 +734,7 @@ VMI         | Virtual Machine Image
 VNC         | Virtual Network Computing
 VPN         | Virtual Private Network  
 VQF         | Variational Quantum Factoring 
+VRM         | Value Realization Model 
 VSM         | Value Stream Mapping
 VUCA        | Volatile, Uncertain, Complex, Ambiguous (source: The U.S. Army War College, [Wikipedia](https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity))
 VXLAN       | Virtual Extensible LAN
