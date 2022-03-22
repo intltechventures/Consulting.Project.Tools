@@ -49,6 +49,7 @@ ASP         | Application Service Provider
 AST         | Application Security Testing
 ATDD        | Acceptance-Test-Driven-Development
 AUC         | Area Under the Curve
+AZ          | Availability Zone 
 B2B         | Business-to-Business
 B2C         | Business-to-Consumer
 BA          | Business Analyst
@@ -147,6 +148,7 @@ DARPA       | Defense Advanced Research Projects Agency
 DARQ        | Distributed Ledger Technology (DLT), Artificial Intelligence (AI), Extended Reality (XR), Quantum Computing ~ re: Accenture
 DAS         | Direct Attached Storage 
 DAST        | Dynamic Application Security Testing
+DB          | Database
 DBA         | Database Administrator
 DBMS        | Database Management System
 dc          | [Domain Component](https://en.wikipedia.org/wiki/Domain_Name_System), re: LDAP
@@ -189,6 +191,8 @@ EAI         | Enterprise Application Integration
 EAMS        | Enterprise Architecture Management Suite
 EAR			    | Export Administration Regulations
 EAR         | [Enterprise Application aRchive (file format)](https://en.wikipedia.org/wiki/EAR_(file_format)
+EBS         | [Amazon Elastic Block Storage](https://en.wikipedia.org/wiki/Amazon_Elastic_Block_Store)
+EC2         | [Amazon Elastic Compute Cloud](https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud)
 ECA         | Embodied Conversational Agent(s)
 EBCIDIC     | [Extended Binary Coded Decimal Interchange Code](https://en.wikipedia.org/wiki/EBCDIC)
 EBIT        | Earnings Before Interest & Tax
@@ -545,8 +549,12 @@ RBA         | Role-Based Authorization
 RBAC        | [Role Based Access Control](https://en.wikipedia.org/wiki/Role-based_access_control)
 RCA         | Root Cause Analysis 
 RCE         | Remote Code Execution
+RDC         | [Remote Desktop Connection](https://en.wikipedia.org/wiki/Remote_Desktop_Services#Remote_Desktop_Connection)
 RDF         | [Resource Description Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework)
 RDN         | Relative Distinguished Name, re: LDAP
+RDP         | [Remote Desktop Protocol](https://en.wikipedia.org/wiki/Remote_Desktop_Protocol)
+RDS         | Amazon Relational Database Service 
+RDS         | [Remote Desktop Services](https://en.wikipedia.org/wiki/Remote_Desktop_Services)
 REST        | [Representational State Transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)
 RFC         | [Request for Comments](https://en.wikipedia.org/wiki/Request_for_Comments)
 RFI         | Request for Information
