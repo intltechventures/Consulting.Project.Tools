@@ -6,6 +6,7 @@ This glossary is intended to provide a single refernce to be reused across multi
 |Term | Definition|
 |-----|-----------|
 2FA         | Two-Factor Authentication
+3LOD        | [Three Lines of Defence Model](https://erm.ncsu.edu/library/article/cosos-take-on-the-three-lines-of-defense) (Codified by the Basel Committee on Banking Supervision in its 2011 Principles for the sound management of operational risk)
 3PL         | Third-Party Logistics providers
 ABC         | Activity Based Costing
 ABC         | Area of Business Concern
