@@ -461,7 +461,7 @@ OIC         | Oracle Integration Cloud (note: renamed in January 2019, to Oracle
 OID         | Object Identifier
 OIDC        | OpenID Connect
 OIDC        | Oracle Identity Cloud Service
-OKR         | Objectives and Key Results
+OKRs        | [Objectives and Key Results](https://en.wikipedia.org/wiki/OKR)
 OLAP        | Online Analytical Processing
 OLB         | Object Language Bindings
 OLIN        | Online Information Network
