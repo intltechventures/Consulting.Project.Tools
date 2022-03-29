@@ -8,6 +8,7 @@ This glossary is intended to provide a single refernce to be reused across multi
 2FA         | Two-Factor Authentication
 3LOD        | [Three Lines of Defence Model](https://erm.ncsu.edu/library/article/cosos-take-on-the-three-lines-of-defense) (Codified by the Basel Committee on Banking Supervision in its 2011 Principles for the sound management of operational risk)
 3PL         | Third-Party Logistics providers
+7 Rs        | [Refactor, Replatform, Repurchase, Rehost, Relocate, Retain, Retire](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-retiring-applications/overview.html) - Re: AWS Migration Readiness
 ABC         | Activity Based Costing
 ABC         | Area of Business Concern
 ABNF        | Augmented Backus-Naur Form (see [RFC-5234](https://tools.ietf.org/html/rfc5234))
@@ -39,6 +40,7 @@ API         | [Application Programming Interface ](https://en.wikipedia.org/wiki
 APM         | Application Portfolio Management  
 APM         | [Application Performance Management](https://en.wikipedia.org/wiki/Application_performance_management)
 APM         | Application Performance Monitoring
+APNS        | [Apple Push Notification service](https://en.wikipedia.org/wiki/Apple_Push_Notification_service)
 ARB         | Architecture Review Board  
 ARI         | Amazon Ramdisk Image
 ARM         | Architectural Reference Model
@@ -235,6 +237,7 @@ FAIL        | First Attempt In Learning (i.e. agile)
 FATF        | Financial Action Task Force
 FC          | Fulfillment Center, i.e., a third-party logics (3PL) warehouse
 FCoE        | Fibre Channel over Ethernet 
+FCM         | [Firebase Cloud Messaging](https://en.wikipedia.org/wiki/Firebase_Cloud_Messaging)
 FDL         | (GNU) Free Documentation License
 FHE         | Fully [Homomorphic Encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption) (e.g., [IBM](https://www.ibm.com/security/services/homomorphic-encryption_))
 FIDO        | see [Fast IDentity Online (FIDO) Alliance](https://en.wikipedia.org/wiki/FIDO_Alliance)
