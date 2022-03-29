@@ -57,6 +57,7 @@ B2B         | Business-to-Business
 B2C         | Business-to-Consumer
 BA          | Business Analyst
 BAFO        | Best And Final Offer (e.g., RFP negotiations)
+BCP         | Business Continuity Planning
 BDD         | [Behavior-Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
 BDUF        | Big Design Up Front
 BGP         | Border Gateway Protocol
@@ -85,6 +86,7 @@ CAB         | Change Advisory Board
 CaC         | Compliance as Code
 CAP         | Consistency, Availability, Partition Tolerance  
 CAS         | [Compare-And-Swap | Compare-And-Set](https://en.wikipedia.org/wiki/Compare-and-swap)
+CCoE        | Cloud Center of Excellence
 CCPA        | [California Consumer Privacy Act](https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act)
 CD          | Candidate Recommendation 
 CD          | Continuous Delivery
@@ -113,7 +115,6 @@ CIP         | Customer Identification Program
 CLI         | Command Line Interface
 CMDB        | Configuration Management Database
 CMF         | Content Monitoring and Filtering (see DLP)
-CMDB        | Configuration Management Database 
 CMM         | Capability Maturity Model
 cn          | Common Name, re: LDAP
 CNAB        | [Cloud Native Application Bundles](https://cnab.io/)
@@ -465,6 +466,7 @@ OID         | Object Identifier
 OIDC        | OpenID Connect
 OIDC        | Oracle Identity Cloud Service
 OKRs        | [Objectives and Key Results](https://en.wikipedia.org/wiki/OKR)
+OLA         | Operational-Level Agreement
 OLAP        | Online Analytical Processing
 OLB         | Object Language Bindings
 OLIN        | Online Information Network
