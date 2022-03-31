@@ -120,6 +120,7 @@ cn          | Common Name, re: LDAP
 CNAB        | [Cloud Native Application Bundles](https://cnab.io/)
 CNCF        | [Cloud Native Computing Foundation]9https://www.cncf.io/)
 CoE         | Center of Excellence
+COI         | Community of Interest
 CoP         | Community of Practice 
 CORBA       | [Common Object Request Broker Architecture](https://en.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture)
 CORS        | Cross-Origin Resource Sharing
@@ -404,6 +405,7 @@ MIPS        | Million of Instructions Per Second
 MISD        | [Multiple Instruction Streams, Single Data Stream](https://en.wikipedia.org/wiki/MISD)
 MIT/LCS     | [Massachusetts Institute of Technology](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology) Laboratory for Computer Science
 ML          | Machine Learning 
+MOA         | Memorandum of Agreement
 MOLAP       | Multidimensional OLAP
 MOM         | Message Oriented Middleware
 MOTS        | Modified Off-The-Shelf 
@@ -430,8 +432,10 @@ MVI         | Model-View-Intent
 MVP         | Minimal Viable Product 
 MVVM        | [Model-View-ViewModel](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 NA          | North America 
+NA          | Not Applicable
 NAS         | Network Attached Storage 
 NAT         | [Network Address Translation](https://en.wikipedia.org/wiki/Network_address_translation)
+NC          | Non-Compliant
 NCSA        | [National Center for Supercomputing Applications](https://en.wikipedia.org/wiki/National_Center_for_Supercomputing_Applications)
 NDA         | Non-Disclosure Agreement
 NER         | Named Entity Recognition, re: ML
@@ -505,9 +509,11 @@ PHI			    | Protected Health Information (re: HIPPA)
 PI          | Program Increment (re: Scaled Agile Framework, SAFe)
 PII			    | Personally Identifiable Information
 PIN         | Personal Identification Number 
+PIT         | Platform Information Technology
 PITR        | Point In Time Recovery
 PKCE        | Proof Key for Code Exchange (pronounced "pixy"), re: [RFC 7636](https://tools.ietf.org/html/rfc7636)
 PKI         | [Public Key Infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure)
+PM          | Program Manager
 PM          | Project Management
 PM          | Project Manager
 PMI         | Project Management Institute 
@@ -579,6 +585,7 @@ RION        | Raw Internet Object Notation
 RL          | Reinforcement Learning
 RMA         | [Return Merchandise Authorization](https://en.wikipedia.org/wiki/Return_merchandise_authorization)
 RMAD        | Rapid Mobile App Development  
+RMF         | Risk Management Framework 
 RMS         | Rights Management Service
 ROCE        | Return on Capital Employed 
 ROE         | Return on Equity  
@@ -607,11 +614,13 @@ SAM         | Successive Approximation Model, created by Allen Interactions
 SAML        | Security Assertion Markup Language
 SAN         | Storage Area Networks 
 SANS        | [The SANS Institute](https://www.sans.org/) (officially the Escal Institute of Advanced Technologies)
+SAR         | Security Assessment Report
 SAR         | Suspicious Activity Reporting
 SAST        | Static Application Security Testing
 SAW         | Statement of Architecture Work
 SBE         | Specification by Example
 SBOM        | Software Bill of Materials 
+SCI         | Sensitive Compartmented Information 
 SCIM        | System for Cross-Domain Identity Management (re: RFC7644)
 SD          | Service Desk
 SDI         | Software Defined Infrastructure
@@ -644,6 +653,7 @@ SLI         | [Service Level Indicator](https://landing.google.com/sre/resources
 SLO         | [Service Level Objectives](https://landing.google.com/sre/resources/practicesandprocesses/art-of-slos/) - a reliability target for an SLI 
 SLO         | Single Log-out
 SLM         | Service Level Management
+SM          | System Maanger
 SMART       | Specific, Measurable, Attainable, Realistic
 SMART       | SMART (Substitutable Medical Applications, Reusable Technologies)
 SME         | Subject Matter Expert
@@ -691,6 +701,7 @@ SVG         | [Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_
 SW          | Software
 SWAG        | Silly Wild-Ass Guess (also see ROM), aka an estimate 
 T2R2        | Transparent, Traceable, Replicable and Reproducible 
+TAG         | Technical Advisory Group
 TAM         | Technical Account Manager
 TAM         | Total Addressable Market
 TAOC        | [The Art of Computer Programming]https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) (re: by Donald Knuth)
