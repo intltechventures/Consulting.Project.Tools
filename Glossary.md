@@ -25,6 +25,7 @@ ADT         | Algebraic Data Type
 AFCE        | Authorization for Capital Expenditure
 AI          | Artificial Intelligence  
 AKI         | Amazon Kernel Image
+AKS         | Azure Kubernetes Service
 ALM         | [Application Lifecycle Management](https://en.wikipedia.org/wiki/Application_lifecycle_management)
 AMI         | Amazon Machine Image
 AML         | Anti-Money Laundering
@@ -58,6 +59,7 @@ B2C         | Business-to-Consumer
 BA          | Business Analyst
 BAFO        | Best And Final Offer (e.g., RFP negotiations)
 BCP         | Business Continuity Planning
+BDAM        | IBM [Basic Direct Access Method](https://en.wikipedia.org/wiki/Basic_direct_access_method)
 BDD         | [Behavior-Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
 BDUF        | Big Design Up Front
 BGP         | Border Gateway Protocol
@@ -107,15 +109,19 @@ CI          | Configuration Item (i.e. in a CMDB, such as ServiceNow)
 CI          | Continuous Integration
 CI/CD       | Continuous Integration / Continuous Delivery (or, Continous Deployment)
 CIA         | Confidentiality, Integrity, Availability
+CICS        | IBM [ustomer Information Control System](https://en.wikipedia.org/wiki/CICS)
 CID         | Command Identifier
 CIF         | Customer Information File  
 CIFS        | Common Internet File System
 CIO         | Chief Information Officer 
 CIP         | Customer Identification Program
+CISC        | [Complex Instruction Set Computer](https://en.wikipedia.org/wiki/Complex_instruction_set_computer)
 CLI         | Command Line Interface
 CMDB        | Configuration Management Database
+CMOS        | [omplementary Metal Oxide Silicon](https://en.wikipedia.org/wiki/CMOS)
 CMF         | Content Monitoring and Filtering (see DLP)
 CMM         | Capability Maturity Model
+CMOS        | [Complementary metal–oxide–semiconductor](https://en.wikipedia.org/wiki/CMOS)
 cn          | Common Name, re: LDAP
 CNAB        | [Cloud Native Application Bundles](https://cnab.io/)
 CNCF        | [Cloud Native Computing Foundation]9https://www.cncf.io/)
@@ -126,6 +132,7 @@ CORBA       | [Common Object Request Broker Architecture](https://en.wikipedia.o
 CORS        | Cross-Origin Resource Sharing
 COTS        | Commercial Off-The-Shelf
 CPG         | Consumer Packaged Goods (e.g. industry)
+CPU         | [entral Processing Unit](https://en.wikipedia.org/wiki/Central_processing_unit)
 CQRS        | Command Query Responsibility Segregation  
 CRC         | Class Responsibility Collaboration
 CRDT        | [Conflict-Free Replicated Data Type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
@@ -154,15 +161,18 @@ DAR         | Decision Analysis and Resolution technique
 DARPA       | Defense Advanced Research Projects Agency
 DARQ        | Distributed Ledger Technology (DLT), Artificial Intelligence (AI), Extended Reality (XR), Quantum Computing ~ re: Accenture
 DAS         | Direct Attached Storage 
+DASD        | [Direct-Access Storage Device](https://en.wikipedia.org/wiki/Direct-access_storage_device)
 DAST        | Dynamic Application Security Testing
 DB          | Database
 DBA         | Database Administrator
 DBMS        | Database Management System
 dc          | [Domain Component](https://en.wikipedia.org/wiki/Domain_Name_System), re: LDAP
 DC          | Data Center  
+DCE         | [Distributed Computing Environment](https://en.wikipedia.org/wiki/Distributed_Computing_Environment)
 DD          | Data Dictionary 
 DDA         | Data Design Authority
 DDoS        | Distributed Denial-of-Service (i.e. a network traffic attack)
+DEC         | Digital Equipment Corporation 
 DES         | [Data Encryption Standard](https://en.wikipedia.org/wiki/Data_Encryption_Standard)
 DFIR        | Digital Forensics, Incident Response  
 DGC         | Data Governance Council
@@ -179,6 +189,7 @@ DN          | Distinguished Name, re: LDAP
 DNAT        | Destination network address translation
 DNS         | [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System)
 DoS         | Denial of Service 
+DOS         | [Disk Operating System](https://en.wikipedia.org/wiki/DOS)
 DP          | [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
 DR          | Disaster Recovery  
 DRB         | Design Review Board  
@@ -236,7 +247,9 @@ EUC         | End User Computing
 EVM         | Earned Value Management
 FaaS        | Function as a Service
 FAIL        | First Attempt In Learning (i.e. agile)
+FAT         | [File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table)
 FATF        | Financial Action Task Force
+FBA         | [Fixed-Block Architecture](https://en.wikipedia.org/wiki/Fixed-block_architecture)
 FC          | Fulfillment Center, i.e., a third-party logics (3PL) warehouse
 FCoE        | Fibre Channel over Ethernet 
 FCM         | [Firebase Cloud Messaging](https://en.wikipedia.org/wiki/Firebase_Cloud_Messaging)
@@ -260,6 +273,7 @@ GADTs       | Generalized Algebraic Data Types
 GCC         | Government Community 
 GCHQ        | British intelligence agency [Government Communications Headquarters](https://en.wikipedia.org/wiki/Government_Communications_Headquarters)
 GCP         | Google Cloud Platfrom
+GDG         | Generation Date Group
 GDPR        | Genera Data Protection Regulation (re: EU)
 GIN         | Generalized Inverted Index
 GIST        | Generalized Search Tree
@@ -270,7 +284,8 @@ GMV         | [Gross Merchandise Value](https://www.investopedia.com/terms/g/gro
 GNU         | GNU's Not Unix! (a recursive acronym)
 GOLAP       | Graph OLAP 
 GPG         | [GNU Privacy Guard](https://en.wikipedia.org/wiki/GNU_Privacy_Guard)
-GPU         | Graphical Processing Unit
+GPT         | [GUID Partition Table](https://en.wikipedia.org/wiki/GUID_Partition_Table)
+GPU         | [Graphics Processing Uni](https://en.wikipedia.org/wiki/Graphics_processing_unit)
 GQL         | [Graph Query Language](https://www.gqlstandards.org/home)
 GQM         | Goal, Question, Metric 
 GRC         | Governance, Risk, Compliance
@@ -278,8 +293,10 @@ GRE         | Generic Routing Encapsulation
 GRO         | Generic Receive Offload
 GUC         | Global User Configuration 
 GUI         | [Graphical User Interface](https://en.wikipedia.org/wiki/Graphical_user_interface)
+GUID        | [Globally Unique Identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier) - see UUID
 HATEOAS     | [Hypermedia As The Engine Of Application State](https://en.wikipedia.org/wiki/HATEOAS)
 HCI         | Human-Computer Interaction
+HDD         | [Hard Disk Drive](https://en.wikipedia.org/wiki/Hard_disk_drive)
 HDFS        | Hadoop Distributed File System 
 HIPPA       | Health Insurance Portability and Accountability Act of 1996
 HiPPO       | [Highly Paid Person's Opinion](https://architectelevator.com/cloud/selecting-cloud-provider/)
@@ -320,6 +337,7 @@ ILM         | [Information Lifecycle Management](https://en.wikipedia.org/wiki/I
 IM          | Incident Management 
 IM          | Information Model
 INVEST      | Independent Negotiable Valuable Estimable Small Testable [(source)](http://wiki.c2.com/?InvestModelForUserStories)
+IPC         | [Inter-Process Communication](https://en.wikipedia.org/wiki/Inter-process_communication)
 IOPS        | Input/Output Operations Per Second
 IoT         | Internet of Things
 IP          | Intellectual Property  
@@ -331,7 +349,9 @@ IPMI        | Intelligent Platform Management Interface
 IPS         | Intrusion Prevention System
 IR          | Information Retrieval 
 IRM         | Individual Rights Management
+IRT         | Incident Response Team
 ISA         | [Instruction Set Architecture](https://en.wikipedia.org/wiki/Instruction_set_architecture)
+ISAM        | Indexed Sequential Access Method
 iSCI        | Internet Small Computer System Interface
 ISMS        | Information Security Management System
 ISO         | [International Standards Organization](https://en.wikipedia.org/wiki/International_Organization_for_Standardization)
@@ -367,6 +387,7 @@ KVM			    | keyboard, video and mouse
 KVS         | Key-Value Storage
 KYC         | Know Your Client | Know Your Customer 
 LAN         | Local Area Network
+LBA         | [Logical Block Addressing](https://en.wikipedia.org/wiki/Logical_block_addressing)
 LBaaS       | Load-Balancer-as-a-Service
 LCC         | Lower Camel Case
 LDAP        | [Lightweight Directory Access Protocol](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol)
@@ -384,6 +405,7 @@ MAC         | [Mandatory Access Control](https://en.wikipedia.org/wiki/Mandatory
 MAU         | Monthly Active Users
 MBaaS       | Mobile Back End as a Service
 MBCO        | Minimum Business Continuity Objective 
+MBR         | [Master Boot Record](https://en.wikipedia.org/wiki/Master_boot_record)
 MD          | Markdown Language 
 MDA         | Multi-Dimensional Analytical (i.e.  queries)
 MDAP        | Mobile Application Development Platform  
@@ -398,10 +420,12 @@ MED         | Management of External Data
 MERN        | MongoDB, Express.js, React.js, Node.js
 MFA         | Multi-Factor Authentication
 MFE         | [Micro-Frontends](https://martinfowler.com/articles/micro-frontends.html)
+MFT         | [Master File Table](https://en.wikipedia.org/wiki/File_Allocation_Table)
 MIM         | Major Incident Management
 MIMD        | [Multiple instruction streams, multiple data streams](https://en.wikipedia.org/wiki/MIMD)
 MIME        | [Multipurpose Internet Mail Extensions](https://en.wikipedia.org/wiki/MIME)
 MIPS        | Million of Instructions Per Second  
+MIRT        | Major Incident Response Team
 MISD        | [Multiple Instruction Streams, Single Data Stream](https://en.wikipedia.org/wiki/MISD)
 MIT/LCS     | [Massachusetts Institute of Technology](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology) Laboratory for Computer Science
 ML          | Machine Learning 
@@ -430,6 +454,7 @@ MVC         | [Model-View-Controller](https://en.wikipedia.org/wiki/Model%E2%80%
 MVCC        | Multi Version Concurrency Control
 MVI         | Model-View-Intent 
 MVP         | Minimal Viable Product 
+MVS         | IBM [Multiple Virtual Storage](https://en.wikipedia.org/wiki/MVS)
 MVVM        | [Model-View-ViewModel](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 NA          | North America 
 NA          | Not Applicable
@@ -485,6 +510,7 @@ OOTB        | Out Of The Box
 OPA         | Open Policy Agent
 OTC         | Order-to-Cash
 OPEX        | Operational Expense 
+OSF         | [Open Software Foundation](https://en.wikipedia.org/wiki/Open_Software_Foundation)
 OSFI        | Canadanian version of OFAC
 OTP         | One-Time Passcode
 ou          | Organizational Unit, re: LDAP 
@@ -502,6 +528,7 @@ PCI DSS     | Payment Card Industry Data Security Standard
 PDCA        | Plan-Do-Check-Adjust (Shewhart’s PDCA cycle, aka the Deming Cycle)
 PDSA        | Plan-Do-Study-Act
 PDP         | Policy Decision Point
+PDP         | [Programmed Data Processor](https://en.wikipedia.org/wiki/Programmed_Data_Processor)
 PDSA        | Plan-Do-Stuy-Act
 PGM         | Program
 PGP         | [Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
@@ -549,11 +576,13 @@ QMT         | Quality Monitoring Team
 QoS         | Quality of Service
 RA          | Registration Authority
 RAA         | Responsibility, Accountability, Authority 
+RACF        | IBM [Resource Access Control Facility](https://en.wikipedia.org/wiki/Resource_Access_Control_Facility)
 RACI        | Responsible, Accountable, Consulted, Informed
 RAD         | Rapid Application Development 
 RAG         | Red, Amber (Yellow), Green (see: [Traffic Light Rating System](https://en.wikipedia.org/wiki/Traffic_light_rating_system))
 RAID        | Redundant Array of Independent Disks
-RAML        | REST API Modeling Language (RAML)
+RAM         | Random Access Memory
+RAML        | [REST API Modeling Language](https://en.wikipedia.org/wiki/RAML_(software))
 RAR         | [Roshal Archive (file format)](https://en.wikipedia.org/wiki/RAR_(file_format), re: archival 
 RAPT        | Reverse Address and Port Translation (see RAT)
 RAS         | Redundancy, Availability, Serviceability  
@@ -582,6 +611,7 @@ RHEL        | Red Hat Enterprise Linux
 RIA         | Rich Internet Application  
 RIDAC       | Risk, Issue, Decision, Action, and Request Changes records (re: ServiceNow)
 RION        | Raw Internet Object Notation
+RISC        | [Reduced Instruction Set Computer](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer)
 RL          | Reinforcement Learning
 RMA         | [Return Merchandise Authorization](https://en.wikipedia.org/wiki/Return_merchandise_authorization)
 RMAD        | Rapid Mobile App Development  
@@ -594,7 +624,7 @@ ROIT        | Return on Information Technology
 ROLAP       | Relational OLAP
 ROM         | Rough Order of Magnitude (also see SWAG), aka an estimate
 RPA         | Robotic Process Automation
-RPC         | Remote Procedure Call
+RPC         | [Remote Procedure Call](https://en.wikipedia.org/wiki/Remote_procedure_call)
 RPM         | Redhat Package Manager
 RPO         | Recovery Point Objective
 RTE         | Release Train Engineer
@@ -617,6 +647,7 @@ SANS        | [The SANS Institute](https://www.sans.org/) (officially the Escal 
 SAR         | Security Assessment Report
 SAR         | Suspicious Activity Reporting
 SAST        | Static Application Security Testing
+SATA        | [Seria AT Attachment](https://en.wikipedia.org/wiki/Serial_ATA)
 SAW         | Statement of Architecture Work
 SBE         | Specification by Example
 SBOM        | Software Bill of Materials 
@@ -689,6 +720,7 @@ SRA         | Security Risk Assessment
 SRP         | Single Responsibility Principle
 SRS         | Secure and Reliable Systems
 SSADM       | (structured systems analysis and design methodology) - developed by  Tom DeMarco, Ed Yourdon, and Larry Constantine 
+SSD         | [Solid-State Disk](https://en.wikipedia.org/wiki/Solid-state_drive)
 SSH         | Secure Shell
 SSL         | Secure Sockets Layer
 SSO         | [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on)
@@ -719,6 +751,7 @@ TPU         | Tensor Processing Unit(s)
 TRM         | Technical Reference Model
 TSD         | Technical Specification Document
 TSO         | [Time Sharing Option](https://en.wikipedia.org/wiki/Time_Sharing_Option), re: IBM mainframe interactive time-sharing environment
+TSS         | IBM [Time Sharing Operating System](https://en.wikipedia.org/wiki/TSS_(operating_system))
 TTL         | Time To Live
 TTP         | Trusted Third Party
 TXN         | Transaction
@@ -728,17 +761,20 @@ UDDI        | Universal Description, Discovery, & Integration
 UDEF        | Universal Data Element Framework
 UDF         | User Defined File
 UDF         | User Defined Function
+UEFI        | [Unified Extensible Firmware Interface](https://en.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface)
 UI          | User Interface  
 UIMA        | Unstructured Information Management Architecture
 UML         | Unified Modeling Language
 UPC         | [Universal Product Code](https://en.wikipedia.org/wiki/Universal_Product_Code)
+USB         | [Universal Serial Bus](https://en.wikipedia.org/wiki/USB)
 USL         | [Universal Scalability Law](http://www.perfdynamics.com/Manifesto/USLscalability.html) ~ [Neil J. Gunther](https://en.wikipedia.org/wiki/Neil_J._Gunther)
 UTC         | Coordinated Universal Time 
 UTF         | [Unicode Transformation Format](https://en.wikipedia.org/wiki/Unicode#UTF)
-UUID        | Universal Unique Identifier
+UUID        | [https://en.wikipedia.org/wiki/Universally_unique_identifier](Universal Unique Identifier) - also GUID
 UX          | User Experience
 VA          | Validation Authority
 VAPT        | [Vulnerability Assessment and Penetration Testing](https://en.wikipedia.org/wiki/Vulnerability_assessment_(computing)#Vulnerability_assessment_vs_penetration_testing)
+VAX         | [Virtual Address eXtension])(https://en.wikipedia.org/wiki/VAX_)
 VAS         | Value-Added Services
 vCPU        | Virtual Central Processing Unit
 VDI         | Virtual Disk Image 
@@ -752,11 +788,14 @@ VNC         | Virtual Network Computing
 VPN         | Virtual Private Network  
 VQF         | Variational Quantum Factoring 
 VRM         | Value Realization Model 
+VSAM        | Virtual Storage Access Method
 VSM         | Value Stream Mapping
+VTOC        | IBM [Volume Table of Contents](https://en.wikipedia.org/wiki/Volume_Table_of_Contents)
 VUCA        | Volatile, Uncertain, Complex, Ambiguous (source: The U.S. Army War College, [Wikipedia](https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity))
 VXLAN       | Virtual Extensible LAN
 W3          | World Wide Web (i.e. WWW)
 W3C         | [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium)
+WADL        | [Web Application Description Language](https://en.wikipedia.org/wiki/Web_Application_Description_Language)
 WAF         | Web Application Firewall
 WAL         | [Write-ahead Logging](https://en.wikipedia.org/wiki/Write-ahead_logging)
 WAP         | Wireless Access Point 
@@ -772,9 +811,10 @@ WMS         | Warehouse Management System
 WoT         | Web of Trust
 WORM        | Write-Once-Read-Many
 WRT         | Work Recovery Time
-WSDL        | Web Service Description Language
+WSDL        | [Web Service Description Language](https://en.wikipedia.org/wiki/Web_Services_Description_Language)
 WSJF        | Weighted Shortest Job First (re: Scaled Agile Framework, SAFe)
 WWW         | [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web)
+XA          | EXtended Architecture
 XID         | Transaction Identifier
 XML         | [Extensible Markup Language](https://en.wikipedia.org/wiki/XML)
 XP          | eXtreme Programming
