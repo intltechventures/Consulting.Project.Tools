@@ -3,7 +3,7 @@ cls
 REM 
 REM ***************************************************************************
 REM init_project.bat
-set version=1.4.0
+set version=1.4.1
 REM
 REM Client Project Directory Setup Script
 REM (Illustrative, Not Exhaustive)
@@ -147,9 +147,7 @@ ECHO %journal_header% >> _journals\%year%\%month%\%dt%.txt
 REM Get just the current directory name (not the full path) - as the client name
 for %%I in (.) do set client=%%~nxI
 ECHO Client: %client% >> _journals\%year%\%month%\%dt%.txt
-
 set /p Location=<D:\_kelvin\Location.txt
-ECHO Client: %client% >> _journals\%year%\%month%\%dt%.txt
 ECHO Location: %Location% >> _journals\%year%\%month%\%dt%.txt
 ECHO. >> _journals\%year%\%month%\%dt%.txt
 ECHO 09:00- >> _journals\%year%\%month%\%dt%.txt
