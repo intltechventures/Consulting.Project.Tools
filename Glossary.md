@@ -9,7 +9,7 @@ This glossary is intended to provide a single refernce to be reused across multi
 3LOD        | [Three Lines of Defence Model](https://erm.ncsu.edu/library/article/cosos-take-on-the-three-lines-of-defense) (Codified by the Basel Committee on Banking Supervision in its 2011 Principles for the sound management of operational risk)
 3PL         | Third-Party Logistics providers
 7 Rs        | [Refactor, Replatform, Repurchase, Rehost, Relocate, Retain, Retire](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-retiring-applications/overview.html) - Re: AWS Migration Readiness
-ABAC        | [Attribute Based Access Contorl](https://en.wikipedia.org/wiki/Attribute-based_access_control) 
+ABAC        | [Attribute-Based Access Contorl](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see CBAC, PBAC)
 ABC         | Activity Based Costing
 ABC         | Area of Business Concern
 ABNF        | Augmented Backus-Naur Form (see [RFC-5234](https://tools.ietf.org/html/rfc5234))
@@ -89,6 +89,7 @@ CAB         | Change Advisory Board
 CaC         | Compliance as Code
 CAP         | Consistency, Availability, Partition Tolerance  
 CAS         | [Compare-And-Swap | Compare-And-Set](https://en.wikipedia.org/wiki/Compare-and-swap)
+CBAC        | [Claim-Based Attirbute Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see ABAC,PBAC)
 CCoE        | Cloud Center of Excellence
 CCPA        | [California Consumer Privacy Act](https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act)
 CD          | Candidate Recommendation 
@@ -523,6 +524,7 @@ PAM         | Pluggable Authentication Modules
 PAP         | Policy Administration Point
 PAS         | Publicly Available Specification
 PASETO      | platform-agnostic security tokens
+PBAC        | [Policy-Based Access Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see ABAC, CBAC)
 PBI         | Product Backlog Item (i.e. Scrum)
 PBL         | Product Backlog (i.e. Scrum)
 PCI DSS     | Payment Card Industry Data Security Standard
