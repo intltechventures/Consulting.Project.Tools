@@ -1,10 +1,10 @@
 
-# Glossary
+# Abbreviations and Acronyms
 
 This glossary is intended to provide a single refernce to be reused across multiple projects - and design artifacts. Defining localized/specialized terms may then be limited to being addressed in specific design artifacts. The intent is to avoid duplication of a large corpus of glossary entries, in many places.
 
-|Term | Definition|
-|-----|-----------|
+|Term       | Definition|
+|-----------|-----------|
 2FA         | Two-Factor Authentication
 3LOD        | [Three Lines of Defence Model](https://erm.ncsu.edu/library/article/cosos-take-on-the-three-lines-of-defense) (Codified by the Basel Committee on Banking Supervision in its 2011 Principles for the sound management of operational risk)
 3PL         | Third-Party Logistics providers
@@ -159,6 +159,7 @@ CX          | Customer Experience
 CXN         | Customer Experience Network
 DA          | Data Architecture 
 DAC         | [Discretionary Access Control](https://en.wikipedia.org/wiki/Discretionary_access_control)
+DAP         | Directory Access Protocol (X.500)
 DAR         | Decision Analysis and Resolution technique
 DARPA       | Defense Advanced Research Projects Agency
 DARQ        | Distributed Ledger Technology (DLT), Artificial Intelligence (AI), Extended Reality (XR), Quantum Computing ~ re: Accenture
@@ -325,6 +326,7 @@ IC          | [United States IntelligenceCommunity](https://en.wikipedia.org/wik
 ICMP        | Internet Control Message Protocol 
 ICT         | Information Communications and Technology 
 IdAM        | See IAM
+IDD         | Infrastructure Design Document
 IDE         | Integrated Development Environment    
 IDL         | [Interface Description Language](https://en.wikipedia.org/wiki/Interface_description_language)
 IdM         | Identity Management, also see IAM
@@ -351,7 +353,9 @@ IPMI        | Intelligent Platform Management Interface
 IPS         | Intrusion Prevention System
 IR          | Information Retrieval 
 IRM         | Individual Rights Management
+IRM         | Information Risk Management 
 IRT         | Incident Response Team
+ISA         | Information Security Architecture 
 ISA         | [Instruction Set Architecture](https://en.wikipedia.org/wiki/Instruction_set_architecture)
 ISAM        | Indexed Sequential Access Method
 iSCI        | Internet Small Computer System Interface
@@ -366,7 +370,7 @@ IT4IT       | [The IT4IT Reference Architecture](https://www.opengroup.org/it4it
 ITAR		    | International Traffic in Arms Regulations
 ITIL        | [Information Technology Infrastructure Library](https://en.wikipedia.org/wiki/ITIL)
 ITIRB       | Information Technology Investment Review Board
-ITSM        | IT Service Management
+ITSM        | Information Technlogy Service Management
 IX          | Internet Exchange
 JAR         | [Java ARchive (file format)](https://en.wikipedia.org/wiki/JAR_(file_format))
 JCP         | [Java Community Process](https://en.wikipedia.org/wiki/Java_Community_Process)
@@ -528,6 +532,7 @@ PBAC        | [Policy-Based Access Control](https://en.wikipedia.org/wiki/Attrib
 PBI         | Product Backlog Item (i.e. Scrum)
 PBL         | Product Backlog (i.e. Scrum)
 PCI DSS     | Payment Card Industry Data Security Standard
+PCR         | Project Change Request
 PDCA        | Plan-Do-Check-Adjust (Shewhart’s PDCA cycle, aka the Deming Cycle)
 PDSA        | Plan-Do-Study-Act
 PDP         | Policy Decision Point
@@ -642,6 +647,7 @@ SA          | Solution Architect
 SaaS        | [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service)
 SACM        | Software Asset Configuration Management (an ITIL process)
 SAD         | Solution Architecture Document
+SADS        | Secure Application Development Standards
 SAFe        | Scaled Agile Framework
 SAM         | Successive Approximation Model, created by Allen Interactions 
 SAML        | Security Assertion Markup Language
@@ -735,6 +741,7 @@ SuD         | System Under Discussion (re, see book: [Writing Effective Use Case
 SVG         | [Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 SW          | Software
 SWAG        | Silly Wild-Ass Guess (also see ROM), aka an estimate 
+SWOT        | Strengths, Weaknesses, Opportunities, and Threats
 T2R2        | Transparent, Traceable, Replicable and Reproducible 
 TAG         | Technical Advisory Group
 TAM         | Technical Account Manager
@@ -826,6 +833,7 @@ XSL         | XML Style Language
 XSLT        | [eXtensible Stylesheet Language Transformations](https://en.wikipedia.org/wiki/XSLT)
 XSTL        | XML Transformation Language 
 YAGNI       | You Aren't Gonna Need It 
+YBYO        | You Build Your Own
 ZT          | Zero Trust
 ZTA         | [Zero Trust Architecture](https://csrc.nist.gov/publications/detail/sp/800-207/final)
 
