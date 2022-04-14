@@ -1,6 +1,9 @@
 
 # Abbreviations and Acronyms
 
+- https://www.acronymfinder.com/
+
+
 This glossary is intended to provide a single refernce to be reused across multiple projects - and design artifacts. Defining localized/specialized terms may then be limited to being addressed in specific design artifacts. The intent is to avoid duplication of a large corpus of glossary entries, in many places.
 
 |Term       | Definition|
