@@ -154,6 +154,7 @@ CSM         | Customer Success Manager
 CSR         | Customer Service Representative
 CSR         | Certificate Signing Request 
 CSS         | [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+CTB         | Change The Business
 CTO         | Chief Technology Officer  
 CUI	    		| Controlled Unclassified Information (CUI), as defined by Executive Order 13556 (2010)
 CVS         | Concurrent Version System
@@ -638,6 +639,7 @@ RPA         | Robotic Process Automation
 RPC         | [Remote Procedure Call](https://en.wikipedia.org/wiki/Remote_procedure_call)
 RPM         | Redhat Package Manager
 RPO         | Recovery Point Objective
+RTB         | Run The Business
 RTE         | Release Train Engineer
 RTF         | Runtime Fabric (re: MuleSoft)
 RTFM        | Read The Freaking Manual
