@@ -29,6 +29,10 @@
 - "It’s all very, very simple. If I improve my tools/skills/knowledge, I’m faster next sprint. If I work harder, I’m no faster next sprint."
 
 
+## Michael Feathers 
+- "Clean code always looks like it was written by someone who cares.”
+
+
 ## Erik Weber 
 - "A company that rewards firefights breeds arsonists." - Erik Weber
 
