@@ -168,6 +168,7 @@ DAR         | Decision Analysis and Resolution technique
 DARPA       | Defense Advanced Research Projects Agency
 DARQ        | Distributed Ledger Technology (DLT), Artificial Intelligence (AI), Extended Reality (XR), Quantum Computing ~ re: Accenture
 DAS         | Direct Attached Storage 
+DaaS        | Data as a Service
 DASD        | [Direct-Access Storage Device](https://en.wikipedia.org/wiki/Direct-access_storage_device)
 DAST        | Dynamic Application Security Testing
 DB          | Database
@@ -531,6 +532,7 @@ PaaS        | Platform as a Service, aka aPaaS (i.e., Application Platform as a 
 PAM         | Pluggable Authentication Modules
 PAP         | Policy Administration Point
 PAS         | Publicly Available Specification
+PaaS        | Platform as a Service
 PASETO      | platform-agnostic security tokens
 PBAC        | [Policy-Based Access Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see ABAC, CBAC)
 PBI         | Product Backlog Item (i.e. Scrum)
@@ -548,6 +550,7 @@ PHI			    | Protected Health Information (re: HIPPA)
 PI          | Program Increment (re: Scaled Agile Framework, SAFe)
 PII			    | Personally Identifiable Information
 PIN         | Personal Identification Number 
+PIR         | POst Incident Review
 PIT         | Platform Information Technology
 PITR        | Point In Time Recovery
 PKCE        | Proof Key for Code Exchange (pronounced "pixy"), re: [RFC 7636](https://tools.ietf.org/html/rfc7636)
@@ -741,6 +744,7 @@ SSO         | [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on)
 SSOT        | Single Source of Truth
 SSP         | System Security Plan
 SSPI        | Security Support Provider Interface
+STaaS       | Storage as a Service
 STS         | Security Token Service
 SuD         | System Under Discussion (re, see book: [Writing Effective Use Cases](https://www.amazon.com/Writing-Effective-Cases-Alistair-Cockburn/dp/0201702258))
 SVG         | [Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
