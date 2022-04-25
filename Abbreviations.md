@@ -814,6 +814,7 @@ VUCA        | Volatile, Uncertain, Complex, Ambiguous (source: The U.S. Army War
 VXLAN       | Virtual Extensible LAN
 W3          | World Wide Web (i.e. WWW)
 W3C         | [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium)
+WaaS        | Workers as a Service
 WADL        | [Web Application Description Language](https://en.wikipedia.org/wiki/Web_Application_Description_Language)
 WAF         | Web Application Firewall
 WAL         | [Write-ahead Logging](https://en.wikipedia.org/wiki/Write-ahead_logging)
