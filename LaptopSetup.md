@@ -127,6 +127,9 @@ __These are the primary software programs that I typically have installed on my 
       * http://kb.mozillazine.org/Signatures_(Thunderbird)#Removing_the_signature_separator
       * https://support.mozilla.org/en-US/questions/1019583
 
+- Calendar Colors
+  + ![](_images/Calendar_Colors.png)
+
 
 ### eBook Readers
 
