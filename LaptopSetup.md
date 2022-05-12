@@ -882,3 +882,36 @@ __These are the primary software programs that I typically have installed on my 
   + https://www.solidworks.com/
   + https://www.solidworks.com/how-to-buy
   + https://en.wikipedia.org/wiki/SolidWorks
+
+
+# Task Bar entries
+- Thunderbird email
+- Notepad++
+- LibreOffice Calc
+- LibreOffice Draw
+- File Explorer 
+- Microsoft Windows Calculator
+- Snip & Sketch
+- Snagit 
+- TrueCrypt
+- Alarms & Clocks
+- Command Prompt 
+- Git Bash
+- Windows PowerShell 
+- Sparx Enterprise Architect 
+- Eclipse
+- Visual Studio Code 
+- Visual Studio 2022 
+- Mozilla Firefox
+- Google Chrome 
+- Microsoft Edge 
+- Word
+- Excel 
+- PowerPoint 
+- iTunes
+- Kindle 
+- Event Viewer 
+- Control Panel 
+- Dragon Gaming Center
+- FileZilla 
+- Macrium Reflect 
