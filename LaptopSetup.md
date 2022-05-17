@@ -84,6 +84,9 @@ __These are the primary software programs that I typically have installed on my 
     * Update Windows file: ```%SystemRoot%\system32\drivers\etc\hosts```
 
 
+- A good security scanning utility (above your regular firewall and anti-virus) - that you must download and run manually. 
+  + Note: "Safety Scanner only scans when manually triggered and is ```available for use 10 days after being downloaded.``` We recommend that you always download the latest version of this tool before each scan."
+  + https://docs.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide
 
 ## The Essentials...
 
