@@ -1,5 +1,5 @@
 
-# My Laptop Setup    
+# My Mobile Office Equipment
 - Kelvin D. Meeks
   + kmeeks@intltechventures.com
   + https://www.linkedin.com/in/kelvinmeeks/
@@ -23,10 +23,26 @@
 
   + [ULBRE Soho KVM Switch 4 Port USB 3.0 Sharing Box Selector, 4Port Peripheral Switcher KM Adapter KVM Console Hub for Office PC Printer Mouse Keyboard](https://www.amazon.com/dp/B07DKD7JHG/) 
 
+  + [HDMI Switch 4K@60hz HDMI Splitter, Aluminum HDMI 2.0 Switcher 2 in 1 Out, HDMI Splitter 1 in 2 Out, Bi-Directional Switch Support 4K 3D HDR for Xbox PS5/4/3 Blu-Ray Player Fire Stick Roku HDTV](https://www.amazon.com/gp/product/B09D7MRPJF/)
+
   + Logitech H390 USB Headset w/Noise-Canceling Microphone
     * https://www.walmart.com/ip/Logitech-H390-USB-Headset-w-Noise-Canceling-Microphone/8198023
     * https://www.amazon.com/Logitech-logitech-noisecanceling-Microphone-Packaging/dp/B075G4JT4S/
 
+  + WiFi Extender
+    * [TP-Link AC2600 WiFi, Extender(RE650), Up to 2600Mbps, Dual Band WiFi Range Extender, Gigabit port, Internet Booster, Repeater, Access Point,4x4 MU-MIMO](https://www.amazon.com/Extender-2600Mbps-Repeater-Internet-RE650/dp/B01MR90E3A/)
+
+  + Mobile Hotspot Wifi
+    * [T-Mobile MiFi, Inseego, 5G MiFi M2000](https://www.t-mobile.com/hotspot-iot-connected-devices/inseego-5g-mifi-m2000)
+    * NETGEAR AirCard AC781S AT&T Unite Pro 4g LTE Hotspot
+
+  + Printer
+    * [HP LaserJet Pro MFP M29w](https://www.amazon.com/HP-Laserjet-M29W-Wireless-Monochrome/dp/B09MTFNC5P/)
+      * All-in-One Wireless Monochrome Laser Printer for Home Business Office, White - Print Scan Copy - 19 ppm, 600 x 600 dpi, 8.5 x 11.69 Print Size, 1.0" Icon LCD Display 
+
+  + Monitor
+    * [HP M24f FHD (model 2D9K0AA)](https://www.amazon.com/New-HP-M24f-Monitor-Anti-Glare/dp/B09HW5QGVR/)
+      * 23.8" FHD 1080p IPS LED Anti-Glare Monitor, Silver and Black - AMD FreeSync, 70Hz, 300 nits, HDMI & VGA Ports, Tilt + HDMI Cable 
 
 
 __These are the primary software programs that I typically have installed on my personal development machine...__
@@ -345,15 +361,20 @@ __These are the primary software programs that I typically have installed on my 
 ## Primary Software Development Languages
 
 - [Go](https://golang.org/)
+  + https://go.dev/doc/
+
 
 - Java
+  + Oralce
+    * https://www.oracle.com/java/ 
+    * https://docs.oracle.com/javase/specs/index.html
+    * https://docs.oracle.com/en/java/javase/
   + OpenJDK
     * https://openjdk.java.net/
   + Azul OpenJDK
     * https://www.azul.com/downloads/zulu-community/?&architecture=x86-64-bit&package=jdk
     * ```All Zulu Community builds of OpenJDK are free to download and use without restrictions.```
-  + Oracle
-    * https://www.oracle.com/java/
+
 
 
 - [Python](https://www.python.org/)
@@ -362,14 +383,18 @@ __These are the primary software programs that I typically have installed on my 
     * ```python -m pip install -U pip```
   + https://github.com/intltechventures/Lab.Python/blob/master/install_modules.bat
 
+
 - [R](https://www.r-project.org/)
+
 
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
   + Re: [Visual Studio IDE](https://visualstudio.microsoft.com/)
 
+
 - [GNU GCC](https://gcc.gnu.org/)
   + [MingW (and MSYS)](http://www.mingw.org/)
   + [Cyqwin](http://www.cygwin.com/)
+
 
 - JavaScript
   + https://www.ecma-international.org/publications/standards/Ecma-262.htm)
@@ -388,24 +413,31 @@ __These are the primary software programs that I typically have installed on my 
 
 - [Scala](http://scala-lang.org/)
 
+
 - [Lua](http://www.lua.org/) 
+
 
 - [Rust](http://rust-lang.org/)
 
-- [Groovy](http://www.groovy-lang.org/)
+
+- [Groovy](https://groovy.apache.org/)a
   + https://groovy-lang.org/documentation.html
   + https://github.com/apache/groovy
 	* http://groovy-lang.org/ides.html
-  + https://groovy-lang.org/single-page-documentation.html
+  + http://groovy-lang.org/single-page-documentation.html
   + https://github.com/groovy/groovy-eclipse
   + https://github.com/groovy/groovy-eclipse/wiki
     * https://dist.springsource.org/release/GRECLIPSE/e4.15
 
+
 - [Clojure](https://clojure.org/)
 
-- Dart
+
+- [Dart](https://dart.dev/)
+
 
 - [Julia](http://julialang.org/)
+
 
 - [Perl](https://www.perl.org/)
   + http://strawberryperl.com
@@ -413,7 +445,9 @@ __These are the primary software programs that I typically have installed on my 
     * (64bit, PDL edition = portable edition + extra PDL related modules and external libraries)
       * http://pdl.perl.org/
 
+
 - [PHP ](http://php.net/)
+
 
 - [Ruby](https://www.ruby-lang.org/en/)
 

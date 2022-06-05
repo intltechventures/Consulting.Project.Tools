@@ -719,7 +719,6 @@ SOAP        | [Simple Object Access Protocol](https://en.wikipedia.org/wiki/SOAP
 SoE         | System of Engagement
 SOLID       | Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion
 SOR         | System of Record
-SOR         | System of Record
 SOW         | Statement of Work
 SP          | [Service Provider](https://en.wikipedia.org/wiki/Service_provider)
 SPA         | [Single-Page Application](https://en.wikipedia.org/wiki/Single-page_application)
