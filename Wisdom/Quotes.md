@@ -1,10 +1,25 @@
 
 # Quotes
 
+## Albert Einstein
+- ”If you can’t explain it to a six year old, you don’t understand it yourself”
+- ”Everything should be made as simple as possible, but no simpler”
+
+## Donald Knuth
+- ”Premature optimization is the root of all evil”
+
+- The Five Stages of Model Development
+1. Decide what you want the model to do
+2. Decide how to build the model
+3. Build the model
+4. Debug the model
+5. Trash stages 1-4 and start again, now that you know what you really wanted.
+
+
 
 ## Kent Beck
-
 - "Given a behavior-changing diff and a subsequent structure-changing diff, can you derive the behavior-changing diff as it would have looked after the structure change? Can you compare the actual diff with the derived diff?" ~ [Kent Beck](https://twitter.com/KentBeck/status/1141744893200494592)
+- “Make It Work, Make It Right, Make It Fast”
 
 
 ## Fred Brooks
@@ -86,6 +101,7 @@
 
 ## Doug McIlroy
 - ["Do One Thing And Do It Well."](https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well)
+- ”This is the Unix philosophy: Write programs that do one thing and do it well. Write programs to work together. Write programs to handle text streams, because that is a universal interface.”
 
 
 ## David Hooker
@@ -98,5 +114,9 @@
 6. Plan Ahead for Reuse
 7. Think!
 
+## Eugene Lewis Fordsworthe
+- ”Assumption is the mother of all screw ups”
 
 
+## Heraclitus 
+- ”The only constant is change”
