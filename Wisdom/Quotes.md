@@ -34,10 +34,69 @@
 
 
 ## Erik Weber 
-- "A company that rewards firefights breeds arsonists." - Erik Weber
+- "A company that rewards firefights breeds arsonists." 
 
 
+## John Gall
+- Gall's Law: "A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system." (1975)
 
+
+## Colonel John Boyd 
+- Boyd's Law: "Speed of iteration beats quality of iteration."
+
+
+## Melvin Conway
+- Conway's Law: "Any organization that designs a system (defined more broadly here than just information systems) will  inevitably produce a design whose structure is a copy of the organization’s communication structure."
+
+
+## Eric Raymond
+- Eric Raymond's [17 Unix rules](https://en.wikipedia.org/wiki/Unix_philosophy#Eric_Raymond's_17_Unix_Rules), re: [The
+  Art of Unix Programming](https://en.wikipedia.org/wiki/The_Art_of_Unix_Programming) (2003)
+1. Build modular programs
+2. Write readable programs
+3. Use composition
+4. Separate mechanisms from policy
+5. Write simple programs
+6. Write small programs
+7. Write transparent programs
+8. Write robust programs
+9. Make data complicated when required, not the program
+10. Build on potential users' expected knowledge
+11. Avoid unnecessary output
+12. Write programs which fail in a way that is easy to diagnose
+13. Value developer time over machine time
+14. Write abstract programs that generate code instead of writing code by hand
+15. Prototype software before polishing it
+16. Write flexible and open programs
+17. Make the program and protocols extensible.
+
+
+## Mike Gancarz
+- Mike Gancarz: [The UNIX Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy#Mike_Gancarz:_The_UNIX_Philosophy)
+1. Small is beautiful.
+2. Make each program do one thing well.
+3. Build a prototype as soon as possible.
+4. Choose portability over efficiency.
+5. Store data in flat text files.
+7. Use software leverage to your advantage.
+8. Use shell scripts to increase leverage and portability.
+9. Avoid captive user interfaces.
+10. Make every program a filter.
+
+
+## Doug McIlroy
+- ["Do One Thing And Do It Well."](https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well)
+
+
+## David Hooker
+- [Seven Principles of Software Development](http://wiki.c2.com/?SevenPrinciplesOfSoftwareDevelopment)
+1. The Reason It All Exists
+2. KISS (Keep It Simple, Stupid!)
+3. Maintain the Vision 
+4. What You Produce, Others Will Consume 
+5. Be Open to the Future
+6. Plan Ahead for Reuse
+7. Think!
 
 
 
