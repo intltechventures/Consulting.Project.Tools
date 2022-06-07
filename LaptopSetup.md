@@ -823,6 +823,19 @@ __These are the primary software programs that I typically have installed on my 
 - https://inkscape.org/
   + a Free and open source vector graphics editor for GNU/Linux, Windows and MacOS X
 
+- Disk Utilization Visualiation tools...
+  + https://en.wikipedia.org/wiki/Disk_Usage_Analyzer
+  + https://en.wikipedia.org/wiki/WinDirStat
+    * https://windirstat.net/
+      * https://blog.windirstat.net/
+    * https://www.fosshub.com/WinDirStat.html
+    * https://sourceforge.net/projects/windirstat/
+  + SequoiaView
+
+- Explore other possible open source tools, utilities...
+  + https://www.fosshub.com/
+
+
 
 # Windows OS Performance Optimizations
 
