@@ -6,6 +6,7 @@
 
 - PayPal.com
 
+- Stripe.com
 
 - Square.com 
 
