@@ -94,6 +94,7 @@ CAP         | Consistency, Availability, Partition Tolerance
 CAS         | [Compare-And-Swap | Compare-And-Set](https://en.wikipedia.org/wiki/Compare-and-swap)
 CBAC        | [Claim-Based Attirbute Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see ABAC,PBAC)
 CCoE        | Cloud Center of Excellence
+CCO         | Client Change Order
 CCPA        | [California Consumer Privacy Act](https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act)
 CD          | Candidate Recommendation 
 CD          | Continuous Delivery
