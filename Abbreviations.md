@@ -628,6 +628,7 @@ RIA         | Rich Internet Application
 RIDAC       | Risk, Issue, Decision, Action, and Request Changes records (re: ServiceNow)
 RION        | Raw Internet Object Notation
 RISC        | [Reduced Instruction Set Computer](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer)
+RITM        | Request Item
 RL          | Reinforcement Learning
 RMA         | [Return Merchandise Authorization](https://en.wikipedia.org/wiki/Return_merchandise_authorization)
 RMAD        | Rapid Mobile App Development  
