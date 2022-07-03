@@ -33,6 +33,10 @@
   * "Everbody Lies" - House
 * Also see [Leroy Jethro Gibb, NCIS, Rule #3](http://ncis.wikia.com/wiki/Gibbs%27s_Rules) 
   * "Don't believe what you're told. Double check" - Gibbs
+* Also see [Daniel Salzedo, Senior Security Specialist Technical Account Manager at
+  Amazon](https://www.linkedin.com/pulse/can-you-get-infected-virus-just-google-searching-daniel-salzedo/)
+  * "Everbody lies and end-users doubly so...This is the maxim of every support engineer, system administrator and IT
+    fellow-traveler I've ever met."
 
 
 **\#002 - "Never share something with someone, unless you expect them to act on it"**
