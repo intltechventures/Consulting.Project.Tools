@@ -30,7 +30,7 @@
 * "We're growing" - they laid off 50% of the division
 * A kinder gentle version of this rule might be "Inspect what you expect"
 * Also see [Gregory House, MD](http://house.wikia.com/wiki/Everybody_lies)
-  * "Everbody Lies" - House
+  * "[Everbody Lies](https://house.fandom.com/wiki/The_List_of_Lies)" - House
 * Also see [Leroy Jethro Gibb, NCIS, Rule #3](http://ncis.wikia.com/wiki/Gibbs%27s_Rules) 
   * "Don't believe what you're told. Double check" - Gibbs
 * Also see [Daniel Salzedo, Senior Security Specialist Technical Account Manager at
