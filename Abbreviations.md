@@ -20,6 +20,7 @@ AC          | [Axiom of Choice](https://en.wikipedia.org/wiki/Axiom_of_choice)
 ACH         | [Automated Clearing House](https://en.wikipedia.org/wiki/Automated_clearing_house)
 ACL         | Access Control List
 ACME        | [Automatic Certificate Management Environment](https://en.wikipedia.org/wiki/Automated_Certificate_Management_Environment), alsos see [RFC 8555](https://tools.ietf.org/html/rfc8555)
+ACS         | Azure Communication Service
 ACV         | Annual Contract Value 
 AD          | Application Delivery  
 AD          | Active Directory
@@ -650,6 +651,7 @@ ROM         | Rough Order of Magnitude (also see SWAG), aka an estimate
 RPA         | Robotic Process Automation
 RPC         | [Remote Procedure Call](https://en.wikipedia.org/wiki/Remote_procedure_call)
 RPM         | Redhat Package Manager
+RPM         | Requests Per Minute
 RPO         | Recovery Point Objective
 RTB         | Run The Business
 RTE         | Release Train Engineer
@@ -749,6 +751,7 @@ SSADM       | (structured systems analysis and design methodology) - developed b
 SSD         | [Solid-State Disk](https://en.wikipedia.org/wiki/Solid-state_drive)
 SSH         | Secure Shell
 SSL         | Secure Sockets Layer
+SSML        | Speech Synthesis Markup Language 
 SSO         | [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on)
 SSOT        | Single Source of Truth
 SSP         | System Security Plan
