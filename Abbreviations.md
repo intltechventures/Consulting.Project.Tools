@@ -1,5 +1,5 @@
 
-# Abbreviations and Acronyms
+# Abbreviation, Acronyms, Terminology
 
 - https://www.acronymfinder.com/
 
@@ -92,6 +92,7 @@ CAB         | Change Advisory Board
 CaC         | Compliance as Code
 CAP         | Consistency, Availability, Partition Tolerance  
 CAS         | [Compare-And-Swap | Compare-And-Set](https://en.wikipedia.org/wiki/Compare-and-swap)
+CAT         | Customer Advisory Team
 CBAC        | [Claim-Based Attirbute Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see ABAC,PBAC)
 CCoE        | Cloud Center of Excellence
 CCO         | Client Change Order
@@ -146,9 +147,11 @@ CRF         | Conditional Random Fields
 CRL         | Certificate Revocation List
 CRM         | Customer Relationship Management
 CRUD        | Create, Read, Update, Delete
+CSA         | Cloud Security Alliance
 CSAT        | [Customer Satisfaction](https://en.wikipedia.org/wiki/Customer_satisfaction)
 CSD         | Consolidated Service Desk
 CSDM        | [Common Service Data Model](https://docs.servicenow.com/bundle/paris-servicenow-platform/page/product/csdm-implementation/concept/csdm-basics.html) (re: ServiceNow)
+CSF         | Common Security Framework
 CSI         | Container Storage Interface (e.g. Kubernetes)
 CSM         | Customer Service Management 
 CSM         | Customer Success Manager
@@ -309,6 +312,7 @@ HDD         | [Hard Disk Drive](https://en.wikipedia.org/wiki/Hard_disk_drive)
 HDFS        | Hadoop Distributed File System 
 HIPPA       | Health Insurance Portability and Accountability Act of 1996
 HiPPO       | [Highly Paid Person's Opinion](https://architectelevator.com/cloud/selecting-cloud-provider/)
+HITRUST     | Health Information Trust Alliance
 HLD         | High-Level Design  
 HLP         | Human Level Performance (re: Machine Learning)
 HMM         | Hidden Markov Models
@@ -401,7 +405,9 @@ KYC         | Know Your Client | Know Your Customer
 LAN         | Local Area Network
 LBA         | [Logical Block Addressing](https://en.wikipedia.org/wiki/Logical_block_addressing)
 LBaaS       | Load-Balancer-as-a-Service
+LCAP        | Low-Code Application Platforms
 LCC         | Lower Camel Case
+LCNC        | Low-Code No-Code
 LDAP        | [Lightweight Directory Access Protocol](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol)
 LDIF        | [LDAP Data Interchange Format](https://en.wikipedia.org/wiki/LDAP_Data_Interchange_Format), [RFC 2849 The LDAP Data Interchange Format (LDIF) - Technical Specification](https://tools.ietf.org/html/rfc2849)
 LEM         | [Law of Excluded Middle](https://en.wikipedia.org/wiki/Law_of_excluded_middle)
@@ -582,6 +588,7 @@ PRT         | Portfolio
 PSD2        | [Payment Services Directive](https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines_202006_psd2_afterpublicconsultation_en.pdf) (Directive 2015/2366/EU of the European Parliament andof the Council of 23 December 2015)
 PSM         | Persistent Stored Modules
 PTP         | Procure-to-Pay
+PVA         | Power Virtual Agents (re: Microsoft BOT platform)
 QA          | [Quality Assurance](https://en.wikipedia.org/wiki/Quality_assurance)
 QAOA        | [Quantum Approximate Optimization Algorithm](https://en.wikipedia.org/wiki/Quantum_optimization_algorithms)
 QI          | Quality Improvement 
@@ -714,6 +721,7 @@ SN          | abbreviation for [ServiceNow](https://www.servicenow.com/)
 SNAFU       | Situation Normal, All Fucked Up
 SNOW        | abbreviation for [ServiceNow](https://www.servicenow.com/)
 SO          | Sales Order
+SOC         | System and Organization Controls
 SOP         | Standard Operating Procedure
 SOA         | [Service Oriented Architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture)
 SOA         | [Start of Authority](https://en.wikipedia.org/wiki/SOA_record) record, re: DNS
@@ -746,6 +754,7 @@ SSOT        | Single Source of Truth
 SSP         | System Security Plan
 SSPI        | Security Support Provider Interface
 STaaS       | Storage as a Service
+STAR        | Security Trust Assurance and Risk
 STS         | Security Token Service
 SuD         | System Under Discussion (re, see book: [Writing Effective Use Cases](https://www.amazon.com/Writing-Effective-Cases-Alistair-Cockburn/dp/0201702258))
 SVG         | [Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
