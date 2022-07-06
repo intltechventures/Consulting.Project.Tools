@@ -117,6 +117,7 @@ CI          | Configuration Item (i.e. in a CMDB, such as ServiceNow)
 CI          | Continuous Integration
 CI/CD       | Continuous Integration / Continuous Delivery (or, Continous Deployment)
 CIA         | Confidentiality, Integrity, Availability
+CIAM        | Customer Identity and Access Management
 CICS        | IBM [ustomer Information Control System](https://en.wikipedia.org/wiki/CICS)
 CID         | Command Identifier
 CIF         | Customer Information File  
