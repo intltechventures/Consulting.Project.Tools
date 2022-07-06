@@ -97,6 +97,7 @@ CAT         | Customer Advisory Team
 CBAC        | [Claim-Based Attirbute Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see ABAC,PBAC)
 CCoE        | Cloud Center of Excellence
 CCO         | Client Change Order
+CCO         | Cloud Control Objectives
 CCPA        | [California Consumer Privacy Act](https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act)
 CD          | Candidate Recommendation 
 CD          | Continuous Delivery
