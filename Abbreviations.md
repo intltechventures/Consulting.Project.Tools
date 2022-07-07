@@ -676,6 +676,7 @@ SAN         | Storage Area Networks
 SANS        | [The SANS Institute](https://www.sans.org/) (officially the Escal Institute of Advanced Technologies)
 SAR         | Security Assessment Report
 SAR         | Suspicious Activity Reporting
+SASE        | Secure Access Service Edge
 SAST        | Static Application Security Testing
 SATA        | [Seria AT Attachment](https://en.wikipedia.org/wiki/Serial_ATA)
 SAW         | Statement of Architecture Work
