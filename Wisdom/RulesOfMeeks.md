@@ -168,6 +168,9 @@ reassess whether your plan is actually working"**
 their nose - will still end up walking around with shit all over their faces."**
 
 
+**\#213 - "Tread carefully - and beware the egg shells that you break"**
+
+
 
 \#3xx - On Design 
 ====
