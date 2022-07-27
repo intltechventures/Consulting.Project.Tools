@@ -336,6 +336,7 @@ IAM         | [Identity and Access Management](https://en.wikipedia.org/wiki/Ide
 IAST        | Integrated Application Security Testing
 IC          | Individual Contributor
 IC          | [United States IntelligenceCommunity](https://en.wikipedia.org/wiki/United_States_Intelligence_Community)
+ICML        | International Conference on Machine Learning
 ICMP        | Internet Control Message Protocol 
 ICT         | Information Communications and Technology 
 IdAM        | See IAM
@@ -416,6 +417,7 @@ LDIF        | [LDAP Data Interchange Format](https://en.wikipedia.org/wiki/LDAP_
 LEM         | [Law of Excluded Middle](https://en.wikipedia.org/wiki/Law_of_excluded_middle)
 LeSS        | [Large Scale Scrum](https://less.works/)
 LGPL        | (GNU) Lesser General Public License 
+LLM         | Large Language Model
 LSA         | Local Service Agreement
 LSM         | [Log-Structured Merge-Tree](https://en.wikipedia.org/wiki/Log-structured_merge-tree)
 LU          | Logical Unit  
