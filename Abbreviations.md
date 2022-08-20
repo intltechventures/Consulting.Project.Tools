@@ -62,6 +62,7 @@ AZ          | Availability Zone
 B2B         | Business-to-Business
 B2C         | Business-to-Consumer
 BA          | Business Analyst
+BAA         | Business Associate Agreement
 BAFO        | Best And Final Offer (e.g., RFP negotiations)
 BCP         | Business Continuity Planning
 BDAM        | IBM [Basic Direct Access Method](https://en.wikipedia.org/wiki/Basic_direct_access_method)
@@ -248,6 +249,7 @@ ENI         | Elastic Network Interface (re: AWS)
 EOL         | End of Life
 EOL         | End of Line
 EPC         | Electronic Product Code
+ePHI        | Electronically Protected Health Information
 EPLC        | Enterprise Performance Life Cycle 
 EPM         | Enterprise Performance Management 
 EPS         | Extrusion Prevention System (see DLP)
