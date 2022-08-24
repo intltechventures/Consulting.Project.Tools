@@ -426,6 +426,7 @@ LU          | Logical Unit
 LVM         | Logical Volume Manager
 MAO         | Maximum Acceptable Outage
 MAC         | Machine Access Control 
+MAC         | Managed Application Consulting
 MAC         | [Mandatory Access Control](https://en.wikipedia.org/wiki/Mandatory_access_control)
 MAU         | Monthly Active Users
 MBaaS       | Mobile Back End as a Service
