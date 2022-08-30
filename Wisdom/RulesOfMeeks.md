@@ -88,7 +88,6 @@
 
 
 
-
 \#1xx - On Consulting, Startups, and Business Endeavors 
 ====
 
@@ -164,11 +163,13 @@ reassess whether your plan is actually working"**
 **\#211 - "Indecision in an organization is like rot in a wooden boat. It must be cut out - and replaced."**
 
 
-**\#212 - "There are some folks - that even if you give them explicit written instructions on how to wipe their ass, and blow
-their nose - will still end up walking around with shit all over their faces."**
+**\#212 - "There are some folks - that even if you give them explicit written instructions on the steps to blow their nose and then wipe their ass - will still end up walking around with shit all over their faces."**
 
 
 **\#213 - "Tread carefully - and beware the egg shells that you break"**
+
+
+**\#214 - "Life is too short to put up with any team that is overwhelmingly staffed with The Galactically Incompetent"**
 
 
 
