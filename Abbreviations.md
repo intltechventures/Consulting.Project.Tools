@@ -177,6 +177,7 @@ DARPA       | Defense Advanced Research Projects Agency
 DARQ        | Distributed Ledger Technology (DLT), Artificial Intelligence (AI), Extended Reality (XR), Quantum Computing ~ re: Accenture
 DAS         | Direct Attached Storage 
 DaaS        | Data as a Service
+DARPA       | [Defense Advanced Research Projects Agency](https://en.wikipedia.org/wiki/DARPA)
 DASD        | [Direct-Access Storage Device](https://en.wikipedia.org/wiki/Direct-access_storage_device)
 DAST        | Dynamic Application Security Testing
 DB          | Database
@@ -193,6 +194,7 @@ DES         | [Data Encryption Standard](https://en.wikipedia.org/wiki/Data_Encr
 DFIR        | Digital Forensics, Incident Response  
 DGC         | Data Governance Council
 DHCP        | Dynamic Host Configuration Protocol 
+DHT         | [Distributed Hash Table](https://en.wikipedia.org/wiki/Distributed_hash_table)
 DIM         | Domain Information Model
 DLD			    | Detail-Level Design 
 DLM         | Database Lifecycle Management
@@ -201,6 +203,7 @@ DLT         | Distributed Ledger Technology
 DMAIC       | [Define, Measure, Analayze, Improve, Control](https://en.wikipedia.org/wiki/DMAIC) (re: Six Sigma)
 DMN         | Demand
 DMO         | Data Management Office 
+DMZ         | [Demilitarized Zone](https://en.wikipedia.org/wiki/DMZ_(computing) - aka perimeter network or [screened subnet](https://en.wikipedia.org/wiki/Screened_subnet)
 DN          | Distinguished Name, re: LDAP
 DNAT        | Destination network address translation
 DNS         | [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System)
@@ -298,6 +301,7 @@ GL          | General Ledger
 GLBA        | Gramm Leach Bliley Act
 gMSA        | Group Managed Service Accounts (e.g. for Swarm)
 GMV         | [Gross Merchandise Value](https://www.investopedia.com/terms/g/gross-merchandise-value.asp)
+GNS         | [GNU Name System](https://en.wikipedia.org/wiki/GNUnet#GNU_Name_System)
 GNU         | GNU's Not Unix! (a recursive acronym)
 GOLAP       | Graph OLAP 
 GPG         | [GNU Privacy Guard](https://en.wikipedia.org/wiki/GNU_Privacy_Guard)
@@ -335,9 +339,11 @@ IA          | Internal Audit
 IaaS        | Infrastructure as a Service  
 IaC         | Infrastructure as Code
 IAM         | [Identity and Access Management](https://en.wikipedia.org/wiki/Identity_management)
+IANA        | [Internet Assigned Numbers Authority](https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority)
 IAST        | Integrated Application Security Testing
 IC          | Individual Contributor
 IC          | [United States IntelligenceCommunity](https://en.wikipedia.org/wiki/United_States_Intelligence_Community)
+ICANN       | [Internet Corporation for Assigned Names and Numbers](https://en.wikipedia.org/wiki/ICANN)
 ICML        | International Conference on Machine Learning
 ICMP        | Internet Control Message Protocol 
 ICT         | Information Communications and Technology 
@@ -367,6 +373,9 @@ IPAM        | IP Address Management
 IPC         | Information Proteciton and Control (see DLP)
 IPMI        | Intelligent Platform Management Interface
 IPS         | Intrusion Prevention System
+IPSec       | [Internet Protocol Security](https://en.wikipedia.org/wiki/IPsec)
+IPv4        | [Internet Protocol version 4](https://en.wikipedia.org/wiki/IPv4)
+IPv6        | [Internet Protocol version 6](https://en.wikipedia.org/wiki/IPv6)
 IR          | Information Retrieval 
 IRM         | Individual Rights Management
 IRM         | Information Risk Management 
@@ -505,7 +514,7 @@ NPPI        | Non-Public Personal Informaiton
 NSH         | Network Service Header 
 NTE         | Not To Exceed
 NTFC        | No-Fee Terms and Conditions 
-NTP         | Network Time Protocol 
+NTP         | [Network Time Protocol](https://en.wikipedia.org/wiki/Network_Time_Protocol)
 NVD         | [National Vulnerability Database](https://nvd.nist.gov/)
 OASIS       | Organization for the Advancement of Structured Information Systems
 OCI         | Open Container Initiative
@@ -534,10 +543,11 @@ OOD         | Object Oriented Design
 OOP         | Object Oriented Programming 
 OOTB        | Out Of The Box
 OPA         | Open Policy Agent
-OTC         | Order-to-Cash
 OPEX        | Operational Expense 
 OSF         | [Open Software Foundation](https://en.wikipedia.org/wiki/Open_Software_Foundation)
 OSFI        | Canadanian version of OFAC
+OSI         | [Open Systems Interconnection](https://en.wikipedia.org/wiki/OSI_model)
+OTC         | Order-to-Cash
 OTP         | One-Time Passcode
 ou          | Organizational Unit, re: LDAP 
 OWASP       | [Open Web Application Security Project](https://owasp.org/)
@@ -677,7 +687,7 @@ SADS        | Secure Application Development Standards
 SAFe        | Scaled Agile Framework
 SAM         | Successive Approximation Model, created by Allen Interactions 
 SAML        | Security Assertion Markup Language
-SAN         | Storage Area Networks 
+SAN         | [Storage Area Networks](https://en.wikipedia.org/wiki/Storage_area_network)
 SANS        | [The SANS Institute](https://www.sans.org/) (officially the Escal Institute of Advanced Technologies)
 SAR         | Security Assessment Report
 SAR         | Suspicious Activity Reporting
@@ -779,6 +789,8 @@ TAM         | Total Addressable Market
 TAOC        | [The Art of Computer Programming]https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) (re: by Donald Knuth)
 TBD         | To Be Determined
 TCO         | Total Cost of Ownership (see TOC)
+TCP         | [Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+TCP/IP      | [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite)
 TCV         | Total Contract Value (TCV) 
 TDD         | [Test-Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
 TGB         | Technology Governance Board
@@ -801,6 +813,7 @@ UDDI        | Universal Description, Discovery, & Integration
 UDEF        | Universal Data Element Framework
 UDF         | User Defined File
 UDF         | User Defined Function
+UDP         | [User Datagram Protocol](https://en.wikipedia.org/wiki/User_Datagram_Protocol)
 UEFI        | [Unified Extensible Firmware Interface](https://en.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface)
 UI          | User Interface  
 UIMA        | Unstructured Information Management Architecture
@@ -839,6 +852,7 @@ WaaS        | Workers as a Service
 WADL        | [Web Application Description Language](https://en.wikipedia.org/wiki/Web_Application_Description_Language)
 WAF         | Web Application Firewall
 WAL         | [Write-ahead Logging](https://en.wikipedia.org/wiki/Write-ahead_logging)
+WAN         | [WIde Area Network](https://en.wikipedia.org/wiki/Wide_area_network)
 WAP         | Wireless Access Point 
 WAR         | [Web Application Resource (or, Web application ARchival)](https://en.wikipedia.org/wiki/WAR_(file_format)
 wasm        | [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly)
