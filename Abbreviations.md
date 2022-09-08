@@ -304,6 +304,7 @@ GMV         | [Gross Merchandise Value](https://www.investopedia.com/terms/g/gro
 GNS         | [GNU Name System](https://en.wikipedia.org/wiki/GNUnet#GNU_Name_System)
 GNU         | GNU's Not Unix! (a recursive acronym)
 GOLAP       | Graph OLAP 
+GPAI        | General-Purpose AI
 GPG         | [GNU Privacy Guard](https://en.wikipedia.org/wiki/GNU_Privacy_Guard)
 GPT         | [GUID Partition Table](https://en.wikipedia.org/wiki/GUID_Partition_Table)
 GPU         | [Graphics Processing Uni](https://en.wikipedia.org/wiki/Graphics_processing_unit)
