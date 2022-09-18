@@ -47,12 +47,14 @@ APM         | Application Portfolio Management
 APM         | [Application Performance Management](https://en.wikipedia.org/wiki/Application_performance_management)
 APM         | Application Performance Monitoring
 APNS        | [Apple Push Notification service](https://en.wikipedia.org/wiki/Apple_Push_Notification_service)
-ARB         | Architecture Review Board  
+ARB         | Architecture Review Board (aka ARC)
+ARC         | Architecture Review Committee, or Council (aka ARB)
 ARI         | Amazon Ramdisk Image
 ARM         | Architectural Reference Model
 ARN         | [Amazon Resource Name](https://docs.aws.amazon.com/general/latest/gr/aws-arns-and-namespaces.html)
 ARR         | Annual Recurring Revenue 
 ART         | Agile Release Train (re: Scaled Agile Framework, SAFe)
+AS          | Authoritative Source
 ASCII       | [American Standard Code for Information Interchange](https://en.wikipedia.org/wiki/ASCII)
 ASP         | Application Service Provider  
 AST         | Application Security Testing
@@ -64,10 +66,12 @@ B2C         | Business-to-Consumer
 BA          | Business Analyst
 BAA         | Business Associate Agreement
 BAFO        | Best And Final Offer (e.g., RFP negotiations)
+BAU         | Business As Usual
 BCP         | Business Continuity Planning
 BDAM        | IBM [Basic Direct Access Method](https://en.wikipedia.org/wiki/Basic_direct_access_method)
 BDD         | [Behavior-Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
 BDUF        | Big Design Up Front
+BEC         | Business Executive Committee 
 BGP         | Border Gateway Protocol
 BHAG        | Big Hairy Audacious Goal
 BI          | Business Intelligence
@@ -95,7 +99,9 @@ CaC         | Compliance as Code
 CAP         | Consistency, Availability, Partition Tolerance  
 CAS         | [Compare-And-Swap | Compare-And-Set](https://en.wikipedia.org/wiki/Compare-and-swap)
 CAT         | Customer Advisory Team
+CBA         | Cost Benefit Analysis
 CBAC        | [Claim-Based Attirbute Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see ABAC,PBAC)
+CCD         | Conceptual Design Document
 CCoE        | Cloud Center of Excellence
 CCO         | Client Change Order
 CCO         | Cloud Control Objectives
@@ -113,6 +119,7 @@ CDO         | Chief Data Officer
 CDO         | Care Delivery Organizatoin
 CEB         | Corporate Executive Board
 CEP         | [Complex Event Processing](https://en.wikipedia.org/wiki/Complex_event_processing)
+CER         | Control Exception Request
 CERN        | [European Organization for Nuclear Research](https://en.wikipedia.org/wiki/CERN), French: Organisation européenne pour la recherche nucléaire
 CGI         | [Common Gateway Interface](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
 CI          | Configuration Item (i.e. in a CMDB, such as ServiceNow)
@@ -150,6 +157,7 @@ CRDT        | [Conflict-Free Replicated Data Type](https://en.wikipedia.org/wiki
 CRF         | Conditional Random Fields 
 CRL         | Certificate Revocation List
 CRM         | Customer Relationship Management
+CRO         | Chief Risk Officer
 CRUD        | Create, Read, Update, Delete
 CSA         | Cloud Security Alliance
 CSAT        | [Customer Satisfaction](https://en.wikipedia.org/wiki/Customer_satisfaction)
@@ -165,6 +173,7 @@ CSS         | [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_S
 CTB         | Change The Business
 CTO         | Chief Technology Officer  
 CUI	    		| Controlled Unclassified Information (CUI), as defined by Executive Order 13556 (2010)
+CUSO        | Combined U.S. Operations
 CVS         | Concurrent Version System
 CWE         | [Critical Weakness Enumeration](https://cwe.mitre.org/)
 CX          | Customer Experience
@@ -186,13 +195,16 @@ DBMS        | Database Management System
 dc          | [Domain Component](https://en.wikipedia.org/wiki/Domain_Name_System), re: LDAP
 DC          | Data Center  
 DCE         | [Distributed Computing Environment](https://en.wikipedia.org/wiki/Distributed_Computing_Environment)
+DCL         | Data Classification & Labeling
 DD          | Data Dictionary 
 DDA         | Data Design Authority
 DDoS        | Distributed Denial-of-Service (i.e. a network traffic attack)
 DEC         | Digital Equipment Corporation 
 DES         | [Data Encryption Standard](https://en.wikipedia.org/wiki/Data_Encryption_Standard)
 DFIR        | Digital Forensics, Incident Response  
-DGC         | Data Governance Council
+DGB         | Data Governance Board (aka DGC)
+DGC         | Data Governance Council, or Committee (aka DGB)
+DGP         | Data Governance Policy
 DHCP        | Dynamic Host Configuration Protocol 
 DHT         | [Distributed Hash Table](https://en.wikipedia.org/wiki/Distributed_hash_table)
 DIM         | Domain Information Model
@@ -217,6 +229,7 @@ DSA         | [Digital Signature Algorithm](https://en.wikipedia.org/wiki/Digita
 DSL         | Domain Specific Language
 DSML        | Data Science and Machine Learning
 DSN         | Data Source Name  
+DSS         | Data Security Standard
 DTC         | direct-to-consumer
 DTO         | [Data Transfer Object](https://en.wikipedia.org/wiki/Data_transfer_object)
 DVI         | [Device Independent file format](https://en.wikipedia.org/wiki/Device_independent_file_format)
@@ -263,7 +276,8 @@ ESA         | Enterprise Solution Architecture
 ESP         | [Event Stream Processing](https://en.wikipedia.org/wiki/Event_stream_processing)
 ETL         | Extract, Transform, Load
 EU          | European Union 
-EUC         | End User Computing
+EUC         | End-User Computing
+EUDA        | End-User Developed Application
 EVM         | Earned Value Management
 FaaS        | Function as a Service
 FAIL        | First Attempt In Learning (i.e. agile)
@@ -289,7 +303,9 @@ FSDG        |[ (GNU) Free System Distribution Guidelines](https://www.gnu.org/di
 FTP         | [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
 FWaaS       | FireWall-as-a-Service 
 GA          | Google Analytics
+GAAP        | Generally Accepted Accounting Principles
 GADTs       | Generalized Algebraic Data Types
+GAM         | Global Asset Management
 GCC         | Government Community 
 GCHQ        | British intelligence agency [Government Communications Headquarters](https://en.wikipedia.org/wiki/Government_Communications_Headquarters)
 GCP         | Google Cloud Platfrom
@@ -310,7 +326,7 @@ GPT         | [GUID Partition Table](https://en.wikipedia.org/wiki/GUID_Partitio
 GPU         | [Graphics Processing Uni](https://en.wikipedia.org/wiki/Graphics_processing_unit)
 GQL         | [Graph Query Language](https://www.gqlstandards.org/home)
 GQM         | Goal, Question, Metric 
-GRC         | Governance, Risk, Compliance
+GRC         | Governance, Risk, and Compliance
 GRE         | Generic Routing Encapsulation
 GRO         | Generic Receive Offload
 GUC         | Global User Configuration 
@@ -410,6 +426,7 @@ JSR         | [Java Specification Request](https://www.jcp.org/en/jsr/all)
 JSR         | JavaScript Remoting
 JVM         | [Java Virtual Machine](https://en.wikipedia.org/wiki/Java_virtual_machine)
 JVMS        | Java Virtual Machine Specification
+JWKS        | JSON Web Key Set
 JWT         | [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token)
 k8s         | Kubernetes
 KPI         | [Key Performance Indicators](https://en.wikipedia.org/wiki/Performance_indicator)
@@ -471,6 +488,8 @@ MOM         | Message Oriented Middleware
 MOTS        | Modified Off-The-Shelf 
 MOU         | Memorandum of Understanding
 MQL         | Marketing Qualified Lead
+MRA         | Matters Requiring Attention
+MRC         | Management Risk Committee
 MRR         | Monthly Recurring Revenue
 MSA         | Microservices Architecture  
 MSA         | Master Service Agreement
@@ -510,8 +529,9 @@ NLP         | Natural Language Processing
 NLS         | Natural Language Support 
 NLU         | Natural Language Understanding
 NOC         | Network Operations Center 
+NPI         | Non-Public Personal Information (aka NPPI)
 NPM         | [Node Package Manager](https://www.npmjs.com/)
-NPPI        | Non-Public Personal Informaiton
+NPPI        | Non-Public Personal Informaiton (aka NPI)
 NSH         | Network Service Header 
 NTE         | Not To Exceed
 NTFC        | No-Fee Terms and Conditions 
@@ -545,6 +565,7 @@ OOP         | Object Oriented Programming
 OOTB        | Out Of The Box
 OPA         | Open Policy Agent
 OPEX        | Operational Expense 
+ORC         | Operational Risk Committee 
 OSF         | [Open Software Foundation](https://en.wikipedia.org/wiki/Open_Software_Foundation)
 OSFI        | Canadanian version of OFAC
 OSI         | [Open Systems Interconnection](https://en.wikipedia.org/wiki/OSI_model)
@@ -561,6 +582,7 @@ PAS         | Publicly Available Specification
 PaaS        | Platform as a Service
 PASETO      | platform-agnostic security tokens
 PBAC        | [Policy-Based Access Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see ABAC, CBAC)
+PBC         | Packaged Business Capability
 PBI         | Product Backlog Item (i.e. Scrum)
 PBL         | Product Backlog (i.e. Scrum)
 PCI DSS     | Payment Card Industry Data Security Standard
@@ -574,9 +596,10 @@ PGM         | Program
 PGP         | [Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
 PHI			    | Protected Health Information (re: HIPPA) 
 PI          | Program Increment (re: Scaled Agile Framework, SAFe)
+PIA         | Privacy Impact Assessment
 PII			    | Personally Identifiable Information
 PIN         | Personal Identification Number 
-PIR         | POst Incident Review
+PIR         | Post Incident Review
 PIT         | Platform Information Technology
 PITR        | Point In Time Recovery
 PKCE        | Proof Key for Code Exchange (pronounced "pixy"), re: [RFC 7636](https://tools.ietf.org/html/rfc7636)
@@ -592,14 +615,18 @@ PO          | Purchase Order
 POC         | Proof-of-Concept
 POD         | Point of Delivery
 POJO        | [Plain Old Java Object](https://en.wikipedia.org/wiki/Plain_old_Java_object)
+POLO        | Plain Old Language Objects
+PoP         | Policy on Policies
 POSIX       | [Portable Operating System Interface](https://en.wikipedia.org/wiki/POSIX)
 POV         | Point of View 
+PPL         | Policy & Procedure Library
 PPM         | Project Portfolio Management
 PR          | Peer Review
 PR          | Production Ready
 PR          | Proposed Recommendation 
 PR          | Pull Request
 PR          | Purchase Request
+PRC         | Product Review Committee 
 PRJ         | Project
 PRM         | Program
 PRR         | Production Readiness Reviews
@@ -634,6 +661,7 @@ RBA         | Role-Based Authorization
 RBAC        | [Role Based Access Control](https://en.wikipedia.org/wiki/Role-based_access_control)
 RCA         | Root Cause Analysis 
 RCE         | Remote Code Execution
+RCG         | Risk and Controls Group
 RDC         | [Remote Desktop Connection](https://en.wikipedia.org/wiki/Remote_Desktop_Services#Remote_Desktop_Connection)
 RDF         | [Resource Description Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework)
 RDN         | Relative Distinguished Name, re: LDAP
@@ -657,6 +685,7 @@ RISC        | [Reduced Instruction Set Computer](https://en.wikipedia.org/wiki/R
 RITM        | Request Item
 RL          | Reinforcement Learning
 RMA         | [Return Merchandise Authorization](https://en.wikipedia.org/wiki/Return_merchandise_authorization)
+RMA         | Risk Management Administration
 RMAD        | Rapid Mobile App Development  
 RMF         | Risk Management Framework 
 RMS         | Rights Management Service
@@ -680,6 +709,7 @@ RTR         | Record-to-Report
 RTT         | Round-Trip Time  
 RTO         | Recovery Time Objective  
 RSA         | [Rivest–Shamir–Adleman](https://en.wikipedia.org/wiki/RSA_(cryptosystem), re: one of the first public-key cryptosystems)
+RSG         | Risk Strategy & Governance
 SA          | Solution Architect
 SaaS        | [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service)
 SACM        | Software Asset Configuration Management (an ITIL process)
@@ -701,6 +731,7 @@ SBOM        | Software Bill of Materials
 SCI         | Sensitive Compartmented Information 
 SCIM        | System for Cross-Domain Identity Management (re: RFC7644)
 SD          | Service Desk
+SDF         | System Data Flow 
 SDI         | Software Defined Infrastructure
 SDK         | Software Development Kit  
 SDLC        | Software Development Life-cycle (aka Software Development Process)
@@ -718,6 +749,7 @@ SFRA        | [Storefront Reference Architecture](https://documentation.b2c.comm
 SFTP        | Secure File Transfer Protocol
 SFPF        | Senior Foreign Political Figures 
 SI          | System Integrator
+SII         | Self-Identified Issue
 SIAM        | Service Integration and Management
 SIEM        | [Security Information and Event Management](https://en.wikipedia.org/wiki/Security_information_and_event_management)
 SIMD        | [Single InstructionStream, Multiple Data Streams](https://en.wikipedia.org/wiki/SIMD)
@@ -750,7 +782,9 @@ SOAP        | [Simple Object Access Protocol](https://en.wikipedia.org/wiki/SOAP
 SoE         | System of Engagement
 SOLID       | Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion
 SOR         | System of Record
+SOT         | Souce of Truth
 SOW         | Statement of Work
+SOX         | Sarbanes-Oxley Act of 2022 
 SP          | [Service Provider](https://en.wikipedia.org/wiki/Service_provider)
 SPA         | [Single-Page Application](https://en.wikipedia.org/wiki/Single-page_application)
 SPAC        | [Special Purpose Acquisition Company](https://www.investopedia.com/terms/s/spac.asp)
@@ -764,6 +798,7 @@ SOX         | Sarbanes-Oxley Act of 2002
 SQL         | Sales Qualified Lead
 SQL         | Structured Query Language
 SRA         | Security Risk Assessment
+SRMA        | Supplier Risk Management Assessment
 SRP         | Single Responsibility Principle
 SRS         | Secure and Reliable Systems
 SSADM       | (structured systems analysis and design methodology) - developed by  Tom DeMarco, Ed Yourdon, and Larry Constantine 
@@ -783,11 +818,13 @@ SVG         | [Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_
 SW          | Software
 SWAG        | Silly Wild-Ass Guess (also see ROM), aka an estimate 
 SWOT        | Strengths, Weaknesses, Opportunities, and Threats
+S&P         | Strategy & Planning
 T2R2        | Transparent, Traceable, Replicable and Reproducible 
 TAG         | Technical Advisory Group
 TAM         | Technical Account Manager
 TAM         | Total Addressable Market
 TAOC        | [The Art of Computer Programming]https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) (re: by Donald Knuth)
+TAR         | [Tape Archive](https://en.wikipedia.org/wiki/Tar_(computing) (file format). Aka tarball
 TBD         | To Be Determined
 TCO         | Total Cost of Ownership (see TOC)
 TCP         | [Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
@@ -799,12 +836,16 @@ TFI         | [Office of Terrorism and Financial Intelligence](https://en.wikipe
 TLS         | [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security)
 TM          | Topic Model, re: NER, NLP, DL, ML
 TOC         | Total Ownership Cost (see TCO)
+TOM         | Target Operating Model
+TP          | Third-Party
 TPM         | Trusted Platform Module 
 TPU         | Tensor Processing Unit(s) 
 TRM         | Technical Reference Model
+TRPM        | Third-Party Risk Management
 TSD         | Technical Specification Document
 TSO         | [Time Sharing Option](https://en.wikipedia.org/wiki/Time_Sharing_Option), re: IBM mainframe interactive time-sharing environment
-TSS         | IBM [Time Sharing Operating System](https://en.wikipedia.org/wiki/TSS_(operating_system))
+TSS         | [Time Sharing Operating System](https://en.wikipedia.org/wiki/TSS_(operating_system)), re: IBM
+TSS         | Technical Security Standards
 TTL         | Time To Live
 TTP         | Trusted Third Party
 TXN         | Transaction
@@ -842,9 +883,11 @@ VNC         | Virtual Network Computing
 VPN         | Virtual Private Network  
 VQF         | Variational Quantum Factoring 
 VRM         | Value Realization Model 
+VRM         | Vendor Relationship Manager (aka VRO)
+VRO         | Vendor Relationship Owner (aka VRM)
 VSAM        | Virtual Storage Access Method
 VSM         | Value Stream Mapping
-VTOC        | IBM [Volume Table of Contents](https://en.wikipedia.org/wiki/Volume_Table_of_Contents)
+VTOC        | [Volume Table of Contents](https://en.wikipedia.org/wiki/Volume_Table_of_Contents), re: IBM
 VUCA        | Volatile, Uncertain, Complex, Ambiguous (source: The U.S. Army War College, [Wikipedia](https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity))
 VXLAN       | Virtual Extensible LAN
 W3          | World Wide Web (i.e. WWW)
