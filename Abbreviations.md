@@ -17,6 +17,7 @@ ABC         | Activity Based Costing
 ABC         | Area of Business Concern
 ABNF        | Augmented Backus-Naur Form (see [RFC-5234](https://tools.ietf.org/html/rfc5234))
 AC          | [Axiom of Choice](https://en.wikipedia.org/wiki/Axiom_of_choice)
+ACG         | Automatic Code Generators
 ACH         | [Automated Clearing House](https://en.wikipedia.org/wiki/Automated_clearing_house)
 ACL         | Access Control List
 ACME        | [Automatic Certificate Management Environment](https://en.wikipedia.org/wiki/Automated_Certificate_Management_Environment), alsos see [RFC 8555](https://tools.ietf.org/html/rfc8555)
