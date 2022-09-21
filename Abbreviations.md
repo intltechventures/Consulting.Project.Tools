@@ -380,6 +380,7 @@ ILDP        | Information Leak Detection and Prevention (see DLP)
 ILM         | [Information Lifecycle Management](https://en.wikipedia.org/wiki/Information_lifecycle_management)
 IM          | Incident Management 
 IM          | Information Model
+IMO         | Integration Management Office (i.e., during Mergers & Acquisitions)
 INVEST      | Independent Negotiable Valuable Estimable Small Testable [(source)](http://wiki.c2.com/?InvestModelForUserStories)
 IPC         | [Inter-Process Communication](https://en.wikipedia.org/wiki/Inter-process_communication)
 IOPS        | Input/Output Operations Per Second
@@ -512,6 +513,7 @@ MVI         | Model-View-Intent
 MVP         | Minimal Viable Product 
 MVS         | IBM [Multiple Virtual Storage](https://en.wikipedia.org/wiki/MVS)
 MVVM        | [Model-View-ViewModel](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+M&A         | Mergers & Acquisitions
 NA          | North America 
 NA          | Not Applicable
 NAS         | Network Attached Storage 
