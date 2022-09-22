@@ -964,4 +964,6 @@ __These are the primary software programs that I typically have installed on my 
 - Control Panel 
 - Dragon Gaming Center
 - FileZilla 
-- Macrium Reflect 
+- Macrium Reflect
+- System Configuration
+- ExpressVPN
