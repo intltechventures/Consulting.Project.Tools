@@ -541,7 +541,7 @@ NTFC        | No-Fee Terms and Conditions
 NTP         | [Network Time Protocol](https://en.wikipedia.org/wiki/Network_Time_Protocol)
 NVD         | [National Vulnerability Database](https://nvd.nist.gov/)
 OASIS       | Organization for the Advancement of Structured Information Systems
-OCI         | Open Container Initiative
+OCI         | [Open Container Initiative](https://opencontainers.org/)
 OCI         | Oracle Cloud Infrastructure
 OCM         | [Organizational Change Management](https://en.wikipedia.org/wiki/Change_management)
 OCTAVE      | Operationally Critical Threat, Asset, and Vulnerability Evaluation 
