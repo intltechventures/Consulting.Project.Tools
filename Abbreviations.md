@@ -859,6 +859,7 @@ UDEF        | Universal Data Element Framework
 UDF         | User Defined File
 UDF         | User Defined Function
 UDP         | [User Datagram Protocol](https://en.wikipedia.org/wiki/User_Datagram_Protocol)
+UDS         | [Unix Domain Socket](https://en.wikipedia.org/wiki/Unix_domain_socket)
 UEFI        | [Unified Extensible Firmware Interface](https://en.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface)
 UI          | User Interface  
 UIMA        | Unstructured Information Management Architecture
