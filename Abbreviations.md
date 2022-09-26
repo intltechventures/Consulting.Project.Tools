@@ -119,6 +119,7 @@ CDN         | Content Distribution Network
 CDO         | Chief Data Officer
 CDO         | Care Delivery Organizatoin
 CEB         | Corporate Executive Board
+CEH         | Certified Ethical Hacker
 CEP         | [Complex Event Processing](https://en.wikipedia.org/wiki/Complex_event_processing)
 CER         | Control Exception Request
 CERN        | [European Organization for Nuclear Research](https://en.wikipedia.org/wiki/CERN), French: Organisation européenne pour la recherche nucléaire
@@ -139,7 +140,7 @@ CIPP        | Certified Information Privacy Professional
 CISA        | Certified Information Systems Auditor
 CISC        | [Complex Instruction Set Computer](https://en.wikipedia.org/wiki/Complex_instruction_set_computer)
 CISM        | Certified Information Security Manager
-CISSP       | Certified Information Systems Security Professionals 
+CISSP       | [Certified Information Systems Security Professionals](https://www.isc2.org/Certifications/CISSP-Concentrations)
 CLI         | Command Line Interface
 CMDB        | Configuration Management Database
 CMOS        | [omplementary Metal Oxide Silicon](https://en.wikipedia.org/wiki/CMOS)
@@ -414,6 +415,7 @@ ISOC        | [Internet Society](https://en.wikipedia.org/wiki/Internet_Society)
 ISP         | Internet Service Provider
 ISPF        | [Interactive System Productivity Facility](https://en.wikipedia.org/wiki/ISPF), re: IBM mainframe software product
 ISRS        | Information Storage and Retrieval System
+ISSAP       | [Information Systems Security Architecture Professional](https://www.isc2.org/Certifications/CISSP-Concentrations)
 IT          | Information Technology  
 IT4IT       | [The IT4IT Reference Architecture](https://www.opengroup.org/it4it), a standard of the Open Group, is a powerful tool for aligning and managing a Digital Enterprise
 ITAR		    | International Traffic in Arms Regulations
