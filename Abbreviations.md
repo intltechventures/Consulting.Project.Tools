@@ -28,6 +28,7 @@ AD          | Active Directory
 ADA         | [The Americans with Disabilities Act of 1990 or ADA (42 U.S.C. § 12101)](https://en.wikipedia.org/wiki/Americans_with_Disabilities_Act_of_1990)
 ADDIE       | (analyze, design, development, implement, evaluate) a methodology developed by Florida State University for the U.S. Army as a repeatable and standard set of tasks to create training.  [Wikipedia Article](https://en.wikipedia.org/wiki/ADDIE_Model)
 ADR         | [Address Resolution Protocol](https://en.wikipedia.org/wiki/Address_Resolution_Protocol)
+ADSL        | [Asymmetric digital subscriber line](https://en.wikipedia.org/wiki/Asymmetric_digital_subscriber_line)
 ADT         | Algebraic Data Type
 AFCE        | Authorization for Capital Expenditure
 AI          | Artificial Intelligence  
@@ -61,6 +62,7 @@ ASCII       | [American Standard Code for Information Interchange](https://en.wi
 ASP         | Application Service Provider  
 AST         | Application Security Testing
 ATDD        | Acceptance-Test-Driven-Development
+ATM         | [Asynchronous Transfer Mode](https://en.wikipedia.org/wiki/Asynchronous_Transfer_Mode)
 AUC         | Area Under the Curve
 AZ          | Availability Zone 
 B2B         | Business-to-Business
@@ -126,6 +128,7 @@ CEP         | [Complex Event Processing](https://en.wikipedia.org/wiki/Complex_e
 CER         | Control Exception Request
 CERN        | [European Organization for Nuclear Research](https://en.wikipedia.org/wiki/CERN), French: Organisation européenne pour la recherche nucléaire
 CGI         | [Common Gateway Interface](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
+CHAP        | [Challenge-Handshake Authentication Protocol](https://en.wikipedia.org/wiki/Challenge-Handshake_Authentication_Protocol)
 CI          | Configuration Item (i.e. in a CMDB, such as ServiceNow)
 CI          | Continuous Integration
 CI/CD       | Continuous Integration / Continuous Delivery (or, Continous Deployment)
@@ -238,6 +241,7 @@ DRY         | Don't Repeat Yourself
 DSA         | [Digital Signature Algorithm](https://en.wikipedia.org/wiki/Digital_Signature_Algorithm)
 DSL         | [Digital subscriber line](https://en.wikipedia.org/wiki/Digital_subscriber_line)
 DSL         | Domain Specific Language
+DSLAM       | [Digital subscriber line access multiplexer](https://en.wikipedia.org/wiki/Digital_subscriber_line_access_multiplexer)
 DSML        | Data Science and Machine Learning
 DSN         | Data Source Name  
 DSS         | Data Security Standard
@@ -250,6 +254,7 @@ DWH         | Data Warehouse (also see DW, EDW)
 EA          | Enterprise Architecture  
 EAI         | Enterprise Application Integration  
 EAMS        | Enterprise Architecture Management Suite
+EAP         | [Extensible Authentication Protocol](https://en.wikipedia.org/wiki/Extensible_Authentication_Protocol)
 EAR			    | Export Administration Regulations
 EAR         | [Enterprise Application aRchive (file format)](https://en.wikipedia.org/wiki/EAR_(file_format)
 EBS         | [Amazon Elastic Block Storage](https://en.wikipedia.org/wiki/Amazon_Elastic_Block_Store)
@@ -286,6 +291,7 @@ ES          | ECMAScript (aka JavaScript)
 ESA         | Enterprise Solution Architecture
 ESP         | [Event Stream Processing](https://en.wikipedia.org/wiki/Event_stream_processing)
 ETL         | Extract, Transform, Load
+ETSI        | [European Telecommunications Standards Institute](https://en.wikipedia.org/wiki/ETSI)
 EU          | European Union 
 EUC         | End-User Computing
 EUDA        | End-User Developed Application
@@ -341,6 +347,7 @@ GQM         | Goal, Question, Metric
 GRC         | Governance, Risk, and Compliance
 GRE         | Generic Routing Encapsulation
 GRO         | Generic Receive Offload
+GSM         | [Global System for Mobile Communications](https://en.wikipedia.org/wiki/GSM) 
 GUC         | Global User Configuration 
 GUI         | [Graphical User Interface](https://en.wikipedia.org/wiki/Graphical_user_interface)
 GUID        | [Globally Unique Identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier) - see UUID
@@ -348,6 +355,7 @@ HATEOAS     | [Hypermedia As The Engine Of Application State](https://en.wikiped
 HCI         | Human-Computer Interaction
 HDD         | [Hard Disk Drive](https://en.wikipedia.org/wiki/Hard_disk_drive)
 HDFS        | Hadoop Distributed File System 
+HDLC        | [High-Level Data Link Control](https://en.wikipedia.org/wiki/High-Level_Data_Link_Control)
 HIPPA       | Health Insurance Portability and Accountability Act of 1996
 HiPPO       | [Highly Paid Person's Opinion](https://architectelevator.com/cloud/selecting-cloud-provider/)
 HITRUST     | Health Information Trust Alliance
@@ -373,6 +381,7 @@ IAST        | Integrated Application Security Testing
 IC          | Individual Contributor
 IC          | [United States IntelligenceCommunity](https://en.wikipedia.org/wiki/United_States_Intelligence_Community)
 ICANN       | [Internet Corporation for Assigned Names and Numbers](https://en.wikipedia.org/wiki/ICANN)
+ICAP        | [Internet Content Adaptation Protocol](https://en.wikipedia.org/wiki/Internet_Content_Adaptation_Protocol)
 ICML        | International Conference on Machine Learning
 ICMP        | [Internet Control Message Protocol ](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol)
 ICT         | Information Communications and Technology 
@@ -432,6 +441,7 @@ ITIL        | [Information Technology Infrastructure Library](https://en.wikiped
 ITIRB       | Information Technology Investment Review Board
 ITSM        | Information Technlogy Service Management
 IX          | Internet Exchange
+IXPs        | [Internet exchange points](https://en.wikipedia.org/wiki/Internet_exchange_point)
 JAR         | [Java ARchive (file format)](https://en.wikipedia.org/wiki/JAR_(file_format))
 JCP         | [Java Community Process](https://en.wikipedia.org/wiki/Java_Community_Process)
 JDBC        | Java Database Connectivity
@@ -600,6 +610,7 @@ OWL         | [Web Ontology Language](https://en.wikipedia.org/wiki/Web_Ontology
 P&L         | Profit and Loss 
 PaaS        | Platform as a Service, aka aPaaS (i.e., Application Platform as a Service)
 PAM         | Pluggable Authentication Modules
+PAP         | [Password Authentication Protocol](https://en.wikipedia.org/wiki/Password_Authentication_Protocol)
 PAP         | Policy Administration Point
 PAS         | Publicly Available Specification
 PaaS        | Platform as a Service
@@ -616,6 +627,7 @@ PDP         | Policy Decision Point
 PDP         | [Programmed Data Processor](https://en.wikipedia.org/wiki/Programmed_Data_Processor)
 PDSA        | Plan-Do-Stuy-Act
 PDU         | [Protocol data unit](https://en.wikipedia.org/wiki/Protocol_data_unit)
+PEAP        | [Protected Extensible Authentication Protocol](https://en.wikipedia.org/wiki/Protected_Extensible_Authentication_Protocol)
 PEP         | [Packet Exchange Protocol](https://en.wikipedia.org/wiki/Xerox_Network_Systems#Transport_layer_protocols)
 PGM         | Program
 PGP         | [Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
@@ -642,6 +654,7 @@ POJO        | [Plain Old Java Object](https://en.wikipedia.org/wiki/Plain_old_Ja
 POLO        | Plain Old Language Objects
 PoP         | Policy on Policies
 POSIX       | [Portable Operating System Interface](https://en.wikipedia.org/wiki/POSIX)
+POTS        | [Plain old telephone service](https://en.wikipedia.org/wiki/Plain_old_telephone_service)
 POV         | Point of View 
 PPI         | Protected Personal Information
 PPL         | Policy & Procedure Library
@@ -661,9 +674,11 @@ PRR         | Production Readiness Reviews
 PRT         | Portfolio
 PSD2        | [Payment Services Directive](https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines_202006_psd2_afterpublicconsultation_en.pdf) (Directive 2015/2366/EU of the European Parliament andof the Council of 23 December 2015)
 PSM         | Persistent Stored Modules
+PSTN        | [Public switched telephone network](https://en.wikipedia.org/wiki/Public_switched_telephone_network)
 PTP         | Procure-to-Pay
 PUP         | [PARC Universal Packet](https://en.wikipedia.org/wiki/PARC_Universal_Packet)
 PVA         | Power Virtual Agents (re: Microsoft BOT platform)
+P2P         | [Peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer)
 QA          | [Quality Assurance](https://en.wikipedia.org/wiki/Quality_assurance)
 QAOA        | [Quantum Approximate Optimization Algorithm](https://en.wikipedia.org/wiki/Quantum_optimization_algorithms)
 QI          | Quality Improvement 
@@ -671,7 +686,8 @@ QIT         | QUality Improvement Team
 QKD         | Quantum Key Distribution
 QMS         | Quality Management System
 QMT         | Quality Monitoring Team
-QoS         | Quality of Service
+QoE         | [Quality of experience](https://en.wikipedia.org/wiki/Quality_of_experience)
+QoS         | [Quality of Service](https://en.wikipedia.org/wiki/Quality_of_service)
 QSA         | Qualified Security Assessor
 QUIC        | [QUIC](https://en.wikipedia.org/wiki/QUIC) (pronounced "quick") is a general-purpose[2] transport layer[3] network protocol initially designed by Jim Roskind at Google
 RA          | Registration Authority
@@ -780,6 +796,7 @@ SDN         | [Software Defined Networking](https://en.wikipedia.org/wiki/Softwa
 SDN         | [Specially Designated Nationals and Blocked Persons List](https://en.wikipedia.org/wiki/Specially_Designated_Nationals_and_Blocked_Persons_List)
 SDP         | Software Defined Perimeter (also see VPN)
 SDR         | Sales Development Representative
+SDSL        | [Symmetric digital subscriber line](https://en.wikipedia.org/wiki/Symmetric_digital_subscriber_line)
 SE          | Standard Edition
 SEO         | Search Engine Optimization
 SFCC        | [Salesforce Commerce Cloud](https://www.salesforce.com/products/commerce-cloud/overview/)
@@ -809,6 +826,7 @@ SMART       | Specific, Measurable, Attainable, Realistic
 SMART       | SMART (Substitutable Medical Applications, Reusable Technologies)
 SME         | Subject Matter Expert
 SMO         | Service Management Office
+SMS         | [Short Message Service](https://en.wikipedia.org/wiki/SMS)
 SMTP        | [Simple Mail Transfer Protocol](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol)
 SMURFS      | Specifically Marketable, Useful, Releasable Feature Sets ([source](https://www.agileconnection.com/article/instead-mvps-maybe-we-should-be-releasing-smurfs)
 sn          | Surname, re: LDAP
@@ -823,6 +841,7 @@ SOA         | [Start of Authority](https://en.wikipedia.org/wiki/SOA_record) rec
 SOAP        | [Simple Object Access Protocol](https://en.wikipedia.org/wiki/SOAP)
 SoE         | System of Engagement
 SOLID       | Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion
+SONET       | [Synchronous optical networking](https://en.wikipedia.org/wiki/Synchronous_optical_networking)
 SOR         | System of Record
 SOT         | Souce of Truth
 SOW         | Statement of Work
@@ -856,6 +875,7 @@ SSP         | System Security Plan
 SSPI        | Security Support Provider Interface
 STaaS       | Storage as a Service
 STAR        | Security Trust Assurance and Risk
+STM-1       | [Synchronous Transport Module level-1](https://en.wikipedia.org/wiki/STM-1)
 STS         | Security Token Service
 SuD         | System Under Discussion (re, see book: [Writing Effective Use Cases](https://www.amazon.com/Writing-Effective-Cases-Alistair-Cockburn/dp/0201702258))
 SVG         | [Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
@@ -921,10 +941,12 @@ VDI         | Virtual Disk Image
 VHD         | Virtual Hard Disk 
 VIF         | Virtual Network InterFace
 VIP         | Virtual IP address
+VISP        | [Virtual ISP](https://en.wikipedia.org/wiki/Virtual_ISP)
 VLAN        | Virtual Local Area Network 
 VM          | Virtual Machine
 VMI         | Virtual Machine Image 
 VNC         | Virtual Network Computing
+VoIP        | [Voice over IP](https://en.wikipedia.org/wiki/Voice_over_IP)
 VPN         | [Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network)
 VQF         | Variational Quantum Factoring 
 VRM         | Value Realization Model 
@@ -939,7 +961,7 @@ W3          | World Wide Web (i.e. WWW)
 W3C         | [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium)
 WaaS        | Workers as a Service
 WADL        | [Web Application Description Language](https://en.wikipedia.org/wiki/Web_Application_Description_Language)
-WAF         | Web Application Firewall
+WAF         | [Web Application Firewall](https://en.wikipedia.org/wiki/Web_application_firewall)
 WAL         | [Write-ahead Logging](https://en.wikipedia.org/wiki/Write-ahead_logging)
 WAN         | [WIde Area Network](https://en.wikipedia.org/wiki/Wide_area_network)
 WAP         | Wireless Access Point 
@@ -950,10 +972,15 @@ WCCP        | [Web Cache Communication Protocol](https://en.wikipedia.org/wiki/W
 WD          | Working Draft
 Wi-Fi       | Wireless Fidelity
 WIP         | Work nn Progress
+WISP        | [Wireless Internet service provider](https://en.wikipedia.org/wiki/Wireless_Internet_service_provider)
 WLM         | Work Lifecycle Management
 WMS         | Warehouse Management System
 WoT         | Web of Trust
 WORM        | Write-Once-Read-Many
+WPA         | [Wi-Fi Protected Access](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access)
+WPA         | [Wi-Fi Protected Access II](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access#WPA2)
+WPA         | [Wi-Fi Protected Access 3](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access#WPA3)
+WPS         | [Wi-Fi Protected Setup](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Setup)
 WRT         | Work Recovery Time
 WSDL        | [Web Service Description Language](https://en.wikipedia.org/wiki/Web_Services_Description_Language)
 WSJF        | Weighted Shortest Job First (re: Scaled Agile Framework, SAFe)
