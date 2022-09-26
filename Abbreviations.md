@@ -133,8 +133,13 @@ CID         | Command Identifier
 CIF         | Customer Information File  
 CIFS        | Common Internet File System
 CIO         | Chief Information Officer 
+CIP         | Critical Infrastructure Protection
 CIP         | Customer Identification Program
+CIPP        | Certified Information Privacy Professional 
+CISA        | Certified Information Systems Auditor
 CISC        | [Complex Instruction Set Computer](https://en.wikipedia.org/wiki/Complex_instruction_set_computer)
+CISM        | Certified Information Security Manager
+CISSP       | Certified Information Systems Security Professionals 
 CLI         | Command Line Interface
 CMDB        | Configuration Management Database
 CMOS        | [omplementary Metal Oxide Silicon](https://en.wikipedia.org/wiki/CMOS)
@@ -646,6 +651,7 @@ QKD         | Quantum Key Distribution
 QMS         | Quality Management System
 QMT         | Quality Monitoring Team
 QoS         | Quality of Service
+QSA         | Qualified Security Assessor
 RA          | Registration Authority
 RAA         | Responsibility, Accountability, Authority 
 RACF        | IBM [Resource Access Control Facility](https://en.wikipedia.org/wiki/Resource_Access_Control_Facility)
@@ -715,6 +721,7 @@ RSA         | [Rivest–Shamir–Adleman](https://en.wikipedia.org/wiki/RSA_(cry
 RSG         | Risk Strategy & Governance
 SA          | Solution Architect
 SaaS        | [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service)
+SABSA       | [Sherwood Applied Business Security Architecture](https://en.wikipedia.org/wiki/Sherwood_Applied_Business_Security_Architecture) 
 SACM        | Software Asset Configuration Management (an ITIL process)
 SAD         | Solution Architecture Document
 SADS        | Secure Application Development Standards
