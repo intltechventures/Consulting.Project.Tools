@@ -43,6 +43,7 @@ ANN         | Artificial Neural Network
 ANSI        | [American National Standards Institute](https://en.wikipedia.org/wiki/American_National_Standards_Institute)
 AOP         | Aspect Oriented Programming
 AOT         | Ahead of Time (i.e. compiled ahead of time)
+AP          | Average Precision
 aPaaS       | Application Platform as a Service  
 APAC        | Asia/Pacfic
 API         | [Application Programming Interface ](https://en.wikipedia.org/wiki/Application_programming_interface)
@@ -63,7 +64,7 @@ ASP         | Application Service Provider
 AST         | Application Security Testing
 ATDD        | Acceptance-Test-Driven-Development
 ATM         | [Asynchronous Transfer Mode](https://en.wikipedia.org/wiki/Asynchronous_Transfer_Mode)
-AUC         | Area Under the Curve
+AUC         | [Area Under the Curve](https://en.wikipedia.org/wiki/Receiver_operating_characteristic#Area_under_the_curve)
 AZ          | Availability Zone 
 B2B         | Business-to-Business
 B2C         | Business-to-Consumer
@@ -186,6 +187,7 @@ CTB         | Change The Business
 CTO         | Chief Technology Officer  
 CUI	    		| Controlled Unclassified Information (CUI), as defined by Executive Order 13556 (2010)
 CUSO        | Combined U.S. Operations
+CV          | Cross-Validation
 CVS         | Concurrent Version System
 CWE         | [Critical Weakness Enumeration](https://cwe.mitre.org/)
 CX          | Customer Experience
@@ -265,6 +267,7 @@ EBIT        | Earnings Before Interest & Tax
 eBPF        | [extended Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter) - see BPF
 EBS         | Elastic Block Storage (AWS)
 EDA         | Event-Driven Architecture 
+EDA         | Exploratory Data Analysis
 EDI         | Electronic Data Interchange
 EDIFECT     | [Electronic Data Interchange for Administration, Commerce and Transport](https://en.wikipedia.org/wiki/EDIFACT)
 EDR         | endpoint detection & response (i.e., cybersecurity security software)
@@ -316,6 +319,8 @@ FIRST       | Fast Independent Repeatable Self-Validating Timely [(source)](http
 FISMA		    | Federal Information Security Management Act 
 FP          | Functional Programming 
 FPGA        | Field-Programmable Gate Arrays
+FPR         | False Positive Rate
+FNR         | False Negative Rate
 FQDN        | Fully Qualified Domain Name 
 FSDG        |[ (GNU) Free System Distribution Guidelines](https://www.gnu.org/distros/free-system-distribution-guidelines.html)
 FTP         | [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
@@ -485,6 +490,7 @@ MAC         | Machine Access Control
 MAC         | Managed Application Consulting
 MAC         | [Mandatory Access Control](https://en.wikipedia.org/wiki/Mandatory_access_control)
 MAC         | [Medium access control](https://en.wikipedia.org/wiki/Medium_access_control)
+MAE         | Mean Absolute Error
 MAU         | Monthly Active Users
 MBaaS       | Mobile Back End as a Service
 MBCO        | Minimum Business Continuity Objective 
@@ -523,6 +529,7 @@ MRC         | Management Risk Committee
 MRR         | Monthly Recurring Revenue
 MSA         | Microservices Architecture  
 MSA         | Master Service Agreement
+MSE         | Mean Squared Error
 MSP         | [Managed Service Provider](https://en.wikipedia.org/wiki/Managed_services)
 MTD         | Maximum Tolerable Downtime
 MTDL        | Maximum Tolerable Data Loss
@@ -738,6 +745,8 @@ RMA         | Risk Management Administration
 RMAD        | Rapid Mobile App Development  
 RMF         | Risk Management Framework 
 RMS         | Rights Management Service
+RMSE        | Root Mean Squared Error
+ROC         | [Receiver Operating Characteristic](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
 ROCE        | Return on Capital Employed 
 ROE         | Return on Equity  
 ROI         | Return on Investment  
@@ -899,10 +908,12 @@ TGB         | Technology Governance Board
 TFI         | [Office of Terrorism and Financial Intelligence](https://en.wikipedia.org/wiki/Office_of_Terrorism_and_Financial_Intelligence)
 TLS         | [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security)
 TM          | Topic Model, re: NER, NLP, DL, ML
+TNR         | True Negative Rate
 TOC         | Total Ownership Cost (see TCO)
 TOM         | Target Operating Model
 TP          | Third-Party
 TPM         | Trusted Platform Module 
+TPR         | True Positive Rate
 TPU         | Tensor Processing Unit(s) 
 TRM         | Technical Reference Model
 TRPM        | Third-Party Risk Management
