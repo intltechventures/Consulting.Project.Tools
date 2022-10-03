@@ -12,6 +12,7 @@ This glossary is intended to provide a single refernce to be reused across multi
 3LOD        | [Three Lines of Defence Model](https://erm.ncsu.edu/library/article/cosos-take-on-the-three-lines-of-defense) (Codified by the Basel Committee on Banking Supervision in its 2011 Principles for the sound management of operational risk)
 3PL         | Third-Party Logistics providers
 7 Rs        | [Refactor, Replatform, Repurchase, Rehost, Relocate, Retain, Retire](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-retiring-applications/overview.html) - Re: AWS Migration Readiness
+AAD         | [Azure Active Directory](https://azure.microsoft.com/en-us/products/active-directory/)
 ABAC        | [Attribute-Based Access Contorl](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see CBAC, PBAC)
 ABC         | Activity Based Costing
 ABC         | Area of Business Concern
@@ -65,6 +66,7 @@ AST         | Application Security Testing
 ATDD        | Acceptance-Test-Driven-Development
 ATM         | [Asynchronous Transfer Mode](https://en.wikipedia.org/wiki/Asynchronous_Transfer_Mode)
 AUC         | [Area Under the Curve](https://en.wikipedia.org/wiki/Receiver_operating_characteristic#Area_under_the_curve)
+AVD         | [Azure Virtual Desktop](https://azure.microsoft.com/en-us/products/virtual-desktop/)
 AZ          | Availability Zone 
 B2B         | Business-to-Business
 B2C         | Business-to-Consumer
