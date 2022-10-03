@@ -463,6 +463,7 @@ JWKS        | JSON Web Key Set
 JWT         | [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token)
 k8s         | Kubernetes
 KPI         | [Key Performance Indicators](https://en.wikipedia.org/wiki/Performance_indicator)
+KNN         | [K-nearest neibhbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) (algorithm)
 KT          | Knowledge Transfer
 KVM		    	| Kernel-based Virtual Machine (KVM) is an open source virtualization technology built into Linux
 KVM			    | keyboard, video and mouse
@@ -474,6 +475,7 @@ LBaaS       | Load-Balancer-as-a-Service
 LCAP        | Low-Code Application Platforms
 LCC         | Lower Camel Case
 LCNC        | Low-Code No-Code
+LDA         | [Linear Discriminat Analysis](https://en.wikipedia.org/wiki/Linear_discriminant_analysis)
 LDAP        | [Lightweight Directory Access Protocol](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol)
 LDIF        | [LDAP Data Interchange Format](https://en.wikipedia.org/wiki/LDAP_Data_Interchange_Format), [RFC 2849 The LDAP Data Interchange Format (LDIF) - Technical Specification](https://tools.ietf.org/html/rfc2849)
 LEM         | [Law of Excluded Middle](https://en.wikipedia.org/wiki/Law_of_excluded_middle)
@@ -626,6 +628,7 @@ PBAC        | [Policy-Based Access Control](https://en.wikipedia.org/wiki/Attrib
 PBC         | Packaged Business Capability
 PBI         | Product Backlog Item (i.e. Scrum)
 PBL         | Product Backlog (i.e. Scrum)
+PCA         | [Principlal Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis)
 PCI DSS     | Payment Card Industry Data Security Standard
 PCR         | Project Change Request
 PDCA        | Plan-Do-Check-Adjust (Shewhart’s PDCA cycle, aka the Deming Cycle)
