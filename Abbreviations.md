@@ -1013,7 +1013,6 @@ XP          | eXtreme Programming
 XR          | Extended Reality
 XSL         | XML Style Language 
 XSLT        | [eXtensible Stylesheet Language Transformations](https://en.wikipedia.org/wiki/XSLT)
-XSTL        | XML Transformation Language 
 YAGNI       | You Aren't Gonna Need It 
 YBYO        | You Build Your Own
 ZT          | Zero Trust
