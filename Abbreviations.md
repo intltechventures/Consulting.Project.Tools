@@ -84,6 +84,7 @@ BHAG        | Big Hairy Audacious Goal
 BI          | Business Intelligence
 BIA         | Business Impact Analysis
 BIAN        | [Banking Industry Architecture Network](https://bian.org/)
+BIMI        | [Brand Indicators for Message Identification](https://en.wikipedia.org/wiki/Brand_Indicators_for_Message_Identification)
 BNF         | Backus-Naur Form
 BNS         | Business Needs Statement
 BOOTP       | [Bootstrap Protocol](https://en.wikipedia.org/wiki/Bootstrap_Protocol)
@@ -157,7 +158,7 @@ CMM         | Capability Maturity Model
 CMOS        | [Complementary metal–oxide–semiconductor](https://en.wikipedia.org/wiki/CMOS)
 cn          | Common Name, re: LDAP
 CNAB        | [Cloud Native Application Bundles](https://cnab.io/)
-CNCF        | [Cloud Native Computing Foundation]9https://www.cncf.io/)
+CNCF        | [Cloud Native Computing Foundation](https://www.cncf.io/)
 CoE         | Center of Excellence
 COI         | Community of Interest
 CoP         | Community of Practice 
@@ -229,10 +230,12 @@ DLD			    | Detail-Level Design
 DLM         | Database Lifecycle Management
 DLP         | [Data Loss Prevention](https://en.wikipedia.org/wiki/Data_loss_prevention_software)
 DLT         | Distributed Ledger Technology
+DKIM        | [Domain Keys Identified Mail](https://en.wikipedia.org/wiki/DomainKeys_Identified_Mail)
 DMAIC       | [Define, Measure, Analayze, Improve, Control](https://en.wikipedia.org/wiki/DMAIC) (re: Six Sigma)
+DMARC       | [Domain-based Message Authentication Reporting and Conformance](https://en.wikipedia.org/wiki/DMARC)
 DMN         | Demand
 DMO         | Data Management Office 
-DMZ         | [Demilitarized Zone](https://en.wikipedia.org/wiki/DMZ_(computing) - aka perimeter network or [screened subnet](https://en.wikipedia.org/wiki/Screened_subnet)
+DMZ         | [Demilitarized Zone](https://en.wikipedia.org/wiki/DMZ_(computing)) - aka perimeter network or [screened subnet](https://en.wikipedia.org/wiki/Screened_subnet)
 DN          | Distinguished Name, re: LDAP
 DNAT        | Destination network address translation
 DNS         | [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System)
@@ -260,7 +263,7 @@ EAI         | Enterprise Application Integration
 EAMS        | Enterprise Architecture Management Suite
 EAP         | [Extensible Authentication Protocol](https://en.wikipedia.org/wiki/Extensible_Authentication_Protocol)
 EAR			    | Export Administration Regulations
-EAR         | [Enterprise Application aRchive (file format)](https://en.wikipedia.org/wiki/EAR_(file_format)
+EAR         | [Enterprise Application aRchive (file format)](https://en.wikipedia.org/wiki/EAR_(file_format))
 EBS         | [Amazon Elastic Block Storage](https://en.wikipedia.org/wiki/Amazon_Elastic_Block_Store)
 EC2         | [Amazon Elastic Compute Cloud](https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud)
 ECA         | Embodied Conversational Agent(s)
@@ -712,7 +715,7 @@ RAID        | Redundant Array of Independent Disks
 RAM         | Random Access Memory
 RAML        | [REST API Modeling Language](https://en.wikipedia.org/wiki/RAML_(software))
 RAPT        | Reverse Address and Port Translation (see RAT)
-RAR         | [Roshal Archive (file format)](https://en.wikipedia.org/wiki/RAR_(file_format), re: archival 
+RAR         | [Roshal Archive (file format)](https://en.wikipedia.org/wiki/RAR_(file_format)), re: archival 
 RARP        | [Reverse Address Resolution Protocol](https://en.wikipedia.org/wiki/Reverse_Address_Resolution_Protocol)
 RAS         | Redundancy, Availability, Serviceability  
 RASUI       | Reliability, Availability, Serviceability, Usability and Instability  
@@ -775,7 +778,7 @@ RTR         | Record-to-Report
 RTSP        | [Real Time Streaming Protocol](https://en.wikipedia.org/wiki/Real_Time_Streaming_Protocol)
 RTT         | Round-Trip Time  
 RTO         | Recovery Time Objective  
-RSA         | [Rivest–Shamir–Adleman](https://en.wikipedia.org/wiki/RSA_(cryptosystem), re: one of the first public-key cryptosystems)
+RSA         | [Rivest–Shamir–Adleman](https://en.wikipedia.org/wiki/RSA_(cryptosystem)), re: one of the first public-key cryptosystems)
 RSG         | Risk Strategy & Governance
 SA          | Solution Architect
 SaaS        | [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service)
@@ -863,6 +866,7 @@ SOX         | Sarbanes-Oxley Act of 2022
 SP          | [Service Provider](https://en.wikipedia.org/wiki/Service_provider)
 SPA         | [Single-Page Application](https://en.wikipedia.org/wiki/Single-page_application)
 SPAC        | [Special Purpose Acquisition Company](https://www.investopedia.com/terms/s/spac.asp)
+SPF         | [Sender Policy Framework](https://en.wikipedia.org/wiki/Sender_Policy_Framework), re: email auth
 SPICE       | [Simple Protocol for Independent Computing Environments](https://en.wikipedia.org/wiki/Simple_Protocol_for_Independent_Computing_Environments) 
 SPIFFE      | [Secure Production Identity Framework for Everyone](https://spiffe.io/)
 SPKI        | Simple Public Key Infrastructure
@@ -901,8 +905,8 @@ T2R2        | Transparent, Traceable, Replicable and Reproducible
 TAG         | Technical Advisory Group
 TAM         | Technical Account Manager
 TAM         | Total Addressable Market
-TAOC        | [The Art of Computer Programming]https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) (re: by Donald Knuth)
-TAR         | [Tape Archive](https://en.wikipedia.org/wiki/Tar_(computing) (file format). Aka tarball
+TAOC        | [The Art of Computer Programming][https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) (re: by Donald Knuth)
+TAR         | [Tape Archive](https://en.wikipedia.org/wiki/Tar_(computing)) (file format). Aka tarball
 TBD         | To Be Determined
 TCO         | Total Cost of Ownership (see TOC)
 TCP         | [Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
@@ -950,7 +954,7 @@ UUID        | [https://en.wikipedia.org/wiki/Universally_unique_identifier](Univ
 UX          | User Experience
 VA          | Validation Authority
 VAPT        | [Vulnerability Assessment and Penetration Testing](https://en.wikipedia.org/wiki/Vulnerability_assessment_(computing)#Vulnerability_assessment_vs_penetration_testing)
-VAX         | [Virtual Address eXtension])(https://en.wikipedia.org/wiki/VAX_)
+VAX         | [Virtual Address eXtension](https://en.wikipedia.org/wiki/VAX_)
 VAS         | Value-Added Services
 vCPU        | Virtual Central Processing Unit
 VDI         | Virtual Disk Image 
@@ -981,7 +985,7 @@ WAF         | [Web Application Firewall](https://en.wikipedia.org/wiki/Web_appli
 WAL         | [Write-ahead Logging](https://en.wikipedia.org/wiki/Write-ahead_logging)
 WAN         | [WIde Area Network](https://en.wikipedia.org/wiki/Wide_area_network)
 WAP         | Wireless Access Point 
-WAR         | [Web Application Resource (or, Web application ARchival)](https://en.wikipedia.org/wiki/WAR_(file_format)
+WAR         | [Web Application Resource (or, Web application ARchival](https://en.wikipedia.org/wiki/WAR_(file_format))
 wasm        | [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly)
 WBS         | Work Breakdown Structure
 WCCP        | [Web Cache Communication Protocol](https://en.wikipedia.org/wiki/Web_Cache_Communication_Protocol)
