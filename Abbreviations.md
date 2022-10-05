@@ -939,6 +939,7 @@ UDDI        | Universal Description, Discovery, & Integration
 UDEF        | Universal Data Element Framework
 UDF         | User Defined File
 UDF         | User Defined Function
+UDN         | [Unbounded Depth Neural Network](https://www.marktechpost.com/2022/10/03/researchers-at-columbia-university-propose-the-unbounded-depth-neural-network-udn-an-infinitely-deep-probabilistic-model-that-enables-self-adaption-to-the-training-data-without-an-upper-limit/)
 UDP         | [User Datagram Protocol](https://en.wikipedia.org/wiki/User_Datagram_Protocol)
 UDS         | [Unix Domain Socket](https://en.wikipedia.org/wiki/Unix_domain_socket)
 UEFI        | [Unified Extensible Firmware Interface](https://en.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface)
