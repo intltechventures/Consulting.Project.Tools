@@ -905,7 +905,7 @@ T2R2        | Transparent, Traceable, Replicable and Reproducible
 TAG         | Technical Advisory Group
 TAM         | Technical Account Manager
 TAM         | Total Addressable Market
-TAOC        | [The Art of Computer Programming][https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) (re: by Donald Knuth)
+TAOC        | [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) (re: by Donald Knuth)
 TAR         | [Tape Archive](https://en.wikipedia.org/wiki/Tar_(computing)) (file format). Aka tarball
 TBD         | To Be Determined
 TCO         | Total Cost of Ownership (see TOC)
@@ -950,7 +950,7 @@ USB         | [Universal Serial Bus](https://en.wikipedia.org/wiki/USB)
 USL         | [Universal Scalability Law](http://www.perfdynamics.com/Manifesto/USLscalability.html) ~ [Neil J. Gunther](https://en.wikipedia.org/wiki/Neil_J._Gunther)
 UTC         | Coordinated Universal Time 
 UTF         | [Unicode Transformation Format](https://en.wikipedia.org/wiki/Unicode#UTF)
-UUID        | [https://en.wikipedia.org/wiki/Universally_unique_identifier](Universal Unique Identifier) - also GUID
+UUID        | [Universal Unique Identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier) - also GUID
 UX          | User Experience
 VA          | Validation Authority
 VAPT        | [Vulnerability Assessment and Penetration Testing](https://en.wikipedia.org/wiki/Vulnerability_assessment_(computing)#Vulnerability_assessment_vs_penetration_testing)
