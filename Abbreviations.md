@@ -804,7 +804,7 @@ SAW         | Statement of Architecture Work
 SBE         | Specification by Example
 SBOM        | Software Bill of Materials 
 SCI         | Sensitive Compartmented Information 
-SCIM        | System for Cross-Domain Identity Management (re: RFC7644)
+SCIM        | System for Cross-Domain Identity Management (re: [RFC7644](https://www.rfc-editor.org/rfc/rfc7644.html))
 SCTP        | [Stream Control Transmission Protocol](https://en.wikipedia.org/wiki/Stream_Control_Transmission_Protocol)
 SD          | Service Desk
 SDF         | System Data Flow 
