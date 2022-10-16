@@ -85,6 +85,7 @@ BI          | Business Intelligence
 BIA         | Business Impact Analysis
 BIAN        | [Banking Industry Architecture Network](https://bian.org/)
 BIMI        | [Brand Indicators for Message Identification](https://en.wikipedia.org/wiki/Brand_Indicators_for_Message_Identification)
+BIOS        | Basic Input-Output System
 BNF         | Backus-Naur Form
 BNS         | Business Needs Statement
 BOOTP       | [Bootstrap Protocol](https://en.wikipedia.org/wiki/Bootstrap_Protocol)
@@ -297,6 +298,7 @@ ERM         | Enterprise Risk Management
 ERP         | Enterprise Resource Planning
 ES          | ECMAScript (aka JavaScript)
 ESA         | Enterprise Solution Architecture
+ESG         | Environmental, Social, and Governance
 ESP         | [Event Stream Processing](https://en.wikipedia.org/wiki/Event_stream_processing)
 ETL         | Extract, Transform, Load
 ETSI        | [European Telecommunications Standards Institute](https://en.wikipedia.org/wiki/ETSI)
@@ -430,6 +432,7 @@ IPX         | [Internetwork Packet Exchange](https://en.wikipedia.org/wiki/Inter
 IR          | Information Retrieval 
 IRM         | Individual Rights Management
 IRM         | Information Risk Management 
+IRM         | Integrated Risk Management
 IRT         | Incident Response Team
 ISA         | Information Security Architecture 
 ISA         | [Instruction Set Architecture](https://en.wikipedia.org/wiki/Instruction_set_architecture)
