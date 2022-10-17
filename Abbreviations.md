@@ -449,6 +449,7 @@ ISRS        | Information Storage and Retrieval System
 ISSAP       | [Information Systems Security Architecture Professional](https://www.isc2.org/Certifications/CISSP-Concentrations)
 IT          | Information Technology  
 IT4IT       | [The IT4IT Reference Architecture](https://www.opengroup.org/it4it), a standard of the Open Group, is a powerful tool for aligning and managing a Digital Enterprise
+ITAM        | IT Asset Management 
 ITAR		    | International Traffic in Arms Regulations
 ITIL        | [Information Technology Infrastructure Library](https://en.wikipedia.org/wiki/ITIL)
 ITIRB       | Information Technology Investment Review Board
