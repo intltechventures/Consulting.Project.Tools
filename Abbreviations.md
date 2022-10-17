@@ -978,7 +978,9 @@ VRM         | Value Realization Model
 VRM         | Vendor Relationship Manager (aka VRO)
 VRO         | Vendor Relationship Owner (aka VRM)
 VSAM        | Virtual Storage Access Method
-VSM         | Value Stream Mapping
+VSM         | [Value Stream Mapping](https://en.wikipedia.org/wiki/Value-stream_mapping)
+VSM         | [Value Stream Management](https://www.forbes.com/sites/forbestechcouncil/2019/07/08/what-is-value-stream-management-a-primer-for-enterprise-leadership/?sh=68f05f4b7b67)
+VSMP        | [Value Stream Management Platform](https://www.gartner.com/reviews/market/value-stream-management-platforms)
 VTOC        | [Volume Table of Contents](https://en.wikipedia.org/wiki/Volume_Table_of_Contents), re: IBM
 VUCA        | Volatile, Uncertain, Complex, Ambiguous (source: The U.S. Army War College, [Wikipedia](https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity))
 VXLAN       | Virtual Extensible LAN
