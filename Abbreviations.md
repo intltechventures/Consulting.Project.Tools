@@ -8,10 +8,12 @@ This glossary is intended to provide a single refernce to be reused across multi
 
 |Term       | Definition|
 |-----------|-----------|
+_           | 
 2FA         | Two-Factor Authentication
 3LOD        | [Three Lines of Defence Model](https://erm.ncsu.edu/library/article/cosos-take-on-the-three-lines-of-defense) (Codified by the Basel Committee on Banking Supervision in its 2011 Principles for the sound management of operational risk)
 3PL         | Third-Party Logistics providers
 7 Rs        | [Refactor, Replatform, Repurchase, Rehost, Relocate, Retain, Retire](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-retiring-applications/overview.html) - Re: AWS Migration Readiness
+A_          | 
 AAD         | [Azure Active Directory](https://azure.microsoft.com/en-us/products/active-directory/)
 ABAC        | [Attribute-Based Access Contorl](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see CBAC, PBAC)
 ABC         | Activity Based Costing
@@ -68,6 +70,7 @@ ATM         | [Asynchronous Transfer Mode](https://en.wikipedia.org/wiki/Asynchr
 AUC         | [Area Under the Curve](https://en.wikipedia.org/wiki/Receiver_operating_characteristic#Area_under_the_curve)
 AVD         | [Azure Virtual Desktop](https://azure.microsoft.com/en-us/products/virtual-desktop/)
 AZ          | Availability Zone 
+B_          | 
 B2B         | Business-to-Business
 B2C         | Business-to-Consumer
 BA          | Business Analyst
@@ -100,6 +103,7 @@ BSA         | Bank Secrecy Act
 BSD         | [Berkeley Software Distribution](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
 BU          | Business Unit
 BYOD        | Bring Your Own Device
+C_          |
 C5          | Command, Control, Computers, Communications and Cyber 
 C&A         | Certification & Accreditation
 CA          | Certificate Authority
@@ -196,6 +200,7 @@ CVS         | Concurrent Version System
 CWE         | [Critical Weakness Enumeration](https://cwe.mitre.org/)
 CX          | Customer Experience
 CXN         | Customer Experience Network
+D_          | 
 DA          | Data Architecture 
 DAC         | [Discretionary Access Control](https://en.wikipedia.org/wiki/Discretionary_access_control)
 DAP         | Directory Access Protocol (X.500)
@@ -259,6 +264,7 @@ DVI         | [Device Independent file format](https://en.wikipedia.org/wiki/Dev
 DVR         | Distributed Virtual Router
 DW          | Data Warehouse (also see DWH, EDW)
 DWH         | Data Warehouse (also see DW, EDW)
+E_          | 
 EA          | Enterprise Architecture  
 EAI         | Enterprise Application Integration  
 EAMS        | Enterprise Architecture Management Suite
@@ -306,6 +312,7 @@ EU          | European Union
 EUC         | End-User Computing
 EUDA        | End-User Developed Application
 EVM         | Earned Value Management
+F_          | 
 FaaS        | Function as a Service
 FAIL        | First Attempt In Learning (i.e. agile)
 FAT         | [File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table)
@@ -332,6 +339,7 @@ FQDN        | Fully Qualified Domain Name
 FSDG        |[ (GNU) Free System Distribution Guidelines](https://www.gnu.org/distros/free-system-distribution-guidelines.html)
 FTP         | [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
 FWaaS       | FireWall-as-a-Service 
+G_          | 
 GA          | Google Analytics
 GAAP        | Generally Accepted Accounting Principles
 GADTs       | Generalized Algebraic Data Types
@@ -363,6 +371,7 @@ GSM         | [Global System for Mobile Communications](https://en.wikipedia.org
 GUC         | Global User Configuration 
 GUI         | [Graphical User Interface](https://en.wikipedia.org/wiki/Graphical_user_interface)
 GUID        | [Globally Unique Identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier) - see UUID
+H_          | 
 HATEOAS     | [Hypermedia As The Engine Of Application State](https://en.wikipedia.org/wiki/HATEOAS)
 HCI         | Human-Computer Interaction
 HDD         | [Hard Disk Drive](https://en.wikipedia.org/wiki/Hard_disk_drive)
@@ -383,6 +392,7 @@ HTTP        | [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypert
 HTTPS       | Hypertext Transfer Protocol Secure
 HUD         | [Head-Up Display](https://en.wikipedia.org/wiki/HUD_(video_gaming))
 HW          | Hardware
+I_          |
 IA          | Information Assurance
 IA          | Internal Audit
 IaaS        | Infrastructure as a Service  
@@ -456,6 +466,7 @@ ITIRB       | Information Technology Investment Review Board
 ITSM        | Information Technlogy Service Management
 IX          | Internet Exchange
 IXPs        | [Internet exchange points](https://en.wikipedia.org/wiki/Internet_exchange_point)
+J_          | 
 JAR         | [Java ARchive (file format)](https://en.wikipedia.org/wiki/JAR_(file_format))
 JCP         | [Java Community Process](https://en.wikipedia.org/wiki/Java_Community_Process)
 JDBC        | Java Database Connectivity
@@ -471,6 +482,7 @@ JVMS        | Java Virtual Machine Specification
 JWKS        | JSON Web Key Set
 JWT         | [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token)
 k8s         | Kubernetes
+K_          |
 KPI         | [Key Performance Indicators](https://en.wikipedia.org/wiki/Performance_indicator)
 KNN         | [K-nearest neibhbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) (algorithm)
 KT          | Knowledge Transfer
@@ -478,6 +490,7 @@ KVM		    	| Kernel-based Virtual Machine (KVM) is an open source virtualization 
 KVM			    | keyboard, video and mouse
 KVS         | Key-Value Storage
 KYC         | Know Your Client | Know Your Customer 
+L_          |
 LAN         | Local Area Network
 LBA         | [Logical Block Addressing](https://en.wikipedia.org/wiki/Logical_block_addressing)
 LBaaS       | Load-Balancer-as-a-Service
@@ -496,6 +509,7 @@ LSM         | [Log-Structured Merge-Tree](https://en.wikipedia.org/wiki/Log-stru
 LU          | Logical Unit  
 LVM         | Logical Volume Manager
 L2TP        | [Layer 2 Tunneling Protocol](https://en.wikipedia.org/wiki/Layer_2_Tunneling_Protocol)
+M_          |
 MAO         | Maximum Acceptable Outage
 MAC         | Machine Access Control 
 MAC         | Managed Application Consulting
@@ -560,6 +574,7 @@ MVP         | Minimal Viable Product
 MVS         | IBM [Multiple Virtual Storage](https://en.wikipedia.org/wiki/MVS)
 MVVM        | [Model-View-ViewModel](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 M&A         | Mergers & Acquisitions
+N_          |
 NA          | North America 
 NA          | Not Applicable
 NAS         | Network Attached Storage 
@@ -588,6 +603,7 @@ NTE         | Not To Exceed
 NTFC        | No-Fee Terms and Conditions 
 NTP         | [Network Time Protocol](https://en.wikipedia.org/wiki/Network_Time_Protocol)
 NVD         | [National Vulnerability Database](https://nvd.nist.gov/)
+O_          |
 OASIS       | Organization for the Advancement of Structured Information Systems
 OCI         | [Open Container Initiative](https://opencontainers.org/)
 OCI         | Oracle Cloud Infrastructure
@@ -625,6 +641,7 @@ OTP         | One-Time Passcode
 ou          | Organizational Unit, re: LDAP 
 OWASP       | [Open Web Application Security Project](https://owasp.org/)
 OWL         | [Web Ontology Language](https://en.wikipedia.org/wiki/Web_Ontology_Language)
+P_          | 
 P&L         | Profit and Loss 
 PaaS        | Platform as a Service, aka aPaaS (i.e., Application Platform as a Service)
 PAM         | Pluggable Authentication Modules
@@ -698,6 +715,7 @@ PTP         | Procure-to-Pay
 PUP         | [PARC Universal Packet](https://en.wikipedia.org/wiki/PARC_Universal_Packet)
 PVA         | Power Virtual Agents (re: Microsoft BOT platform)
 P2P         | [Peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer)
+Q_          |
 QA          | [Quality Assurance](https://en.wikipedia.org/wiki/Quality_assurance)
 QAOA        | [Quantum Approximate Optimization Algorithm](https://en.wikipedia.org/wiki/Quantum_optimization_algorithms)
 QI          | Quality Improvement 
@@ -709,6 +727,7 @@ QoE         | [Quality of experience](https://en.wikipedia.org/wiki/Quality_of_e
 QoS         | [Quality of Service](https://en.wikipedia.org/wiki/Quality_of_service)
 QSA         | Qualified Security Assessor
 QUIC        | [QUIC](https://en.wikipedia.org/wiki/QUIC) (pronounced "quick") is a general-purpose[2] transport layer[3] network protocol initially designed by Jim Roskind at Google
+R_          |
 RA          | Registration Authority
 RAA         | Responsibility, Accountability, Authority 
 RACF        | IBM [Resource Access Control Facility](https://en.wikipedia.org/wiki/Resource_Access_Control_Facility)
@@ -784,6 +803,7 @@ RTT         | Round-Trip Time
 RTO         | Recovery Time Objective  
 RSA         | [Rivest–Shamir–Adleman](https://en.wikipedia.org/wiki/RSA_(cryptosystem)), re: one of the first public-key cryptosystems)
 RSG         | Risk Strategy & Governance
+S_          |
 SA          | Solution Architect
 SaaS        | [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service)
 SABSA       | [Sherwood Applied Business Security Architecture](https://en.wikipedia.org/wiki/Sherwood_Applied_Business_Security_Architecture) 
@@ -804,6 +824,7 @@ SATA        | [Seria AT Attachment](https://en.wikipedia.org/wiki/Serial_ATA)
 SAW         | Statement of Architecture Work
 SBE         | Specification by Example
 SBOM        | Software Bill of Materials 
+SCA         | Security Composition Analysis
 SCI         | Sensitive Compartmented Information 
 SCIM        | System for Cross-Domain Identity Management (re: [RFC7644](https://www.rfc-editor.org/rfc/rfc7644.html))
 SCTP        | [Stream Control Transmission Protocol](https://en.wikipedia.org/wiki/Stream_Control_Transmission_Protocol)
@@ -905,6 +926,7 @@ SW          | Software
 SWAG        | Silly Wild-Ass Guess (also see ROM), aka an estimate 
 SWOT        | Strengths, Weaknesses, Opportunities, and Threats
 S&P         | Strategy & Planning
+T_          |
 T2R2        | Transparent, Traceable, Replicable and Reproducible 
 TAG         | Technical Advisory Group
 TAM         | Technical Account Manager
@@ -937,6 +959,7 @@ TSS         | Technical Security Standards
 TTL         | Time To Live
 TTP         | Trusted Third Party
 TXN         | Transaction
+U_          |
 UAT         | User Acceptance Testing
 UCaaS       | [Unified Communications as a Service](https://en.wikipedia.org/wiki/Unified_communications_as_a_service)
 UDDI        | Universal Description, Discovery, & Integration
@@ -957,6 +980,7 @@ UTC         | Coordinated Universal Time
 UTF         | [Unicode Transformation Format](https://en.wikipedia.org/wiki/Unicode#UTF)
 UUID        | [Universal Unique Identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier) - also GUID
 UX          | User Experience
+V_          |
 VA          | Validation Authority
 VAPT        | [Vulnerability Assessment and Penetration Testing](https://en.wikipedia.org/wiki/Vulnerability_assessment_(computing)#Vulnerability_assessment_vs_penetration_testing)
 VAX         | [Virtual Address eXtension](https://en.wikipedia.org/wiki/VAX_)
@@ -984,6 +1008,7 @@ VSMP        | [Value Stream Management Platform](https://www.gartner.com/reviews
 VTOC        | [Volume Table of Contents](https://en.wikipedia.org/wiki/Volume_Table_of_Contents), re: IBM
 VUCA        | Volatile, Uncertain, Complex, Ambiguous (source: The U.S. Army War College, [Wikipedia](https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity))
 VXLAN       | Virtual Extensible LAN
+W_          |
 W3          | World Wide Web (i.e. WWW)
 W3C         | [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium)
 WaaS        | Workers as a Service
@@ -1012,6 +1037,7 @@ WRT         | Work Recovery Time
 WSDL        | [Web Service Description Language](https://en.wikipedia.org/wiki/Web_Services_Description_Language)
 WSJF        | Weighted Shortest Job First (re: Scaled Agile Framework, SAFe)
 WWW         | [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web)
+X_          |
 XA          | EXtended Architecture
 XID         | Transaction Identifier
 XML         | [Extensible Markup Language](https://en.wikipedia.org/wiki/XML)
@@ -1020,8 +1046,10 @@ XP          | eXtreme Programming
 XR          | Extended Reality
 XSL         | XML Style Language 
 XSLT        | [eXtensible Stylesheet Language Transformations](https://en.wikipedia.org/wiki/XSLT)
+Y_          |
 YAGNI       | You Aren't Gonna Need It 
 YBYO        | You Build Your Own
+Z_          |
 ZT          | Zero Trust
 ZTA         | [Zero Trust Architecture](https://csrc.nist.gov/publications/detail/sp/800-207/final)
 
