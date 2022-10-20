@@ -285,9 +285,9 @@ __These are the primary software programs that I typically have installed on my 
       * Enable: ```"%ProgramFiles(x86)%\Microsoft Visual Studio\Installer\vs_installer.exe" repair --passive --norestart --cache```
 
   + Marketplace Extensions:
-    * https://marketplace.visualstudio.com/items?itemName=YoshinoriN.current-file-path
+    * [https://marketplace.visualstudio.com/items?itemName=YoshinoriN.current-file-path]
       * display current file's path from absolute (root directory) or workspace highest directory in StatusBar by Unix style or Windows style.
-    * https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify
+    * [https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify]
       * js-beautify for VS Code
     * https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql
       * mssql for Visual Studio Code
