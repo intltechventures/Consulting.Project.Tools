@@ -322,6 +322,50 @@ __These are the primary software programs that I typically have installed on my 
       * Free UML Tool for Fast UML Diagrams
 
 
+    * Others VS Plugins/Extensions to research:
+      * Source ideas: 
+        * https://twitter.com/laurieontech/status/1582738189948633095
+
+      * Better Haml      
+
+      * [Copy GitHub URL](https://marketplace.visualstudio.com/items?itemName=mattlott.copy-github-url)
+
+      * Dev Containers
+      * Docker
+
+      * Endwise
+      * ESLint
+
+      * Git Graph
+      * GitHub PR 
+      * GitLab Workflow
+      * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
+      * HAML Lint
+
+      * Jira and Bitbucket
+      * Jupyter
+
+      * PlantUML
+      * Peacock
+      * Prettier
+
+      * Rainbow CSV
+      * Rainbow Indent
+
+      * Sourcegrpah
+      * Sublime Keymap
+      * Sublime Text Monokai theme
+
+      * Todo highlight
+      * TODO Tree
+      * [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
+
+      * webstorm
+
+      * YAML      
+
+
 - [Eclipse](http://www.eclipse.org)
   + [See the plugins that I usually install](https://github.com/intltechventures/EclipseNotes/blob/master/README.md)
 
