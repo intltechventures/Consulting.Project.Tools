@@ -282,8 +282,8 @@ __These are the primary software programs that I typically have installed on my 
   + Suggested: Disable Program Data Package Cache
     * https://www.quora.com/Can-I-delete-the-folder-C-ProgramData-Package-Cache
       * Disable: ```"%ProgramFiles(x86)%\Microsoft Visual Studio\Installer\vs_installer.exe" --nocache```
-      * Enable: ```"%ProgramFiles(x86)%\Microsoft Visual Studio\Installer\vs_installer.exe" repair --passive --norestart --cache
-        ```
+      * Enable: ```"%ProgramFiles(x86)%\Microsoft Visual Studio\Installer\vs_installer.exe" repair --passive --norestart --cache```
+
   + Marketplace Extensions:
     * https://marketplace.visualstudio.com/items?itemName=YoshinoriN.current-file-path
       * display current file's path from absolute (root directory) or workspace highest directory in StatusBar by Unix style or Windows style.
