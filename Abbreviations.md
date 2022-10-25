@@ -865,6 +865,7 @@ SLI         | [Service Level Indicator](https://landing.google.com/sre/resources
 SLO         | [Service Level Objectives](https://landing.google.com/sre/resources/practicesandprocesses/art-of-slos/) - a reliability target for an SLI 
 SLO         | Single Log-out
 SLM         | Service Level Management
+SLSA        | [Supply chain Levels for Software Artifacts](https://slsa.dev/)
 SM          | System Maanger
 SMART       | Specific, Measurable, Attainable, Realistic
 SMART       | SMART (Substitutable Medical Applications, Reusable Technologies)
@@ -948,6 +949,7 @@ TM          | Topic Model, re: NER, NLP, DL, ML
 TNR         | True Negative Rate
 TOC         | Total Ownership Cost (see TCO)
 TOM         | Target Operating Model
+TOML        | [Tom's Obvious Minimal Language](https://toml.io/en/)
 TP          | Third-Party
 TPM         | Trusted Platform Module 
 TPR         | True Positive Rate
