@@ -658,6 +658,7 @@ PBI         | Product Backlog Item (i.e. Scrum)
 PBL         | Product Backlog (i.e. Scrum)
 PCA         | [Principlal Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis)
 PCI DSS     | Payment Card Industry Data Security Standard
+PCR         | Policy Change Request
 PCR         | Project Change Request
 PDCA        | Plan-Do-Check-Adjust (Shewhart’s PDCA cycle, aka the Deming Cycle)
 PDSA        | Plan-Do-Study-Act
@@ -1009,6 +1010,7 @@ VSAM        | Virtual Storage Access Method
 VSM         | [Value Stream Mapping](https://en.wikipedia.org/wiki/Value-stream_mapping)
 VSM         | [Value Stream Management](https://www.forbes.com/sites/forbestechcouncil/2019/07/08/what-is-value-stream-management-a-primer-for-enterprise-leadership/?sh=68f05f4b7b67)
 VSMP        | [Value Stream Management Platform](https://www.gartner.com/reviews/market/value-stream-management-platforms)
+VSOC        | Virtual Security Operations Center
 VTOC        | [Volume Table of Contents](https://en.wikipedia.org/wiki/Volume_Table_of_Contents), re: IBM
 VUCA        | Volatile, Uncertain, Complex, Ambiguous (source: The U.S. Army War College, [Wikipedia](https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity))
 VXLAN       | Virtual Extensible LAN
