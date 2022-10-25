@@ -159,6 +159,7 @@ CLI         | Command Line Interface
 CMDB        | Configuration Management Database
 CMOS        | [omplementary Metal Oxide Silicon](https://en.wikipedia.org/wiki/CMOS)
 CMF         | Content Monitoring and Filtering (see DLP)
+CMK         | Customer Managed Keys
 CMM         | Capability Maturity Model
 CMOS        | [Complementary metal–oxide–semiconductor](https://en.wikipedia.org/wiki/CMOS)
 cn          | Common Name, re: LDAP
@@ -471,6 +472,7 @@ JAR         | [Java ARchive (file format)](https://en.wikipedia.org/wiki/JAR_(fi
 JCP         | [Java Community Process](https://en.wikipedia.org/wiki/Java_Community_Process)
 JDBC        | Java Database Connectivity
 JDK         | [Java Development Kit](https://en.wikipedia.org/wiki/Java_Development_Kit)
+JFR         | Java Flight Recorder
 JIT         | Just in Time
 JMS         | [Jakarta Messaging (formerly  Java Messaging Service)](https://en.wikipedia.org/wiki/Jakarta_Messaging), re: JSR 343
 JSON        | [JavaScript Object Notation](https://en.wikipedia.org/wiki/JSON)
