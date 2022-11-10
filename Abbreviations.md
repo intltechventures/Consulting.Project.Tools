@@ -345,6 +345,7 @@ GA          | Google Analytics
 GAAP        | Generally Accepted Accounting Principles
 GADTs       | Generalized Algebraic Data Types
 GAM         | Global Asset Management
+GAT         | Generic Associated Types (e.g. [introduced in Rust 1.65](https://www.infoq.com/news/2022/11/rust-generic-associated-types/)
 GCC         | Government Community 
 GCHQ        | British intelligence agency [Government Communications Headquarters](https://en.wikipedia.org/wiki/Government_Communications_Headquarters)
 GCP         | Google Cloud Platfrom
