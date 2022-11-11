@@ -707,7 +707,8 @@ PR          | Production Ready
 PR          | Proposed Recommendation 
 PR          | Pull Request
 PR          | Purchase Request
-PRC         | Product Review Committee 
+PRC         | Product Review Committee
+PRD         | Product Requirement Document
 PRJ         | Project
 PRM         | Program
 PRR         | Production Readiness Reviews
