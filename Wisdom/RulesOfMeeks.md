@@ -125,6 +125,9 @@
 reassess whether your plan is actually working"**
 
 
+**\#111 - "Beware the inept, for they shall misconstrue your anger at their incompetence - for arrogance"**
+
+
 
 \#2xx - On the Art of  Managing People
 ====
