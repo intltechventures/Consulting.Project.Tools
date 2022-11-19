@@ -266,6 +266,11 @@ __These are the primary software programs that I typically have installed on my 
 
 - [Microsoft Visual Studio](https://www.visualstudio.com/)
   + https://visualstudio.microsoft.com/downloads/
+
+  + Configuration Options:
+    * Setting the MSBuildDebugEngine=1 environment variable and then starting VS will give you full, proper binlogs from Visual Studio builds (including design-time)
+      * https://github.com/dotnet/msbuild/blob/e868d91a40fb59cd258844a8d31114c1c3fabf2a/documentation/wiki/Building-Testing-and-Debugging-on-Full-Framework-MSBuild.md#logs
+
   + Marketplace Extensions:
     * https://marketplace.visualstudio.com/items?itemName=YoshinoriN.current-file-path
     * Markdown Editor
