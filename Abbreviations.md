@@ -115,6 +115,7 @@ CAS         | [Compare-And-Swap | Compare-And-Set](https://en.wikipedia.org/wiki
 CAT         | Customer Advisory Team
 CBA         | Cost Benefit Analysis
 CBAC        | [Claim-Based Attirbute Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see ABAC,PBAC)
+CBS         | Critical Business System
 CCD         | Conceptual Design Document
 CCoE        | Cloud Center of Excellence
 CCO         | Client Change Order
@@ -379,6 +380,7 @@ HCI         | Human-Computer Interaction
 HDD         | [Hard Disk Drive](https://en.wikipedia.org/wiki/Hard_disk_drive)
 HDFS        | Hadoop Distributed File System 
 HDLC        | [High-Level Data Link Control](https://en.wikipedia.org/wiki/High-Level_Data_Link_Control)
+HICP        | High Impact Control Plane
 HIPPA       | Health Insurance Portability and Accountability Act of 1996
 HiPPO       | [Highly Paid Person's Opinion](https://architectelevator.com/cloud/selecting-cloud-provider/)
 HITRUST     | Health Information Trust Alliance
