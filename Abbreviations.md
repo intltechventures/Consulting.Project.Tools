@@ -77,6 +77,7 @@ BA          | Business Analyst
 BAA         | Business Associate Agreement
 BAFO        | Best And Final Offer (e.g., RFP negotiations)
 BAU         | Business As Usual
+BCM         | Business Continuity Management
 BCP         | Business Continuity Planning
 BDAM        | IBM [Basic Direct Access Method](https://en.wikipedia.org/wiki/Basic_direct_access_method)
 BDD         | [Behavior-Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
@@ -832,6 +833,7 @@ SAW         | Statement of Architecture Work
 SBE         | Specification by Example
 SBOM        | Software Bill of Materials 
 SCA         | Security Composition Analysis
+SCADA       | Supervisory Control and Data Acquisition
 SCI         | Sensitive Compartmented Information 
 SCIM        | System for Cross-Domain Identity Management (re: [RFC7644](https://www.rfc-editor.org/rfc/rfc7644.html))
 SCTP        | [Stream Control Transmission Protocol](https://en.wikipedia.org/wiki/Stream_Control_Transmission_Protocol)
