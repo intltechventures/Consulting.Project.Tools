@@ -295,6 +295,7 @@ ELT         | Extract, Load, Transform
 EME         | [Encrypted Media Extensions](https://en.wikipedia.org/wiki/Encrypted_Media_Extensions), re: W3C HTML5 recommendations
 EMEA        | Europe, the Middle East, and Africa
 EMS         | [Execution Management System](https://en.wikipedia.org/wiki/Execution_management_system)
+ENA         | Elastic Network Adapter
 ENI         | Elastic Network Interface (re: AWS)
 EOL         | End of Life
 EOL         | End of Line
@@ -819,6 +820,7 @@ SACM        | Software Asset Configuration Management (an ITIL process)
 SAD         | Solution Architecture Document
 SADS        | Secure Application Development Standards
 SAFe        | Scaled Agile Framework
+SAM         | [Serverless Application Model](https://aws.amazon.com/serverless/sam/)
 SAM         | Successive Approximation Model, created by Allen Interactions 
 SAML        | Security Assertion Markup Language
 SAN         | [Storage Area Networks](https://en.wikipedia.org/wiki/Storage_area_network)
@@ -1062,6 +1064,7 @@ Y_          |
 YAGNI       | You Aren't Gonna Need It 
 YBYO        | You Build Your Own
 Z_          |
+ZBB         | [Zero-Based Budgeting](https://en.wikipedia.org/wiki/Zero-based_budgeting)
 ZT          | Zero Trust
 ZTA         | [Zero Trust Architecture](https://csrc.nist.gov/publications/detail/sp/800-207/final)
 
