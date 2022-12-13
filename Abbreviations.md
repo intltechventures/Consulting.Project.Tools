@@ -59,6 +59,7 @@ ARC         | Architecture Review Committee, or Council (aka ARB)
 ARI         | Amazon Ramdisk Image
 ARM         | Architectural Reference Model
 ARN         | [Amazon Resource Name](https://docs.aws.amazon.com/general/latest/gr/aws-arns-and-namespaces.html)
+ARPA        | Average Revenue Per Account
 ARR         | Annual Recurring Revenue 
 ART         | Agile Release Train (re: Scaled Agile Framework, SAFe)
 AS          | Authoritative Source
@@ -111,6 +112,7 @@ CA          | Certificate Authority
 CAAS        | Container as a Service
 CAB         | Change Advisory Board
 CaC         | Compliance as Code
+CAC         | Customer Acquisition Cost
 CAP         | Consistency, Availability, Partition Tolerance  
 CAS         | [Compare-And-Swap | Compare-And-Set](https://en.wikipedia.org/wiki/Compare-and-swap)
 CAT         | Customer Advisory Team
@@ -161,6 +163,7 @@ CLI         | Command Line Interface
 CMDB        | Configuration Management Database
 CMOS        | [omplementary Metal Oxide Silicon](https://en.wikipedia.org/wiki/CMOS)
 CMF         | Content Monitoring and Filtering (see DLP)
+CMGR        | Compounded Monthly Growth Rate 
 CMK         | Customer Managed Keys
 CMM         | Capability Maturity Model
 CMOS        | [Complementary metal–oxide–semiconductor](https://en.wikipedia.org/wiki/CMOS)
@@ -215,6 +218,7 @@ DaaS        | Data as a Service
 DARPA       | [Defense Advanced Research Projects Agency](https://en.wikipedia.org/wiki/DARPA)
 DASD        | [Direct-Access Storage Device](https://en.wikipedia.org/wiki/Direct-access_storage_device)
 DAST        | Dynamic Application Security Testing
+DAU         | Daily Active Users
 DB          | Database
 DBA         | Database Administrator
 DBMS        | Database Management System
@@ -513,6 +517,7 @@ LGPL        | (GNU) Lesser General Public License
 LLM         | Large Language Model
 LSA         | Local Service Agreement
 LSM         | [Log-Structured Merge-Tree](https://en.wikipedia.org/wiki/Log-structured_merge-tree)
+LTV         | Lifetime Value
 LU          | Logical Unit  
 LVM         | Logical Volume Manager
 L2TP        | [Layer 2 Tunneling Protocol](https://en.wikipedia.org/wiki/Layer_2_Tunneling_Protocol)
@@ -552,6 +557,7 @@ MIT/LCS     | [Massachusetts Institute of Technology](https://en.wikipedia.org/w
 ML          | Machine Learning 
 MOA         | Memorandum of Agreement
 MOLAP       | Multidimensional OLAP
+MoM         | Month-on-Month
 MOM         | Message Oriented Middleware
 MOTS        | Modified Off-The-Shelf 
 MOU         | Memorandum of Understanding
