@@ -839,6 +839,7 @@ SAST        | Static Application Security Testing
 SATA        | [Seria AT Attachment](https://en.wikipedia.org/wiki/Serial_ATA)
 SAW         | Statement of Architecture Work
 SBE         | Specification by Example
+SBI         | Synthetic Biological Intelligence
 SBOM        | Software Bill of Materials 
 SCA         | Security Composition Analysis
 SCADA       | Supervisory Control and Data Acquisition
