@@ -353,6 +353,7 @@ GAAP        | Generally Accepted Accounting Principles
 GADTs       | Generalized Algebraic Data Types
 GAM         | Global Asset Management
 GAT         | Generic Associated Types (e.g. [introduced in Rust 1.65](https://www.infoq.com/news/2022/11/rust-generic-associated-types/)
+GB          | Gigabyte
 GCC         | Government Community 
 GCHQ        | British intelligence agency [Government Communications Headquarters](https://en.wikipedia.org/wiki/Government_Communications_Headquarters)
 GCP         | Google Cloud Platfrom
@@ -952,6 +953,7 @@ TAM         | Technical Account Manager
 TAM         | Total Addressable Market
 TAOC        | [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) (re: by Donald Knuth)
 TAR         | [Tape Archive](https://en.wikipedia.org/wiki/Tar_(computing)) (file format). Aka tarball
+TB          | Terabyte
 TBD         | To Be Determined
 TCO         | Total Cost of Ownership (see TOC)
 TCP         | [Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
@@ -1071,6 +1073,7 @@ Y_          |
 YAGNI       | You Aren't Gonna Need It 
 YBYO        | You Build Your Own
 Z_          |
+ZB          | [Zettabyte](https://en.wikipedia.org/wiki/Zettabyte_Era)
 ZBB         | [Zero-Based Budgeting](https://en.wikipedia.org/wiki/Zero-based_budgeting)
 ZT          | Zero Trust
 ZTA         | [Zero Trust Architecture](https://csrc.nist.gov/publications/detail/sp/800-207/final)
