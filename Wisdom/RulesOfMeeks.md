@@ -128,6 +128,10 @@ reassess whether your plan is actually working"**
 **\#111 - "Beware the inept, for they shall misconstrue your anger at their incompetence - for arrogance"**
 
 
+**\#112 - "If you stay long enough in any organization - either your presence changes the organization - or the organization
+changes you"**
+
+
 
 \#2xx - On the Art of  Managing People
 ====
