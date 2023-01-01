@@ -353,7 +353,7 @@ GAAP        | Generally Accepted Accounting Principles
 GADTs       | Generalized Algebraic Data Types
 GAM         | Global Asset Management
 GAT         | Generic Associated Types (e.g. [introduced in Rust 1.65](https://www.infoq.com/news/2022/11/rust-generic-associated-types/)
-GB          | Gigabyte
+GB          | [Gigabyte](https://en.wikipedia.org/wiki/Gigabyte)
 GCC         | Government Community 
 GCHQ        | British intelligence agency [Government Communications Headquarters](https://en.wikipedia.org/wiki/Government_Communications_Headquarters)
 GCP         | Google Cloud Platfrom
@@ -428,6 +428,7 @@ IDS         | [Intrusion Detection System](https://en.wikipedia.org/wiki/Intrusi
 IE          | Information Extraction, re: NER, DL, ML, NLP
 IEEE        | [Institute of Electrical and Electronics Engineers](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers)
 IETF        | [Internet Engineering Task Force](https://www.ietf.org/)
+IG          | [Information Gain (decision tree)](https://en.wikipedia.org/wiki/Information_gain_(decision_tree))
 IGA         | Identity Governance and Administration, see IAM
 ILDP        | Information Leak Detection and Prevention (see DLP)
 ILM         | [Information Lifecycle Management](https://en.wikipedia.org/wiki/Information_lifecycle_management)
