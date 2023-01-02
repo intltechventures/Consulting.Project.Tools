@@ -296,6 +296,7 @@ EFF         | [Electronic Frontier Foundation](https://en.wikipedia.org/wiki/Ele
 EHR         | Electronic Health Record(s)
 ELF         | [Executable and Linkable Format](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
 ELT         | Extract, Load, Transform
+EM          | [Expectation Management](https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm) algorithm (re: Machine Learning)
 EME         | [Encrypted Media Extensions](https://en.wikipedia.org/wiki/Encrypted_Media_Extensions), re: W3C HTML5 recommendations
 EMEA        | Europe, the Middle East, and Africa
 EMS         | [Execution Management System](https://en.wikipedia.org/wiki/Execution_management_system)
@@ -557,6 +558,7 @@ MIRT        | Major Incident Response Team
 MISD        | [Multiple Instruction Streams, Single Data Stream](https://en.wikipedia.org/wiki/MISD)
 MIT/LCS     | [Massachusetts Institute of Technology](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology) Laboratory for Computer Science
 ML          | Machine Learning 
+MLE         | [Maximum Likelihood Estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
 MOA         | Memorandum of Agreement
 MOLAP       | Multidimensional OLAP
 MoM         | Month-on-Month
