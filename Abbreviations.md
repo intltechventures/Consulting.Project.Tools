@@ -530,6 +530,7 @@ MAC         | Machine Access Control
 MAC         | Managed Application Consulting
 MAC         | [Mandatory Access Control](https://en.wikipedia.org/wiki/Mandatory_access_control)
 MAC         | [Medium access control](https://en.wikipedia.org/wiki/Medium_access_control)
+MAC         | [Message Authentication Code](https://en.wikipedia.org/wiki/Message_authentication_code)
 MAE         | Mean Absolute Error
 MAU         | Monthly Active Users
 MBaaS       | Mobile Back End as a Service
