@@ -633,7 +633,7 @@ OFAC        | [Office of Foreign Assets Control](https://en.wikipedia.org/wiki/O
 OIA         | [Office of Intelligence and Analysis](https://en.wikipedia.org/wiki/Office_of_Intelligence_and_Analysis_(Treasury_Department))
 OIC         | Oracle Integration Cloud (note: renamed in January 2019, to Oracle Integration)
 OID         | Object Identifier
-OIDC        | OpenID Connect
+OIDC        | [OpenID Connect](https://openid.net/)
 OIDC        | Oracle Identity Cloud Service
 OKRs        | [Objectives and Key Results](https://en.wikipedia.org/wiki/OKR)
 OLA         | Operational-Level Agreement
@@ -804,6 +804,7 @@ ROI         | Return on Investment
 ROIT        | Return on Information Technology  
 ROLAP       | Relational OLAP
 ROM         | Rough Order of Magnitude (also see SWAG), aka an estimate
+RP          | Relying Party (re: OpenID Connect)
 RPA         | Robotic Process Automation
 RPC         | [Remote Procedure Call](https://en.wikipedia.org/wiki/Remote_procedure_call)
 RPM         | Redhat Package Manager
