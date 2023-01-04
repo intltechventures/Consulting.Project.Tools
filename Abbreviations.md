@@ -20,32 +20,52 @@ ABC         | Activity Based Costing
 ABC         | Area of Business Concern
 ABNF        | Augmented Backus-Naur Form (see [RFC-5234](https://tools.ietf.org/html/rfc5234))
 AC          | [Axiom of Choice](https://en.wikipedia.org/wiki/Axiom_of_choice)
+ACE         | Access Control Entry
 ACG         | Automatic Code Generators
 ACH         | [Automated Clearing House](https://en.wikipedia.org/wiki/Automated_clearing_house)
+ACK         | Acknowledgement
 ACL         | Access Control List
+ACM         | Access Control Mechanism
 ACME        | [Automatic Certificate Management Environment](https://en.wikipedia.org/wiki/Automated_Certificate_Management_Environment), alsos see [RFC 8555](https://tools.ietf.org/html/rfc8555)
+ACPI        | Advanced Configuration and Power Interface
+ACPT        | Access Control Policy Tool
+ACR         | Access Control Rule
 ACS         | Azure Communication Service
+ACT         | Automated Combinatorial Testing
+ACTS        | Automated Combinatorial Testing for Software 
 ACV         | Annual Contract Value 
+ACVP        | Automated Cryptographic Validation Protocol
+ACVTS       | Automated Cryptographic Validation Test System
 AD          | Application Delivery  
 AD          | Active Directory
 ADA         | [The Americans with Disabilities Act of 1990 or ADA (42 U.S.C. § 12101)](https://en.wikipedia.org/wiki/Americans_with_Disabilities_Act_of_1990)
+ADAL        | Active Directory Authentication Library
+ADCS        | Active Directory Certificate Services 
 ADDIE       | (analyze, design, development, implement, evaluate) a methodology developed by Florida State University for the U.S. Army as a repeatable and standard set of tasks to create training.  [Wikipedia Article](https://en.wikipedia.org/wiki/ADDIE_Model)
+ADDS        | Active Directory Domain Service(s)
 ADR         | [Address Resolution Protocol](https://en.wikipedia.org/wiki/Address_Resolution_Protocol)
 ADSL        | [Asymmetric digital subscriber line](https://en.wikipedia.org/wiki/Asymmetric_digital_subscriber_line)
 ADT         | Algebraic Data Type
+AES         | Advanced Encryption Standard 
 AFCE        | Authorization for Capital Expenditure
 AI          | Artificial Intelligence  
+AKA         | Also Known As
+AKA         | Authentication and Key Agreement
 AKI         | Amazon Kernel Image
+AKM         | Authentication and Key Management
+AKP         | Advanced Key Processor
 AKS         | Azure Kubernetes Service
 ALM         | [Application Lifecycle Management](https://en.wikipedia.org/wiki/Application_lifecycle_management)
 AMI         | Amazon Machine Image
 AML         | Anti-Money Laundering
 AMS         | Application Managed Service
 AMQP        | [Advanced Message Queuing Protocol](https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol)
+ANC         | Adaptive Network Control
 ANN         | Artificial Neural Network
 ANSI        | [American National Standards Institute](https://en.wikipedia.org/wiki/American_National_Standards_Institute)
 AOP         | Aspect Oriented Programming
 AOT         | Ahead of Time (i.e. compiled ahead of time)
+AP          | Access Point 
 AP          | Average Precision
 aPaaS       | Application Platform as a Service  
 APAC        | Asia/Pacfic
@@ -597,6 +617,7 @@ M&A         | Mergers & Acquisitions
 N_          |
 NA          | North America 
 NA          | Not Applicable
+NAK         | Negative Acknolwedgement
 NAS         | Network Attached Storage 
 NAT         | [Network Address Translation](https://en.wikipedia.org/wiki/Network_address_translation)
 NC          | Non-Compliant
@@ -698,6 +719,7 @@ PIT         | Platform Information Technology
 PITR        | Point In Time Recovery
 PKCE        | Proof Key for Code Exchange (pronounced "pixy"), re: [RFC 7636](https://tools.ietf.org/html/rfc7636)
 PKI         | [Public Key Infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure)
+PLM         | Product Lifecycle Management
 PM          | Program Manager
 PM          | Project Management
 PM          | Project Manager
