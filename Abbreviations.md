@@ -156,6 +156,7 @@ CIP         | Critical Infrastructure Protection
 CIP         | Customer Identification Program
 CIPP        | Certified Information Privacy Professional 
 CISA        | Certified Information Systems Auditor
+CISA        | [Cybersecurity and Infrastructure Security Agency](https://www.cisa.gov/cybersecurity-division)
 CISC        | [Complex Instruction Set Computer](https://en.wikipedia.org/wiki/Complex_instruction_set_computer)
 CISM        | Certified Information Security Manager
 CISSP       | [Certified Information Systems Security Professionals](https://www.isc2.org/Certifications/CISSP-Concentrations)
@@ -202,6 +203,7 @@ CTO         | Chief Technology Officer
 CUI	    		| Controlled Unclassified Information (CUI), as defined by Executive Order 13556 (2010)
 CUSO        | Combined U.S. Operations
 CV          | Cross-Validation
+CVE         | [Critical Vulnerabilities and Exposures](https://www.cve.org/)
 CVS         | Concurrent Version System
 CWE         | [Critical Weakness Enumeration](https://cwe.mitre.org/)
 CX          | Customer Experience
