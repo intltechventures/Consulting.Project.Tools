@@ -79,6 +79,7 @@ ARC         | Architecture Review Committee, or Council (aka ARB)
 ARI         | Amazon Ramdisk Image
 ARM         | Architectural Reference Model
 ARN         | [Amazon Resource Name](https://docs.aws.amazon.com/general/latest/gr/aws-arns-and-namespaces.html)
+ARP         | Address Resolution Protocol
 ARPA        | Average Revenue Per Account
 ARR         | Annual Recurring Revenue 
 ART         | Agile Release Train (re: Scaled Agile Framework, SAFe)
@@ -98,31 +99,48 @@ BA          | Business Analyst
 BAA         | Business Associate Agreement
 BAFO        | Best And Final Offer (e.g., RFP negotiations)
 BAU         | Business As Usual
+BC          | Business Continuity
+BCD         | Binary Coded Decimal 
 BCM         | Business Continuity Management
-BCP         | Business Continuity Planning
+BCP         | Best Current Practice 
+BCP         | Business Continuity Planning (or Plan)
 BDAM        | IBM [Basic Direct Access Method](https://en.wikipedia.org/wiki/Basic_direct_access_method)
+BDB         | Biometric Data Block
 BDD         | [Behavior-Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
+BDS `       | Boot Device Selection
 BDUF        | Big Design Up Front
 BEC         | Business Executive Committee 
+BFT         | Byzantine Fault Tolerant
 BGP         | Border Gateway Protocol
 BHAG        | Big Hairy Audacious Goal
 BI          | Business Intelligence
-BIA         | Business Impact Analysis
+BIA         | Business Impact Analysis | Assessemnt
 BIAN        | [Banking Industry Architecture Network](https://bian.org/)
+BIND        | Berkeley Internet Name Domain
 BIMI        | [Brand Indicators for Message Identification](https://en.wikipedia.org/wiki/Brand_Indicators_for_Message_Identification)
 BIOS        | Basic Input-Output System
+BLOB        | Binary Large Object
+BLSR        | Baseline Security Requirement
+BMA         | Business Mission Area 
 BNF         | Backus-Naur Form
 BNS         | Business Needs Statement
+BOD         | Binding Operational Directive 
+BOF         | Buffer Overflow 
 BOOTP       | [Bootstrap Protocol](https://en.wikipedia.org/wiki/Bootstrap_Protocol)
+BOSS        | Business Operation Support Services 
 BPF         | [Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter) - see eBPF
 BPM         | Business Process Management
 BPM         | Business Process Model
+BPML        | Business Process Markup Language 
 BPS         | Bits Per Second
+BPSS        | Business Process Specification Schema 
 BR          | Business Rules
 BRD         | Business Requirements Document  
 BRM         | Business Reference Model  
 BSA         | Bank Secrecy Act
 BSD         | [Berkeley Software Distribution](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
+BSI         | British Sandards Institution
+BTC         | Bitcoin
 BU          | Business Unit
 BYOD        | Bring Your Own Device
 C_          |
