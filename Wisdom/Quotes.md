@@ -202,6 +202,10 @@
 - Parkinson's Law: "Work expands so as to fill the time available for its completion." (1955, Economist article)
 
 
+## Wait, TOm
+- "We are buried beneath the weight of information, which is being confused with knowledge; quantity is being confused with abundance and wealth with happiness. We are monkeys with money and guns.”
+
+
 ## Weinberg, Gerald M.
 - Weinberg's Law: "If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization."
   + Weinberg attributed with the quote in: Murali Chemuturi (2010) Mastering Software Quality Assurance: Best Practices, Tools and Technique for Software Developers. p. ix
