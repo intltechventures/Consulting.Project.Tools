@@ -451,6 +451,7 @@ IaaS        | Infrastructure as a Service
 IaC         | Infrastructure as Code
 IAM         | [Identity and Access Management](https://en.wikipedia.org/wiki/Identity_management)
 IANA        | [Internet Assigned Numbers Authority](https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority)
+IAS         | International Accounting Standard
 IAST        | Integrated Application Security Testing
 IC          | Individual Contributor
 IC          | [United States IntelligenceCommunity](https://en.wikipedia.org/wiki/United_States_Intelligence_Community)
@@ -826,7 +827,9 @@ RFP         | Request for Proposal
 RFQ         | Request for Quote
 RFS         | Request for Service (or, Solution)
 RHEL        | Red Hat Enterprise Linux 
-RIA         | Rich Internet Application  
+RIA         | Rich Internet Application 
+RICE        | Reports, Interfaces, Conversions, and Enhancements
+RICE        | Reach, Impact, Confidence, Effort (re: a scoring model framework - used by product owners/managers)
 RIDAC       | Risk, Issue, Decision, Action, and Request Changes records (re: ServiceNow)
 RION        | Raw Internet Object Notation
 RIP         | [Routing Information Protocol](https://en.wikipedia.org/wiki/Routing_Information_Protocol)
