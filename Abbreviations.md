@@ -367,6 +367,7 @@ FAIL        | First Attempt In Learning (i.e. agile)
 FAT         | [File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table)
 FATF        | Financial Action Task Force
 FBA         | [Fixed-Block Architecture](https://en.wikipedia.org/wiki/Fixed-block_architecture)
+FBDI        | File-Based Data Import
 FC          | Fulfillment Center, i.e., a third-party logics (3PL) warehouse
 FCoE        | Fibre Channel over Ethernet 
 FCM         | [Firebase Cloud Messaging](https://en.wikipedia.org/wiki/Firebase_Cloud_Messaging)
