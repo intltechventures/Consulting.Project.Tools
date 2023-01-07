@@ -271,6 +271,7 @@ DD          | Data Dictionary
 DDA         | Data Design Authority
 DDoS        | Distributed Denial-of-Service (i.e. a network traffic attack)
 DEC         | Digital Equipment Corporation 
+DER         | Distinguished Encoding Rules
 DES         | [Data Encryption Standard](https://en.wikipedia.org/wiki/Data_Encryption_Standard)
 DFIR        | Digital Forensics, Incident Response  
 DGB         | Data Governance Board (aka DGC)
@@ -618,7 +619,7 @@ MSE         | Mean Squared Error
 MSP         | [Managed Service Provider](https://en.wikipedia.org/wiki/Managed_services)
 MTD         | Maximum Tolerable Downtime
 MTDL        | Maximum Tolerable Data Loss
-mTLS        | Mutual Transport Layer Security
+mTLS        | Mutual Transport Layer Security (or, Mutually Authenticated TLS)
 MTPD        | Maximum Tolerable Period of Disruption 
 MTS         | Multidimensional Type Structure (e.g. [Thomsen Diagrams](https://en.wikipedia.org/wiki/Thomsen_Diagrams))
 MTTR        | [Mean Time to Recovery](https://en.wikipedia.org/wiki/Mean_time_to_recovery)
@@ -726,6 +727,7 @@ PDP         | [Programmed Data Processor](https://en.wikipedia.org/wiki/Programm
 PDSA        | Plan-Do-Stuy-Act
 PDU         | [Protocol data unit](https://en.wikipedia.org/wiki/Protocol_data_unit)
 PEAP        | [Protected Extensible Authentication Protocol](https://en.wikipedia.org/wiki/Protected_Extensible_Authentication_Protocol)
+PEM         | Privacy Enhanced Mail
 PEP         | [Packet Exchange Protocol](https://en.wikipedia.org/wiki/Xerox_Network_Systems#Transport_layer_protocols)
 PGM         | Program
 PGP         | [Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
@@ -945,6 +947,7 @@ SMURFS      | Specifically Marketable, Useful, Releasable Feature Sets ([source]
 sn          | Surname, re: LDAP
 SN          | abbreviation for [ServiceNow](https://www.servicenow.com/)
 SNAFU       | Situation Normal, All Fucked Up
+SNI         | Server Name Indiciation
 SNOW        | abbreviation for [ServiceNow](https://www.servicenow.com/)
 SO          | Sales Order
 SOC         | System and Organization Controls
