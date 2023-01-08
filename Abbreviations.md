@@ -46,6 +46,8 @@ ADDS        | Active Directory Domain Service(s)
 ADR         | [Address Resolution Protocol](https://en.wikipedia.org/wiki/Address_Resolution_Protocol)
 ADSL        | [Asymmetric digital subscriber line](https://en.wikipedia.org/wiki/Asymmetric_digital_subscriber_line)
 ADT         | Algebraic Data Type
+AE          | [Authenticated Encryption](https://en.wikipedia.org/wiki/Authenticated_encryption)
+AEAD        | [Authentication Encryption with Associated Data](https://en.wikipedia.org/wiki/Authenticated_encryption#Authenticated_encryption_with_associated_data_(AEAD))
 AES         | Advanced Encryption Standard 
 AFCE        | Authorization for Capital Expenditure
 AI          | Artificial Intelligence  
@@ -180,6 +182,7 @@ CER         | Control Exception Request
 CERN        | [European Organization for Nuclear Research](https://en.wikipedia.org/wiki/CERN), French: Organisation européenne pour la recherche nucléaire
 CGI         | [Common Gateway Interface](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
 CHAP        | [Challenge-Handshake Authentication Protocol](https://en.wikipedia.org/wiki/Challenge-Handshake_Authentication_Protocol)
+CHF         | [Cryptographic Hash Function](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
 CI          | Configuration Item (i.e. in a CMDB, such as ServiceNow)
 CI          | Continuous Integration
 CI/CD       | Continuous Integration / Continuous Delivery (or, Continous Deployment)
@@ -540,8 +543,10 @@ JWKS        | JSON Web Key Set
 JWT         | [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token)
 k8s         | Kubernetes
 K_          |
-KPI         | [Key Performance Indicators](https://en.wikipedia.org/wiki/Performance_indicator)
+kex         | [key exchange](https://en.wikipedia.org/wiki/Key_exchange)
+KMS         | Key Management System
 KNN         | [K-nearest neibhbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) (algorithm)
+KPI         | [Key Performance Indicators](https://en.wikipedia.org/wiki/Performance_indicator)
 KT          | Knowledge Transfer
 KVM		    	| Kernel-based Virtual Machine (KVM) is an open source virtualization technology built into Linux
 KVM			    | keyboard, video and mouse
