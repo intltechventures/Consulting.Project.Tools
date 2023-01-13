@@ -565,6 +565,7 @@ LDIF        | [LDAP Data Interchange Format](https://en.wikipedia.org/wiki/LDAP_
 LEM         | [Law of Excluded Middle](https://en.wikipedia.org/wiki/Law_of_excluded_middle)
 LeSS        | [Large Scale Scrum](https://less.works/)
 LGPL        | (GNU) Lesser General Public License 
+LLC         | [Logical Link Control](https://en.wikipedia.org/wiki/Logical_link_control)
 LLM         | Large Language Model
 LSA         | Local Service Agreement
 LSM         | [Log-Structured Merge-Tree](https://en.wikipedia.org/wiki/Log-structured_merge-tree)
@@ -577,7 +578,7 @@ MAO         | Maximum Acceptable Outage
 MAC         | Machine Access Control 
 MAC         | Managed Application Consulting
 MAC         | [Mandatory Access Control](https://en.wikipedia.org/wiki/Mandatory_access_control)
-MAC         | [Medium access control](https://en.wikipedia.org/wiki/Medium_access_control)
+MAC         | [Medium | Media Access control](https://en.wikipedia.org/wiki/Medium_access_control)
 MAC         | [Message Authentication Code](https://en.wikipedia.org/wiki/Message_authentication_code)
 MAE         | Mean Absolute Error
 MAU         | Monthly Active Users
