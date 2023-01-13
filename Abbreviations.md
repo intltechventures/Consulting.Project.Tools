@@ -76,8 +76,10 @@ APM         | Application Portfolio Management
 APM         | [Application Performance Management](https://en.wikipedia.org/wiki/Application_performance_management)
 APM         | Application Performance Monitoring
 APNS        | [Apple Push Notification service](https://en.wikipedia.org/wiki/Apple_Push_Notification_service)
+AP@N        | Average Precision
 ARB         | Architecture Review Board (aka ARC)
 ARC         | Architecture Review Committee, or Council (aka ARB)
+ARHR        | Average Reciprocal Hit Ratio
 ARI         | Amazon Ramdisk Image
 ARM         | Architectural Reference Model
 ARN         | [Amazon Resource Name](https://docs.aws.amazon.com/general/latest/gr/aws-arns-and-namespaces.html)
@@ -269,6 +271,7 @@ dc          | [Domain Component](https://en.wikipedia.org/wiki/Domain_Name_Syste
 DC          | Data Center  
 DCCP        | [Datagram Congestion Control Protocol](https://en.wikipedia.org/wiki/Datagram_Congestion_Control_Protocol)
 DCE         | [Distributed Computing Environment](https://en.wikipedia.org/wiki/Distributed_Computing_Environment)
+DCG         | Discounted Cumulative Gain
 DCL         | Data Classification & Labeling
 DD          | Data Dictionary 
 DDA         | Data Design Authority
@@ -466,6 +469,7 @@ ICML        | International Conference on Machine Learning
 ICMP        | [Internet Control Message Protocol ](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol)
 ICT         | Information Communications and Technology 
 IdAM        | See IAM
+IDCG        | Ideal Discounted Cumulative Gain
 IDD         | Infrastructure Design Document
 IDE         | Integrated Development Environment    
 IDL         | [Interface Description Language](https://en.wikipedia.org/wiki/Interface_description_language)
@@ -581,6 +585,7 @@ MAC         | [Mandatory Access Control](https://en.wikipedia.org/wiki/Mandatory
 MAC         | [Medium | Media Access control](https://en.wikipedia.org/wiki/Medium_access_control)
 MAC         | [Message Authentication Code](https://en.wikipedia.org/wiki/Message_authentication_code)
 MAE         | Mean Absolute Error
+MAP         | Mean Average Precision
 MAU         | Monthly Active Users
 MBaaS       | Mobile Back End as a Service
 MBCO        | Minimum Business Continuity Objective 
@@ -642,6 +647,7 @@ MVS         | IBM [Multiple Virtual Storage](https://en.wikipedia.org/wiki/MVS)
 MVVM        | [Model-View-ViewModel](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 M&A         | Mergers & Acquisitions
 N_          |
+N           | Window Size
 NA          | North America 
 NA          | Not Applicable
 NAK         | Negative Acknolwedgement
@@ -651,6 +657,7 @@ NC          | Non-Compliant
 NCSA        | [National Center for Supercomputing Applications](https://en.wikipedia.org/wiki/National_Center_for_Supercomputing_Applications)
 ND          | Neighbor Discovery
 NDA         | Non-Disclosure Agreement
+NDCG        | Normalized Discounted Cumulative Gain 
 NDP         | [Neighbor Discovery Protocol](https://en.wikipedia.org/wiki/Neighbor_Discovery_Protocol)
 NER         | Named Entity Recognition, re: ML
 NeRF        | Neural Radiance Fields (re: Deep Learning, optimizing continuous volumetric scene function)
@@ -710,6 +717,7 @@ ou          | Organizational Unit, re: LDAP
 OWASP       | [Open Web Application Security Project](https://owasp.org/)
 OWL         | [Web Ontology Language](https://en.wikipedia.org/wiki/Web_Ontology_Language)
 P_          | 
+P           | Precision
 P&L         | Profit and Loss 
 PaaS        | Platform as a Service, aka aPaaS (i.e., Application Platform as a Service)
 PAM         | Pluggable Authentication Modules
