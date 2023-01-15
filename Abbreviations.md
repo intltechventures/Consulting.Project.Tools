@@ -703,7 +703,7 @@ OMS         | Order Management System
 OO          | Object Oriented
 OOA/D       | Object Oriented Analysis and Design 
 OOD         | Object Oriented Design 
-OODA        | Observe-Orient-Decide-Act
+OODA        | [Observe-Orient-Decide-Act](https://en.wikipedia.org/wiki/OODA_loop)
 OOP         | Object Oriented Programming 
 OOTB        | Out Of The Box
 OPA         | Open Policy Agent
