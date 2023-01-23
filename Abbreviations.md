@@ -1024,6 +1024,7 @@ TAOC        | [The Art of Computer Programming](https://en.wikipedia.org/wiki/Th
 TAR         | [Tape Archive](https://en.wikipedia.org/wiki/Tar_(computing)) (file format). Aka tarball
 TB          | Terabyte
 TBD         | To Be Determined
+TBM         | [Technology Business Management Council](https://www.tbmcouncil.org/)
 TCO         | Total Cost of Ownership (see TOC)
 TCP         | [Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 TCP/IP      | [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite)
