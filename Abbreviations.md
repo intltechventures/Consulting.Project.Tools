@@ -184,6 +184,7 @@ CER         | Control Exception Request
 CERN        | [European Organization for Nuclear Research](https://en.wikipedia.org/wiki/CERN), French: Organisation européenne pour la recherche nucléaire
 CGI         | [Common Gateway Interface](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
 CHAP        | [Challenge-Handshake Authentication Protocol](https://en.wikipedia.org/wiki/Challenge-Handshake_Authentication_Protocol)
+ChatGPT     | Chat Generative Pre-trained Transformer
 CHF         | [Cryptographic Hash Function](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
 CI          | Configuration Item (i.e. in a CMDB, such as ServiceNow)
 CI          | Continuous Integration
