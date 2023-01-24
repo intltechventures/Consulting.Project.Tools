@@ -869,7 +869,7 @@ ROIT        | Return on Information Technology
 ROLAP       | Relational OLAP
 ROM         | Rough Order of Magnitude (also see SWAG), aka an estimate
 RP          | Relying Party (re: OpenID Connect)
-RPA         | Robotic Process Automation
+RPA         | [Robotic Process Automation](https://en.wikipedia.org/wiki/Robotic_process_automation)
 RPC         | [Remote Procedure Call](https://en.wikipedia.org/wiki/Remote_procedure_call)
 RPM         | Redhat Package Manager
 RPM         | Requests Per Minute
