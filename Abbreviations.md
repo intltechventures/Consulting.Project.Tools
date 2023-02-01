@@ -579,13 +579,14 @@ LU          | Logical Unit
 LVM         | Logical Volume Manager
 L2TP        | [Layer 2 Tunneling Protocol](https://en.wikipedia.org/wiki/Layer_2_Tunneling_Protocol)
 M_          |
-MAO         | Maximum Acceptable Outage
 MAC         | Machine Access Control 
 MAC         | Managed Application Consulting
 MAC         | [Mandatory Access Control](https://en.wikipedia.org/wiki/Mandatory_access_control)
 MAC         | [Medium | Media Access control](https://en.wikipedia.org/wiki/Medium_access_control)
 MAC         | [Message Authentication Code](https://en.wikipedia.org/wiki/Message_authentication_code)
 MAE         | Mean Absolute Error
+MAMOS       | [Methods, Architecture, Management, Organization, Skills](https://qeunit.com/mamos/)
+MAO         | Maximum Acceptable Outage
 MAP         | Mean Average Precision
 MAU         | Monthly Active Users
 MBaaS       | Mobile Back End as a Service
@@ -688,6 +689,7 @@ OCTAVE      | Operationally Critical Threat, Asset, and Vulnerability Evaluation
 OData       | Open Data Protocol 
 ODBC        | Open Database Connectivity
 OFAC        | [Office of Foreign Assets Control](https://en.wikipedia.org/wiki/Office_of_Foreign_Assets_Control)
+OGL         | [Open Game License](https://en.wikipedia.org/wiki/Open_Game_License) (re: Wizards of the Coast D&D public copyright license)
 OIA         | [Office of Intelligence and Analysis](https://en.wikipedia.org/wiki/Office_of_Intelligence_and_Analysis_(Treasury_Department))
 OIC         | Oracle Integration Cloud (note: renamed in January 2019, to Oracle Integration)
 OID         | Object Identifier
