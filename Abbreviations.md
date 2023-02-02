@@ -899,6 +899,7 @@ SAD         | Solution Architecture Document
 SADS        | Secure Application Development Standards
 SAFe        | Scaled Agile Framework
 SAM         | [Serverless Application Model](https://aws.amazon.com/serverless/sam/)
+SAM         | Service Addressable Market
 SAM         | Successive Approximation Model, created by Allen Interactions 
 SAML        | Security Assertion Markup Language
 SAN         | [Storage Area Networks](https://en.wikipedia.org/wiki/Storage_area_network)
@@ -969,6 +970,7 @@ SNI         | Server Name Indiciation
 SNOW        | abbreviation for [ServiceNow](https://www.servicenow.com/)
 SO          | Sales Order
 SOC         | System and Organization Controls
+SOM         | Service Obtainable Market
 SOP         | Standard Operating Procedure
 SOA         | [Service Oriented Architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture)
 SOA         | [Start of Authority](https://en.wikipedia.org/wiki/SOA_record) record, re: DNS
