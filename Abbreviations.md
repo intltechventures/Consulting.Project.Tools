@@ -548,6 +548,7 @@ JWKS        | JSON Web Key Set
 JWT         | [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token)
 k8s         | Kubernetes
 K_          |
+KCSA        | Kubernetes and Cloud Security Associate (KCSA) certification, re: CNCF
 kex         | [key exchange](https://en.wikipedia.org/wiki/Key_exchange)
 KMS         | Key Management System
 KNN         | [K-nearest neibhbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) (algorithm)
