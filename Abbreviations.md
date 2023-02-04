@@ -917,6 +917,7 @@ SBI         | Synthetic Biological Intelligence
 SBOM        | Software Bill of Materials 
 SCA         | Security Composition Analysis
 SCADA       | Supervisory Control and Data Acquisition
+SCC         | Strongly Connected Components (re: [Parsel AI framework](https://www.infoq.com/news/2023/02/parsel-code-generation/)
 SCI         | Sensitive Compartmented Information 
 SCIM        | System for Cross-Domain Identity Management (re: [RFC7644](https://www.rfc-editor.org/rfc/rfc7644.html))
 SCTP        | [Stream Control Transmission Protocol](https://en.wikipedia.org/wiki/Stream_Control_Transmission_Protocol)
