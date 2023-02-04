@@ -394,7 +394,8 @@ FPGA        | Field-Programmable Gate Arrays
 FPR         | False Positive Rate
 FNR         | False Negative Rate
 FQDN        | Fully Qualified Domain Name 
-FSDG        |[ (GNU) Free System Distribution Guidelines](https://www.gnu.org/distros/free-system-distribution-guidelines.html)
+FQHE        | [Fractional Quantum Hall Effect](https://en.wikipedia.org/wiki/Fractional_quantum_Hall_effect)
+FSDG        | [(GNU) Free System Distribution Guidelines](https://www.gnu.org/distros/free-system-distribution-guidelines.html)
 FTP         | [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
 FWaaS       | FireWall-as-a-Service 
 G_          | 
