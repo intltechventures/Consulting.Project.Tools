@@ -560,6 +560,7 @@ KVM			    | keyboard, video and mouse
 KVS         | Key-Value Storage
 KYC         | Know Your Client | Know Your Customer 
 L_          |
+LaMDA       | [Language Model for Dialogue Applications](https://en.wikipedia.org/wiki/LaMDA) [re: Google]
 LAN         | Local Area Network
 LBA         | [Logical Block Addressing](https://en.wikipedia.org/wiki/Logical_block_addressing)
 LBaaS       | Load-Balancer-as-a-Service
