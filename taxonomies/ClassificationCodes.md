@@ -363,7 +363,18 @@ ___
   + AH.30.50.000 Servers, Cache
   + AH.30.60.000 Servers, Utility  
 	
-	
+- AH.40.00.000 Cloud Infrastructure
+  + AH.40.10.000 Security
+  + AH.40.20.000 Networking
+  + AH.40.30.000 Storage
+  + AH.40.40.000 Computing
+  + AH.40.50.000 Data & Analytics
+  + AH.40.60.000 APIs
+  + AH.40.70.000 Messaging
+  + AH.40.80.000 DevOps
+  + AH.40.90.000 Monitoring
+
+
 ## AI.xx.xx.xxx Disaster Recovery (DR)
 
 - AI.00.10.000 DR Infrastructure
