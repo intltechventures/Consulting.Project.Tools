@@ -1046,6 +1046,7 @@ TLS         | [Transport Layer Security](https://en.wikipedia.org/wiki/Transport
 TM          | Topic Model, re: NER, NLP, DL, ML
 TNR         | True Negative Rate
 TOC         | Total Ownership Cost (see TCO)
+ToM         | [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind)
 TOM         | Target Operating Model
 TOML        | [Tom's Obvious Minimal Language](https://toml.io/en/)
 TP          | Third-Party
