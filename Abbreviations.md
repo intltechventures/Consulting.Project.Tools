@@ -226,6 +226,7 @@ CPG         | Consumer Packaged Goods (e.g. industry)
 CPU         | [entral Processing Unit](https://en.wikipedia.org/wiki/Central_processing_unit)
 CQRS        | Command Query Responsibility Segregation  
 CRC         | Class Responsibility Collaboration
+CRCQs       | Cryptanalytically-Relevant Quantum Computers 
 CRDT        | [Conflict-Free Replicated Data Type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
 CRF         | Conditional Random Fields 
 CRL         | Certificate Revocation List
