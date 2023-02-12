@@ -810,7 +810,7 @@ QA          | [Quality Assurance](https://en.wikipedia.org/wiki/Quality_assuranc
 QAOA        | [Quantum Approximate Optimization Algorithm](https://en.wikipedia.org/wiki/Quantum_optimization_algorithms)
 QI          | Quality Improvement 
 QIT         | QUality Improvement Team
-QKD         | Quantum Key Distribution
+QKD         | [Quantum Key Distribution](https://en.wikipedia.org/wiki/Quantum_key_distribution)
 QMS         | Quality Management System
 QMT         | Quality Monitoring Team
 QoE         | [Quality of experience](https://en.wikipedia.org/wiki/Quality_of_experience)
