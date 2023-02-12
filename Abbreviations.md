@@ -949,6 +949,7 @@ SI          | System Integrator
 SII         | Self-Identified Issue
 SIAM        | Service Integration and Management
 SIEM        | [Security Information and Event Management](https://en.wikipedia.org/wiki/Security_information_and_event_management)
+SIKE        | [Supersingular Isogeny Key Exchange](https://en.wikipedia.org/wiki/Supersingular_isogeny_key_exchange)
 SIMD        | [Single InstructionStream, Multiple Data Streams](https://en.wikipedia.org/wiki/SIMD)
 SIP         | [Session Initiation Protocol](https://en.wikipedia.org/wiki/Session_Initiation_Protocol)
 SIPOC       | Supplier, Input, Process, Output, Customer
