@@ -356,6 +356,7 @@ ENI         | Elastic Network Interface (re: AWS)
 EOL         | End of Life
 EOL         | End of Line
 EPC         | Electronic Product Code
+EPD         | Engineering, Product management, and Design
 ePHI        | Electronically Protected Health Information
 EPLC        | Enterprise Performance Life Cycle 
 EPM         | Enterprise Performance Management 
