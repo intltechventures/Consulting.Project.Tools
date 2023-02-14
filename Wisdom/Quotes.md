@@ -3,6 +3,7 @@
 
 ## Beck, Kent
 - "Given a behavior-changing diff and a subsequent structure-changing diff, can you derive the behavior-changing diff as it would have looked after the structure change? Can you compare the actual diff with the derived diff?" ~ [Kent Beck](https://twitter.com/KentBeck/status/1141744893200494592)
+
 - “Make It Work, Make It Right, Make It Fast”
 
 
@@ -13,6 +14,7 @@
 ## Brooks Jr., Fredrick (Fred) P.
 - Brooks' Law: "Adding manpower to a late software project makes it later."
   + 1975 book The Mythical Man-Month.
+
 - "Even the best planning is not so omniscient as to get it right the first time."
 
 
@@ -26,6 +28,7 @@
 
 ## Einstein, Albert
 - ”If you can’t explain it to a six year old, you don’t understand it yourself”
+
 - ”Everything should be made as simple as possible, but no simpler”
 
 
@@ -52,6 +55,7 @@
 ## Hoare, C.A.R.
 - Hoare's Law (of Large Problems): "Inside every large problem is a small problem struggling to get out."
   + 1984 article for the journal The Pentagon.
+
 - "The price of reliability is the pursuit of the utmost simplicity.", ~Turing Award lecture
 
 
@@ -74,6 +78,8 @@
 
 ## Metcalfe, Robert (Ethernet inventor)
 - Metcalfe's Law: "The value of a network grows as the square of the number of its users."
+
+
 
 ## Murphy, Capt. Edward A. (USAF, 1949)
 - "If there is any way to do it wrong, someone will."
@@ -147,8 +153,7 @@
 
 
 ## Raymond, Eric
-- Eric Raymond's [17 Unix rules](https://en.wikipedia.org/wiki/Unix_philosophy#Eric_Raymond's_17_Unix_Rules), re: [The
-  Art of Unix Programming](https://en.wikipedia.org/wiki/The_Art_of_Unix_Programming) (2003)
+- Eric Raymond's [17 Unix rules](https://en.wikipedia.org/wiki/Unix_philosophy#Eric_Raymond's_17_Unix_Rules), re: [The Art of Unix Programming](https://en.wikipedia.org/wiki/The_Art_of_Unix_Programming) (2003)
 1. Build modular programs
 2. Write readable programs
 3. Use composition
@@ -168,6 +173,11 @@
 17. Make the program and protocols extensible.
 
 
+
+## Turla, Peter
+- “Don’t spend a dollar’s worth of time on a ten cent decision.”
+
+
 ## Gancarz, Mike
 - Mike Gancarz: [The UNIX Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy#Mike_Gancarz:_The_UNIX_Philosophy)
 1. Small is beautiful.
@@ -184,7 +194,7 @@
 
 ## McIlroy, Doug 
 - ["Do One Thing And Do It Well."](https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well)
-- ”This is the Unix philosophy: Write programs that do one thing and do it well. Write programs to work together. Write programs to handle text streams, because that is a universal interface.”
+  * ”This is the Unix philosophy: Write programs that do one thing and do it well. Write programs to work together. Write programs to handle text streams, because that is a universal interface.”
 
 
 ## Hooker, David
@@ -210,10 +220,10 @@
 - Weinberg's Law: "If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization."
   + Weinberg attributed with the quote in: Murali Chemuturi (2010) Mastering Software Quality Assurance: Best Practices, Tools and Technique for Software Developers. p. ix
 
-- "A system is never finished being developed until it ceases to be used"
-  + (1995) Towards a CSCW Framework for Scientific Cooperation in Europe. p. 7
-
 - The Second Law of Consulting: No matter how it looks at first, it's always a people problem.
+
 - The Third Law of Consulting: Never forget they're paying you by the hour, not by the solution. 
 
+- "A system is never finished being developed until it ceases to be used"
+  + (1995) Towards a CSCW Framework for Scientific Cooperation in Europe. p. 7
 
