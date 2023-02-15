@@ -345,6 +345,7 @@ EDW         | Enterprise Data Warehouse (also see DW, DWH)
 EEA         | European Economic Area
 EFF         | [Electronic Frontier Foundation](https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation)
 EHR         | Electronic Health Record(s)
+EIP         | [Enterprise Integration Patterns](https://en.wikipedia.org/wiki/Enterprise_Integration_Patterns), re: [[Hophe's EIP Messaging Patterns](https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html]
 ELF         | [Executable and Linkable Format](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
 ELT         | Extract, Load, Transform
 EM          | [Expectation Management](https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm) algorithm (re: Machine Learning)
