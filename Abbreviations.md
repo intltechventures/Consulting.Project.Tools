@@ -400,6 +400,7 @@ FPR         | False Positive Rate
 FNR         | False Negative Rate
 FQDN        | Fully Qualified Domain Name 
 FQHE        | [Fractional Quantum Hall Effect](https://en.wikipedia.org/wiki/Fractional_quantum_Hall_effect)
+FRC         | [First Robot Competition](https://www.firstinspires.org/robotics/frc)
 FSDG        | [(GNU) Free System Distribution Guidelines](https://www.gnu.org/distros/free-system-distribution-guidelines.html)
 FTP         | [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
 FWaaS       | FireWall-as-a-Service 
