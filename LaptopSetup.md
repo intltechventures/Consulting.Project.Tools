@@ -341,6 +341,8 @@ __These are the primary software programs that I typically have installed on my 
     * https://marketplace.visualstudio.com/items?itemName=TheUMLetTeam.umlet
       * Free UML Tool for Fast UML Diagrams
 
+    * https://www.julia-vscode.org/
+      * This VS Code extension provides support for the Julia programming language.
 
     * TODO: Research other VS Plugins/Extensions: 
       * Source ideas: 
