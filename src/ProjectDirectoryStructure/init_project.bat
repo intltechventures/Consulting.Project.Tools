@@ -586,6 +586,11 @@ echo Rate: >> info.txt
 ECHO. >> info.txt
 echo Duration: >> info.txt
 
+
+ECHO. >> info.txt
+echo TimeZone: >> info.txt
+
+
 ECHO. >> info.txt
 echo Invoice Submission Email: >> info.txt
 
