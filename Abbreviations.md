@@ -514,6 +514,7 @@ IR          | Information Retrieval
 IRM         | Individual Rights Management
 IRM         | Information Risk Management 
 IRM         | Integrated Risk Management
+IRP         | [I/O Request Packet](https://en.wikipedia.org/wiki/I/O_request_packet) [re: Windows Kernel Programming]
 IRT         | Incident Response Team
 ISA         | Information Security Architecture 
 ISA         | [Instruction Set Architecture](https://en.wikipedia.org/wiki/Instruction_set_architecture)
@@ -557,6 +558,7 @@ k8s         | Kubernetes
 K_          |
 KCSA        | Kubernetes and Cloud Security Associate (KCSA) certification, re: CNCF
 kex         | [key exchange](https://en.wikipedia.org/wiki/Key_exchange)
+KMDF        | [Kernel-Mode Driver Framework](https://en.wikipedia.org/wiki/Kernel-Mode_Driver_Framework)
 KMS         | Key Management System
 KNN         | [K-nearest neibhbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) (algorithm)
 KPI         | [Key Performance Indicators](https://en.wikipedia.org/wiki/Performance_indicator)
@@ -1134,6 +1136,7 @@ wasm        | [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly)
 WBS         | Work Breakdown Structure
 WCCP        | [Web Cache Communication Protocol](https://en.wikipedia.org/wiki/Web_Cache_Communication_Protocol)
 WD          | Working Draft
+WDM         | [Windows Driver Model](https://en.wikipedia.org/wiki/Windows_Driver_Model)    
 Wi-Fi       | Wireless Fidelity
 WIP         | Work nn Progress
 WISP        | [Wireless Internet service provider](https://en.wikipedia.org/wiki/Wireless_Internet_service_provider)
