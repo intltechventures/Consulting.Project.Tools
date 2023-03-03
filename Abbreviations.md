@@ -448,6 +448,7 @@ HCI         | Human-Computer Interaction
 HDD         | [Hard Disk Drive](https://en.wikipedia.org/wiki/Hard_disk_drive)
 HDFS        | Hadoop Distributed File System 
 HDLC        | [High-Level Data Link Control](https://en.wikipedia.org/wiki/High-Level_Data_Link_Control)
+HEF         | Human Error Factor
 HICP        | High Impact Control Plane
 HIPPA       | Health Insurance Portability and Accountability Act of 1996
 HiPPO       | [Highly Paid Person's Opinion](https://architectelevator.com/cloud/selecting-cloud-provider/)
