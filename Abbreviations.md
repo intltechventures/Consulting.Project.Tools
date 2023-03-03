@@ -317,6 +317,7 @@ DSL         | Domain Specific Language
 DSLAM       | [Digital subscriber line access multiplexer](https://en.wikipedia.org/wiki/Digital_subscriber_line_access_multiplexer)
 DSML        | Data Science and Machine Learning
 DSN         | Data Source Name  
+DSRP        | [Distinctions, Systems, Relationships, and Perspectives](https://en.wikipedia.org/wiki/DSRP)
 DSS         | Data Security Standard
 DTC         | direct-to-consumer
 DTO         | [Data Transfer Object](https://en.wikipedia.org/wiki/Data_transfer_object)
