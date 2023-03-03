@@ -117,6 +117,7 @@ BDS `       | Boot Device Selection
 BDUF        | Big Design Up Front
 BEC         | Business Executive Committee 
 BFT         | Byzantine Fault Tolerant
+BFO         | [Basic Formal Ontology](https://basic-formal-ontology.org/)
 BGP         | Border Gateway Protocol
 BHAG        | Big Hairy Audacious Goal
 BI          | Business Intelligence
@@ -273,6 +274,7 @@ DBA         | Database Administrator
 DBMS        | Database Management System
 dc          | [Domain Component](https://en.wikipedia.org/wiki/Domain_Name_System), re: LDAP
 DC          | Data Center  
+DCAM        | [Data Management Capability Assessment Model](https://edmcouncil.org/frameworks/dcam/)
 DCCP        | [Datagram Congestion Control Protocol](https://en.wikipedia.org/wiki/Datagram_Congestion_Control_Protocol)
 DCE         | [Distributed Computing Environment](https://en.wikipedia.org/wiki/Distributed_Computing_Environment)
 DCG         | Discounted Cumulative Gain
@@ -340,6 +342,7 @@ EDA         | Event-Driven Architecture
 EDA         | Exploratory Data Analysis
 EDI         | Electronic Data Interchange
 EDIFECT     | [Electronic Data Interchange for Administration, Commerce and Transport](https://en.wikipedia.org/wiki/EDIFACT)
+EDMC        | [Enterprise Data Management Council](https://edmcouncil.org/)
 EDR         | endpoint detection & response (i.e., cybersecurity security software)
 EDW         | Enterprise Data Warehouse (also see DW, DWH)
 EEA         | European Economic Area
@@ -387,6 +390,7 @@ FCM         | [Firebase Cloud Messaging](https://en.wikipedia.org/wiki/Firebase_
 FDDI        | [Fiber Distributed Data Interface](https://en.wikipedia.org/wiki/Fiber_Distributed_Data_Interface)
 FDL         | (GNU) Free Documentation License
 FHE         | Fully [Homomorphic Encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption) (e.g., [IBM](https://www.ibm.com/security/services/homomorphic-encryption_))
+FIBO        | [Financial Industry Business Ontology](https://spec.edmcouncil.org/fibo/)
 FIDO        | see [Fast IDentity Online (FIDO) Alliance](https://en.wikipedia.org/wiki/FIDO_Alliance)
 FinCEN      | [Financial Crimes Enforcement Network](https://en.wikipedia.org/wiki/Financial_Crimes_Enforcement_Network)
 FHIR        | Fast Healthcare Interoperability Resources (a draft standard describing data formats and elements and an application programming interface for exchanging electronic health records)
@@ -496,7 +500,7 @@ IM          | Information Model
 IMO         | Integration Management Office (i.e., during Mergers & Acquisitions)
 IND         | [Inverse Neighbor Discovery](https://en.wikipedia.org/wiki/Neighbor_Discovery_Protocol)
 INVEST      | Independent Negotiable Valuable Estimable Small Testable [(source)](http://wiki.c2.com/?InvestModelForUserStories)
-IPC         | [Inter-Process Communication](https://en.wikipedia.org/wiki/Inter-process_communication)
+IOF         | [Industrial Ontologies Foundry](https://www.industrialontologies.org/)
 IOPS        | Input/Output Operations Per Second
 IoT         | Internet of Things
 IP          | Intellectual Property  
@@ -504,6 +508,7 @@ IP          | Internet Protocol
 iPaaS       | Infrastructure Platform as a Service
 IPAM        | IP Address Management 
 IPC         | Information Proteciton and Control (see DLP)
+IPC         | [Inter-Process Communication](https://en.wikipedia.org/wiki/Inter-process_communication)
 IPMI        | Intelligent Platform Management Interface
 IPS         | Intrusion Prevention System
 IPSec       | [Internet Protocol Security](https://en.wikipedia.org/wiki/IPsec)
