@@ -151,6 +151,7 @@ BTC         | Bitcoin
 BU          | Business Unit
 BYOD        | Bring Your Own Device
 C_          |
+C2          | Command and Control
 C5          | Command, Control, Computers, Communications and Cyber 
 C&A         | Certification & Accreditation
 CA          | Certificate Authority
@@ -185,6 +186,7 @@ CEH         | Certified Ethical Hacker
 CEP         | [Complex Event Processing](https://en.wikipedia.org/wiki/Complex_event_processing)
 CER         | Control Exception Request
 CERN        | [European Organization for Nuclear Research](https://en.wikipedia.org/wiki/CERN), French: Organisation européenne pour la recherche nucléaire
+CFT         | Cross-Functional Team
 CGI         | [Common Gateway Interface](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
 CHAP        | [Challenge-Handshake Authentication Protocol](https://en.wikipedia.org/wiki/Challenge-Handshake_Authentication_Protocol)
 ChatGPT     | Chat Generative Pre-trained Transformer
@@ -730,6 +732,7 @@ OOP         | Object Oriented Programming
 OOTB        | Out Of The Box
 OPA         | Open Policy Agent
 OPEX        | Operational Expense 
+OPS         | Operations
 ORC         | Operational Risk Committee 
 OSF         | [Open Software Foundation](https://en.wikipedia.org/wiki/Open_Software_Foundation)
 OSFI        | Canadanian version of OFAC
@@ -1120,6 +1123,7 @@ VNC         | Virtual Network Computing
 VoIP        | [Voice over IP](https://en.wikipedia.org/wiki/Voice_over_IP)
 VPN         | [Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network)
 VQF         | Variational Quantum Factoring 
+VR          | Virtual Reality
 VRM         | Value Realization Model 
 VRM         | Vendor Relationship Manager (aka VRO)
 VRO         | Vendor Relationship Owner (aka VRM)
