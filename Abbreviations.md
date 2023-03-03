@@ -984,16 +984,17 @@ SNAFU       | Situation Normal, All Fucked Up
 SNI         | Server Name Indiciation
 SNOW        | abbreviation for [ServiceNow](https://www.servicenow.com/)
 SO          | Sales Order
-SOC         | System and Organization Controls
-SOM         | Service Obtainable Market
-SOP         | Standard Operating Procedure
 SOA         | [Service Oriented Architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture)
 SOA         | [Start of Authority](https://en.wikipedia.org/wiki/SOA_record) record, re: DNS
 SOAP        | [Simple Object Access Protocol](https://en.wikipedia.org/wiki/SOAP)
+SOC         | System and Organization Controls
 SoE         | System of Engagement
 SOLID       | Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion
+SOM         | Service Obtainable Market
 SONET       | [Synchronous optical networking](https://en.wikipedia.org/wiki/Synchronous_optical_networking)
+SOP         | Standard Operating Procedure
 SOR         | System of Record
+S.O.S.      | Slower, Older, Smarter
 SOT         | Souce of Truth
 SOW         | Statement of Work
 SOX         | Sarbanes-Oxley Act of 2022 
