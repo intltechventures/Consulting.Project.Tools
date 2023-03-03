@@ -958,6 +958,7 @@ SFIA        | [Skills Framework for the Information Age](https://en.wikipedia.or
 SFRA        | [Storefront Reference Architecture](https://documentation.b2c.commercecloud.salesforce.com/DOC2/index.jsp?topic=%2Fcom.demandware.dochelp%2Fcontent%2Fb2c_commerce%2Ftopics%2Fsfra%2Fb2c_sfra.html) (i.e., Salesforce B2C Commerce)
 SFTP        | Secure File Transfer Protocol
 SFPF        | Senior Foreign Political Figures 
+SHAP        | [SHapley Additive exPlanations](https://shap.readthedocs.io/en/latest/#)
 SI          | System Integrator
 SII         | Self-Identified Issue
 SIAM        | Service Integration and Management
