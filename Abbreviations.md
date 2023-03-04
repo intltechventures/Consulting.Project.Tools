@@ -423,6 +423,7 @@ GCHQ        | British intelligence agency [Government Communications Headquarter
 GCP         | Google Cloud Platfrom
 GDG         | Generation Date Group
 GDPR        | Genera Data Protection Regulation (re: EU)
+GIL         | [Global Interpreter Lock](https://en.wikipedia.org/wiki/Global_interpreter_lock)
 GIN         | Generalized Inverted Index
 GIST        | Generalized Search Tree
 GL          | General Ledger
