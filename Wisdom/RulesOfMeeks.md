@@ -136,7 +136,6 @@ changes you"**
 \#2xx - On the Art of  Managing People
 ====
 
-
 **\#201 - "Hire for Character, Train for Skill"**
 
 
@@ -177,6 +176,9 @@ changes you"**
 
 
 **\#214 - "Life is too short to put up with any team that is overwhelmingly staffed with The Galactically Incompetent"**
+
+
+**\#215 - "The 6 Ps: Piss Poor Planning -> Piss Poor Performance"**
 
 
 
@@ -230,6 +232,12 @@ changes you"**
 **\#507 - "When something is being hidden by others - consider this first: What is their financial motive?"**
 
 
+**\#508 - "The Hidden Wave: It is what you can't see - that will derail your plans."**
+
+
+**\#509 - "Minimize needless/useless travel for meetings."**
+
+
 
 \#6xx - On Negotiating
 ====
@@ -258,6 +266,10 @@ changes you"**
 **\#608 - "When unacceptable terms are offered - sometimes the best counter is silence"**
 
 
+**\#609 - "Never pay more than 10% upfront - for the intial kick-off of a fixed-price arrangement"**
+
+
+
 \#7xx - On Managing Your Professional Career
 ====
 
@@ -274,14 +286,17 @@ changes you"**
 
 
 **\#705 - "NEVER pull all-nighters. It will permanently damage your health in ways you cannot imagine"**
-  * Apparently, [Bill Gates reached the same conclusion: "I realized that my all-nighters, combined with almost never getting eight hours of sleep, took a big toll"](https://economictimes.indiatimes.com/magazines/panache/bill-gates-wants-you-to-sleep-more-in-2020-and-heres-why/articleshow/73042522.cms?from=mdr)
-  * Also see: [Why We Sleep: Unlocking the Power of Sleep and Dreams Paperback, by Matthew Walker PhD (Author)](https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144324/)
+  + Apparently, [Bill Gates reached the same conclusion: "I realized that my all-nighters, combined with almost never getting eight hours of sleep, took a big toll"](https://economictimes.indiatimes.com/magazines/panache/bill-gates-wants-you-to-sleep-more-in-2020-and-heres-why/articleshow/73042522.cms?from=mdr)
+  + Also see: [Why We Sleep: Unlocking the Power of Sleep and Dreams Paperback, by Matthew Walker PhD (Author)](https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144324/)
 
 
 **\#706 - "Beware of fast talkers - for it may portend a person with a shady character, something to hide...or just an asshole"**
 
 
 **\#707 - "Never stay in a place where no one sees your value."**
+
+
+**\#708 - "Avoid Death March Projects."**
 
 
 **\#799 - "Never forget - a full-time job doesn't come with any guarantee"**
