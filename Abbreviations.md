@@ -576,6 +576,7 @@ KT          | Knowledge Transfer
 KVM		    	| Kernel-based Virtual Machine (KVM) is an open source virtualization technology built into Linux
 KVM			    | keyboard, video and mouse
 KVS         | Key-Value Storage
+Kwok        | [Kubernetes Without Kubelet](https://www.infoq.com/news/2023/03/kwok-kubernetes/)
 KYC         | Know Your Client | Know Your Customer 
 L_          |
 LaMDA       | [Language Model for Dialogue Applications](https://en.wikipedia.org/wiki/LaMDA) [re: Google]
