@@ -639,6 +639,7 @@ MISD        | [Multiple Instruction Streams, Single Data Stream](https://en.wiki
 MIT/LCS     | [Massachusetts Institute of Technology](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology) Laboratory for Computer Science
 ML          | Machine Learning 
 MLE         | [Maximum Likelihood Estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
+MLP         | Minimum Lovable Product
 MOA         | Memorandum of Agreement
 MOLAP       | Multidimensional OLAP
 MoM         | Month-on-Month
