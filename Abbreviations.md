@@ -428,6 +428,7 @@ GDPR        | Genera Data Protection Regulation (re: EU)
 GIL         | [Global Interpreter Lock](https://en.wikipedia.org/wiki/Global_interpreter_lock)
 GIN         | Generalized Inverted Index
 GIST        | Generalized Search Tree
+GJXDM       | [Global Justice XML Data Model](https://en.wikipedia.org/wiki/GJXDM)
 GL          | General Ledger
 GLBA        | Gramm Leach Bliley Act
 gMSA        | Group Managed Service Accounts (e.g. for Swarm)
