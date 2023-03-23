@@ -312,6 +312,7 @@ DOS         | [Disk Operating System](https://en.wikipedia.org/wiki/DOS)
 DP          | [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
 DR          | Disaster Recovery  
 DRB         | Design Review Board  
+DRBG        | [Deterministic Random Bit Generator](https://en.wikipedia.org/wiki/Pseudorandom_number_generator) - also see PRNG
 DRY         | Don't Repeat Yourself
 DSA         | [Digital Signature Algorithm](https://en.wikipedia.org/wiki/Digital_Signature_Algorithm)
 DSL         | [Digital subscriber line](https://en.wikipedia.org/wiki/Digital_subscriber_line)
@@ -816,6 +817,7 @@ PR          | Purchase Request
 PRC         | Product Review Committee
 PRD         | Product Requirement Document
 PRJ         | Project
+PRNG        | [Pseudorandom Number Generator](https://en.wikipedia.org/wiki/Pseudorandom_number_generator)
 PRM         | Program
 PRR         | Production Readiness Reviews
 PRT         | Portfolio
