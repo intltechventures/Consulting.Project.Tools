@@ -1080,7 +1080,7 @@ ToM         | [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind)
 TOM         | Target Operating Model
 TOML        | [Tom's Obvious Minimal Language](https://toml.io/en/)
 TP          | Third-Party
-TPM         | Trusted Platform Module 
+TPM         | [Trusted Platform Module](https://en.wikipedia.org/wiki/Trusted_Platform_Module)
 TPR         | True Positive Rate
 TPU         | Tensor Processing Unit(s) 
 TRM         | Technical Reference Model
