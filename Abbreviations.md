@@ -496,6 +496,8 @@ IDE         | Integrated Development Environment
 IDL         | [Interface Description Language](https://en.wikipedia.org/wiki/Interface_description_language)
 IdM         | Identity Management, also see IAM
 IdP         | Identity Provider
+IDP         | Individual Development Plan 
+IDP         | Internal Developer Platform
 IDS         | [Intrusion Detection System](https://en.wikipedia.org/wiki/Intrusion_detection_system)
 IE          | Information Extraction, re: NER, DL, ML, NLP
 IEEE        | [Institute of Electrical and Electronics Engineers](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers)
@@ -1184,6 +1186,7 @@ XSL         | XML Style Language
 XSLT        | [eXtensible Stylesheet Language Transformations](https://en.wikipedia.org/wiki/XSLT)
 Y_          |
 YAGNI       | You Aren't Gonna Need It 
+YAS         | Yet Another Silo
 YBYO        | You Build Your Own
 Z_          |
 ZB          | [Zettabyte](https://en.wikipedia.org/wiki/Zettabyte_Era)
