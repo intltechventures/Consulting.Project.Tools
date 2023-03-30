@@ -3,7 +3,7 @@ cls
 REM 
 REM ***************************************************************************
 REM init_project.bat
-set version=1.4.1
+set version=1.4.2
 REM
 REM Client Project Directory Setup Script
 REM (Illustrative, Not Exhaustive)
@@ -15,7 +15,7 @@ REM Author: Kelvin D. Meeks
 REM Email: kmeeks@intltechventures.com 
 REM
 REM Created: 2019-06-28
-REM Update:  2022-04-04
+REM Update:  2023-03-30
 REM
 REM github file location
 REM https://github.com/intltechventures/Consulting.Project.Tools/blob/master/src/ProjectDirectoryStructure/init_project.bat
@@ -407,6 +407,7 @@ mkdir background\company\photos
 mkdir background\company\www
 mkdir background\glassdoor.com
 mkdir background\linkedin.com\profiles
+mkdir background\opportunity analysis\%year%\%month%
 mkdir background\news.company\%year%\%month%
 mkdir background\news.competitors\%year%\%month%
 mkdir background\news.industry\%year%\%month%
