@@ -432,6 +432,7 @@ GIST        | Generalized Search Tree
 GJXDM       | [Global Justice XML Data Model](https://en.wikipedia.org/wiki/GJXDM)
 GL          | General Ledger
 GLBA        | Gramm Leach Bliley Act
+GML         | Graph Machine Learning
 gMSA        | Group Managed Service Accounts (e.g. for Swarm)
 GMV         | [Gross Merchandise Value](https://www.investopedia.com/terms/g/gross-merchandise-value.asp)
 GNS         | [GNU Name System](https://en.wikipedia.org/wiki/GNUnet#GNU_Name_System)
