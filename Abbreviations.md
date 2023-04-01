@@ -96,6 +96,7 @@ AST         | Application Security Testing
 ATDD        | Acceptance-Test-Driven-Development
 ATM         | [Asynchronous Transfer Mode](https://en.wikipedia.org/wiki/Asynchronous_Transfer_Mode)
 AUC         | [Area Under the Curve](https://en.wikipedia.org/wiki/Receiver_operating_characteristic#Area_under_the_curve)
+AUP         | [Acceptable Use Policy](https://en.wikipedia.org/wiki/Acceptable_use_policy)
 AVD         | [Azure Virtual Desktop](https://azure.microsoft.com/en-us/products/virtual-desktop/)
 AZ          | Availability Zone 
 B_          | 
