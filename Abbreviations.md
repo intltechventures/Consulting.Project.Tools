@@ -334,9 +334,10 @@ EA          | Enterprise Architecture
 EAI         | Enterprise Application Integration  
 EAMS        | Enterprise Architecture Management Suite
 EAP         | [Extensible Authentication Protocol](https://en.wikipedia.org/wiki/Extensible_Authentication_Protocol)
-EAR			    | Export Administration Regulations
+EAR			| Export Administration Regulations
 EAR         | [Enterprise Application aRchive (file format)](https://en.wikipedia.org/wiki/EAR_(file_format))
 EBS         | [Amazon Elastic Block Storage](https://en.wikipedia.org/wiki/Amazon_Elastic_Block_Store)
+EC          | European Commission
 EC2         | [Amazon Elastic Compute Cloud](https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud)
 ECA         | Embodied Conversational Agent(s)
 EBCIDIC     | [Extended Binary Coded Decimal Interchange Code](https://en.wikipedia.org/wiki/EBCDIC)
@@ -352,6 +353,7 @@ EDR         | endpoint detection & response (i.e., cybersecurity security softwa
 EDW         | Enterprise Data Warehouse (also see DW, DWH)
 EEA         | European Economic Area
 EFF         | [Electronic Frontier Foundation](https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation)
+EFTA        | European Free Trade Association 
 EHR         | Electronic Health Record(s)
 EIP         | [Enterprise Integration Patterns](https://en.wikipedia.org/wiki/Enterprise_Integration_Patterns), re: [[Hophe's EIP Messaging Patterns](https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html]
 ELF         | [Executable and Linkable Format](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
@@ -362,6 +364,7 @@ EMEA        | Europe, the Middle East, and Africa
 EMS         | [Execution Management System](https://en.wikipedia.org/wiki/Execution_management_system)
 ENA         | Elastic Network Adapter
 ENI         | Elastic Network Interface (re: AWS)
+ENs         | European Standards
 EOL         | End of Life
 EOL         | End of Line
 EPC         | Electronic Product Code
@@ -375,6 +378,7 @@ ERP         | Enterprise Resource Planning
 ES          | ECMAScript (aka JavaScript)
 ESA         | Enterprise Solution Architecture
 ESG         | Environmental, Social, and Governance
+ESO         | European Standards Organization 
 ESP         | [Event Stream Processing](https://en.wikipedia.org/wiki/Event_stream_processing)
 ETL         | Extract, Transform, Load
 ETSI        | [European Telecommunications Standards Institute](https://en.wikipedia.org/wiki/ETSI)
@@ -538,6 +542,7 @@ ISA         | [Instruction Set Architecture](https://en.wikipedia.org/wiki/Instr
 ISAM        | Indexed Sequential Access Method
 iSCI        | Internet Small Computer System Interface
 ISDN        | [Integrated Services Digital Network](https://en.wikipedia.org/wiki/Integrated_Services_Digital_Network)
+ISG         | Industry Specification Group
 ISMS        | Information Security Management System
 ISO         | [International Standards Organization](https://en.wikipedia.org/wiki/International_Organization_for_Standardization)
 ISOC        | [Internet Society](https://en.wikipedia.org/wiki/Internet_Society)
@@ -549,7 +554,7 @@ ISSAP       | [Information Systems Security Architecture Professional](https://w
 IT          | Information Technology  
 IT4IT       | [The IT4IT Reference Architecture](https://www.opengroup.org/it4it), a standard of the Open Group, is a powerful tool for aligning and managing a Digital Enterprise
 ITAM        | IT Asset Management 
-ITAR		    | International Traffic in Arms Regulations
+ITAR		| International Traffic in Arms Regulations
 ITIL        | [Information Technology Infrastructure Library](https://en.wikipedia.org/wiki/ITIL)
 ITIRB       | Information Technology Investment Review Board
 ITSM        | Information Technlogy Service Management
@@ -580,8 +585,8 @@ KMS         | Key Management System
 KNN         | [K-nearest neibhbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) (algorithm)
 KPI         | [Key Performance Indicators](https://en.wikipedia.org/wiki/Performance_indicator)
 KT          | Knowledge Transfer
-KVM		    	| Kernel-based Virtual Machine (KVM) is an open source virtualization technology built into Linux
-KVM			    | keyboard, video and mouse
+KVM		    | Kernel-based Virtual Machine (KVM) is an open source virtualization technology built into Linux
+KVM			| keyboard, video and mouse
 KVS         | Key-Value Storage
 Kwok        | [Kubernetes Without Kubelet](https://www.infoq.com/news/2023/03/kwok-kubernetes/)
 KYC         | Know Your Client | Know Your Customer 
@@ -782,10 +787,10 @@ PEM         | Privacy Enhanced Mail
 PEP         | [Packet Exchange Protocol](https://en.wikipedia.org/wiki/Xerox_Network_Systems#Transport_layer_protocols)
 PGM         | Program
 PGP         | [Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
-PHI			    | Protected Health Information (re: HIPPA) 
+PHI			| Protected Health Information (re: HIPPA) 
 PI          | Program Increment (re: Scaled Agile Framework, SAFe)
 PIA         | Privacy Impact Assessment
-PII			    | Personally Identifiable Information
+PII			| Personally Identifiable Information
 PIN         | Personal Identification Number 
 PIR         | Post Incident Review
 PIT         | Platform Information Technology
