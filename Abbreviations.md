@@ -696,6 +696,7 @@ NER         | Named Entity Recognition, re: ML
 NeRF        | Neural Radiance Fields (re: Deep Learning, optimizing continuous volumetric scene function)
 NFS         | Network File System 
 NFT         | [Non-Fungible Token](https://en.wikipedia.org/wiki/Non-fungible_token)
+NIDS        | Network Intrusion Detection System (see IDS)
 NIST        | [National Institute for Standards and Technology](https://www.nist.gov/)
 NISQ        | Noisy Intermediate-Scale Quantum (NISQ) computers
 NLG         | Natural Language Generation
@@ -1009,6 +1010,7 @@ SO          | Sales Order
 SOA         | [Service Oriented Architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture)
 SOA         | [Start of Authority](https://en.wikipedia.org/wiki/SOA_record) record, re: DNS
 SOAP        | [Simple Object Access Protocol](https://en.wikipedia.org/wiki/SOAP)
+SOC         | Security Operations Center 
 SOC         | System and Organization Controls
 SoE         | System of Engagement
 SOLID       | Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion
