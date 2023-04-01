@@ -252,7 +252,7 @@ CSR         | Certificate Signing Request
 CSS         | [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 CTB         | Change The Business
 CTO         | Chief Technology Officer  
-CUI	    		| Controlled Unclassified Information (CUI), as defined by Executive Order 13556 (2010)
+CUI	   		| Controlled Unclassified Information (CUI), as defined by Executive Order 13556 (2010)
 CUSO        | Combined U.S. Operations
 CV          | Cross-Validation
 CVE         | [Critical Vulnerabilities and Exposures](https://www.cve.org/)
@@ -541,7 +541,8 @@ IRT         | Incident Response Team
 ISA         | Information Security Architecture 
 ISA         | [Instruction Set Architecture](https://en.wikipedia.org/wiki/Instruction_set_architecture)
 ISAM        | Indexed Sequential Access Method
-iSCI        | Internet Small Computer System Interface
+ISAP        | Information Security Automation Program
+iSCI        | [Internet Small Computer System Interface](https://en.wikipedia.org/wiki/Information_Security_Automation_Program)
 ISDN        | [Integrated Services Digital Network](https://en.wikipedia.org/wiki/Integrated_Services_Digital_Network)
 ISG         | Industry Specification Group
 ISMS        | Information Security Management System
@@ -957,6 +958,7 @@ SBI         | Synthetic Biological Intelligence
 SBOM        | Software Bill of Materials 
 SCA         | Security Composition Analysis
 SCADA       | Supervisory Control and Data Acquisition
+SCAP        | [Security Content Automation Protocol](https://en.wikipedia.org/wiki/Security_Content_Automation_Protocol)
 SCC         | Strongly Connected Components (re: [Parsel AI framework](https://www.infoq.com/news/2023/02/parsel-code-generation/)
 SCI         | Sensitive Compartmented Information 
 SCIM        | System for Cross-Domain Identity Management (re: [RFC7644](https://www.rfc-editor.org/rfc/rfc7644.html))
