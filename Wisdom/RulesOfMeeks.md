@@ -132,6 +132,9 @@ reassess whether your plan is actually working"**
 changes you"**
 
 
+**\#113 - "Plan for the Marathon. Train for the sprint."**
+
+
 
 \#2xx - On the Art of  Managing People
 ====
