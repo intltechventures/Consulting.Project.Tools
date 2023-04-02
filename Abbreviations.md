@@ -27,7 +27,7 @@ ACID        | [Atomicity, Consistency, Isolation, and Durability](https://en.wik
 ACK         | Acknowledgement
 ACL         | Access Control List
 ACM         | Access Control Mechanism
-ACME        | [Automatic Certificate Management Environment](https://en.wikipedia.org/wiki/Automated_Certificate_Management_Environment), alsos see [RFC 8555](https://tools.ietf.org/html/rfc8555)
+ACME        | [Automatic Certificate Management Environment](https://en.wikipedia.org/wiki/Automated_Certificate_Management_Environment), also see [RFC 8555](https://tools.ietf.org/html/rfc8555)
 ACPI        | Advanced Configuration and Power Interface
 ACPT        | Access Control Policy Tool
 ACR         | Access Control Rule
@@ -338,6 +338,7 @@ EAP         | [Extensible Authentication Protocol](https://en.wikipedia.org/wiki
 EAR			| Export Administration Regulations
 EAR         | [Enterprise Application aRchive (file format)](https://en.wikipedia.org/wiki/EAR_(file_format))
 EBS         | [Amazon Elastic Block Storage](https://en.wikipedia.org/wiki/Amazon_Elastic_Block_Store)
+EBV         | [Equiangular-Basis-Vectors](https://arxiv.org/abs/2303.11637)
 EC          | European Commission
 EC2         | [Amazon Elastic Compute Cloud](https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud)
 ECA         | Embodied Conversational Agent(s)
