@@ -391,6 +391,7 @@ EVM         | Earned Value Management
 F_          | 
 FaaS        | Function as a Service
 FAIL        | First Attempt In Learning (i.e. agile)
+FAIR        | [Facebook/Meta AI Research](https://ai.facebook.com/research/)
 FAT         | [File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table)
 FATF        | Financial Action Task Force
 FBA         | [Fixed-Block Architecture](https://en.wikipedia.org/wiki/Fixed-block_architecture)
@@ -941,6 +942,7 @@ SACM        | Software Asset Configuration Management (an ITIL process)
 SAD         | Solution Architecture Document
 SADS        | Secure Application Development Standards
 SAFe        | Scaled Agile Framework
+SAM         | [Segment Anything Model](https://ai.facebook.com/research/publications/segment-anything/) [re: A Foundation model for image segmentation, from FAIR]
 SAM         | [Serverless Application Model](https://aws.amazon.com/serverless/sam/)
 SAM         | Service Addressable Market
 SAM         | Successive Approximation Model, created by Allen Interactions 
@@ -1129,6 +1131,7 @@ UUID        | [Universal Unique Identifier](https://en.wikipedia.org/wiki/Univer
 UX          | User Experience
 V_          |
 VA          | Validation Authority
+VAE         | Variational Autoencoders
 VAPT        | [Vulnerability Assessment and Penetration Testing](https://en.wikipedia.org/wiki/Vulnerability_assessment_(computing)#Vulnerability_assessment_vs_penetration_testing)
 VAX         | [Virtual Address eXtension](https://en.wikipedia.org/wiki/VAX_)
 VAS         | Value-Added Services
