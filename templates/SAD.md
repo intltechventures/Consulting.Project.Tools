@@ -549,9 +549,8 @@ ___
 
 
 
-## Glossary    
-(table of terms/acronyms and definitions)
-- https://github.com/intltechventures/Consulting.Project.Tools/blob/master/Glossary.md
+## Glossary, Abbreviations, Defintions
+- https://github.com/intltechventures/Consulting.Project.Tools/blob/master/Abbreviations.md
   + (provided as a suggested starting point)
 
 
