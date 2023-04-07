@@ -958,7 +958,7 @@ SATA        | [Seria AT Attachment](https://en.wikipedia.org/wiki/Serial_ATA)
 SAW         | Statement of Architecture Work
 SBE         | Specification by Example
 SBI         | Synthetic Biological Intelligence
-SBOM        | Software Bill of Materials 
+SBOM        | [Software Bill of Materials](https://www.cisa.gov/sbom), re: [Software Supply Chain](https://en.wikipedia.org/wiki/Software_supply_chain)
 SCA         | Security Composition Analysis
 SCADA       | Supervisory Control and Data Acquisition
 SCAP        | [Security Content Automation Protocol](https://en.wikipedia.org/wiki/Security_Content_Automation_Protocol)
@@ -1036,6 +1036,7 @@ SOX         | Sarbanes-Oxley Act of 2022
 SP          | [Service Provider](https://en.wikipedia.org/wiki/Service_provider)
 SPA         | [Single-Page Application](https://en.wikipedia.org/wiki/Single-page_application)
 SPAC        | [Special Purpose Acquisition Company](https://www.investopedia.com/terms/s/spac.asp)
+SPDX        | [Software Package Data Exchange](https://spdx.dev/), re: [ISO/IEC 5962:2021 standard](https://webstore.ansi.org/standards/iso/isoiec59622021?)
 SPF         | [Sender Policy Framework](https://en.wikipedia.org/wiki/Sender_Policy_Framework), re: email auth
 SPICE       | [Simple Protocol for Independent Computing Environments](https://en.wikipedia.org/wiki/Simple_Protocol_for_Independent_Computing_Environments) 
 SPIFFE      | [Secure Production Identity Framework for Everyone](https://spiffe.io/)
