@@ -1138,6 +1138,7 @@ VAX         | [Virtual Address eXtension](https://en.wikipedia.org/wiki/VAX_)
 VAS         | Value-Added Services
 vCPU        | Virtual Central Processing Unit
 VDI         | Virtual Disk Image 
+VEX         | [Software-Exploitability eXchange](https://ntia.gov/files/ntia/publications/vex_one-page_summary.pdf)
 VHD         | Virtual Hard Disk 
 VIF         | Virtual Network InterFace
 VIP         | Virtual IP address
