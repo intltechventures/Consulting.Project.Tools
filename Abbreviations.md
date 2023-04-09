@@ -409,11 +409,12 @@ FHIR        | Fast Healthcare Interoperability Resources (a draft standard descr
 FIDO        | Fast Identity Online
 FIPS        | [Federal Information Processing Standard](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards), re: FIPS PUB 140-2
 FIRST       | Fast Independent Repeatable Self-Validating Timely [(source)](https://dzone.com/articles/writing-your-first-unit-tests)
-FISMA	    | Federal Information Security Management Act 
+FISMA	      | Federal Information Security Management Act 
 FP          | Functional Programming 
 FPGA        | Field-Programmable Gate Arrays
 FPR         | False Positive Rate
 FNR         | False Negative Rate
+FQL         | [Flows Query Language](https://learning.postman.com/docs/postman-flows/flows-query-language/introduction-to-fql/)
 FQDN        | Fully Qualified Domain Name 
 FQHE        | [Fractional Quantum Hall Effect](https://en.wikipedia.org/wiki/Fractional_quantum_Hall_effect)
 FRC         | [First Robot Competition](https://www.firstinspires.org/robotics/frc)
