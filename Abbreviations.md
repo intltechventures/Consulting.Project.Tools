@@ -843,6 +843,7 @@ PSTN        | [Public switched telephone network](https://en.wikipedia.org/wiki/
 PTP         | Procure-to-Pay
 PUP         | [PARC Universal Packet](https://en.wikipedia.org/wiki/PARC_Universal_Packet)
 PVA         | Power Virtual Agents (re: Microsoft BOT platform)
+PvP         | Player to Player 
 P2P         | [Peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer)
 Q_          |
 QA          | [Quality Assurance](https://en.wikipedia.org/wiki/Quality_assurance)
@@ -1209,6 +1210,8 @@ YBYO        | You Build Your Own
 Z_          |
 ZB          | [Zettabyte](https://en.wikipedia.org/wiki/Zettabyte_Era)
 ZBB         | [Zero-Based Budgeting](https://en.wikipedia.org/wiki/Zero-based_budgeting)
+zkEVM       | [zero-knowledge Ethereum Virtual Machine](https://blog.chain.link/zkevm/)
+ZKP         | [Zero Knowledge Proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
 ZT          | Zero Trust
 ZTA         | [Zero Trust Architecture](https://csrc.nist.gov/publications/detail/sp/800-207/final)
 
