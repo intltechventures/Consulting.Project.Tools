@@ -506,7 +506,7 @@ IDL         | [Interface Description Language](https://en.wikipedia.org/wiki/Int
 IdM         | Identity Management, also see IAM
 IdP         | Identity Provider
 IDP         | Individual Development Plan 
-IDP         | Internal Developer Platform
+IDP         | [Internal Developer Platform](https://internaldeveloperplatform.org/)
 IDS         | [Intrusion Detection System](https://en.wikipedia.org/wiki/Intrusion_detection_system)
 IE          | Information Extraction, re: NER, DL, ML, NLP
 IEEE        | [Institute of Electrical and Electronics Engineers](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers)
