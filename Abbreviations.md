@@ -182,6 +182,7 @@ CDM         | Common Data Model
 CDN         | [Content Distribution Network](https://en.wikipedia.org/wiki/Content_delivery_network)
 CDO         | Chief Data Officer
 CDO         | Care Delivery Organizatoin
+CEAF        | California Enterprise Architecture Framework
 CEB         | Corporate Executive Board
 CEH         | Certified Ethical Hacker
 CEP         | [Complex Event Processing](https://en.wikipedia.org/wiki/Complex_event_processing)
@@ -720,6 +721,7 @@ NPPI        | Non-Public Personal Informaiton (aka NPI)
 NSH         | Network Service Header 
 NTE         | Not To Exceed
 NTFC        | No-Fee Terms and Conditions 
+NTIA        | [National Telecommunications and Information Administration](https://ntia.gov/), U.S. Department of Commerce
 NTP         | [Network Time Protocol](https://en.wikipedia.org/wiki/Network_Time_Protocol)
 NVD         | [National Vulnerability Database](https://nvd.nist.gov/)
 O_          |
