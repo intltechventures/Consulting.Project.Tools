@@ -858,6 +858,7 @@ QMT         | Quality Monitoring Team
 QoE         | [Quality of experience](https://en.wikipedia.org/wiki/Quality_of_experience)
 QoS         | [Quality of Service](https://en.wikipedia.org/wiki/Quality_of_service)
 QSA         | Qualified Security Assessor
+QSM         | Quantitative Software Management 
 QUIC        | [QUIC](https://en.wikipedia.org/wiki/QUIC) (pronounced "quick") is a general-purpose[2] transport layer[3] network protocol initially designed by Jim Roskind at Google
 R_          |
 RA          | Registration Authority
@@ -1004,6 +1005,7 @@ SKU         | [Stock Keeping Unit](https://en.wikipedia.org/wiki/Stock_keeping_u
 SLA         | Service Level Agreement
 SLES        | SUSE Linux Enterprise Server
 SLI         | [Service Level Indicator](https://landing.google.com/sre/resources/practicesandprocesses/art-of-slos/) - a quantifiable measure of service reliability
+SLIM        | Software Lifecycle Management 
 SLO         | [Service Level Objectives](https://landing.google.com/sre/resources/practicesandprocesses/art-of-slos/) - a reliability target for an SLI 
 SLO         | Single Log-out
 SLM         | Service Level Management
