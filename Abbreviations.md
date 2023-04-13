@@ -812,6 +812,7 @@ PMI         | Project Management Institute
 PMO         | Project Management Office
 PO          | Product Owner
 PO          | Purchase Order
+POC         | [Point of Contact](https://en.wikipedia.org/wiki/Point_of_contact)
 POC         | Proof-of-Concept
 POD         | Point of Delivery
 POJO        | [Plain Old Java Object](https://en.wikipedia.org/wiki/Plain_old_Java_object)
@@ -1049,6 +1050,7 @@ SPICE       | [Simple Protocol for Independent Computing Environments](https://e
 SPIFFE      | [Secure Production Identity Framework for Everyone](https://spiffe.io/)
 SPKI        | Simple Public Key Infrastructure
 SPM         | Service Portfolio Management
+SPOC        | [Single Point of Contact](https://en.wikipedia.org/wiki/Point_of_contact)
 SPOF        | [Single Point of Failure](https://en.wikipedia.org/wiki/Single_point_of_failure)
 SPOT        | Single Point Of Truth
 SPP         | [Sequenced Packet Protocol](https://en.wikipedia.org/wiki/Xerox_Network_Systems#Transport_layer_protocols)
