@@ -134,6 +134,7 @@ BNF         | Backus-Naur Form
 BNS         | Business Needs Statement
 BOD         | Binding Operational Directive 
 BOF         | Buffer Overflow 
+BoK         | Body of Knowledge 
 BOOTP       | [Bootstrap Protocol](https://en.wikipedia.org/wiki/Bootstrap_Protocol)
 BOSS        | Business Operation Support Services 
 BPF         | [Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter) - see eBPF
@@ -343,6 +344,7 @@ EBV         | [Equiangular-Basis-Vectors](https://arxiv.org/abs/2303.11637)
 EC          | European Commission
 EC2         | [Amazon Elastic Compute Cloud](https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud)
 ECA         | Embodied Conversational Agent(s)
+eCF or e-CF | [European e-Competence Framework](https://esco.ec.europa.eu/en/about-esco/escopedia/escopedia/european-e-competence-framework-e-cf)
 EBCIDIC     | [Extended Binary Coded Decimal Interchange Code](https://en.wikipedia.org/wiki/EBCDIC)
 EBIT        | Earnings Before Interest & Tax
 eBPF        | [extended Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter) - see BPF
@@ -994,6 +996,7 @@ SFTP        | Secure File Transfer Protocol
 SFPF        | Senior Foreign Political Figures 
 SHAP        | [SHapley Additive exPlanations](https://shap.readthedocs.io/en/latest/#)
 SI          | System Integrator
+SIAM        | [Service Integration & Management](https://en.wikipedia.org/wiki/Service_integration_and_management)
 SII         | Self-Identified Issue
 SIAM        | Service Integration and Management
 SIEM        | [Security Information and Event Management](https://en.wikipedia.org/wiki/Security_information_and_event_management)
