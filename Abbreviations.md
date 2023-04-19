@@ -480,6 +480,7 @@ HOLAP       | Hybrid OLAP
 HOT         | Heap Oriented Tuples
 HPC         | Horizontal Pod Autoscaling (Kubernetes)
 HRAA        | Highly Restricted Access Area
+HSPI        | Highly Sensitive Protected Information
 HTML        | Hyper Text Markup Language
 HTTP        | [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 HTTPS       | Hypertext Transfer Protocol Secure
