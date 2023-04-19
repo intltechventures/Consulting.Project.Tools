@@ -59,6 +59,12 @@
 - "The price of reliability is the pursuit of the utmost simplicity.", ~Turing Award lecture
 
 
+
+## Hophe, Gregor
+- ["Abstractions are the #1 tool to manage complexity."](https://www.linkedin.com/posts/ghohpe_programming-without-a-stack-trace-when-abstractions-activity-7054482803861708801-kZCs)
+
+
+
 ## Knuth, Donald
 - ”Premature optimization is the root of all evil”
 
