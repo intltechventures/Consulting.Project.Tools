@@ -662,6 +662,7 @@ ML          | Machine Learning
 MLE         | [Maximum Likelihood Estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
 MLP         | Minimum Lovable Product
 MOA         | Memorandum of Agreement
+MOJO        | [Maven plain Old Java Object](https://maven.apache.org/plugin-developers/index.html)
 MOLAP       | Multidimensional OLAP
 MoM         | Month-on-Month
 MOM         | Message Oriented Middleware
