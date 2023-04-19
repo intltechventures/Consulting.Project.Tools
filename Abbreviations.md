@@ -1150,7 +1150,7 @@ VAPT        | [Vulnerability Assessment and Penetration Testing](https://en.wiki
 VAX         | [Virtual Address eXtension](https://en.wikipedia.org/wiki/VAX_)
 VAS         | Value-Added Services
 vCPU        | Virtual Central Processing Unit
-VDI         | Virtual Disk Image 
+VDI         | [Virtual Disk Infrastructure](https://en.wikipedia.org/wiki/Desktop_virtualization#Remote_desktop_virtualization)
 VEX         | [Software-Exploitability eXchange](https://ntia.gov/files/ntia/publications/vex_one-page_summary.pdf)
 VHD         | Virtual Hard Disk 
 VIF         | Virtual Network InterFace
