@@ -887,6 +887,7 @@ RBAC        | [Role Based Access Control](https://en.wikipedia.org/wiki/Role-bas
 RCA         | Root Cause Analysis 
 RCE         | Remote Code Execution
 RCG         | Risk and Controls Group
+RCT         | [Randomized Controlled Trial](https://en.wikipedia.org/wiki/Randomized_controlled_trial)
 RDC         | [Remote Desktop Connection](https://en.wikipedia.org/wiki/Remote_Desktop_Services#Remote_Desktop_Connection)
 RDF         | [Resource Description Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework)
 RDN         | Relative Distinguished Name, re: LDAP
