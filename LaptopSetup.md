@@ -182,6 +182,12 @@ __These are the primary software programs that I typically have installed on my 
     * PyNPP
     * RunMe
     * Tidy2
+  + User-contributed User-Defined Languages (UDLs):
+    * https://github.com/notepad-plus-plus/userDefinedLanguages
+    * TOML  
+      * https://github.com/notepad-plus-plus/userDefinedLanguages/blob/master/UDLs/TSL_byTorkelLindahl.xml
+      * https://raw.githubusercontent.com/notepad-plus-plus/userDefinedLanguages/master/UDLs/TOML_byTimendum.xml
+
 
 - [Visual Studio Code](https://code.visualstudio.com/)
   + https://code.visualstudio.com/docs/
@@ -1000,36 +1006,55 @@ __These are the primary software programs that I typically have installed on my 
   + https://en.wikipedia.org/wiki/SolidWorks
 
 
-# Task Bar entries
+# Task Bar -35 entries (updated: 2024-04-2)
 - Thunderbird email
+
 - Notepad++
-- LibreOffice Calc
-- LibreOffice Draw
-- File Explorer 
 - Microsoft Windows Calculator
+
 - Snip & Sketch
 - Snagit 
-- TrueCrypt
-- Alarms & Clocks
+
+
+- LibreOffice Calc
+- LibreOffice Draw
+- LibreOffice Writer
+
+- File Explorer 
+
 - Command Prompt 
 - Git Bash
 - Windows PowerShell 
+
+- Alarms & Clocks
+
 - Sparx Enterprise Architect 
 - Eclipse
 - Visual Studio Code 
 - Visual Studio 2022 
+
 - Mozilla Firefox
 - Google Chrome 
 - Microsoft Edge 
+
 - Word
 - Excel 
 - PowerPoint 
+
 - iTunes
 - Kindle 
-- Event Viewer 
+
 - Control Panel 
-- Dragon Gaming Center
-- FileZilla 
-- Macrium Reflect
+- Event Viewer 
 - System Configuration
+
+- Dragon Gaming Center
+
+- 7-Zip File Manager
+- FileZilla 
+
+- VLC media player 
+
+- TrueCrypt
+- Macrium Reflect
 - ExpressVPN
