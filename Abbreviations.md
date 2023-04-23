@@ -859,6 +859,7 @@ QEC         | Quantum Error Correction
 QI          | Quality Improvement 
 QIT         | QUality Improvement Team
 QKD         | [Quantum Key Distribution](https://en.wikipedia.org/wiki/Quantum_key_distribution)
+QML         | Quantum Machine Learning
 QMS         | Quality Management System
 QMT         | Quality Monitoring Team
 QoE         | [Quality of experience](https://en.wikipedia.org/wiki/Quality_of_experience)
@@ -1058,6 +1059,7 @@ SPKI        | Simple Public Key Infrastructure
 SPM         | Service Portfolio Management
 SPOC        | [Single Point of Contact](https://en.wikipedia.org/wiki/Point_of_contact)
 SPOF        | [Single Point of Failure](https://en.wikipedia.org/wiki/Single_point_of_failure)
+SPOG        | [Single Pane of Glass](https://en.wiktionary.org/wiki/single_pane_of_glass)
 SPOT        | Single Point Of Truth
 SPP         | [Sequenced Packet Protocol](https://en.wikipedia.org/wiki/Xerox_Network_Systems#Transport_layer_protocols)
 SPX         | [Sequenced Packet Exchange](https://en.wikipedia.org/wiki/Sequenced_Packet_Exchange)
