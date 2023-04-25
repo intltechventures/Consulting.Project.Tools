@@ -168,6 +168,7 @@ CBA         | Cost Benefit Analysis
 CBAC        | [Claim-Based Attirbute Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see ABAC,PBAC)
 CBS         | Critical Business System
 CCD         | Conceptual Design Document
+CCPOLDAT    | [Customer, Channel, Process, Organisation, Location, Data, Application and Technology](https://en.wikipedia.org/wiki/POLDAT) (see POLDAT)
 CCoE        | Cloud Center of Excellence
 CCO         | Client Change Order
 CCO         | Cloud Control Objectives
