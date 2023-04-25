@@ -820,6 +820,7 @@ POC         | [Point of Contact](https://en.wikipedia.org/wiki/Point_of_contact)
 POC         | Proof-of-Concept
 POD         | Point of Delivery
 POJO        | [Plain Old Java Object](https://en.wikipedia.org/wiki/Plain_old_Java_object)
+POLDAT      | [Process, Organization and Location (Business Architecture) and Data, Applications and Technology (Systems Architecture)](https://en.wikipedia.org/wiki/POLDAT)
 POLO        | Plain Old Language Objects
 PoP         | Policy on Policies
 POSIX       | [Portable Operating System Interface](https://en.wikipedia.org/wiki/POSIX)
