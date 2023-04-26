@@ -1223,7 +1223,7 @@ XSLT        | [eXtensible Stylesheet Language Transformations](https://en.wikipe
 Y_          |
 YAGNI       | You Aren't Gonna Need It 
 YAS         | Yet Another Silo
-YBYO        | You Build Your Own
+YBYO        | You Build, You Own (alternatively: You Buid It, You Own It)
 Z_          |
 ZB          | [Zettabyte](https://en.wikipedia.org/wiki/Zettabyte_Era)
 ZBB         | [Zero-Based Budgeting](https://en.wikipedia.org/wiki/Zero-based_budgeting)
