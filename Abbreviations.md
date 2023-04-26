@@ -151,6 +151,7 @@ BSD         | [Berkeley Software Distribution](https://en.wikipedia.org/wiki/Ber
 BSI         | British Sandards Institution
 BTC         | Bitcoin
 BU          | Business Unit
+BYO         | Bring Your Own
 BYOD        | Bring Your Own Device
 C_          |
 C2          | Command and Control
