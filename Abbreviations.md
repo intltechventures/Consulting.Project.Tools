@@ -592,7 +592,7 @@ K_          |
 KCSA        | Kubernetes and Cloud Security Associate (KCSA) certification, re: CNCF
 kex         | [key exchange](https://en.wikipedia.org/wiki/Key_exchange)
 KMDF        | [Kernel-Mode Driver Framework](https://en.wikipedia.org/wiki/Kernel-Mode_Driver_Framework)
-KMS         | Key Management System
+KMS         | Key Management {System | Service}
 KNN         | [K-nearest neibhbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) (algorithm)
 KPI         | [Key Performance Indicators](https://en.wikipedia.org/wiki/Performance_indicator)
 KT          | Knowledge Transfer
