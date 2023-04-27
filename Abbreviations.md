@@ -460,6 +460,7 @@ GQM         | Goal, Question, Metric
 GRC         | Governance, Risk, and Compliance
 GRE         | Generic Routing Encapsulation
 GRO         | Generic Receive Offload
+GRU         | Gated Recurrent Unit
 GSM         | [Global System for Mobile Communications](https://en.wikipedia.org/wiki/GSM) 
 GUC         | Global User Configuration 
 GUI         | [Graphical User Interface](https://en.wikipedia.org/wiki/Graphical_user_interface)
@@ -507,6 +508,7 @@ ICT         | Information Communications and Technology
 IdAM        | See IAM
 IDCG        | Ideal Discounted Cumulative Gain
 IDD         | Infrastructure Design Document
+IDDFS       | Iterative Deepening Depth First Search
 IDE         | Integrated Development Environment    
 IDL         | [Interface Description Language](https://en.wikipedia.org/wiki/Interface_description_language)
 IdM         | Identity Management, also see IAM
