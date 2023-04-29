@@ -76,6 +76,9 @@
 5. Trash stages 1-4 and start again, now that you know what you really wanted.
 
 
+## Krutchen, Philippe 
+- “If it’s not written down, it doesn’t exist."
+
 
 ## Large Scale Scrum (LeSS)
 - "There are no such things as best practices. There are only practices that are good within a certain context"
