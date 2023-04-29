@@ -983,6 +983,7 @@ SCAP        | [Security Content Automation Protocol](https://en.wikipedia.org/wi
 SCC         | Strongly Connected Components (re: [Parsel AI framework](https://www.infoq.com/news/2023/02/parsel-code-generation/)
 SCI         | Sensitive Compartmented Information 
 SCIM        | System for Cross-Domain Identity Management (re: [RFC7644](https://www.rfc-editor.org/rfc/rfc7644.html))
+SCP         | Service Control Policy
 SCTP        | [Stream Control Transmission Protocol](https://en.wikipedia.org/wiki/Stream_Control_Transmission_Protocol)
 SD          | Service Desk
 SDF         | System Data Flow 
