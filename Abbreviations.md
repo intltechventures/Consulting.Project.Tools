@@ -14,6 +14,7 @@ _           |
 3PL         | Third-Party Logistics providers
 7 Rs        | [Refactor, Replatform, Repurchase, Rehost, Relocate, Retain, Retire](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-retiring-applications/overview.html) - Re: AWS Migration Readiness
 A_          | 
+AAD         | [Average absolution deviation](https://en.wikipedia.org/wiki/Average_absolute_deviation) 
 AAD         | [Azure Active Directory](https://azure.microsoft.com/en-us/products/active-directory/)
 ABAC        | [Attribute-Based Access Contorl](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see CBAC, PBAC)
 ABC         | Activity Based Costing
@@ -180,6 +181,7 @@ CDC         | Change Data Capture
 CDD         | Customer Due Dilligence (also see KYC)
 CDE         | Cardholder Data Environment
 CDE         | Critical Data Element
+CDF         | [Cumulative Distribution Function](https://en.wikipedia.org/wiki/Cumulative_distribution_function)
 CDI         | Contexts and Dependency Injection 
 CDM         | Common Data Model
 CDN         | [Content Distribution Network](https://en.wikipedia.org/wiki/Content_delivery_network)
@@ -216,6 +218,7 @@ CISC        | [Complex Instruction Set Computer](https://en.wikipedia.org/wiki/C
 CISM        | Certified Information Security Manager
 CISSP       | [Certified Information Systems Security Professionals](https://www.isc2.org/Certifications/CISSP-Concentrations)
 CLI         | Command Line Interface
+CLT         | [Central Limit Theorem](https://en.wikipedia.org/wiki/Central_limit_theorem)
 CMDB        | Configuration Management Database
 CMOS        | [omplementary Metal Oxide Silicon](https://en.wikipedia.org/wiki/CMOS)
 CMF         | Content Monitoring and Filtering (see DLP)
@@ -632,6 +635,8 @@ MAC         | Managed Application Consulting
 MAC         | [Mandatory Access Control](https://en.wikipedia.org/wiki/Mandatory_access_control)
 MAC         | [Medium | Media Access control](https://en.wikipedia.org/wiki/Medium_access_control)
 MAC         | [Message Authentication Code](https://en.wikipedia.org/wiki/Message_authentication_code)
+MAD         | [Mean absolute deviation](https://en.wikipedia.org/wiki/Average_absolute_deviation)
+MAD         | [Median absolution deviation](https://en.wikipedia.org/wiki/Median_absolute_deviation)
 MAE         | Mean Absolute Error
 MAMOS       | [Methods, Architecture, Management, Organization, Skills](https://qeunit.com/mamos/)
 MAO         | Maximum Acceptable Outage
@@ -656,6 +661,7 @@ MERN        | MongoDB, Express.js, React.js, Node.js
 MFA         | Multi-Factor Authentication
 MFE         | [Micro-Frontends](https://martinfowler.com/articles/micro-frontends.html)
 MFT         | [Master File Table](https://en.wikipedia.org/wiki/File_Allocation_Table)
+MGF         | [Moment-generating function](https://en.wikipedia.org/wiki/Moment-generating_function)
 MIM         | Major Incident Management
 MIMD        | [Multiple instruction streams, multiple data streams](https://en.wikipedia.org/wiki/MIMD)
 MIME        | [Multipurpose Internet Mail Extensions](https://en.wikipedia.org/wiki/MIME)
