@@ -509,6 +509,7 @@ ICANN       | [Internet Corporation for Assigned Names and Numbers](https://en.w
 ICAP        | [Internet Content Adaptation Protocol](https://en.wikipedia.org/wiki/Internet_Content_Adaptation_Protocol)
 ICML        | International Conference on Machine Learning
 ICMP        | [Internet Control Message Protocol ](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol)
+ICS         | Incident Command System
 ICT         | Information Communications and Technology 
 IdAM        | See IAM
 IDCG        | Ideal Discounted Cumulative Gain
@@ -1063,6 +1064,7 @@ SOT         | Souce of Truth
 SOW         | Statement of Work
 SOX         | Sarbanes-Oxley Act of 2022 
 SP          | [Service Provider](https://en.wikipedia.org/wiki/Service_provider)
+SPA         | Securing Privileged Access 
 SPA         | [Single-Page Application](https://en.wikipedia.org/wiki/Single-page_application)
 SPAC        | [Special Purpose Acquisition Company](https://www.investopedia.com/terms/s/spac.asp)
 SPDX        | [Software Package Data Exchange](https://spdx.dev/), re: [ISO/IEC 5962:2021 standard](https://webstore.ansi.org/standards/iso/isoiec59622021?)
