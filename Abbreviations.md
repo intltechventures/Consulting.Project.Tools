@@ -717,7 +717,6 @@ MVS         | IBM [Multiple Virtual Storage](https://en.wikipedia.org/wiki/MVS)
 MVVM        | [Model-View-ViewModel](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 M&A         | Mergers & Acquisitions
 N_          |
-N           | Window Size
 NA          | North America 
 NA          | Not Applicable
 NAK         | Negative Acknolwedgement
@@ -741,6 +740,7 @@ NLP         | Natural Language Processing
 NLS         | Natural Language Support 
 NLU         | Natural Language Understanding
 NOC         | Network Operations Center 
+NOPAT       | [Net Operating Profit After Tax](https://en.wikipedia.org/wiki/NOPAT)
 NPI         | Non-Public Personal Information (aka NPPI)
 NPM         | [Node Package Manager](https://www.npmjs.com/)
 NPPI        | Non-Public Personal Informaiton (aka NPI)
