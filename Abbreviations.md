@@ -80,6 +80,7 @@ APM         | Application Portfolio Management
 APM         | [Application Performance Management](https://en.wikipedia.org/wiki/Application_performance_management)
 APM         | Application Performance Monitoring
 APNS        | [Apple Push Notification service](https://en.wikipedia.org/wiki/Apple_Push_Notification_service)
+APO         | Automatic Prompt Optimization
 AP@N        | Average Precision
 ARB         | Architecture Review Board (aka ARC)
 ARC         | Architecture Review Committee, or Council (aka ARB)
@@ -173,6 +174,7 @@ CBS         | Critical Business System
 CCD         | Conceptual Design Document
 CCPOLDAT    | [Customer, Channel, Process, Organisation, Location, Data, Application and Technology](https://en.wikipedia.org/wiki/POLDAT) (see POLDAT)
 CCoE        | Cloud Center of Excellence
+CCO         | Chief Commercial Officer
 CCO         | Client Change Order
 CCO         | Cloud Control Objectives
 CCPA        | [California Consumer Privacy Act](https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act)
@@ -555,6 +557,7 @@ IRM         | Individual Rights Management
 IRM         | Information Risk Management 
 IRM         | Integrated Risk Management
 IRP         | [I/O Request Packet](https://en.wikipedia.org/wiki/I/O_request_packet) [re: Windows Kernel Programming]
+IRR         | [Internal Rate of Return](https://en.wikipedia.org/wiki/Internal_rate_of_return)
 IRT         | Incident Response Team
 ISA         | Information Security Architecture 
 ISA         | [Instruction Set Architecture](https://en.wikipedia.org/wiki/Instruction_set_architecture)
