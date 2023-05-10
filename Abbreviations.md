@@ -291,6 +291,7 @@ DC          | Data Center
 DCAM        | [Data Management Capability Assessment Model](https://edmcouncil.org/frameworks/dcam/)
 DCCP        | [Datagram Congestion Control Protocol](https://en.wikipedia.org/wiki/Datagram_Congestion_Control_Protocol)
 DCE         | [Distributed Computing Environment](https://en.wikipedia.org/wiki/Distributed_Computing_Environment)
+DCF         | [Discounted Cash Flow](https://en.wikipedia.org/wiki/Discounted_cash_flow)
 DCG         | Discounted Cumulative Gain
 DCL         | Data Classification & Labeling
 DD          | Data Dictionary 
@@ -354,7 +355,8 @@ EC2         | [Amazon Elastic Compute Cloud](https://en.wikipedia.org/wiki/Amazo
 ECA         | Embodied Conversational Agent(s)
 eCF or e-CF | [European e-Competence Framework](https://esco.ec.europa.eu/en/about-esco/escopedia/escopedia/european-e-competence-framework-e-cf)
 EBCIDIC     | [Extended Binary Coded Decimal Interchange Code](https://en.wikipedia.org/wiki/EBCDIC)
-EBIT        | Earnings Before Interest & Tax
+EBIT        | [Earnings Before Interest & Tax](https://en.wikipedia.org/wiki/Earnings_before_interest_and_taxes)
+EBITDA      | [Earnings Before Interest, Taxes, Depreciation and Amortization](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation_and_amortization)
 eBPF        | [extended Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter) - see BPF
 EBS         | Elastic Block Storage (AWS)
 EDA         | Event-Driven Architecture 
@@ -403,11 +405,14 @@ F_          |
 FaaS        | Function as a Service
 FAIL        | First Attempt In Learning (i.e. agile)
 FAIR        | [Facebook/Meta AI Research](https://ai.facebook.com/research/)
+FASB        | [Financial Accounting Standards Board](https://en.wikipedia.org/wiki/Financial_Accounting_Standards_Board)
 FAT         | [File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table)
 FATF        | Financial Action Task Force
 FBA         | [Fixed-Block Architecture](https://en.wikipedia.org/wiki/Fixed-block_architecture)
 FBDI        | File-Based Data Import
 FC          | Fulfillment Center, i.e., a third-party logics (3PL) warehouse
+FCF         | [Free Cash Flow](https://en.wikipedia.org/wiki/Free_cash_flow)
+FCFO        | [Free Cash Flow From Operations](https://en.wikipedia.org/wiki/Operating_cash_flow)
 FCoE        | Fibre Channel over Ethernet 
 FCM         | [Firebase Cloud Messaging](https://en.wikipedia.org/wiki/Firebase_Cloud_Messaging)
 FDDI        | [Fiber Distributed Data Interface](https://en.wikipedia.org/wiki/Fiber_Distributed_Data_Interface)
@@ -436,7 +441,7 @@ FTP         | [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transf
 FWaaS       | FireWall-as-a-Service 
 G_          | 
 GA          | Google Analytics
-GAAP        | Generally Accepted Accounting Principles
+GAAP        | [Generally Accepted Accounting Principles](https://en.wikipedia.org/wiki/Generally_Accepted_Accounting_Principles_(United_States))
 GADTs       | Generalized Algebraic Data Types
 GAM         | Global Asset Management
 GAT         | Generic Associated Types (e.g. [introduced in Rust 1.65](https://www.infoq.com/news/2022/11/rust-generic-associated-types/)
@@ -739,6 +744,7 @@ NOC         | Network Operations Center
 NPI         | Non-Public Personal Information (aka NPPI)
 NPM         | [Node Package Manager](https://www.npmjs.com/)
 NPPI        | Non-Public Personal Informaiton (aka NPI)
+NPV         | [Net Present Value](https://en.wikipedia.org/wiki/Net_present_value)
 NSH         | Network Service Header 
 NTE         | Not To Exceed
 NTFC        | No-Fee Terms and Conditions 
@@ -747,6 +753,7 @@ NTP         | [Network Time Protocol](https://en.wikipedia.org/wiki/Network_Time
 NVD         | [National Vulnerability Database](https://nvd.nist.gov/)
 O_          |
 OASIS       | Organization for the Advancement of Structured Information Systems
+OCF         | [Operating Cash Flow](https://en.wikipedia.org/wiki/Operating_cash_flow)
 OCI         | [Open Container Initiative](https://opencontainers.org/)
 OCI         | Oracle Cloud Infrastructure
 OCM         | [Organizational Change Management](https://en.wikipedia.org/wiki/Change_management)
@@ -794,8 +801,8 @@ PAM         | Pluggable Authentication Modules
 PAP         | [Password Authentication Protocol](https://en.wikipedia.org/wiki/Password_Authentication_Protocol)
 PAP         | Policy Administration Point
 PAS         | Publicly Available Specification
-PaaS        | Platform as a Service
 PASETO      | platform-agnostic security tokens
+PAT         | Profit After Tax
 PBAC        | [Policy-Based Access Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see ABAC, CBAC)
 PBC         | Packaged Business Capability
 PBI         | Product Backlog Item (i.e. Scrum)
@@ -867,6 +874,7 @@ PSM         | Persistent Stored Modules
 PSTN        | [Public switched telephone network](https://en.wikipedia.org/wiki/Public_switched_telephone_network)
 PTP         | Procure-to-Pay
 PUP         | [PARC Universal Packet](https://en.wikipedia.org/wiki/PARC_Universal_Packet)
+PV          | [Present Value](https://en.wikipedia.org/wiki/Present_value)
 PVA         | Power Virtual Agents (re: Microsoft BOT platform)
 PvP         | Player to Player 
 P2P         | [Peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer)
@@ -941,7 +949,7 @@ RMSE        | Root Mean Squared Error
 ROC         | [Receiver Operating Characteristic](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
 ROCE        | Return on Capital Employed 
 ROE         | Return on Equity  
-ROI         | Return on Investment  
+ROI         | [Return on Investment](https://en.wikipedia.org/wiki/Return_on_investment)
 ROIT        | Return on Information Technology  
 ROLAP       | Relational OLAP
 ROM         | Rough Order of Magnitude (also see SWAG), aka an estimate
@@ -1010,6 +1018,7 @@ SDP         | Software Defined Perimeter (also see VPN)
 SDR         | Sales Development Representative
 SDSL        | [Symmetric digital subscriber line](https://en.wikipedia.org/wiki/Symmetric_digital_subscriber_line)
 SE          | Standard Edition
+SEC         | [U.S. Securities and Exchange Commission](https://en.wikipedia.org/wiki/U.S._Securities_and_Exchange_Commission)
 SEO         | Search Engine Optimization
 SFCC        | [Salesforce Commerce Cloud](https://www.salesforce.com/products/commerce-cloud/overview/)
 SFDC        | SalesForce DotCom
