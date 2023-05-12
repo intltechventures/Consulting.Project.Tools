@@ -405,6 +405,7 @@ F_          |
 FaaS        | Function as a Service
 FAIL        | First Attempt In Learning (i.e. agile)
 FAIR        | [Facebook/Meta AI Research](https://ai.facebook.com/research/)
+FAR         | [Federal Acquisition Regulation](https://www.acquisition.gov/browse/index/far)
 FASB        | [Financial Accounting Standards Board](https://en.wikipedia.org/wiki/Financial_Accounting_Standards_Board)
 FAT         | [File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table)
 FATF        | Financial Action Task Force
