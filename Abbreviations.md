@@ -599,6 +599,8 @@ JIT         | Just in Time
 JMS         | [Jakarta Messaging (formerly  Java Messaging Service)](https://en.wikipedia.org/wiki/Jakarta_Messaging), re: JSR 343
 JSON        | [JavaScript Object Notation](https://en.wikipedia.org/wiki/JSON)
 JRT         | Java Routines and Types
+JSON        | [JavaScript Object Notation](https://en.wikipedia.org/wiki/JSON)
+JSONL       | [JSON Lines](https://jsonlines.org/)
 JSR         | [Java Specification Request](https://www.jcp.org/en/jsr/all)
 JSR         | JavaScript Remoting
 JVM         | [Java Virtual Machine](https://en.wikipedia.org/wiki/Java_virtual_machine)
