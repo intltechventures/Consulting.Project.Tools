@@ -822,6 +822,7 @@ PDP         | [Programmed Data Processor](https://en.wikipedia.org/wiki/Programm
 PDSA        | Plan-Do-Stuy-Act
 PDU         | [Protocol data unit](https://en.wikipedia.org/wiki/Protocol_data_unit)
 PEAP        | [Protected Extensible Authentication Protocol](https://en.wikipedia.org/wiki/Protected_Extensible_Authentication_Protocol)
+PEFT        | Parameter Efficient Fine Tuning
 PEM         | Privacy Enhanced Mail
 PEP         | [Packet Exchange Protocol](https://en.wikipedia.org/wiki/Xerox_Network_Systems#Transport_layer_protocols)
 PGM         | Program
