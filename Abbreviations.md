@@ -108,6 +108,7 @@ B2C         | Business-to-Consumer
 BA          | Business Analyst
 BAA         | Business Associate Agreement
 BAFO        | Best And Final Offer (e.g., RFP negotiations)
+BAIR        | [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/)
 BAU         | Business As Usual
 BC          | Business Continuity
 BCD         | Binary Coded Decimal 
