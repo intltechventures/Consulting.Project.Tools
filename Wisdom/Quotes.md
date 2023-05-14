@@ -26,6 +26,10 @@
 - Conway's Law: "Any organization that designs a system (defined more broadly here than just information systems) will  inevitably produce a design whose structure is a copy of the organization’s communication structure."
 
 
+## Drucker, Peter
+- "There is nothing so useless as doing efficiently that which should not be done at all." 
+
+
 ## Einstein, Albert
 - ”If you can’t explain it to a six year old, you don’t understand it yourself”
 
@@ -59,10 +63,8 @@
 - "The price of reliability is the pursuit of the utmost simplicity.", ~Turing Award lecture
 
 
-
 ## Hophe, Gregor
 - ["Abstractions are the #1 tool to manage complexity."](https://www.linkedin.com/posts/ghohpe_programming-without-a-stack-trace-when-abstractions-activity-7054482803861708801-kZCs)
-
 
 
 ## Knuth, Donald
@@ -155,10 +157,8 @@
 - "It’s all very, very simple. If I improve my tools/skills/knowledge, I’m faster next sprint. If I work harder, I’m no faster next sprint."
 
 
-
 ## Weber, Erik
 - "A company that rewards firefights breeds arsonists." 
-
 
 
 ## Raymond, Eric
@@ -182,7 +182,6 @@
 17. Make the program and protocols extensible.
 
 
-
 ## Turla, Peter
 - “Don’t spend a dollar’s worth of time on a ten cent decision.”
 
@@ -198,7 +197,6 @@
 8. Use shell scripts to increase leverage and portability.
 9. Avoid captive user interfaces.
 10. Make every program a filter.
-
 
 
 ## McIlroy, Doug 
