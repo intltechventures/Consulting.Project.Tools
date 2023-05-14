@@ -468,6 +468,7 @@ GNU         | GNU's Not Unix! (a recursive acronym)
 GOLAP       | Graph OLAP 
 GPAI        | General-Purpose AI
 GPG         | [GNU Privacy Guard](https://en.wikipedia.org/wiki/GNU_Privacy_Guard)
+GPT         | Generative Pretrained Transformer
 GPT         | [GUID Partition Table](https://en.wikipedia.org/wiki/GUID_Partition_Table)
 GPU         | [Graphics Processing Uni](https://en.wikipedia.org/wiki/Graphics_processing_unit)
 GQL         | [Graph Query Language](https://www.gqlstandards.org/home)
@@ -892,8 +893,10 @@ QI          | Quality Improvement
 QIT         | QUality Improvement Team
 QKD         | [Quantum Key Distribution](https://en.wikipedia.org/wiki/Quantum_key_distribution)
 QML         | Quantum Machine Learning
+QMLM        | Quantum Machine Learing Model
 QMS         | Quality Management System
 QMT         | Quality Monitoring Team
+QNN         | Quanvolutional Neural Network
 QoE         | [Quality of experience](https://en.wikipedia.org/wiki/Quality_of_experience)
 QoS         | [Quality of Service](https://en.wikipedia.org/wiki/Quality_of_service)
 QSA         | Qualified Security Assessor
