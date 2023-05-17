@@ -361,6 +361,7 @@ EBIT        | [Earnings Before Interest & Tax](https://en.wikipedia.org/wiki/Ear
 EBITDA      | [Earnings Before Interest, Taxes, Depreciation and Amortization](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation_and_amortization)
 eBPF        | [extended Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter) - see BPF
 EBS         | Elastic Block Storage (AWS)
+EDA         | Enterprise Data Architecture
 EDA         | Event-Driven Architecture 
 EDA         | Exploratory Data Analysis
 EDI         | Electronic Data Interchange
