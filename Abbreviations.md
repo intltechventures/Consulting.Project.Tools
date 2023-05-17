@@ -1059,7 +1059,7 @@ SLO         | Single Log-out
 SLM         | Service Level Management
 SLSA        | [Supply chain Levels for Software Artifacts](https://slsa.dev/)
 SM          | System Maanger
-SMART       | Specific, Measurable, Attainable, Realistic
+SMART       | [Specific, Measurable, {Achievable | Attainable},  {Realistic | Relevant}, and {Time-Bound | Time-Related}](https://en.wikipedia.org/wiki/SMART_criteria)
 SMART       | SMART (Substitutable Medical Applications, Reusable Technologies)
 SME         | Subject Matter Expert
 SMO         | Service Management Office
