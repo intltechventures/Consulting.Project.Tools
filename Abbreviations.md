@@ -268,7 +268,7 @@ CUSO        | Combined U.S. Operations
 CV          | Cross-Validation
 CVE         | [Critical Vulnerabilities and Exposures](https://www.cve.org/)
 CVS         | Concurrent Version System
-CWE         | [Critical Weakness Enumeration](https://cwe.mitre.org/)
+CWE         | [Critical Weakness Enumeration](https://cwe.mitre.org/) (also see: [Wikipedia](https://en.wikipedia.org/wiki/Common_Weakness_Enumeration)
 CX          | Customer Experience
 CXN         | Customer Experience Network
 D_          | 
@@ -342,6 +342,7 @@ DVI         | [Device Independent file format](https://en.wikipedia.org/wiki/Dev
 DVR         | Distributed Virtual Router
 DW          | Data Warehouse (also see DWH, EDW)
 DWH         | Data Warehouse (also see DW, EDW)
+DXP         | Digital Experience Platform
 E_          | 
 EA          | Enterprise Architecture  
 EAI         | Enterprise Application Integration  
@@ -522,6 +523,7 @@ ICML        | International Conference on Machine Learning
 ICMP        | [Internet Control Message Protocol ](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol)
 ICS         | Incident Command System
 ICT         | Information Communications and Technology 
+iDaaS       | Identity as a Service
 IdAM        | See IAM
 IDCG        | Ideal Discounted Cumulative Gain
 IDD         | Infrastructure Design Document
