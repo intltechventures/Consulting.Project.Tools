@@ -385,6 +385,7 @@ ENI         | Elastic Network Interface (re: AWS)
 ENs         | European Standards
 EOL         | End of Life
 EOL         | End of Line
+EOS         | Exactly Once Semantics 
 EPC         | Electronic Product Code
 EPD         | Engineering, Product management, and Design
 ePHI        | Electronically Protected Health Information
