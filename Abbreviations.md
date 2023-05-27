@@ -1234,6 +1234,7 @@ WAR         | [Web Application Resource (or, Web application ARchival](https://e
 wasm        | [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly)
 WBS         | Work Breakdown Structure
 WCCP        | [Web Cache Communication Protocol](https://en.wikipedia.org/wiki/Web_Cache_Communication_Protocol)
+WCET        | [Worst-Case Execution Time](https://en.wikipedia.org/wiki/Worst-case_execution_time)
 WD          | Working Draft
 WDM         | [Windows Driver Model](https://en.wikipedia.org/wiki/Windows_Driver_Model)    
 Wi-Fi       | Wireless Fidelity
