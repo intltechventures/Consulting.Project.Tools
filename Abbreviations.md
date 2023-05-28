@@ -187,6 +187,7 @@ CDE         | Cardholder Data Environment
 CDE         | Critical Data Element
 CDF         | [Cumulative Distribution Function](https://en.wikipedia.org/wiki/Cumulative_distribution_function)
 CDI         | Contexts and Dependency Injection 
+CDK         | Cloud Development Kit 
 CDM         | Common Data Model
 CDN         | [Content Distribution Network](https://en.wikipedia.org/wiki/Content_delivery_network)
 CDO         | Chief Data Officer
