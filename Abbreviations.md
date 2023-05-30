@@ -28,6 +28,7 @@ ACH         | [Automated Clearing House](https://en.wikipedia.org/wiki/Automated
 ACID        | [Atomicity, Consistency, Isolation, and Durability](https://en.wikipedia.org/wiki/ACID)
 ACK         | Acknowledgement
 ACL         | Access Control List
+ACL         | Anti-Corruption Layer
 ACM         | Access Control Mechanism
 ACME        | [Automatic Certificate Management Environment](https://en.wikipedia.org/wiki/Automated_Certificate_Management_Environment), also see [RFC 8555](https://tools.ietf.org/html/rfc8555)
 ACPI        | Advanced Configuration and Power Interface
@@ -86,6 +87,7 @@ ARB         | Architecture Review Board (aka ARC)
 ARC         | Architecture Review Committee, or Council (aka ARB)
 ARHR        | Average Reciprocal Hit Ratio
 ARI         | Amazon Ramdisk Image
+ARIMA       | Auto-Regressive Integrated Moving Average
 ARM         | Architectural Reference Model
 ARN         | [Amazon Resource Name](https://docs.aws.amazon.com/general/latest/gr/aws-arns-and-namespaces.html)
 ARP         | Address Resolution Protocol
@@ -99,7 +101,9 @@ AST         | Application Security Testing
 ATDD        | Acceptance-Test-Driven-Development
 ATM         | [Asynchronous Transfer Mode](https://en.wikipedia.org/wiki/Asynchronous_Transfer_Mode)
 AUC         | [Area Under the Curve](https://en.wikipedia.org/wiki/Receiver_operating_characteristic#Area_under_the_curve)
+AUC-ROC     | Area Under Curve – Receiver Operating Characteristics Curve
 AUP         | [Acceptable Use Policy](https://en.wikipedia.org/wiki/Acceptable_use_policy)
+AUROC       | Area Under the Receiver Operating Characteristics Curve 
 AVD         | [Azure Virtual Desktop](https://azure.microsoft.com/en-us/products/virtual-desktop/)
 AZ          | Availability Zone 
 B_          | 
@@ -192,6 +196,7 @@ CDM         | Common Data Model
 CDN         | [Content Distribution Network](https://en.wikipedia.org/wiki/Content_delivery_network)
 CDO         | Chief Data Officer
 CDO         | Care Delivery Organizatoin
+CE          | Community Edition
 CEAF        | California Enterprise Architecture Framework
 CEB         | Corporate Executive Board
 CEH         | Certified Ethical Hacker
@@ -393,6 +398,7 @@ ePHI        | Electronically Protected Health Information
 EPLC        | Enterprise Performance Life Cycle 
 EPM         | Enterprise Performance Management 
 EPS         | Extrusion Prevention System (see DLP)
+ERD         | Entity Relationship Diagram 
 ERM         | Enterprise Risk Management 
 ERP         | Enterprise Resource Planning
 ES          | ECMAScript (aka JavaScript)
@@ -636,6 +642,7 @@ LBaaS       | Load-Balancer-as-a-Service
 LCAP        | Low-Code Application Platforms
 LCC         | Lower Camel Case
 LCNC        | Low-Code No-Code
+LDA         | Latent Dirichlet Allocation
 LDA         | [Linear Discriminat Analysis](https://en.wikipedia.org/wiki/Linear_discriminant_analysis)
 LDAP        | [Lightweight Directory Access Protocol](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol)
 LDIF        | [LDAP Data Interchange Format](https://en.wikipedia.org/wiki/LDAP_Data_Interchange_Format), [RFC 2849 The LDAP Data Interchange Format (LDIF) - Technical Specification](https://tools.ietf.org/html/rfc2849)
@@ -645,8 +652,10 @@ LGPL        | (GNU) Lesser General Public License
 LLC         | [Logical Link Control](https://en.wikipedia.org/wiki/Logical_link_control)
 LLM         | Large Language Model
 LoRA        | [Low-Rank Adaptation](https://arxiv.org/abs/2106.09685) (of Large Language Models) [see [Microsoft github repo](https://github.com/microsoft/LoRA)]
+LSA         | Latent Semantic Analysis
 LSA         | Local Service Agreement
 LSM         | [Log-Structured Merge-Tree](https://en.wikipedia.org/wiki/Log-structured_merge-tree)
+LSTM        | Long Short-Term Memory
 LTV         | Lifetime Value
 LU          | Logical Unit  
 LVM         | Logical Volume Manager
@@ -750,6 +759,7 @@ NLG         | Natural Language Generation
 NLP         | Natural Language Processing
 NLS         | Natural Language Support 
 NLU         | Natural Language Understanding
+NMS         | Network Management System 
 NOC         | Network Operations Center 
 NOPAT       | [Net Operating Profit After Tax](https://en.wikipedia.org/wiki/NOPAT)
 NPI         | Non-Public Personal Information (aka NPPI)
@@ -845,6 +855,7 @@ PITR        | Point In Time Recovery
 PKCE        | Proof Key for Code Exchange (pronounced "pixy"), re: [RFC 7636](https://tools.ietf.org/html/rfc7636)
 PKI         | [Public Key Infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure)
 PLM         | Product Lifecycle Management
+PLSA        | Probabilistic Latent Semantic Analysis
 PM          | Program Manager
 PM          | Project Management
 PM          | Project Manager
@@ -908,6 +919,7 @@ QSA         | Qualified Security Assessor
 QSM         | Quantitative Software Management 
 QUIC        | [QUIC](https://en.wikipedia.org/wiki/QUIC) (pronounced "quick") is a general-purpose[2] transport layer[3] network protocol initially designed by Jim Roskind at Google
 R_          |
+R2          | R-Squared
 RA          | Registration Authority
 RAA         | Responsibility, Accountability, Authority 
 RACF        | IBM [Resource Access Control Facility](https://en.wikipedia.org/wiki/Resource_Access_Control_Facility)
@@ -929,12 +941,14 @@ RCA         | Root Cause Analysis
 RCE         | Remote Code Execution
 RCG         | Risk and Controls Group
 RCT         | [Randomized Controlled Trial](https://en.wikipedia.org/wiki/Randomized_controlled_trial)
+RDB         | Relational Database
 RDC         | [Remote Desktop Connection](https://en.wikipedia.org/wiki/Remote_Desktop_Services#Remote_Desktop_Connection)
 RDF         | [Resource Description Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework)
 RDN         | Relative Distinguished Name, re: LDAP
 RDP         | [Remote Desktop Protocol](https://en.wikipedia.org/wiki/Remote_Desktop_Protocol)
 RDS         | Amazon Relational Database Service 
 RDS         | [Remote Desktop Services](https://en.wikipedia.org/wiki/Remote_Desktop_Services)
+ReLU        | Rectified Linear Activation
 REST        | [Representational State Transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)
 RFC         | [Request for Comments](https://en.wikipedia.org/wiki/Request_for_Comments)
 RFI         | Request for Information
@@ -1167,6 +1181,7 @@ TSO         | [Time Sharing Option](https://en.wikipedia.org/wiki/Time_Sharing_O
 TSS         | [Time Sharing Operating System](https://en.wikipedia.org/wiki/TSS_(operating_system)), re: IBM
 TSS         | Technical Security Standards
 TTL         | Time To Live
+TTM         | Time-To-Market 
 TTP         | Trusted Third Party
 TXN         | Transaction
 U_          |
