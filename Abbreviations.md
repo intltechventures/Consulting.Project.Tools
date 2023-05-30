@@ -1011,7 +1011,7 @@ SADS        | Secure Application Development Standards
 SAFe        | Scaled Agile Framework
 SAM         | [Segment Anything Model](https://ai.facebook.com/research/publications/segment-anything/) [re: A Foundation model for image segmentation, from FAIR]
 SAM         | [Serverless Application Model](https://aws.amazon.com/serverless/sam/)
-SAM         | Service Addressable Market
+SAM         | [Serviceable Addressable Market](https://en.wikipedia.org/wiki/Serviceable_available_market)
 SAM         | Successive Approximation Model, created by Allen Interactions 
 SAML        | Security Assertion Markup Language
 SAN         | [Storage Area Networks](https://en.wikipedia.org/wiki/Storage_area_network)
@@ -1096,7 +1096,7 @@ SOC         | Security Operations Center
 SOC         | System and Organization Controls
 SoE         | System of Engagement
 SOLID       | Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion
-SOM         | Service Obtainable Market
+SOM         | Serviceable Obtainable Market
 SONET       | [Synchronous optical networking](https://en.wikipedia.org/wiki/Synchronous_optical_networking)
 SOP         | Standard Operating Procedure
 SOR         | System of Record
@@ -1150,7 +1150,7 @@ T_          |
 T2R2        | Transparent, Traceable, Replicable and Reproducible 
 TAG         | Technical Advisory Group
 TAM         | Technical Account Manager
-TAM         | Total Addressable Market
+TAM         | [Total Addressable Market](https://en.wikipedia.org/wiki/Total_addressable_market)
 TAOC        | [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) (re: by Donald Knuth)
 TAR         | [Tape Archive](https://en.wikipedia.org/wiki/Tar_(computing)) (file format). Aka tarball
 TB          | Terabyte
