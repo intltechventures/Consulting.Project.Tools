@@ -210,6 +210,7 @@ CHAP        | [Challenge-Handshake Authentication Protocol](https://en.wikipedia
 ChatGPT     | Chat Generative Pre-trained Transformer
 CHF         | [Cryptographic Hash Function](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
 CI          | Configuration Item (i.e. in a CMDB, such as ServiceNow)
+CI          | [Continuous Improvement](https://en.wikipedia.org/wiki/Continual_improvement_process)
 CI          | Continuous Integration
 CI/CD       | Continuous Integration / Continuous Delivery (or, Continous Deployment)
 CIA         | Confidentiality, Integrity, Availability
@@ -246,6 +247,7 @@ CORBA       | [Common Object Request Broker Architecture](https://en.wikipedia.o
 CORS        | Cross-Origin Resource Sharing
 COTS        | Commercial Off-The-Shelf
 CPG         | Consumer Packaged Goods (e.g. industry)
+CPM         | Capability Portfolio Management 
 CPU         | [entral Processing Unit](https://en.wikipedia.org/wiki/Central_processing_unit)
 CQRS        | Command Query Responsibility Segregation  
 CRC         | Class Responsibility Collaboration
@@ -327,6 +329,7 @@ DMZ         | [Demilitarized Zone](https://en.wikipedia.org/wiki/DMZ_(computing)
 DN          | Distinguished Name, re: LDAP
 DNAT        | Destination network address translation
 DNS         | [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System)
+DoDAF       | [Department of Defense Architecture Framework](https://en.wikipedia.org/wiki/Department_of_Defense_Architecture_Framework)
 DoS         | Denial of Service 
 DOS         | [Disk Operating System](https://en.wikipedia.org/wiki/DOS)
 DP          | [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
@@ -437,7 +440,8 @@ FHIR        | Fast Healthcare Interoperability Resources (a draft standard descr
 FIDO        | Fast Identity Online
 FIPS        | [Federal Information Processing Standard](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards), re: FIPS PUB 140-2
 FIRST       | Fast Independent Repeatable Self-Validating Timely [(source)](https://dzone.com/articles/writing-your-first-unit-tests)
-FISMA	      | Federal Information Security Management Act 
+FISMA	    | Federal Information Security Management Act 
+FoS         | Families of Systems
 FP          | Functional Programming 
 FPGA        | Field-Programmable Gate Arrays
 FPR         | False Positive Rate
@@ -739,6 +743,7 @@ M&A         | Mergers & Acquisitions
 N_          |
 NA          | North America 
 NA          | Not Applicable
+NAF         | [NATO Architecture Framework](https://en.wikipedia.org/wiki/NATO_Architecture_Framework)
 NAK         | Negative Acknolwedgement
 NAS         | Network Attached Storage 
 NAT         | [Network Address Translation](https://en.wikipedia.org/wiki/Network_address_translation)
@@ -832,11 +837,11 @@ PCA         | [Principlal Component Analysis](https://en.wikipedia.org/wiki/Prin
 PCI DSS     | Payment Card Industry Data Security Standard
 PCR         | Policy Change Request
 PCR         | Project Change Request
-PDCA        | Plan-Do-Check-Adjust (Shewhart’s PDCA cycle, aka the Deming Cycle)
+PDCA        | Plan-Do-Check-{Act | Adjust} (Shewhart’s PDCA cycle, aka the Deming Cycle) [also see PDSA]
 PDSA        | Plan-Do-Study-Act
 PDP         | Policy Decision Point
 PDP         | [Programmed Data Processor](https://en.wikipedia.org/wiki/Programmed_Data_Processor)
-PDSA        | Plan-Do-Stuy-Act
+PDSA        | [Plan-Do-Stuy-Act](https://en.wikipedia.org/wiki/Continual_improvement_process)
 PDU         | [Protocol data unit](https://en.wikipedia.org/wiki/Protocol_data_unit)
 PEAP        | [Protected Extensible Authentication Protocol](https://en.wikipedia.org/wiki/Protected_Extensible_Authentication_Protocol)
 PEFT        | Parameter Efficient Fine Tuning
@@ -869,6 +874,7 @@ POD         | Point of Delivery
 POJO        | [Plain Old Java Object](https://en.wikipedia.org/wiki/Plain_old_Java_object)
 POLDAT      | [Process, Organization and Location (Business Architecture) and Data, Applications and Technology (Systems Architecture)](https://en.wikipedia.org/wiki/POLDAT)
 POLO        | Plain Old Language Objects
+POOGI       | [Process Of Ongoing Improvement](https://en.wikipedia.org/wiki/Continual_improvement_process) [see TOC, Theory of Constraints]
 PoP         | Policy on Policies
 POSIX       | [Portable Operating System Interface](https://en.wikipedia.org/wiki/POSIX)
 POTS        | [Plain old telephone service](https://en.wikipedia.org/wiki/Plain_old_telephone_service)
@@ -1046,6 +1052,7 @@ SDP         | Software Defined Perimeter (also see VPN)
 SDR         | Sales Development Representative
 SDSL        | [Symmetric digital subscriber line](https://en.wikipedia.org/wiki/Symmetric_digital_subscriber_line)
 SE          | Standard Edition
+SE          | Systems Engineering
 SEC         | [U.S. Securities and Exchange Commission](https://en.wikipedia.org/wiki/U.S._Securities_and_Exchange_Commission)
 SEO         | Search Engine Optimization
 SFCC        | [Salesforce Commerce Cloud](https://www.salesforce.com/products/commerce-cloud/overview/)
@@ -1100,6 +1107,7 @@ SOM         | Serviceable Obtainable Market
 SONET       | [Synchronous optical networking](https://en.wikipedia.org/wiki/Synchronous_optical_networking)
 SOP         | Standard Operating Procedure
 SOR         | System of Record
+SoS         | Systems of Systems 
 S.O.S.      | Slower, Older, Smarter
 SOT         | Souce of Truth
 SOW         | Statement of Work
