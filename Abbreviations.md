@@ -1166,6 +1166,7 @@ TFI         | [Office of Terrorism and Financial Intelligence](https://en.wikipe
 TLS         | [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security)
 TM          | Topic Model, re: NER, NLP, DL, ML
 TNR         | True Negative Rate
+TOC         | [Theory of Constraints](https://en.wikipedia.org/wiki/Theory_of_constraints)
 TOC         | Total Ownership Cost (see TCO)
 ToM         | [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind)
 TOM         | Target Operating Model
