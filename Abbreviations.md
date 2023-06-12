@@ -383,6 +383,7 @@ EFF         | [Electronic Frontier Foundation](https://en.wikipedia.org/wiki/Ele
 EFTA        | European Free Trade Association 
 EHR         | Electronic Health Record(s)
 EIP         | [Enterprise Integration Patterns](https://en.wikipedia.org/wiki/Enterprise_Integration_Patterns), re: [[Hophe's EIP Messaging Patterns](https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html]
+EKS         | Amazon [Amazon Elastic Kubernetes Service](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html)
 ELF         | [Executable and Linkable Format](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
 ELT         | Extract, Load, Transform
 EM          | [Expectation Management](https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm) algorithm (re: Machine Learning)
@@ -581,6 +582,7 @@ IRM         | Information Risk Management
 IRM         | Integrated Risk Management
 IRP         | [I/O Request Packet](https://en.wikipedia.org/wiki/I/O_request_packet) [re: Windows Kernel Programming]
 IRR         | [Internal Rate of Return](https://en.wikipedia.org/wiki/Internal_rate_of_return)
+IRSA        | [IAM Roles for Service Accounts](https://docs.aws.amazon.com/eks/latest/userguide/iam-roles-for-service-accounts.html) re: AWS EKS
 IRT         | Incident Response Team
 ISA         | Information Security Architecture 
 ISA         | [Instruction Set Architecture](https://en.wikipedia.org/wiki/Instruction_set_architecture)
@@ -626,6 +628,7 @@ JWKS        | JSON Web Key Set
 JWT         | [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token)
 k8s         | Kubernetes
 K_          |
+KCL         | Kinesis Client Library
 KCSA        | Kubernetes and Cloud Security Associate (KCSA) certification, re: CNCF
 kex         | [key exchange](https://en.wikipedia.org/wiki/Key_exchange)
 KMDF        | [Kernel-Mode Driver Framework](https://en.wikipedia.org/wiki/Kernel-Mode_Driver_Framework)
@@ -823,6 +826,7 @@ P_          |
 P           | Precision
 P&L         | Profit and Loss 
 PaaS        | Platform as a Service, aka aPaaS (i.e., Application Platform as a Service)
+PaLM        | [Pathways Language Model](https://arxiv.org/abs/2204.02311)
 PAM         | Pluggable Authentication Modules
 PAP         | [Password Authentication Protocol](https://en.wikipedia.org/wiki/Password_Authentication_Protocol)
 PAP         | Policy Administration Point
