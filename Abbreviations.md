@@ -97,6 +97,7 @@ ART         | Agile Release Train (re: Scaled Agile Framework, SAFe)
 AS          | Authoritative Source
 ASCII       | [American Standard Code for Information Interchange](https://en.wikipedia.org/wiki/ASCII)
 ASP         | Application Service Provider  
+ASR         | Automatic Speech Recognition
 AST         | Application Security Testing
 ATDD        | Acceptance-Test-Driven-Development
 ATM         | [Asynchronous Transfer Mode](https://en.wikipedia.org/wiki/Asynchronous_Transfer_Mode)
@@ -656,6 +657,7 @@ LDIF        | [LDAP Data Interchange Format](https://en.wikipedia.org/wiki/LDAP_
 LEM         | [Law of Excluded Middle](https://en.wikipedia.org/wiki/Law_of_excluded_middle)
 LeSS        | [Large Scale Scrum](https://less.works/)
 LGPL        | (GNU) Lesser General Public License 
+LID         | Language Identification
 LLC         | [Logical Link Control](https://en.wikipedia.org/wiki/Logical_link_control)
 LLM         | Large Language Model
 LoRA        | [Low-Rank Adaptation](https://arxiv.org/abs/2106.09685) (of Large Language Models) [see [Microsoft github repo](https://github.com/microsoft/LoRA)]
@@ -710,6 +712,7 @@ MIT/LCS     | [Massachusetts Institute of Technology](https://en.wikipedia.org/w
 ML          | Machine Learning 
 MLE         | [Maximum Likelihood Estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
 MLP         | Minimum Lovable Product
+MMS         | Massively Multilingual Speech
 MOA         | Memorandum of Agreement
 MOJO        | [Maven plain Old Java Object](https://maven.apache.org/plugin-developers/index.html)
 MOLAP       | Multidimensional OLAP
@@ -1196,6 +1199,7 @@ TSS         | Technical Security Standards
 TTL         | Time To Live
 TTM         | Time-To-Market 
 TTP         | Trusted Third Party
+TTS         | Text-To-Speech 
 TXN         | Transaction
 U_          |
 UAT         | User Acceptance Testing
