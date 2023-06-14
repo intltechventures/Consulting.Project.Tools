@@ -929,6 +929,7 @@ QNN         | Quanvolutional Neural Network
 QoE         | [Quality of experience](https://en.wikipedia.org/wiki/Quality_of_experience)
 QoS         | [Quality of Service](https://en.wikipedia.org/wiki/Quality_of_service)
 QSA         | Qualified Security Assessor
+QPS         | Queries Per Second
 QSM         | Quantitative Software Management 
 QUIC        | [QUIC](https://en.wikipedia.org/wiki/QUIC) (pronounced "quick") is a general-purpose[2] transport layer[3] network protocol initially designed by Jim Roskind at Google
 R_          |
