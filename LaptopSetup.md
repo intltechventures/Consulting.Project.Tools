@@ -9,6 +9,9 @@
     * MSI GT72 6QE, Intel® Core™ i7-6700HQ, 24GB RAM (DDR4 2133MHz), Three SSD drvies (256GB M.2 SATA, 1TB M.2 SATA, 1TB SATA), 8.4 lbs
 
   + __Secondary Laptop__:
+    * HP Envy, 64GB RAM, 2TB SATA SSD
+
+  + __Emergency Backup Laptop__:
     * Lenovo Ideapad 110-15ACL, AMD A8-7410 2.2Ghz, 8GB RAM (1,600 MHz), 1TB SATA SSD, 4.8 lbs
 
   + [Logitech K540 keyboard](https://www.amazon.com/Logitech-Wireless-Keyboard-Computers-Laptops/dp/B07QY3BJBV)
@@ -349,6 +352,9 @@ __These are the primary software programs that I typically have installed on my 
 
     * https://www.julia-vscode.org/
       * This VS Code extension provides support for the Julia programming language.
+
+    * https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit
+      * C# Dev Kit
 
     * TODO: Research other VS Plugins/Extensions: 
       * Source ideas: 
