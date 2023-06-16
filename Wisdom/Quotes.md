@@ -219,7 +219,13 @@
 - Parkinson's Law: "Work expands so as to fill the time available for its completion." (1955, Economist article)
 
 
-## Wait, TOm
+
+## Sowell, Thomas (an American economist)
+- “There are no solutions. There are only trade-offs.” 
+
+
+
+## Wait, Tom
 - "We are buried beneath the weight of information, which is being confused with knowledge; quantity is being confused with abundance and wealth with happiness. We are monkeys with money and guns.”
 
 
