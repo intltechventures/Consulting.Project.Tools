@@ -362,15 +362,15 @@ EAR			| Export Administration Regulations
 EAR         | [Enterprise Application aRchive (file format)](https://en.wikipedia.org/wiki/EAR_(file_format))
 EBS         | [Amazon Elastic Block Storage](https://en.wikipedia.org/wiki/Amazon_Elastic_Block_Store)
 EBV         | [Equiangular-Basis-Vectors](https://arxiv.org/abs/2303.11637)
-EC          | European Commission
-EC2         | [Amazon Elastic Compute Cloud](https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud)
-ECA         | Embodied Conversational Agent(s)
-eCF or e-CF | [European e-Competence Framework](https://esco.ec.europa.eu/en/about-esco/escopedia/escopedia/european-e-competence-framework-e-cf)
 EBCIDIC     | [Extended Binary Coded Decimal Interchange Code](https://en.wikipedia.org/wiki/EBCDIC)
 EBIT        | [Earnings Before Interest & Tax](https://en.wikipedia.org/wiki/Earnings_before_interest_and_taxes)
 EBITDA      | [Earnings Before Interest, Taxes, Depreciation and Amortization](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation_and_amortization)
 eBPF        | [extended Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter) - see BPF
 EBS         | Elastic Block Storage (AWS)
+EC          | European Commission
+EC2         | [Amazon Elastic Compute Cloud](https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud)
+ECA         | Embodied Conversational Agent(s)
+eCF or e-CF | [European e-Competence Framework](https://esco.ec.europa.eu/en/about-esco/escopedia/escopedia/european-e-competence-framework-e-cf)
 EDA         | Enterprise Data Architecture
 EDA         | Event-Driven Architecture 
 EDA         | Exploratory Data Analysis
