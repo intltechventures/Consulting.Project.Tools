@@ -430,8 +430,9 @@ FBDI        | File-Based Data Import
 FC          | Fulfillment Center, i.e., a third-party logics (3PL) warehouse
 FCF         | [Free Cash Flow](https://en.wikipedia.org/wiki/Free_cash_flow)
 FCFO        | [Free Cash Flow From Operations](https://en.wikipedia.org/wiki/Operating_cash_flow)
-FCoE        | Fibre Channel over Ethernet 
 FCM         | [Firebase Cloud Messaging](https://en.wikipedia.org/wiki/Firebase_Cloud_Messaging)
+FCoE        | Fibre Channel over Ethernet 
+FCP         | [First Contentful Paint](https://web.dev/fcp/)
 FDDI        | [Fiber Distributed Data Interface](https://en.wikipedia.org/wiki/Fiber_Distributed_Data_Interface)
 FDL         | (GNU) Free Documentation License
 FHE         | Fully [Homomorphic Encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption) (e.g., [IBM](https://www.ibm.com/security/services/homomorphic-encryption_))
