@@ -25,6 +25,7 @@ AC          | [Axiom of Choice](https://en.wikipedia.org/wiki/Axiom_of_choice)
 ACE         | Access Control Entry
 ACG         | Automatic Code Generators
 ACH         | [Automated Clearing House](https://en.wikipedia.org/wiki/Automated_clearing_house)
+ACI         | Artificial Capable Intelligence
 ACID        | [Atomicity, Consistency, Isolation, and Durability](https://en.wikipedia.org/wiki/ACID)
 ACK         | Acknowledgement
 ACL         | Access Control List
