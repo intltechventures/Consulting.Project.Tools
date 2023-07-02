@@ -517,6 +517,7 @@ HOLAP       | Hybrid OLAP
 HOT         | Heap Oriented Tuples
 HPC         | Horizontal Pod Autoscaling (Kubernetes)
 HRAA        | Highly Restricted Access Area
+HSM         | Hardware Security Module
 HSPI        | Highly Sensitive Protected Information
 HTML        | Hyper Text Markup Language
 HTTP        | [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
@@ -1081,6 +1082,7 @@ SIKE        | [Supersingular Isogeny Key Exchange](https://en.wikipedia.org/wiki
 SIMD        | [Single InstructionStream, Multiple Data Streams](https://en.wikipedia.org/wiki/SIMD)
 SIP         | [Session Initiation Protocol](https://en.wikipedia.org/wiki/Session_Initiation_Protocol)
 SIPOC       | Supplier, Input, Process, Output, Customer
+SIRT        | Security Intelligence Response Team
 SISD        | [Single Instruction Stream, Single Data Stream](https://en.wikipedia.org/wiki/SISD)
 SIT         | [System Integration Testing](https://en.wikipedia.org/wiki/System_integration_testing)
 SKU         | [Stock Keeping Unit](https://en.wikipedia.org/wiki/Stock_keeping_unit)
