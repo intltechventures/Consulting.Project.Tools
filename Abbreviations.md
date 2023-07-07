@@ -71,6 +71,7 @@ AMQP        | [Advanced Message Queuing Protocol](https://en.wikipedia.org/wiki/
 ANC         | Adaptive Network Control
 ANN         | Artificial Neural Network
 ANSI        | [American National Standards Institute](https://en.wikipedia.org/wiki/American_National_Standards_Institute)
+AOL         | Attorney Opinion Letters 
 AOP         | Aspect Oriented Programming
 AOT         | Ahead of Time (i.e. compiled ahead of time)
 AP          | Access Point 
