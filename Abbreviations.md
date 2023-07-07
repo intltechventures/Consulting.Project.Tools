@@ -1312,4 +1312,4 @@ zkEVM       | [zero-knowledge Ethereum Virtual Machine](https://blog.chain.link/
 ZKP         | [Zero Knowledge Proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
 ZT          | Zero Trust
 ZTA         | [Zero Trust Architecture](https://csrc.nist.gov/publications/detail/sp/800-207/final)
-
+ZTNA        | Zero Trust Network Access 
