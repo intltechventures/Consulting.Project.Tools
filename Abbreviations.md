@@ -496,6 +496,7 @@ GRE         | Generic Routing Encapsulation
 GRO         | Generic Receive Offload
 GRU         | Gated Recurrent Unit
 GSM         | [Global System for Mobile Communications](https://en.wikipedia.org/wiki/GSM) 
+GTM         | Go-To-Market (re: strategy)
 GUC         | Global User Configuration 
 GUI         | [Graphical User Interface](https://en.wikipedia.org/wiki/Graphical_user_interface)
 GUID        | [Globally Unique Identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier) - see UUID
