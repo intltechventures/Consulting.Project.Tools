@@ -1019,6 +1019,7 @@ RTR         | Record-to-Report
 RTSP        | [Real Time Streaming Protocol](https://en.wikipedia.org/wiki/Real_Time_Streaming_Protocol)
 RTT         | Round-Trip Time  
 RTO         | Recovery Time Objective  
+RUM         | Real User Measurements
 RSA         | [Rivest–Shamir–Adleman](https://en.wikipedia.org/wiki/RSA_(cryptosystem)), re: one of the first public-key cryptosystems)
 RSG         | Risk Strategy & Governance
 S_          |
