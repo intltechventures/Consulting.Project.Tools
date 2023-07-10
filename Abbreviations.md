@@ -768,6 +768,7 @@ NER         | Named Entity Recognition, re: ML
 NeRF        | Neural Radiance Fields (re: Deep Learning, optimizing continuous volumetric scene function)
 NFS         | Network File System 
 NFT         | [Non-Fungible Token](https://en.wikipedia.org/wiki/Non-fungible_token)
+NFV         | [Network Function Virtualization](https://en.wikipedia.org/wiki/Network_function_virtualization)
 NIDS        | Network Intrusion Detection System (see IDS)
 NIST        | [National Institute for Standards and Technology](https://www.nist.gov/)
 NISQ        | Noisy Intermediate-Scale Quantum (NISQ) computers
