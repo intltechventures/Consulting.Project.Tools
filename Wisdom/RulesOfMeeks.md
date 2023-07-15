@@ -84,7 +84,7 @@
 **\#009 - "Life is too short to put up with leaders who are assholes, or incompetent"**
 
 
-**\#010 - "Walk out the door any time someone  asks you to lie, cheat, steal, or in any way break the law"**
+**\#010 - "Walk out the door any time someone asks you to lie, cheat, steal, or in any way break the law"**
 
 
 
@@ -133,6 +133,9 @@ changes you"**
 
 
 **\#113 - "Plan for the Marathon. Train for the sprint."**
+
+
+**\#114 - "Communication is the foundation stone of success - it is the circulatory system of any organization. When prohibitions are instituted against communication within an organization - that organization has chosen death by sepsis"**
 
 
 
@@ -320,6 +323,7 @@ changes you"**
 
 **\#803 - "Never release on a Friday"**
   * Also a truism in saling: "_Never start a voyage on a Friday_"
+
 
 
 
