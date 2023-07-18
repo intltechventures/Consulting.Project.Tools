@@ -271,6 +271,7 @@ CSM         | Customer Service Management
 CSM         | Customer Success Manager
 CSR         | Customer Service Representative
 CSR         | Certificate Signing Request 
+CSRF        | Cross-Site Request Forgery 
 CSS         | [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 CTB         | Change The Business
 CTO         | Chief Technology Officer  
@@ -549,6 +550,7 @@ IDCG        | Ideal Discounted Cumulative Gain
 IDD         | Infrastructure Design Document
 IDDFS       | Iterative Deepening Depth First Search
 IDE         | Integrated Development Environment    
+IDEA        | [Imagine, Decide, Execute, Assess](https://www.infoq.com/articles/nuture-culture-continuous-experimentation/)
 IDL         | [Interface Description Language](https://en.wikipedia.org/wiki/Interface_description_language)
 IdM         | Identity Management, also see IAM
 IdP         | Identity Provider
@@ -1020,7 +1022,7 @@ RTR         | Record-to-Report
 RTSP        | [Real Time Streaming Protocol](https://en.wikipedia.org/wiki/Real_Time_Streaming_Protocol)
 RTT         | Round-Trip Time  
 RTO         | Recovery Time Objective  
-RUM         | Real User Measurements
+RUM         | Real User Measurements (or Monitoring)
 RSA         | [Rivest–Shamir–Adleman](https://en.wikipedia.org/wiki/RSA_(cryptosystem)), re: one of the first public-key cryptosystems)
 RSG         | Risk Strategy & Governance
 S_          |
@@ -1304,6 +1306,7 @@ XP          | eXtreme Programming
 XR          | Extended Reality
 XSL         | XML Style Language 
 XSLT        | [eXtensible Stylesheet Language Transformations](https://en.wikipedia.org/wiki/XSLT)
+XSS         | Cross-Site Scripting 
 Y_          |
 YAGNI       | You Aren't Gonna Need It 
 YAS         | Yet Another Silo
