@@ -130,7 +130,7 @@ BDUF        | Big Design Up Front
 BEC         | Business Executive Committee 
 BFT         | Byzantine Fault Tolerant
 BFO         | [Basic Formal Ontology](https://basic-formal-ontology.org/)
-BGP         | Border Gateway Protocol
+BGP         | [Border Gateway Protocol](https://en.wikipedia.org/wiki/Border_Gateway_Protocol)
 BHAG        | Big Hairy Audacious Goal
 BI          | Business Intelligence
 BIA         | Business Impact Analysis | Assessemnt
