@@ -7,6 +7,11 @@
 - “Make It Work, Make It Right, Make It Fast”
 
 
+
+## Box, George E.P.
+- "All models are wrong, but some are useful."
+
+
 ## Boyd, Colonel John
 - Boyd's Law: "Speed of iteration beats quality of iteration."
 
