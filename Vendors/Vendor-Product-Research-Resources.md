@@ -1,5 +1,5 @@
 
-# Vendor Research Resources
+# Vendor/Product Research Resources
 
 - https://alternativeto.net/
 
