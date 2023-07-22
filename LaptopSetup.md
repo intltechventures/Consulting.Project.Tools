@@ -709,6 +709,13 @@ __These are the primary software programs that I typically have installed on my 
 
 - [Libre Office](https://www.libreoffice.org/)
   + https://wiki.documentfoundation.org/Feature_Comparison:_LibreOffice_-_Microsoft_Office
+  + https://extensions.libreoffice.org/
+    * https://extensions.libreoffice.org/en/extensions/show/vrt-network-equipment
+    * https://extensions.libreoffice.org/en/extensions/show/icon-gallery
+    * https://extensions.libreoffice.org/en/extensions/show/gui-widget-prototyping
+    * https://extensions.libreoffice.org/en/extensions/show/smartart-objects-workaround-template
+
+
 
 - [Scrivner](https://www.literatureandlatte.com/scrivener) 
 
