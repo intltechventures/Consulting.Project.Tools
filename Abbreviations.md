@@ -575,6 +575,7 @@ IoT         | Internet of Things
 IP          | Intellectual Property  
 IP          | Internet Protocol  
 iPaaS       | Infrastructure Platform as a Service
+iPaaS       | Integration Platform as a Service 
 IPAM        | IP Address Management 
 IPC         | Information Proteciton and Control (see DLP)
 IPC         | [Inter-Process Communication](https://en.wikipedia.org/wiki/Inter-process_communication)
@@ -948,6 +949,7 @@ RAA         | Responsibility, Accountability, Authority
 RACF        | IBM [Resource Access Control Facility](https://en.wikipedia.org/wiki/Resource_Access_Control_Facility)
 RACI        | Responsible, Accountable, Consulted, Informed
 RAD         | Rapid Application Development 
+RAG         | [Retrieval-Augmented Generation](https://arxiv.org/abs/2005.11401)
 RAG         | Red, Amber (Yellow), Green (see: [Traffic Light Rating System](https://en.wikipedia.org/wiki/Traffic_light_rating_system))
 RAID        | Redundant Array of Independent Disks
 RAM         | Random Access Memory
