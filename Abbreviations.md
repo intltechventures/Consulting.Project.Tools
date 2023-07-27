@@ -286,6 +286,7 @@ CXN         | Customer Experience Network
 D_          | 
 DA          | Data Architecture 
 DAC         | [Discretionary Access Control](https://en.wikipedia.org/wiki/Discretionary_access_control)
+DAG         | [Directed Acyclic Graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
 DAP         | Directory Access Protocol (X.500)
 DAR         | Decision Analysis and Resolution technique
 DARPA       | Defense Advanced Research Projects Agency
