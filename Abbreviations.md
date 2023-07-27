@@ -328,6 +328,7 @@ DLT         | Distributed Ledger Technology
 DKIM        | [Domain Keys Identified Mail](https://en.wikipedia.org/wiki/DomainKeys_Identified_Mail)
 DMAIC       | [Define, Measure, Analayze, Improve, Control](https://en.wikipedia.org/wiki/DMAIC) (re: Six Sigma)
 DMARC       | [Domain-based Message Authentication Reporting and Conformance](https://en.wikipedia.org/wiki/DMARC)
+DML         | Double Machine Learning
 DMN         | Demand
 DMO         | Data Management Office 
 DMZ         | [Demilitarized Zone](https://en.wikipedia.org/wiki/DMZ_(computing)) - aka perimeter network or [screened subnet](https://en.wikipedia.org/wiki/Screened_subnet)
@@ -585,6 +586,7 @@ IPS         | Intrusion Prevention System
 IPSec       | [Internet Protocol Security](https://en.wikipedia.org/wiki/IPsec)
 IPv4        | [Internet Protocol version 4](https://en.wikipedia.org/wiki/IPv4)
 IPv6        | [Internet Protocol version 6](https://en.wikipedia.org/wiki/IPv6)
+IPW         | Inverse Probability Weighting
 IPX         | [Internetwork Packet Exchange](https://en.wikipedia.org/wiki/Internetwork_Packet_Exchange)
 IR          | Information Retrieval 
 IRM         | Individual Rights Management
@@ -917,6 +919,7 @@ PRR         | Production Readiness Reviews
 PRT         | Portfolio
 PSD2        | [Payment Services Directive](https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines_202006_psd2_afterpublicconsultation_en.pdf) (Directive 2015/2366/EU of the European Parliament andof the Council of 23 December 2015)
 PSM         | Persistent Stored Modules
+PSM         | Propensity Score Matching
 PSTN        | [Public switched telephone network](https://en.wikipedia.org/wiki/Public_switched_telephone_network)
 PTP         | Procure-to-Pay
 PUP         | [PARC Universal Packet](https://en.wikipedia.org/wiki/PARC_Universal_Packet)
@@ -1171,6 +1174,7 @@ STAR        | Security Trust Assurance and Risk
 STM-1       | [Synchronous Transport Module level-1](https://en.wikipedia.org/wiki/STM-1)
 STS         | Security Token Service
 SuD         | System Under Discussion (re, see book: [Writing Effective Use Cases](https://www.amazon.com/Writing-Effective-Cases-Alistair-Cockburn/dp/0201702258))
+SUTVA       | [Stable Unit Treatment Value Assumption](https://en.wikipedia.org/wiki/Rubin_causal_model#Stable_unit_treatment_value_assumption_(SUTVA)) 
 SVG         | [Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 SW          | Software
 SWAG        | Silly Wild-Ass Guess (also see ROM), aka an estimate 
