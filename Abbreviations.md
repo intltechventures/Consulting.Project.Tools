@@ -435,6 +435,7 @@ FATF        | Financial Action Task Force
 FBA         | [Fixed-Block Architecture](https://en.wikipedia.org/wiki/Fixed-block_architecture)
 FBDI        | File-Based Data Import
 FC          | Fulfillment Center, i.e., a third-party logics (3PL) warehouse
+FCI         | [Fast Causal Inference](https://causal-learn.readthedocs.io/en/latest/search_methods_index/Constraint-based%20causal%20discovery%20methods/FCI.html) algorithm
 FCF         | [Free Cash Flow](https://en.wikipedia.org/wiki/Free_cash_flow)
 FCFO        | [Free Cash Flow From Operations](https://en.wikipedia.org/wiki/Operating_cash_flow)
 FCM         | [Firebase Cloud Messaging](https://en.wikipedia.org/wiki/Firebase_Cloud_Messaging)
@@ -477,6 +478,7 @@ GCHQ        | British intelligence agency [Government Communications Headquarter
 GCP         | Google Cloud Platfrom
 GDG         | Generation Date Group
 GDPR        | Genera Data Protection Regulation (re: EU)
+GFCI        | Greedy Fast Causal Interference (GFCI) Algorithm 
 GIL         | [Global Interpreter Lock](https://en.wikipedia.org/wiki/Global_interpreter_lock)
 GIN         | Generalized Inverted Index
 GIST        | Generalized Search Tree
