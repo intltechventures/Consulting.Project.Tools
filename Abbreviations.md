@@ -694,6 +694,7 @@ MAD         | [Mean absolute deviation](https://en.wikipedia.org/wiki/Average_ab
 MAD         | [Median absolution deviation](https://en.wikipedia.org/wiki/Median_absolute_deviation)
 MAE         | Mean Absolute Error
 MAMOS       | [Methods, Architecture, Management, Organization, Skills](https://qeunit.com/mamos/)
+MAPE        | Mean Absolute Percentage Error
 MAO         | Maximum Acceptable Outage
 MAP         | Mean Average Precision
 MAU         | Monthly Active Users
