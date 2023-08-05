@@ -417,8 +417,10 @@ ERP         | Enterprise Resource Planning
 ES          | ECMAScript (aka JavaScript)
 ESA         | Enterprise Solution Architecture
 ESG         | Environmental, Social, and Governance
-ESO         | European Standards Organization 
+ESO         | European Standards Organization
+ESOP        | Employment Stock Ownership Plan
 ESP         | [Event Stream Processing](https://en.wikipedia.org/wiki/Event_stream_processing)
+ESPP        | Employee Stock Purchase Plan
 ETL         | Extract, Transform, Load
 ETSI        | [European Telecommunications Standards Institute](https://en.wikipedia.org/wiki/ETSI)
 EU          | European Union 
@@ -883,6 +885,7 @@ PIN         | Personal Identification Number
 PIR         | Post Incident Review
 PIT         | Platform Information Technology
 PITR        | Point In Time Recovery
+PIU         | Profits Interests Units [a form of equity compensation typically issued by limited liability companies (LLCs) and are popular with private equity investors as a way to incentivize management. PIUs are based on the company's future value and are awarded to employees for their services to the company.] 
 PKCE        | Proof Key for Code Exchange (pronounced "pixy"), re: [RFC 7636](https://tools.ietf.org/html/rfc7636)
 PKI         | [Public Key Infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure)
 PLM         | Product Lifecycle Management
@@ -1038,6 +1041,7 @@ RTO         | Recovery Time Objective
 RUM         | Real User Measurements (or Monitoring)
 RSA         | [Rivest–Shamir–Adleman](https://en.wikipedia.org/wiki/RSA_(cryptosystem)), re: one of the first public-key cryptosystems)
 RSG         | Risk Strategy & Governance
+RSU         | Restricted Stock Units
 S_          |
 SA          | Solution Architect
 SaaS        | [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service)
