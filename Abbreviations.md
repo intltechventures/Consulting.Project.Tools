@@ -739,6 +739,7 @@ MOU         | Memorandum of Understanding
 MQL         | Marketing Qualified Lead
 MRA         | Matters Requiring Attention
 MRC         | Management Risk Committee
+MRD         | [Marketing Requitements Document](https://en.wikipedia.org/wiki/Market_requirements_document)
 MRR         | Monthly Recurring Revenue
 MSA         | Microservices Architecture  
 MSA         | Master Service Agreement
@@ -916,7 +917,7 @@ PR          | Proposed Recommendation
 PR          | Pull Request
 PR          | Purchase Request
 PRC         | Product Review Committee
-PRD         | Product Requirement Document
+PRD         | [Product Requirements Document](https://en.wikipedia.org/wiki/Product_requirements_document)
 PRJ         | Project
 PRNG        | [Pseudorandom Number Generator](https://en.wikipedia.org/wiki/Pseudorandom_number_generator)
 PRM         | Program
