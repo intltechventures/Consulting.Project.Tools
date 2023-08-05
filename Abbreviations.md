@@ -103,6 +103,7 @@ ASR         | Automatic Speech Recognition
 AST         | Application Security Testing
 ATDD        | Acceptance-Test-Driven-Development
 ATE         | [Averate Treatment Effect](https://en.wikipedia.org/wiki/Average_treatment_effect)
+ATF         | Automated Test Framework
 ATM         | [Asynchronous Transfer Mode](https://en.wikipedia.org/wiki/Asynchronous_Transfer_Mode)
 AUC         | [Area Under the Curve](https://en.wikipedia.org/wiki/Receiver_operating_characteristic#Area_under_the_curve)
 AUC-ROC     | Area Under Curve – Receiver Operating Characteristics Curve
