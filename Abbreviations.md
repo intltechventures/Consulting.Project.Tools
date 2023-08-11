@@ -455,6 +455,7 @@ FIDO        | Fast Identity Online
 FIPS        | [Federal Information Processing Standard](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards), re: FIPS PUB 140-2
 FIRST       | Fast Independent Repeatable Self-Validating Timely [(source)](https://dzone.com/articles/writing-your-first-unit-tests)
 FISMA	    | Federal Information Security Management Act 
+FMEA        | Failure Mode and Effects Analysis
 FoS         | Families of Systems
 FP          | Functional Programming 
 FPGA        | Field-Programmable Gate Arrays
