@@ -522,6 +522,7 @@ HEF         | Human Error Factor
 HICP        | High Impact Control Plane
 HIPPA       | Health Insurance Portability and Accountability Act of 1996
 HiPPO       | [Highly Paid Person's Opinion](https://architectelevator.com/cloud/selecting-cloud-provider/)
+Hipster     | [Health IoT Privacy and Security Transferred to Engineering Requirements](https://www.lancaster.ac.uk/security-lancaster/research/hipster/) 
 HITRUST     | Health Information Trust Alliance
 HLD         | High-Level Design  
 HLP         | Human Level Performance (re: Machine Learning)
@@ -749,6 +750,7 @@ MSA         | Microservices Architecture
 MSA         | Master Service Agreement
 MSE         | Mean Squared Error
 MSP         | [Managed Service Provider](https://en.wikipedia.org/wiki/Managed_services)
+MSRC        | Microsoft Security Response Center team
 MTD         | Maximum Tolerable Downtime
 MTDL        | Maximum Tolerable Data Loss
 mTLS        | Mutual Transport Layer Security (or, Mutually Authenticated TLS)
