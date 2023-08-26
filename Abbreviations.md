@@ -82,6 +82,7 @@ API         | [Application Programming Interface ](https://en.wikipedia.org/wiki
 APM         | Application Portfolio Management  
 APM         | [Application Performance Management](https://en.wikipedia.org/wiki/Application_performance_management)
 APM         | Application Performance Monitoring
+APNIC       | Asia Pacific Network Information Centre
 APNS        | [Apple Push Notification service](https://en.wikipedia.org/wiki/Apple_Push_Notification_service)
 APO         | Automatic Prompt Optimization
 AP@N        | Average Precision
@@ -127,6 +128,8 @@ BCP         | Business Continuity Planning (or Plan)
 BDAM        | IBM [Basic Direct Access Method](https://en.wikipedia.org/wiki/Basic_direct_access_method)
 BDB         | Biometric Data Block
 BDD         | [Behavior-Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
+BDR         | Business Development Resources
+BDR         | Business Development Representative 
 BDS `       | Boot Device Selection
 BDUF        | Big Design Up Front
 BEC         | Business Executive Committee 
@@ -816,6 +819,7 @@ OCM         | [Organizational Change Management](https://en.wikipedia.org/wiki/C
 OCTAVE      | Operationally Critical Threat, Asset, and Vulnerability Evaluation 
 OData       | Open Data Protocol 
 ODBC        | Open Database Connectivity
+OOBE        | Out-of-Box Experience
 OFAC        | [Office of Foreign Assets Control](https://en.wikipedia.org/wiki/Office_of_Foreign_Assets_Control)
 OGL         | [Open Game License](https://en.wikipedia.org/wiki/Open_Game_License) (re: Wizards of the Coast D&D public copyright license)
 OIA         | [Office of Intelligence and Analysis](https://en.wikipedia.org/wiki/Office_of_Intelligence_and_Analysis_(Treasury_Department))
@@ -874,6 +878,7 @@ PDP         | Policy Decision Point
 PDP         | [Programmed Data Processor](https://en.wikipedia.org/wiki/Programmed_Data_Processor)
 PDSA        | [Plan-Do-Stuy-Act](https://en.wikipedia.org/wiki/Continual_improvement_process)
 PDU         | [Protocol data unit](https://en.wikipedia.org/wiki/Protocol_data_unit)
+PE          | [Private Equity](https://www.investopedia.com/terms/p/privateequity.asp) 
 PEAP        | [Protected Extensible Authentication Protocol](https://en.wikipedia.org/wiki/Protected_Extensible_Authentication_Protocol)
 PEFT        | Parameter Efficient Fine Tuning
 PEM         | Privacy Enhanced Mail
@@ -1261,6 +1266,7 @@ VAE         | Variational Autoencoders
 VAPT        | [Vulnerability Assessment and Penetration Testing](https://en.wikipedia.org/wiki/Vulnerability_assessment_(computing)#Vulnerability_assessment_vs_penetration_testing)
 VAX         | [Virtual Address eXtension](https://en.wikipedia.org/wiki/VAX_)
 VAS         | Value-Added Services
+VC          | Venture Capital 
 vCPU        | Virtual Central Processing Unit
 VDI         | [Virtual Desktop Infrastructure](https://en.wikipedia.org/wiki/Desktop_virtualization#Remote_desktop_virtualization)
 VEX         | [Software-Exploitability eXchange](https://ntia.gov/files/ntia/publications/vex_one-page_summary.pdf)
