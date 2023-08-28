@@ -151,6 +151,7 @@ BNS         | Business Needs Statement
 BOD         | Binding Operational Directive 
 BOF         | Buffer Overflow 
 BoK         | Body of Knowledge 
+BOM         | Bill of Matrials
 BOOTP       | [Bootstrap Protocol](https://en.wikipedia.org/wiki/Bootstrap_Protocol)
 BOSS        | Business Operation Support Services 
 BPF         | [Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter) - see eBPF
@@ -742,6 +743,7 @@ MOJO        | [Maven plain Old Java Object](https://maven.apache.org/plugin-deve
 MOLAP       | Multidimensional OLAP
 MoM         | Month-on-Month
 MOM         | Message Oriented Middleware
+MOQ         | Minimum Order Quantity
 MOTS        | Modified Off-The-Shelf 
 MOU         | Memorandum of Understanding
 MQL         | Marketing Qualified Lead
