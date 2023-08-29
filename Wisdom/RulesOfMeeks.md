@@ -92,6 +92,7 @@
 ====
 
 **\#101 - "Within chaos and volatility - there is opportunity"**
+  * Traditional Chinese proverb
 
 
 **\#102 - "People make choices, and there are consequences"**
@@ -112,7 +113,7 @@
 **\#107 - "If at all possible, avoid doing business with anyone that wears cufflinks (as part of their normal business attire)"**
 
 
-**\#108 - "If at all possible, avoid doing business with anyone that wears their hair in a douchebag topknot"**
+**\#108 - "If at all possible, avoid doing business with Tech Bros"**
 
 
 **\#109 - "Don't do stupid shit"**
