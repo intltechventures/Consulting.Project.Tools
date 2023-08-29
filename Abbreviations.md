@@ -255,6 +255,7 @@ COI         | Community of Interest
 CoP         | Community of Practice 
 CORBA       | [Common Object Request Broker Architecture](https://en.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture)
 CORS        | Cross-Origin Resource Sharing
+COSS        | Commercial Open Source Software 
 COTS        | Commercial Off-The-Shelf
 CPG         | Consumer Packaged Goods (e.g. industry)
 CPM         | Capability Portfolio Management 
