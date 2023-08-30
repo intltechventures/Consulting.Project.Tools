@@ -308,6 +308,7 @@ DAU         | Daily Active Users
 DB          | Database
 DBA         | Database Administrator
 DBMS        | Database Management System
+DBR         | [Drum-Buffer-Rope](https://en.wikipedia.org/wiki/Theory_of_constraints#Operations) (re: see TOC, also see [#1](https://www.velocityschedulingsystem.com/blog/drum-buffer-rope/))
 dc          | [Domain Component](https://en.wikipedia.org/wiki/Domain_Name_System), re: LDAP
 DC          | Data Center  
 DCAM        | [Data Management Capability Assessment Model](https://edmcouncil.org/frameworks/dcam/)
@@ -1054,6 +1055,7 @@ RSA         | [Rivest–Shamir–Adleman](https://en.wikipedia.org/wiki/RSA_(cry
 RSG         | Risk Strategy & Governance
 RSU         | Restricted Stock Units
 S_          |
+S-DBR       | [Simplified Drum-Buffer-Rope](https://en.wikipedia.org/wiki/Theory_of_constraints#Operations)
 SA          | Solution Architect
 SaaS        | [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service)
 SABSA       | [Sherwood Applied Business Security Architecture](https://en.wikipedia.org/wiki/Sherwood_Applied_Business_Security_Architecture) 
@@ -1313,7 +1315,7 @@ WCET        | [Worst-Case Execution Time](https://en.wikipedia.org/wiki/Worst-ca
 WD          | Working Draft
 WDM         | [Windows Driver Model](https://en.wikipedia.org/wiki/Windows_Driver_Model)    
 Wi-Fi       | Wireless Fidelity
-WIP         | Work nn Progress
+WIP         | Work in Progress
 WISP        | [Wireless Internet service provider](https://en.wikipedia.org/wiki/Wireless_Internet_service_provider)
 WLM         | Work Lifecycle Management
 WMS         | Warehouse Management System
