@@ -277,6 +277,7 @@ CSF         | Common Security Framework
 CSI         | Container Storage Interface (e.g. Kubernetes)
 CSM         | Customer Service Management 
 CSM         | Customer Success Manager
+CSP         | [Content Security Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) 
 CSR         | Customer Service Representative
 CSR         | Certificate Signing Request 
 CSRF        | Cross-Site Request Forgery 
