@@ -102,6 +102,9 @@
 - Metcalfe's Law: "The value of a network grows as the square of the number of its users."
 
 
+## Minsky, Hyman (US economist)
+- "Stability leads to instability. The more stable things become and the longer things are stable, the more unstable they will be when the crisis hits."
+
 
 ## Murphy, Capt. Edward A. (USAF, 1949)
 - "If there is any way to do it wrong, someone will."
