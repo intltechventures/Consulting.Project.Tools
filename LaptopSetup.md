@@ -864,6 +864,15 @@ __These are the primary software programs that I typically have installed on my 
     * 1.0.0.1
 
 
+- [Disable Google Chrome Privacy Sandbox](https://www.bleepingcomputer.com/news/google/google-rolls-out-privacy-sandbox-to-use-chrome-browsing-history-for-ads/):
+  + If you do not wish to use Google's Privacy Sandbox, it is possible to disable it in Google Chrome.
+  + To disable the Privacy Sandbox in Google Chrome, follow these steps:
+    * Go to Settings > Privacy & security > Ad privacy
+    * To disable each feature, click on Ad Topics and toggle the feature so its disabled. 
+    * Do the same thing for Site-suggested ads and Ad measurement also to turn those features off.
+    * Once all three options are disabled, the Privacy Sandbox feature will be disabled in its entirety.
+    
+
 
 ## Windows Environment Variables
 
