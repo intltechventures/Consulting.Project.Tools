@@ -180,6 +180,7 @@ CAB         | Change Advisory Board
 CaC         | Compliance as Code
 CAC         | Customer Acquisition Cost
 CAP         | Consistency, Availability, Partition Tolerance  
+CapEx       | [Capital Expenditure](https://en.wikipedia.org/wiki/Capital_expenditure)
 CAS         | [Compare-And-Swap | Compare-And-Set](https://en.wikipedia.org/wiki/Compare-and-swap)
 CAT         | Customer Advisory Team
 CATEs       | [Conditional Average Treatment Effects](https://en.wikipedia.org/wiki/Average_treatment_effect)
@@ -361,6 +362,7 @@ DSML        | Data Science and Machine Learning
 DSN         | Data Source Name  
 DSRP        | [Distinctions, Systems, Relationships, and Perspectives](https://en.wikipedia.org/wiki/DSRP)
 DSS         | Data Security Standard
+DTAP        | Development, Test, Acceptance, Production (i.e, typical deployment environment types) 
 DTC         | direct-to-consumer
 DTO         | [Data Transfer Object](https://en.wikipedia.org/wiki/Data_transfer_object)
 DVI         | [Device Independent file format](https://en.wikipedia.org/wiki/Device_independent_file_format)
@@ -847,7 +849,7 @@ OODA        | [Observe-Orient-Decide-Act](https://en.wikipedia.org/wiki/OODA_loo
 OOP         | Object Oriented Programming 
 OOTB        | Out Of The Box
 OPA         | Open Policy Agent
-OPEX        | Operational Expense 
+OpEx        | [Operational Expense](https://en.wikipedia.org/wiki/Operating_expense)
 OPS         | Operations
 ORC         | Operational Risk Committee 
 OSF         | [Open Software Foundation](https://en.wikipedia.org/wiki/Open_Software_Foundation)
@@ -916,6 +918,7 @@ POD         | Point of Delivery
 POJO        | [Plain Old Java Object](https://en.wikipedia.org/wiki/Plain_old_Java_object)
 POLDAT      | [Process, Organization and Location (Business Architecture) and Data, Applications and Technology (Systems Architecture)](https://en.wikipedia.org/wiki/POLDAT)
 POLO        | Plain Old Language Objects
+PoLP        | Principle of Least Privilege 
 POOGI       | [Process Of Ongoing Improvement](https://en.wikipedia.org/wiki/Continual_improvement_process) [see TOC, Theory of Constraints]
 PoP         | Policy on Policies
 POSIX       | [Portable Operating System Interface](https://en.wikipedia.org/wiki/POSIX)
@@ -1085,6 +1088,7 @@ SCA         | Security Composition Analysis
 SCADA       | Supervisory Control and Data Acquisition
 SCAP        | [Security Content Automation Protocol](https://en.wikipedia.org/wiki/Security_Content_Automation_Protocol)
 SCC         | Strongly Connected Components (re: [Parsel AI framework](https://www.infoq.com/news/2023/02/parsel-code-generation/)
+SCD         | Slowly Changing Dimension
 SCI         | Sensitive Compartmented Information 
 SCIM        | System for Cross-Domain Identity Management (re: [RFC7644](https://www.rfc-editor.org/rfc/rfc7644.html))
 SCP         | Service Control Policy
@@ -1111,6 +1115,7 @@ SFRA        | [Storefront Reference Architecture](https://documentation.b2c.comm
 SFTP        | Secure File Transfer Protocol
 SFPF        | Senior Foreign Political Figures 
 SHAP        | [SHapley Additive exPlanations](https://shap.readthedocs.io/en/latest/#)
+SHIR        | Self-Hosted Integration Runtime
 SI          | System Integrator
 SIAM        | [Service Integration & Management](https://en.wikipedia.org/wiki/Service_integration_and_management)
 SII         | Self-Identified Issue
