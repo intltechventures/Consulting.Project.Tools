@@ -139,6 +139,9 @@ changes you"**
 **\#114 - "Communication is the foundation stone of success - it is the circulatory system of any organization. When prohibitions are instituted against communication within an organization - that organization has chosen death by sepsis"**
 
 
+**\#115 - "If you must constantly walk in fear of stepping on eggshells, find something better to do with your time"**
+
+
 
 \#2xx - On the Art of  Managing People
 ====
