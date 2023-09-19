@@ -264,6 +264,7 @@ CPU         | [entral Processing Unit](https://en.wikipedia.org/wiki/Central_pro
 CQRS        | Command Query Responsibility Segregation  
 CRC         | Class Responsibility Collaboration
 CRCQs       | Cryptanalytically-Relevant Quantum Computers 
+CRD         | Custom Resource Definitions (e.g., Kubernetes)
 CRDT        | [Conflict-Free Replicated Data Type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
 CRF         | Conditional Random Fields 
 CRL         | Certificate Revocation List
@@ -788,6 +789,7 @@ NAS         | Network Attached Storage
 NAT         | [Network Address Translation](https://en.wikipedia.org/wiki/Network_address_translation)
 NC          | Non-Compliant
 NCSA        | [National Center for Supercomputing Applications](https://en.wikipedia.org/wiki/National_Center_for_Supercomputing_Applications)
+NCT         | [.NET Community Toolkit](https://github.com/CommunityToolkit/dotnet)
 ND          | Neighbor Discovery
 NDA         | Non-Disclosure Agreement
 NDCG        | Normalized Discounted Cumulative Gain 
@@ -1318,6 +1320,7 @@ wasm        | [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly)
 WBS         | Work Breakdown Structure
 WCCP        | [Web Cache Communication Protocol](https://en.wikipedia.org/wiki/Web_Cache_Communication_Protocol)
 WCET        | [Worst-Case Execution Time](https://en.wikipedia.org/wiki/Worst-case_execution_time)
+WCT         | [Windows Community Toolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit)
 WD          | Working Draft
 WDM         | [Windows Driver Model](https://en.wikipedia.org/wiki/Windows_Driver_Model)    
 Wi-Fi       | Wireless Fidelity
