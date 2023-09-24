@@ -1028,55 +1028,56 @@ __These are the primary software programs that I typically have installed on my 
   + https://en.wikipedia.org/wiki/SolidWorks
 
 
-# Task Bar -35 entries (updated: 2024-04-2)
-- Thunderbird email
+# Task Bar entries (updated: 2023-09-23)
+1. Thunderbird email
 
-- Notepad++
-- Microsoft Windows Calculator
+2. Notepad++
+3. Microsoft Windows Calculator
 
-- Snip & Sketch
-- Snagit 
+4. Snip & Sketch
+5. Snagit 
 
 
-- LibreOffice Calc
-- LibreOffice Draw
-- LibreOffice Writer
+6. Office Calc
+7. LibreOffice Draw
+8. LibreOffice Writer
 
-- File Explorer 
+9. File Explorer 
 
-- Command Prompt 
-- Git Bash
-- Windows PowerShell 
+10. Command Prompt 
+11. Git Bash
+12. Windows PowerShell 
 
-- Alarms & Clocks
+13. Alarms & Clocks
 
-- Sparx Enterprise Architect 
-- Eclipse
-- Visual Studio Code 
-- Visual Studio 2022 
+14. Sparx Enterprise Architect 
+15. Eclipse
+16. Visual Studio Code 
+17. Visual Studio 2022 
 
-- Mozilla Firefox
-- Google Chrome 
-- Microsoft Edge 
+18. Mozilla Firefox
+19. Google Chrome 
+20. Microsoft Edge 
 
-- Word
-- Excel 
-- PowerPoint 
+21. Word
+22. Excel 
+23. PowerPoint 
 
-- iTunes
-- Kindle 
+24. iTunes
+25. Kindle 
 
-- Control Panel 
-- Event Viewer 
-- System Configuration
+26. Control Panel 
+27. Event Viewer 
+28. System Configuration
+29. Settings 
 
-- Dragon Gaming Center
+30. Dragon Gaming Center
 
-- 7-Zip File Manager
-- FileZilla 
+31. 7-Zip File Manager
+32. FileZilla 
 
-- VLC media player 
+33. VLC media player 
 
-- TrueCrypt
-- Macrium Reflect
-- ExpressVPN
+34. TrueCrypt
+36. Macrium Reflect
+37. ExpressVPN
