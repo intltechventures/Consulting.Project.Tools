@@ -1008,8 +1008,8 @@ __These are the primary software programs that I typically have installed on my 
 
 # My Personal Utility Scripts
 
-## shazam.bat - Automated Rescue Steps for a Corrupted Windows System
-- https://github.com/intltechventures/Personal.Windows.Utils/blob/master/shazam.bat
+## shazam utilities - scripts for maintaining Windows OS and Disk health
+- https://github.com/intltechventures/Personal.Windows.Utils/
 
 
 
