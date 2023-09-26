@@ -349,6 +349,7 @@ DN          | Distinguished Name, re: LDAP
 DNAT        | Destination network address translation
 DNS         | [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System)
 DoDAF       | [Department of Defense Architecture Framework](https://en.wikipedia.org/wiki/Department_of_Defense_Architecture_Framework)
+DORA        | [DevOps Research and Assessment](https://dora.dev/) (re: metrics: deployment frequency, lead time for changes)
 DoS         | Denial of Service 
 DOS         | [Disk Operating System](https://en.wikipedia.org/wiki/DOS)
 DP          | [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
@@ -526,6 +527,7 @@ GUID        | [Globally Unique Identifier](https://en.wikipedia.org/wiki/Univers
 H_          | 
 HATEOAS     | [Hypermedia As The Engine Of Application State](https://en.wikipedia.org/wiki/HATEOAS)
 HCI         | Human-Computer Interaction
+HCL         | [HashiCorp Configuration Language](https://github.com/hashicorp/hcl)
 HDD         | [Hard Disk Drive](https://en.wikipedia.org/wiki/Hard_disk_drive)
 HDFS        | Hadoop Distributed File System 
 HDLC        | [High-Level Data Link Control](https://en.wikipedia.org/wiki/High-Level_Data_Link_Control)
