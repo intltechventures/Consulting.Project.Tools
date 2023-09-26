@@ -872,6 +872,7 @@ P&L         | Profit and Loss 
 PaaS        | Platform as a Service, aka aPaaS (i.e., Application Platform as a Service)
 PaLM        | [Pathways Language Model](https://arxiv.org/abs/2204.02311)
 PAM         | Pluggable Authentication Modules
+PAM         | Privileged Access Management 
 PAP         | [Password Authentication Protocol](https://en.wikipedia.org/wiki/Password_Authentication_Protocol)
 PAP         | Policy Administration Point
 PAS         | Publicly Available Specification
@@ -1361,6 +1362,7 @@ ZB          | [Zettabyte](https://en.wikipedia.org/wiki/Zettabyte_Era)
 ZBB         | [Zero-Based Budgeting](https://en.wikipedia.org/wiki/Zero-based_budgeting)
 zkEVM       | [zero-knowledge Ethereum Virtual Machine](https://blog.chain.link/zkevm/)
 ZKP         | [Zero Knowledge Proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
+ZSP         | Zero Standing Privilege 
 ZT          | Zero Trust
 ZTA         | [Zero Trust Architecture](https://csrc.nist.gov/publications/detail/sp/800-207/final)
 ZTNA        | Zero Trust Network Access 
