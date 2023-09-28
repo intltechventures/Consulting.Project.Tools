@@ -566,6 +566,7 @@ ICANN       | [Internet Corporation for Assigned Names and Numbers](https://en.w
 ICAP        | [Internet Content Adaptation Protocol](https://en.wikipedia.org/wiki/Internet_Content_Adaptation_Protocol)
 ICML        | International Conference on Machine Learning
 ICMP        | [Internet Control Message Protocol ](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol)
+ICP         | Ideal Customer Profile
 ICS         | Incident Command System
 ICT         | Information Communications and Technology 
 iDaaS       | Identity as a Service
@@ -611,6 +612,7 @@ IPv6        | [Internet Protocol version 6](https://en.wikipedia.org/wiki/IPv6)
 IPW         | Inverse Probability Weighting
 IPX         | [Internetwork Packet Exchange](https://en.wikipedia.org/wiki/Internetwork_Packet_Exchange)
 IR          | Information Retrieval 
+IRM         | Incident Response Management
 IRM         | Individual Rights Management
 IRM         | Information Risk Management 
 IRM         | Integrated Risk Management
