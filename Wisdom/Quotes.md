@@ -71,11 +71,16 @@
 - Hoare's Law (of Large Problems): "Inside every large problem is a small problem struggling to get out."
   + 1984 article for the journal The Pentagon.
 
-- "The price of reliability is the pursuit of the utmost simplicity.", ~Turing Award lecture
+- "The price of reliability is the pursuit of the utmost simplicity." 
+  + ~Turing Award lecture
 
 
 ## Hophe, Gregor
 - ["Abstractions are the #1 tool to manage complexity."](https://www.linkedin.com/posts/ghohpe_programming-without-a-stack-trace-when-abstractions-activity-7054482803861708801-kZCs)
+
+
+## Karlton, Phil
+- ["There are only two hard things in Computer Science: cache invalidation and naming things."](https://www.karlton.org/2017/12/naming-things-hard/)
 
 
 ## Knuth, Donald
