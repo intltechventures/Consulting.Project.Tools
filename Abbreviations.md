@@ -195,6 +195,7 @@ CCO         | Chief Commercial Officer
 CCO         | Client Change Order
 CCO         | Cloud Control Objectives
 CCPA        | [California Consumer Privacy Act](https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act)
+CCPM        | Critical Chain Project Management
 CD          | Candidate Recommendation 
 CD          | Continuous Delivery
 CDC         | Change Data Capture
@@ -1222,6 +1223,7 @@ SWOT        | Strengths, Weaknesses, Opportunities, and Threats
 S&P         | Strategy & Planning
 T_          |
 T2R2        | Transparent, Traceable, Replicable and Reproducible 
+TA          | [Throughput Accounting](https://en.wikipedia.org/wiki/Throughput_accounting)
 TAG         | Technical Advisory Group
 TAM         | Technical Account Manager
 TAM         | [Total Addressable Market](https://en.wikipedia.org/wiki/Total_addressable_market)
