@@ -821,6 +821,7 @@ NPI         | Non-Public Personal Information (aka NPPI)
 NPM         | [Node Package Manager](https://www.npmjs.com/)
 NPPI        | Non-Public Personal Informaiton (aka NPI)
 NPV         | [Net Present Value](https://en.wikipedia.org/wiki/Net_present_value)
+NSG         | Network Security Group
 NSH         | Network Service Header 
 NTE         | Not To Exceed
 NTFC        | No-Fee Terms and Conditions 
@@ -1271,6 +1272,7 @@ UDF         | User Defined File
 UDF         | User Defined Function
 UDN         | [Unbounded Depth Neural Network](https://www.marktechpost.com/2022/10/03/researchers-at-columbia-university-propose-the-unbounded-depth-neural-network-udn-an-infinitely-deep-probabilistic-model-that-enables-self-adaption-to-the-training-data-without-an-upper-limit/)
 UDP         | [User Datagram Protocol](https://en.wikipedia.org/wiki/User_Datagram_Protocol)
+UDR         | User-Defined Routes 
 UDS         | [Unix Domain Socket](https://en.wikipedia.org/wiki/Unix_domain_socket)
 UEFI        | [Unified Extensible Firmware Interface](https://en.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface)
 UI          | User Interface  
@@ -1301,6 +1303,7 @@ VLAN        | Virtual Local Area Network
 VM          | Virtual Machine
 VMI         | Virtual Machine Image 
 VNC         | Virtual Network Computing
+VNet        | Virtual Network
 VoIP        | [Voice over IP](https://en.wikipedia.org/wiki/Voice_over_IP)
 VPN         | [Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network)
 VQF         | Variational Quantum Factoring 
