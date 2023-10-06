@@ -124,6 +124,8 @@ __These are the primary software programs that I typically have installed on my 
       * https://www.howtogeek.com/426284/how-to-stop-chrome-or-edge-from-taking-over-your-media-keys/
       * https://winaero.com/how-to-dismiss-windows-10-media-volume-control-pop-up/
       * ```chrome://flags/#hardware-media-key-handling```
+    + Show memory usage in hover
+      * ```chrome://flags/#memory-saver-memory-usage-in-hovercards```
 
 
 - [Firefox](https://www.mozilla.org/firefox)
@@ -135,6 +137,8 @@ __These are the primary software programs that I typically have installed on my 
       * https://winaero.com/enable-or-disable-media-controls-in-mozilla-firefox/
       * https://support.mozilla.org/en-US/questions/1301997
         * ```media.hardwaremediakeys.enabled=false```
+  + show memory usage:
+    + enter ```about:memory``` in URL bar
 
 
 ### Email Client
