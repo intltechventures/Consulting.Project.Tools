@@ -510,6 +510,7 @@ GMV         | [Gross Merchandise Value](https://www.investopedia.com/terms/g/gro
 GNS         | [GNU Name System](https://en.wikipedia.org/wiki/GNUnet#GNU_Name_System)
 GNU         | GNU's Not Unix! (a recursive acronym)
 GOLAP       | Graph OLAP 
+GOST        | Goals, Objectives, Strategies, Tactics 
 GPAI        | General-Purpose AI
 GPG         | [GNU Privacy Guard](https://en.wikipedia.org/wiki/GNU_Privacy_Guard)
 GPT         | Generative Pretrained Transformer
@@ -1258,6 +1259,7 @@ TSD         | Technical Specification Document
 TSO         | [Time Sharing Option](https://en.wikipedia.org/wiki/Time_Sharing_Option), re: IBM mainframe interactive time-sharing environment
 TSS         | [Time Sharing Operating System](https://en.wikipedia.org/wiki/TSS_(operating_system)), re: IBM
 TSS         | Technical Security Standards
+TTFB        | Time to First Byte 
 TTL         | Time To Live
 TTM         | Time-To-Market 
 TTP         | Trusted Third Party
