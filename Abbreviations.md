@@ -333,6 +333,7 @@ DFIR        | Digital Forensics, Incident Response
 DGB         | Data Governance Board (aka DGC)
 DGC         | Data Governance Council, or Committee (aka DGB)
 DGP         | Data Governance Policy
+DGS         | Domain Graph Services 
 DHCP        | [Dynamic Host Configuration Protocol](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol)
 DHT         | [Distributed Hash Table](https://en.wikipedia.org/wiki/Distributed_hash_table)
 DIM         | Domain Information Model
