@@ -337,7 +337,7 @@ DGS         | Domain Graph Services
 DHCP        | [Dynamic Host Configuration Protocol](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol)
 DHT         | [Distributed Hash Table](https://en.wikipedia.org/wiki/Distributed_hash_table)
 DIM         | Domain Information Model
-DLD			    | Detail-Level Design 
+DLD			| Detail-Level Design 
 DLM         | Database Lifecycle Management
 DLP         | [Data Loss Prevention](https://en.wikipedia.org/wiki/Data_loss_prevention_software)
 DLT         | Distributed Ledger Technology
@@ -670,6 +670,7 @@ k8s         | Kubernetes
 K_          |
 KCL         | Kinesis Client Library
 KCSA        | Kubernetes and Cloud Security Associate (KCSA) certification, re: CNCF
+KDC         | Key Distribution Center
 kex         | [key exchange](https://en.wikipedia.org/wiki/Key_exchange)
 KMDF        | [Kernel-Mode Driver Framework](https://en.wikipedia.org/wiki/Kernel-Mode_Driver_Framework)
 KMS         | Key Management {System | Service}
@@ -828,6 +829,7 @@ NSH         | Network Service Header
 NTE         | Not To Exceed
 NTFC        | No-Fee Terms and Conditions 
 NTIA        | [National Telecommunications and Information Administration](https://ntia.gov/), U.S. Department of Commerce
+NTLM        | NT LAN Manager
 NTP         | [Network Time Protocol](https://en.wikipedia.org/wiki/Network_Time_Protocol)
 NVD         | [National Vulnerability Database](https://nvd.nist.gov/)
 O_          |
@@ -1097,7 +1099,7 @@ SATA        | [Seria AT Attachment](https://en.wikipedia.org/wiki/Serial_ATA)
 SAW         | Statement of Architecture Work
 SBE         | Specification by Example
 SBI         | Synthetic Biological Intelligence
-SBOM        | [Software Bill of Materials](https://www.cisa.gov/sbom), re: [Software Supply Chain](https://en.wikipedia.org/wiki/Software_supply_chain)
+SBOM        | [Software Bill of Materials](https://www.cisa.gov/sbom), re: [Software Supply Chain](https://en.wikipedia.org/wiki/Software_supply_chain) - also see VEX
 SCA         | Security Composition Analysis
 SCADA       | Supervisory Control and Data Acquisition
 SCAP        | [Security Content Automation Protocol](https://en.wikipedia.org/wiki/Security_Content_Automation_Protocol)
