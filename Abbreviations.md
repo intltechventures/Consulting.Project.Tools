@@ -727,6 +727,7 @@ MAU         | Monthly Active Users
 MBaaS       | Mobile Back End as a Service
 MBCO        | Minimum Business Continuity Objective 
 MBR         | [Master Boot Record](https://en.wikipedia.org/wiki/Master_boot_record)
+MBRE        | Model-Based Requirement Engineering
 MBSE        | [Model-Based Systems Engineering](https://en.wikipedia.org/wiki/Model-based_systems_engineering)
 MD          | Markdown Language 
 MDA         | Multi-Dimensional Analytical (i.e.  queries)
