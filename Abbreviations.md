@@ -825,6 +825,7 @@ NPI         | Non-Public Personal Information (aka NPPI)
 NPM         | [Node Package Manager](https://www.npmjs.com/)
 NPPI        | Non-Public Personal Informaiton (aka NPI)
 NPV         | [Net Present Value](https://en.wikipedia.org/wiki/Net_present_value)
+NRD         | Non-Record Disposal
 NSG         | Network Security Group
 NSH         | Network Service Header 
 NTE         | Not To Exceed
