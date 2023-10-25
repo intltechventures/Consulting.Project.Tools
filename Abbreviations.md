@@ -216,6 +216,7 @@ CEH         | Certified Ethical Hacker
 CEP         | [Complex Event Processing](https://en.wikipedia.org/wiki/Complex_event_processing)
 CER         | Control Exception Request
 CERN        | [European Organization for Nuclear Research](https://en.wikipedia.org/wiki/CERN), French: Organisation européenne pour la recherche nucléaire
+CESGA       | [Galician Supercomputing Center](https://www.cesga.es/)
 CFR         | Change Failure Rate
 CFT         | Cross-Functional Team
 CGI         | [Common Gateway Interface](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
