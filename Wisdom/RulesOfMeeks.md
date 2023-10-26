@@ -179,7 +179,7 @@ changes you"**
 **\#211 - "Indecision in an organization is like rot in a wooden boat. It must be cut out - and replaced."**
 
 
-**\#212 - "There are some folks - that even if you give them explicit written instructions on the steps to blow their nose and then wipe their ass - will still end up walking around with shit all over their faces."**
+**\#212 - "There are some folks - that even if you give them explicit written instructions on the steps to blow their nose and then wipe their ass - will still end up walking around with shit all over their face."**
 
 
 **\#213 - "Tread carefully - and beware the egg shells that you break"**
