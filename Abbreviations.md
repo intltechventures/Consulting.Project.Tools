@@ -66,6 +66,7 @@ ALM         | [Application Lifecycle Management](https://en.wikipedia.org/wiki/A
 AMASS       | Autonomous Multi-Domain Adaptive Swarms-of-Swarms
 AMI         | Amazon Machine Image
 AML         | Anti-Money Laundering
+AMMERSE     | [Agile, Minimal, Maintainable, Environmental, Reachable, Solvable, Extensible](https://www.ammerse.org/)
 AMS         | Application Managed Service
 AMQP        | [Advanced Message Queuing Protocol](https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol)
 ANC         | Adaptive Network Control
@@ -899,6 +900,8 @@ PCI DSS     | Payment Card Industry Data Security Standard
 PCR         | Policy Change Request
 PCR         | Project Change Request
 PDCA        | Plan-Do-Check-{Act | Adjust} (Shewhart’s PDCA cycle, aka the Deming Cycle) [also see PDSA]
+PDH         | Product Development Hub
+PDM         | Product Data Management
 PDSA        | Plan-Do-Study-Act
 PDP         | Policy Decision Point
 PDP         | [Programmed Data Processor](https://en.wikipedia.org/wiki/Programmed_Data_Processor)
