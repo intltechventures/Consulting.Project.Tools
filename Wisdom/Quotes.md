@@ -1,6 +1,11 @@
 
 # Quotes
 
+## Amara, Roy
+- [Amara’s Law](https://en.wikipedia.org/wiki/Roy_Amara): "We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run." 
+
+
+
 ## Beck, Kent
 - "Given a behavior-changing diff and a subsequent structure-changing diff, can you derive the behavior-changing diff as it would have looked after the structure change? Can you compare the actual diff with the derived diff?" ~ [Kent Beck](https://twitter.com/KentBeck/status/1141744893200494592)
 
@@ -12,8 +17,10 @@
 - "All models are wrong, but some are useful."
 
 
+
 ## Boyd, Colonel John
 - Boyd's Law: "Speed of iteration beats quality of iteration."
+
 
 
 ## Brooks Jr., Fredrick (Fred) P.
@@ -23,8 +30,10 @@
 - "Even the best planning is not so omniscient as to get it right the first time."
 
 
+
 ## Butler, Nicholas Murray
 - [March 1931](https://quoteinvestigator.com/2018/07/05/make-happen/): "The vast population of this earth, and indeed nations themselves, may readily be divided into three groups. There are the few who make things happen, the many more who watch things happen, and the overwhelming majority who have no notion of what happens." 
+
 
 
 ## Byrd, John
@@ -33,12 +42,15 @@
 - "Zen programmers delete code."
 
 
+
 ## Conway, Melvin 
 - Conway's Law: "Any organization that designs a system (defined more broadly here than just information systems) will  inevitably produce a design whose structure is a copy of the organization’s communication structure."
 
 
+
 ## Drucker, Peter
 - "There is nothing so useless as doing efficiently that which should not be done at all." 
+
 
 
 ## Einstein, Albert
@@ -47,24 +59,30 @@
 - ”Everything should be made as simple as possible, but no simpler”
 
 
+
 ## Feathers, Michael
 - "Clean code always looks like it was written by someone who cares.”
+
 
 
 ## Fordsworthe, Eugene Lewis
 - ”Assumption is the mother of all screw ups”
 
 
+
 ## Gall, John
 - Gall's Law: "A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system." (1975)
+
 
 
 ## Hanlon, Robert J.
 - [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): "never attribute to malice that which is adequately explained by stupidity."
 
 
+
 ## Heraclitus
 - ”The only constant is change”
+
 
 
 ## Hoare, C.A.R.
@@ -75,12 +93,15 @@
   + ~Turing Award lecture
 
 
+
 ## Hophe, Gregor
 - ["Abstractions are the #1 tool to manage complexity."](https://www.linkedin.com/posts/ghohpe_programming-without-a-stack-trace-when-abstractions-activity-7054482803861708801-kZCs)
 
 
+
 ## Karlton, Phil
 - ["There are only two hard things in Computer Science: cache invalidation and naming things."](https://www.karlton.org/2017/12/naming-things-hard/)
+
 
 
 ## Knuth, Donald
@@ -94,8 +115,10 @@
 5. Trash stages 1-4 and start again, now that you know what you really wanted.
 
 
+
 ## Krutchen, Philippe 
 - “If it’s not written down, it doesn’t exist."
+
 
 
 ## Large Scale Scrum (LeSS)
@@ -103,12 +126,15 @@
   + https://less.works/less/framework/why-less.html
 
 
+
 ## Metcalfe, Robert (Ethernet inventor)
 - Metcalfe's Law: "The value of a network grows as the square of the number of its users."
 
 
+
 ## Minsky, Hyman (US economist)
 - "Stability leads to instability. The more stable things become and the longer things are stable, the more unstable they will be when the crisis hits."
+
 
 
 ## Murphy, Capt. Edward A. (USAF, 1949)
@@ -172,12 +198,15 @@
   + If it jams, force it. If it breaks, it probably needed to be replaced anyway.
 
 
+
 ## Ottinger, Tim
 - "It’s all very, very simple. If I improve my tools/skills/knowledge, I’m faster next sprint. If I work harder, I’m no faster next sprint."
 
 
+
 ## Weber, Erik
 - "A company that rewards firefights breeds arsonists." 
+
 
 
 ## Raymond, Eric
@@ -201,12 +230,14 @@
 17. Make the program and protocols extensible.
 
 
+
 ## Turla, Peter
 - “Don’t spend a dollar’s worth of time on a ten cent decision.”
 
 
+
 ## Gancarz, Mike
-- Mike Gancarz: [The UNIX Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy#Mike_Gancarz:_The_UNIX_Philosophy)
+- [The UNIX Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy#Mike_Gancarz:_The_UNIX_Philosophy)
 1. Small is beautiful.
 2. Make each program do one thing well.
 3. Build a prototype as soon as possible.
@@ -218,9 +249,11 @@
 10. Make every program a filter.
 
 
+
 ## McIlroy, Doug 
 - ["Do One Thing And Do It Well."](https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well)
   * ”This is the Unix philosophy: Write programs that do one thing and do it well. Write programs to work together. Write programs to handle text streams, because that is a universal interface.”
+
 
 
 ## Hooker, David
@@ -232,6 +265,7 @@
 5. Be Open to the Future
 6. Plan Ahead for Reuse
 7. Think!
+
 
 
 ## Parkinson, C. Northcote
@@ -246,6 +280,7 @@
 
 ## Wait, Tom
 - "We are buried beneath the weight of information, which is being confused with knowledge; quantity is being confused with abundance and wealth with happiness. We are monkeys with money and guns.”
+
 
 
 ## Weinberg, Gerald M.
