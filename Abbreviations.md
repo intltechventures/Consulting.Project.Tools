@@ -952,7 +952,7 @@ PPM         | Project Portfolio Management
 PPPoA       | [Point-to-Point Protocol over ATM](https://en.wikipedia.org/wiki/Point-to-Point_Protocol_over_ATM)
 PPPoE       | [Point-to-Point Protocol over Ethernet](https://en.wikipedia.org/wiki/Point-to-Point_Protocol)
 PPP         | [Point-to-Point Protocol](https://en.wikipedia.org/wiki/Point-to-Point_Protocol)
-PQC         | Post Quantum Cryptography 
+PQC         | [Post Quantum Cryptography](https://csrc.nist.gov/projects/post-quantum-cryptography) 
 PR          | Peer Review
 PR          | Production Ready
 PR          | Proposed Recommendation 
