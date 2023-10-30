@@ -385,6 +385,7 @@ EAMS        | Enterprise Architecture Management Suite
 EAP         | [Extensible Authentication Protocol](https://en.wikipedia.org/wiki/Extensible_Authentication_Protocol)
 EAR			| Export Administration Regulations
 EAR         | [Enterprise Application aRchive (file format)](https://en.wikipedia.org/wiki/EAR_(file_format))
+EARS        | [Easy Approach to Requirements Syntax](https://alistairmavin.com/ears/) (re: Alistair Mavin, Rolls Royce)
 EBS         | [Amazon Elastic Block Storage](https://en.wikipedia.org/wiki/Amazon_Elastic_Block_Store)
 EBV         | [Equiangular-Basis-Vectors](https://arxiv.org/abs/2303.11637)
 EBCIDIC     | [Extended Binary Coded Decimal Interchange Code](https://en.wikipedia.org/wiki/EBCDIC)
@@ -598,6 +599,7 @@ ILM         | [Information Lifecycle Management](https://en.wikipedia.org/wiki/I
 IM          | Incident Management 
 IM          | Information Model
 IMO         | Integration Management Office (i.e., during Mergers & Acquisitions)
+INCOSE      | [International Council on Systems Engineering](https://en.wikipedia.org/wiki/International_Council_on_Systems_Engineering)
 IND         | [Inverse Neighbor Discovery](https://en.wikipedia.org/wiki/Neighbor_Discovery_Protocol)
 INVEST      | Independent Negotiable Valuable Estimable Small Testable [(source)](http://wiki.c2.com/?InvestModelForUserStories)
 IOF         | [Industrial Ontologies Foundry](https://www.industrialontologies.org/)
