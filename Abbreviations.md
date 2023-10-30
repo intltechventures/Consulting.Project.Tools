@@ -1130,7 +1130,7 @@ SDR         | Sales Development Representative
 SDSL        | [Symmetric digital subscriber line](https://en.wikipedia.org/wiki/Symmetric_digital_subscriber_line)
 SE          | Standard Edition
 SE          | Systems Engineering
-SEBoK       | [Systems Engineering Book of Knowledge](https://sercuarc.org/sebok/)
+SEBoK       | [Systems Engineering Book of Knowledge](https://sercuarc.org/sebok/) - [wiki](https://sebokwiki.org/wiki/)
 SEC         | [U.S. Securities and Exchange Commission](https://en.wikipedia.org/wiki/U.S._Securities_and_Exchange_Commission)
 SEO         | Search Engine Optimization
 SERC        | [Systems Engineering Research Council](https://sercuarc.org/)
