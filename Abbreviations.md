@@ -1130,8 +1130,10 @@ SDR         | Sales Development Representative
 SDSL        | [Symmetric digital subscriber line](https://en.wikipedia.org/wiki/Symmetric_digital_subscriber_line)
 SE          | Standard Edition
 SE          | Systems Engineering
+SEBoK       | [Systems Engineering Book of Knowledge](https://sercuarc.org/sebok/)
 SEC         | [U.S. Securities and Exchange Commission](https://en.wikipedia.org/wiki/U.S._Securities_and_Exchange_Commission)
 SEO         | Search Engine Optimization
+SERC        | [Systems Engineering Research Council](https://sercuarc.org/)
 SFCC        | [Salesforce Commerce Cloud](https://www.salesforce.com/products/commerce-cloud/overview/)
 SFDC        | SalesForce DotCom
 SFIA        | [Skills Framework for the Information Age](https://en.wikipedia.org/wiki/Skills_Framework_for_the_Information_Age)
