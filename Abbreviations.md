@@ -180,6 +180,7 @@ CAAS        | Container as a Service
 CAB         | Change Advisory Board
 CaC         | Compliance as Code
 CAC         | Customer Acquisition Cost
+CAGR        | [Compound Annual Growth Rate](https://en.wikipedia.org/wiki/Compound_annual_growth_rate) 
 CAP         | Consistency, Availability, Partition Tolerance  
 CapEx       | [Capital Expenditure](https://en.wikipedia.org/wiki/Capital_expenditure)
 CAS         | [Compare-And-Swap | Compare-And-Set](https://en.wikipedia.org/wiki/Compare-and-swap)
@@ -218,6 +219,7 @@ CEP         | [Complex Event Processing](https://en.wikipedia.org/wiki/Complex_e
 CER         | Control Exception Request
 CERN        | [European Organization for Nuclear Research](https://en.wikipedia.org/wiki/CERN), French: Organisation européenne pour la recherche nucléaire
 CESGA       | [Galician Supercomputing Center](https://www.cesga.es/)
+CFBR        | Commenting For Better Reach
 CFR         | Change Failure Rate
 CFT         | Cross-Functional Team
 CGI         | [Common Gateway Interface](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
@@ -531,6 +533,7 @@ GTM         | Go-To-Market (re: strategy)
 GUC         | Global User Configuration 
 GUI         | [Graphical User Interface](https://en.wikipedia.org/wiki/Graphical_user_interface)
 GUID        | [Globally Unique Identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier) - see UUID
+GWP         | Gross Written Premium (insurance industry)
 H_          | 
 HATEOAS     | [Hypermedia As The Engine Of Application State](https://en.wikipedia.org/wiki/HATEOAS)
 HCI         | Human-Computer Interaction
