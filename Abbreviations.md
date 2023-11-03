@@ -259,6 +259,7 @@ CNAB        | [Cloud Native Application Bundles](https://cnab.io/)
 CNCF        | [Cloud Native Computing Foundation](https://www.cncf.io/)
 CoE         | Center of Excellence
 COI         | Community of Interest
+COOP        | Continuity of Operations 
 CoP         | Community of Practice 
 CORBA       | [Common Object Request Broker Architecture](https://en.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture)
 CORS        | Cross-Origin Resource Sharing
@@ -413,6 +414,7 @@ EFTA        | European Free Trade Association
 EHR         | Electronic Health Record(s)
 EIP         | [Enterprise Integration Patterns](https://en.wikipedia.org/wiki/Enterprise_Integration_Patterns), re: [[Hophe's EIP Messaging Patterns](https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html]
 EKS         | Amazon [Amazon Elastic Kubernetes Service](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html)
+EL          | Enterprise Linux 
 ELF         | [Executable and Linkable Format](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
 ELT         | Extract, Load, Transform
 EM          | [Expectation Management](https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm) algorithm (re: Machine Learning)
@@ -873,6 +875,7 @@ OODA        | [Observe-Orient-Decide-Act](https://en.wikipedia.org/wiki/OODA_loo
 OOP         | Object Oriented Programming 
 OOTB        | Out Of The Box
 OPA         | Open Policy Agent
+OpenELA     | [Open Enterprise Linux Association](https://openela.org/)
 OpEx        | [Operational Expense](https://en.wikipedia.org/wiki/Operating_expense)
 OPS         | Operations
 ORC         | Operational Risk Committee 
