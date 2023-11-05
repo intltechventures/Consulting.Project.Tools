@@ -191,6 +191,9 @@ changes you"**
 **\#215 - "The 6 Ps: Piss Poor Planning -> Piss Poor Performance"**
 
 
+**\#216 - "Refusing to make a decision - is a decision, and there will be consequences."**
+
+
 
 \#3xx - On Design 
 ====
