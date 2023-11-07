@@ -364,6 +364,7 @@ DP          | [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_progra
 DR          | Disaster Recovery  
 DRB         | Design Review Board  
 DRBG        | [Deterministic Random Bit Generator](https://en.wikipedia.org/wiki/Pseudorandom_number_generator) - also see PRNG
+DRI         | Directly Responsible Individual
 DRY         | Don't Repeat Yourself
 DSA         | [Digital Signature Algorithm](https://en.wikipedia.org/wiki/Digital_Signature_Algorithm)
 DSL         | [Digital subscriber line](https://en.wikipedia.org/wiki/Digital_subscriber_line)
@@ -933,6 +934,7 @@ PITR        | Point In Time Recovery
 PIU         | Profits Interests Units [a form of equity compensation typically issued by limited liability companies (LLCs) and are popular with private equity investors as a way to incentivize management. PIUs are based on the company's future value and are awarded to employees for their services to the company.] 
 PKCE        | Proof Key for Code Exchange (pronounced "pixy"), re: [RFC 7636](https://tools.ietf.org/html/rfc7636)
 PKI         | [Public Key Infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure)
+PKM         | Personal Knowledge Management
 PLM         | Product Lifecycle Management
 PLSA        | Probabilistic Latent Semantic Analysis
 PM          | Program Manager
