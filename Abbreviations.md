@@ -257,6 +257,7 @@ CMOS        | [Complementary metal–oxide–semiconductor](https://en.wikipedia
 cn          | Common Name, re: LDAP
 CNAB        | [Cloud Native Application Bundles](https://cnab.io/)
 CNCF        | [Cloud Native Computing Foundation](https://www.cncf.io/)
+CNN         | Convolutional Neural Network
 CoE         | Center of Excellence
 COI         | Community of Interest
 COOP        | Continuity of Operations 
@@ -765,6 +766,7 @@ MIT/LCS     | [Massachusetts Institute of Technology](https://en.wikipedia.org/w
 ML          | Machine Learning 
 MLE         | [Maximum Likelihood Estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
 MLP         | Minimum Lovable Product
+MLP         | Multi-Layer Perception 
 MMS         | Massively Multilingual Speech
 MOA         | Memorandum of Agreement
 MOJO        | [Maven plain Old Java Object](https://maven.apache.org/plugin-developers/index.html)
@@ -1024,6 +1026,7 @@ RASUI       | Reliability, Availability, Serviceability, Usability and Instabili
 RAT         | Reverse Address and Port Translation (see RAPT)
 RBA         | Role-Based Authorization
 RBAC        | [Role Based Access Control](https://en.wikipedia.org/wiki/Role-based_access_control)
+RBFNN       | Radial Basis Function Neural Network 
 RCA         | Root Cause Analysis 
 RCE         | Remote Code Execution
 RCG         | Risk and Controls Group
@@ -1376,6 +1379,7 @@ WSJF        | Weighted Shortest Job First (re: Scaled Agile Framework, SAFe)
 WWW         | [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web)
 X_          |
 XA          | EXtended Architecture
+XDR         | Extended Detection and Response
 XID         | Transaction Identifier
 XML         | [Extensible Markup Language](https://en.wikipedia.org/wiki/XML)
 XNS         | [Xerox Network Systems](https://en.wikipedia.org/wiki/Xerox_Network_Systems)
