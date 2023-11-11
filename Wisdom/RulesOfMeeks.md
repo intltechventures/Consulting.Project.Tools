@@ -251,6 +251,9 @@ changes you"**
 **\#509 - "Minimize needless/useless travel for meetings."**
 
 
+**\#510 - "Picking a solution, before you have defined the problem, determined whether you have funding, and identified your selection criteria & requirements - is the epitome of insanity."**
+
+
 
 \#6xx - On Negotiating
 ====
