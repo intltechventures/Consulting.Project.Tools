@@ -288,6 +288,7 @@ CSD         | Consolidated Service Desk
 CSDM        | [Common Service Data Model](https://docs.servicenow.com/bundle/paris-servicenow-platform/page/product/csdm-implementation/concept/csdm-basics.html) (re: ServiceNow)
 CSET        | [Center for Security and Emerging Technology (CSET)](https://cset.georgetown.edu/)
 CSF         | Common Security Framework
+CSF         | Critical Success Factors 
 CSI         | Container Storage Interface (e.g. Kubernetes)
 CSM         | Customer Service Management 
 CSM         | Customer Success Manager
@@ -404,6 +405,7 @@ EBS         | Elastic Block Storage (AWS)
 EC          | European Commission
 EC2         | [Amazon Elastic Compute Cloud](https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud)
 ECA         | Embodied Conversational Agent(s)
+ECDH        | Elliptic Curve Diffie Hellman
 eCF or e-CF | [European e-Competence Framework](https://esco.ec.europa.eu/en/about-esco/escopedia/escopedia/european-e-competence-framework-e-cf)
 EDA         | Enterprise Data Architecture
 EDA         | Event-Driven Architecture 
