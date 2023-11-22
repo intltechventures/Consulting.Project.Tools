@@ -125,7 +125,8 @@ BAFO        | Best And Final Offer (e.g., RFP negotiations)
 BAIR        | [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/)
 BAU         | Business As Usual
 BC          | Business Continuity
-BCD         | Binary Coded Decimal 
+BCD         | Binary Coded Decimal
+BCDR        | Business Continuity and Disaster Recovery 
 BCM         | Business Continuity Management
 BCP         | Best Current Practice 
 BCP         | Business Continuity Planning (or Plan)
