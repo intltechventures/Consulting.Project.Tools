@@ -43,15 +43,18 @@ ACVP        | Automated Cryptographic Validation Protocol
 ACVTS       | Automated Cryptographic Validation Test System
 AD          | Application Delivery  
 AD          | Active Directory
+ADA         | Advanced Data Analysis
 ADA         | [The Americans with Disabilities Act of 1990 or ADA (42 U.S.C. § 12101)](https://en.wikipedia.org/wiki/Americans_with_Disabilities_Act_of_1990)
 ADAL        | Active Directory Authentication Library
 ADCS        | Active Directory Certificate Services 
 ADDIE       | (analyze, design, development, implement, evaluate) a methodology developed by Florida State University for the U.S. Army as a repeatable and standard set of tasks to create training.  [Wikipedia Article](https://en.wikipedia.org/wiki/ADDIE_Model)
 ADDS        | Active Directory Domain Service(s)
+ADOMS       | Adapting, Defining, Operating, Managing and Supporting 
 ADR         | [Address Resolution Protocol](https://en.wikipedia.org/wiki/Address_Resolution_Protocol)
 ADSL        | [Asymmetric digital subscriber line](https://en.wikipedia.org/wiki/Asymmetric_digital_subscriber_line)
 ADT         | Algebraic Data Type
 AE          | [Authenticated Encryption](https://en.wikipedia.org/wiki/Authenticated_encryption)
+AEA         | Adaptive Enterprise Architecture
 AEAD        | [Authentication Encryption with Associated Data](https://en.wikipedia.org/wiki/Authenticated_encryption#Authenticated_encryption_with_associated_data_(AEAD))
 AES         | Advanced Encryption Standard 
 AFCE        | Authorization for Capital Expenditure
