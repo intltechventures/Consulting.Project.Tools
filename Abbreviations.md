@@ -636,6 +636,7 @@ IPv6        | [Internet Protocol version 6](https://en.wikipedia.org/wiki/IPv6)
 IPW         | Inverse Probability Weighting
 IPX         | [Internetwork Packet Exchange](https://en.wikipedia.org/wiki/Internetwork_Packet_Exchange)
 IR          | Information Retrieval 
+IR35        | [Off-payroll working rules for clients, workers (contractors) and their intermediaries (UK)](https://www.gov.uk/guidance/understanding-off-payroll-working-ir35)
 IRM         | Incident Response Management
 IRM         | Individual Rights Management
 IRM         | Information Risk Management 
