@@ -1180,6 +1180,7 @@ SLA         | Service Level Agreement
 SLES        | SUSE Linux Enterprise Server
 SLI         | [Service Level Indicator](https://landing.google.com/sre/resources/practicesandprocesses/art-of-slos/) - a quantifiable measure of service reliability
 SLIM        | Software Lifecycle Management 
+SLMs        | Small Language Models
 SLO         | [Service Level Objectives](https://landing.google.com/sre/resources/practicesandprocesses/art-of-slos/) - a reliability target for an SLI 
 SLO         | Single Log-out
 SLM         | Service Level Management
