@@ -1068,6 +1068,7 @@ RIP         | [Routing Information Protocol](https://en.wikipedia.org/wiki/Routi
 RISC        | [Reduced Instruction Set Computer](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer)
 RITM        | Request Item
 RL          | Reinforcement Learning
+RLHF        | Reinforcement Learning from Human Feedback
 RMA         | [Return Merchandise Authorization](https://en.wikipedia.org/wiki/Return_merchandise_authorization)
 RMA         | Risk Management Administration
 RMAD        | Rapid Mobile App Development  
