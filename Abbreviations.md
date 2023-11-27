@@ -103,6 +103,7 @@ ARR         | Annual Recurring Revenue
 ART         | Agile Release Train (re: Scaled Agile Framework, SAFe)
 AS          | Authoritative Source
 ASCII       | [American Standard Code for Information Interchange](https://en.wikipedia.org/wiki/ASCII)
+ASI         | Artificial Super Intelligence
 ASN         | Advanced Shipment Notification
 ASN         | Application Service Name
 ASN         | [Autonomous System Number](https://en.wikipedia.org/wiki/Autonomous_system_(Internet))
