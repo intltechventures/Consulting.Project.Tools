@@ -41,8 +41,9 @@ ACTS        | Automated Combinatorial Testing for Software
 ACV         | Annual Contract Value 
 ACVP        | Automated Cryptographic Validation Protocol
 ACVTS       | Automated Cryptographic Validation Test System
-AD          | Application Delivery  
 AD          | Active Directory
+AD          | Application Delivery  
+AD          | Architecture Decision
 ADA         | Advanced Data Analysis
 ADA         | [The Americans with Disabilities Act of 1990 or ADA (42 U.S.C. § 12101)](https://en.wikipedia.org/wiki/Americans_with_Disabilities_Act_of_1990)
 ADAL        | Active Directory Authentication Library
@@ -757,6 +758,7 @@ MDAP        | Mobile Application Development Platform
 MDM         | Master Data Management  
 MDM         | Mobile Device Management  
 MDR         | Marketing Development Representative
+MDSL        | [Microservice-Domain Specific Language](https://microservice-api-patterns.github.io/MDSL-Specification/)
 ME          | Maximum Entropy 
 MEAN        | MongoDB, Express.js, Angular.js, Node.js
 MEAP        | Mobile Enterprise Application Platform  
@@ -791,6 +793,7 @@ MQL         | Marketing Qualified Lead
 MRA         | Matters Requiring Attention
 MRC         | Management Risk Committee
 MRD         | [Marketing Requitements Document](https://en.wikipedia.org/wiki/Market_requirements_document)
+MRM         | Most Responsible Moment
 MRR         | Monthly Recurring Revenue
 MSA         | Microservices Architecture  
 MSA         | Master Service Agreement
@@ -1278,6 +1281,7 @@ TCV         | Total Contract Value (TCV)
 TDD         | [Test-Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
 TGB         | Technology Governance Board
 TFI         | [Office of Terrorism and Financial Intelligence](https://en.wikipedia.org/wiki/Office_of_Terrorism_and_Financial_Intelligence)
+TLA         | Three Letter Acronym
 TLS         | [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security)
 TM          | Topic Model, re: NER, NLP, DL, ML
 TNR         | True Negative Rate
