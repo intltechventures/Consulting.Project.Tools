@@ -277,7 +277,7 @@ CPG         | Consumer Packaged Goods (e.g. industry)
 CPM         | Capability Portfolio Management 
 CPU         | [entral Processing Unit](https://en.wikipedia.org/wiki/Central_processing_unit)
 CQRS        | Command Query Responsibility Segregation  
-CRC         | Class Responsibility Collaboration
+CRC         | Class Responsibility Collaboration (i.e., usually captured in a form known as "[cards](http://agilemodeling.com/artifacts/crcModel.htm)", see original [OOPSLA 1989 paper](http://c2.com/doc/oopsla89/paper.html))
 CRCQs       | Cryptanalytically-Relevant Quantum Computers 
 CRD         | Custom Resource Definitions (e.g., Kubernetes)
 CRDT        | [Conflict-Free Replicated Data Type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
