@@ -1093,6 +1093,9 @@ RPM         | Redhat Package Manager
 RPM         | Requests Per Minute
 RPO         | Recovery Point Objective
 RSVP        | [Resource Reservation Protocol](https://en.wikipedia.org/wiki/Resource_Reservation_Protocol)
+RSA         | [Rivest–Shamir–Adleman](https://en.wikipedia.org/wiki/RSA_(cryptosystem)), re: one of the first public-key cryptosystems)
+RSG         | Risk Strategy & Governance
+RSU         | Restricted Stock Units
 RTB         | Run The Business
 RTCP        | [RTP Control Protocol](https://en.wikipedia.org/wiki/RTP_Control_Protocol)
 RTE         | Release Train Engineer
@@ -1105,9 +1108,8 @@ RTSP        | [Real Time Streaming Protocol](https://en.wikipedia.org/wiki/Real_
 RTT         | Round-Trip Time  
 RTO         | Recovery Time Objective  
 RUM         | Real User Measurements (or Monitoring)
-RSA         | [Rivest–Shamir–Adleman](https://en.wikipedia.org/wiki/RSA_(cryptosystem)), re: one of the first public-key cryptosystems)
-RSG         | Risk Strategy & Governance
-RSU         | Restricted Stock Units
+RUM         | Resources Under Management
+RUP         | Rational Unified Process
 S_          |
 S-DBR       | [Simplified Drum-Buffer-Rope](https://en.wikipedia.org/wiki/Theory_of_constraints#Operations)
 SA          | Solution Architect
