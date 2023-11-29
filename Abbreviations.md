@@ -401,6 +401,7 @@ EAP         | [Extensible Authentication Protocol](https://en.wikipedia.org/wiki
 EAR			| Export Administration Regulations
 EAR         | [Enterprise Application aRchive (file format)](https://en.wikipedia.org/wiki/EAR_(file_format))
 EARS        | [Easy Approach to Requirements Syntax](https://alistairmavin.com/ears/) (re: Alistair Mavin, Rolls Royce)
+EBA         | Experience-Based Acceleration
 EBS         | [Amazon Elastic Block Storage](https://en.wikipedia.org/wiki/Amazon_Elastic_Block_Store)
 EBV         | [Equiangular-Basis-Vectors](https://arxiv.org/abs/2303.11637)
 EBCIDIC     | [Extended Binary Coded Decimal Interchange Code](https://en.wikipedia.org/wiki/EBCDIC)
@@ -451,7 +452,7 @@ ERM         | Enterprise Risk Management
 ERP         | Enterprise Resource Planning
 ES          | ECMAScript (aka JavaScript)
 ESA         | Enterprise Solution Architecture
-ESG         | Environmental, Social, and Governance
+ESG         | [Environmental, Social, and Governance](https://www.esg.org/)
 ESO         | European Standards Organization
 ESOP        | Employment Stock Ownership Plan
 ESP         | [Event Stream Processing](https://en.wikipedia.org/wiki/Event_stream_processing)
