@@ -1375,7 +1375,8 @@ WAL         | [Write-ahead Logging](https://en.wikipedia.org/wiki/Write-ahead_lo
 WAN         | [WIde Area Network](https://en.wikipedia.org/wiki/Wide_area_network)
 WAP         | Wireless Access Point 
 WAR         | [Web Application Resource (or, Web application ARchival](https://en.wikipedia.org/wiki/WAR_(file_format))
-wasm        | [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly)
+WASI        | [WebAssembly System Interface](https://wasi.dev/)
+wasm        | [WebAssembly](https://webassembly.org/) [wikipedia](https://en.wikipedia.org/wiki/WebAssembly)
 WBS         | Work Breakdown Structure
 WCCP        | [Web Cache Communication Protocol](https://en.wikipedia.org/wiki/Web_Cache_Communication_Protocol)
 WCET        | [Worst-Case Execution Time](https://en.wikipedia.org/wiki/Worst-case_execution_time)
