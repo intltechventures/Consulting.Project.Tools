@@ -15,6 +15,7 @@ _           |
 7 Rs        | [Refactor, Replatform, Repurchase, Rehost, Relocate, Retain, Retire](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-retiring-applications/overview.html) - Re: AWS Migration Readiness
 A_          |
 A11y        | Accessibility [see: [Mozzila](https://developer.mozilla.org/en-US/docs/Web/Accessibility), [W3C](https://www.w3.org/standards/webdesign/accessibility)]
+A2C         | Advantage Actor-Critic (e.g., Deep Reinforcement Learning agent)
 AAD         | [Average absolution deviation](https://en.wikipedia.org/wiki/Average_absolute_deviation) 
 AAD         | [Azure Active Directory](https://azure.microsoft.com/en-us/products/active-directory/)
 ABAC        | [Attribute-Based Access Contorl](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see CBAC, PBAC)
@@ -354,6 +355,7 @@ DGS         | Domain Graph Services
 DHCP        | [Dynamic Host Configuration Protocol](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol)
 DHT         | [Distributed Hash Table](https://en.wikipedia.org/wiki/Distributed_hash_table)
 DIM         | Domain Information Model
+DJIA        | Dow Jones Industrial Average
 DLD			| Detail-Level Design 
 DLM         | Database Lifecycle Management
 DLP         | [Data Loss Prevention](https://en.wikipedia.org/wiki/Data_loss_prevention_software)
@@ -377,6 +379,7 @@ DR          | Disaster Recovery
 DRB         | Design Review Board  
 DRBG        | [Deterministic Random Bit Generator](https://en.wikipedia.org/wiki/Pseudorandom_number_generator) - also see PRNG
 DRI         | Directly Responsible Individual
+DRL         | Deep Reinforcement Learning
 DRY         | Don't Repeat Yourself
 DSA         | [Digital Signature Algorithm](https://en.wikipedia.org/wiki/Digital_Signature_Algorithm)
 DSL         | [Digital subscriber line](https://en.wikipedia.org/wiki/Digital_subscriber_line)
@@ -978,6 +981,7 @@ POV         | Point of View
 PPI         | Protected Personal Information
 PPL         | Policy & Procedure Library
 PPM         | Project Portfolio Management
+PPO         | Proximal Policy Optimization (e.g., Deep Reinforcement Learning algorithm)
 PPPoA       | [Point-to-Point Protocol over ATM](https://en.wikipedia.org/wiki/Point-to-Point_Protocol_over_ATM)
 PPPoE       | [Point-to-Point Protocol over Ethernet](https://en.wikipedia.org/wiki/Point-to-Point_Protocol)
 PPP         | [Point-to-Point Protocol](https://en.wikipedia.org/wiki/Point-to-Point_Protocol)
