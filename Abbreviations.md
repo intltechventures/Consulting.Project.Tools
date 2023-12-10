@@ -108,7 +108,8 @@ ASI         | Artificial Super Intelligence
 ASN         | Advanced Shipment Notification
 ASN         | Application Service Name
 ASN         | [Autonomous System Number](https://en.wikipedia.org/wiki/Autonomous_system_(Internet))
-ASP         | Application Service Provider  
+ASP         | Application Service Provider 
+ASPM        | Application Security Posture Management 
 ASR         | Automatic Speech Recognition
 AST         | Application Security Testing
 ATDD        | Acceptance-Test-Driven-Development
@@ -383,6 +384,7 @@ DSL         | Domain Specific Language
 DSLAM       | [Digital subscriber line access multiplexer](https://en.wikipedia.org/wiki/Digital_subscriber_line_access_multiplexer)
 DSML        | Data Science and Machine Learning
 DSN         | Data Source Name  
+DSPM        | Data Security Posture Management
 DSRP        | [Distinctions, Systems, Relationships, and Perspectives](https://en.wikipedia.org/wiki/DSRP)
 DSS         | Data Security Standard
 DTAP        | Development, Test, Acceptance, Production (i.e, typical deployment environment types) 
