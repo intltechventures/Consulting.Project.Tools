@@ -319,6 +319,8 @@ D_          |
 DA          | Data Architecture 
 DAC         | [Discretionary Access Control](https://en.wikipedia.org/wiki/Discretionary_access_control)
 DAG         | [Directed Acyclic Graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
+DAO         | Data Access Object
+DAO         | Decentralised Autonomous Organization
 DAP         | Directory Access Protocol (X.500)
 DAR         | Decision Analysis and Resolution technique
 DARPA       | Defense Advanced Research Projects Agency
@@ -375,6 +377,7 @@ DORA        | [DevOps Research and Assessment](https://dora.dev/) (re: metrics: 
 DoS         | Denial of Service 
 DOS         | [Disk Operating System](https://en.wikipedia.org/wiki/DOS)
 DP          | [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
+DPO         | Direct Preference Optimization (re: LLMs, tuning algorithm)
 DR          | Disaster Recovery  
 DRB         | Design Review Board  
 DRBG        | [Deterministic Random Bit Generator](https://en.wikipedia.org/wiki/Pseudorandom_number_generator) - also see PRNG
