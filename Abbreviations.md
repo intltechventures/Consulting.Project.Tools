@@ -663,7 +663,8 @@ ISAP        | Information Security Automation Program
 iSCI        | [Internet Small Computer System Interface](https://en.wikipedia.org/wiki/Information_Security_Automation_Program)
 ISDN        | [Integrated Services Digital Network](https://en.wikipedia.org/wiki/Integrated_Services_Digital_Network)
 ISG         | Industry Specification Group
-ISMS        | Information Security Management System
+ISM         | [Information Security Management](https://en.wikipedia.org/wiki/Information_security_management)
+ISMS        | [Information Security Management System](https://en.wikipedia.org/wiki/Information_security_management)
 ISO         | [International Standards Organization](https://en.wikipedia.org/wiki/International_Organization_for_Standardization)
 ISOC        | [Internet Society](https://en.wikipedia.org/wiki/Internet_Society)
 ISP         | Internet Service Provider
