@@ -1023,6 +1023,7 @@ QIT         | QUality Improvement Team
 QKD         | [Quantum Key Distribution](https://en.wikipedia.org/wiki/Quantum_key_distribution)
 QML         | Quantum Machine Learning
 QMLM        | Quantum Machine Learing Model
+QMP         | Quality Managemenet Principles (e.g., see: [ISO 9000](https://en.wikipedia.org/wiki/ISO_9000))
 QMS         | Quality Management System
 QMT         | Quality Monitoring Team
 QNN         | Quanvolutional Neural Network
