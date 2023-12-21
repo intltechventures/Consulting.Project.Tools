@@ -384,6 +384,7 @@ DRBG        | [Deterministic Random Bit Generator](https://en.wikipedia.org/wiki
 DRI         | Directly Responsible Individual
 DRL         | Deep Reinforcement Learning
 DRY         | Don't Repeat Yourself
+DSA         | Data Structures and Algorithms
 DSA         | [Digital Signature Algorithm](https://en.wikipedia.org/wiki/Digital_Signature_Algorithm)
 DSL         | [Digital subscriber line](https://en.wikipedia.org/wiki/Digital_subscriber_line)
 DSL         | Domain Specific Language
