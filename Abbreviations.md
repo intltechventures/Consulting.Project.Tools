@@ -804,6 +804,7 @@ MQL         | Marketing Qualified Lead
 MRA         | Matters Requiring Attention
 MRC         | Management Risk Committee
 MRD         | [Marketing Requitements Document](https://en.wikipedia.org/wiki/Market_requirements_document)
+MRM         | Model Risk Management
 MRM         | Most Responsible Moment
 MRR         | Monthly Recurring Revenue
 MSA         | Microservices Architecture  
