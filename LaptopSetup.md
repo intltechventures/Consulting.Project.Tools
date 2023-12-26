@@ -368,30 +368,41 @@ __These are the primary software programs that I typically have installed on my 
 
       * [Copy GitHub URL](https://marketplace.visualstudio.com/items?itemName=mattlott.copy-github-url)
 
-      * Dev Containers
+      * https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
+        * Dev Containers
+        * Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.
+
       * Docker
 
       * Endwise
+
       * ESLint
 
       * Git Graph
+
       * GitHub PR 
+
       * GitLab Workflow
+
       * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
       * HAML Lint
 
       * Jira and Bitbucket
+
       * Jupyter
 
       * PlantUML
+
       * Peacock
+
       * Prettier
 
       * Rainbow CSV
       * Rainbow Indent
 
       * Sourcegrpah
+
       * Sublime Keymap
       * Sublime Text Monokai theme
 
