@@ -827,6 +827,7 @@ MUPS        | Minimum Usable Products/Services
 MVC         | [Model-View-Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 MVCC        | Multi Version Concurrency Control
 MVI         | Model-View-Intent 
+MVNO        | Mobile Virtual Network Operator 
 MVP         | Minimal Viable Product 
 MVS         | IBM [Multiple Virtual Storage](https://en.wikipedia.org/wiki/MVS)
 MVVM        | [Model-View-ViewModel](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
@@ -847,6 +848,7 @@ NDCG        | Normalized Discounted Cumulative Gain
 NDP         | [Neighbor Discovery Protocol](https://en.wikipedia.org/wiki/Neighbor_Discovery_Protocol)
 NER         | Named Entity Recognition, re: ML
 NeRF        | Neural Radiance Fields (re: Deep Learning, optimizing continuous volumetric scene function)
+NISQ        | Noisy Intermediate-Scale Quantum
 NFS         | Network File System 
 NFT         | [Non-Fungible Token](https://en.wikipedia.org/wiki/Non-fungible_token)
 NFV         | [Network Function Virtualization](https://en.wikipedia.org/wiki/Network_function_virtualization)
