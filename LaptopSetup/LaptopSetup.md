@@ -1,5 +1,6 @@
 
 # My Mobile Office Equipment
+
 - Kelvin D. Meeks
   + kmeeks@intltechventures.com
   + https://www.linkedin.com/in/kelvinmeeks/
@@ -720,20 +721,21 @@ __These are the primary software programs that I typically have installed on my 
   + [PowerISO](https://www.poweriso.com/)
 
 
-## Business Documentation Productivity Tools - Microsoft
+## Business Productivity Tools - Microsoft Office365
 
-- Office365
-  + Word
+- Microsoft Word
 
-  + Excel
-    * Enable optional default plugins:
-      * ![](images/Excel-Add-Ins.jpg)     
+- Microsoft Excel
+  + Enable optional default plugins:
+    * ![](images/Excel-Add-Ins.jpg)     
+
+- Microsoft PowerPoint 
+
+- Microsoft Teams
+  + https://www.microsoft.com/en-us/microsoft-teams/download-app
 
 
-  + PowerPoint 
-
-
-## Business Documentation Productivity Tools - Open Source
+## Business Productivity Tools - Libre Office 
 
 - [Libre Office](https://www.libreoffice.org/)
   + https://wiki.documentfoundation.org/Feature_Comparison:_LibreOffice_-_Microsoft_Office
@@ -793,9 +795,21 @@ __These are the primary software programs that I typically have installed on my 
  
 ## Communication Tools
 
-- [GoToMeeting](https://www.gotomeeting.com)
+- Microsoft Teams
+  + https://www.microsoft.com/en-us/microsoft-teams/download-app
 
-- [Skype](https://www.skype.com/en/) 
+
+- Microsoft Skype 
+ + https://www.skype.com/en/
+
+
+- GoToMeeting
+  + https://www.gotomeeting.com
+
+
+- Zoom
+  + https://zoom.us/
+    * https://zoom.us/signin#/login
 
 
 
