@@ -585,6 +585,7 @@ HTML        | Hyper Text Markup Language
 HTTP        | [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 HTTPS       | Hypertext Transfer Protocol Secure
 HUD         | [Head-Up Display](https://en.wikipedia.org/wiki/HUD_(video_gaming))
+HVCI        | [HyperVisor-enforced Code Integrity](https://learn.microsoft.com/en-us/windows-hardware/drivers/bringup/device-guard-and-credential-guard) (i.e., introduced in [Windows 11](https://en.wikipedia.org/wiki/Windows_11))
 HW          | Hardware
 I_          |
 IA          | Information Assurance
@@ -1353,6 +1354,7 @@ VAE         | Variational Autoencoders
 VAPT        | [Vulnerability Assessment and Penetration Testing](https://en.wikipedia.org/wiki/Vulnerability_assessment_(computing)#Vulnerability_assessment_vs_penetration_testing)
 VAX         | [Virtual Address eXtension](https://en.wikipedia.org/wiki/VAX_)
 VAS         | Value-Added Services
+VBS         | [Virtualization-based Security](https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-vbs) (i.e., introduced in [Windows 11](https://en.wikipedia.org/wiki/Windows_11))
 VC          | Venture Capital 
 vCPU        | Virtual Central Processing Unit
 VDI         | [Virtual Desktop Infrastructure](https://en.wikipedia.org/wiki/Desktop_virtualization#Remote_desktop_virtualization)
