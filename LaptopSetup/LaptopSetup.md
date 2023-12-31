@@ -727,7 +727,8 @@ __These are the primary software programs that I typically have installed on my 
 
   + Excel
     * Enable optional default plugins:
-      * ![](images/Excel_Add_Ins.png)     
+      * ![](images/Excel-Add-Ins.jpg)     
+
 
   + PowerPoint 
 
