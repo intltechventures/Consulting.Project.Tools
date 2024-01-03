@@ -199,6 +199,7 @@ CAT         | Customer Advisory Team
 CATEs       | [Conditional Average Treatment Effects](https://en.wikipedia.org/wiki/Average_treatment_effect)
 CBA         | Cost Benefit Analysis
 CBAC        | [Claim-Based Attirbute Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see ABAC,PBAC)
+CBFR        | Commenting For Better Reach
 CBS         | Critical Business System
 CCC         | FINOS: [Common Cloud Controls Project](https://www.finos.org/common-cloud-controls-project)
 CCD         | Conceptual Design Document
@@ -277,7 +278,9 @@ CORBA       | [Common Object Request Broker Architecture](https://en.wikipedia.o
 CORS        | Cross-Origin Resource Sharing
 COSS        | Commercial Open Source Software 
 COTS        | Commercial Off-The-Shelf
+CPC         | Cost Per Click
 CPG         | Consumer Packaged Goods (e.g. industry)
+CPL         | Cost Per Lead 
 CPM         | Capability Portfolio Management 
 CPU         | [entral Processing Unit](https://en.wikipedia.org/wiki/Central_processing_unit)
 CQRS        | Command Query Responsibility Segregation  
@@ -740,6 +743,7 @@ LLM         | Large Language Model
 LoRA        | [Low-Rank Adaptation](https://arxiv.org/abs/2106.09685) (of Large Language Models) [see [Microsoft github repo](https://github.com/microsoft/LoRA)]
 LSA         | Latent Semantic Analysis
 LSA         | Local Service Agreement
+LSE         | Large Scale Event
 LSM         | [Log-Structured Merge-Tree](https://en.wikipedia.org/wiki/Log-structured_merge-tree)
 LSTM        | Long Short-Term Memory
 LTV         | Lifetime Value
@@ -987,7 +991,8 @@ POOGI       | [Process Of Ongoing Improvement](https://en.wikipedia.org/wiki/Con
 PoP         | Policy on Policies
 POSIX       | [Portable Operating System Interface](https://en.wikipedia.org/wiki/POSIX)
 POTS        | [Plain old telephone service](https://en.wikipedia.org/wiki/Plain_old_telephone_service)
-POV         | Point of View 
+POV         | Point of View
+PPC         | Pay Per Click 
 PPI         | Protected Personal Information
 PPL         | Policy & Procedure Library
 PPM         | Project Portfolio Management
@@ -1338,6 +1343,7 @@ UDP         | [User Datagram Protocol](https://en.wikipedia.org/wiki/User_Datagr
 UDR         | User-Defined Routes 
 UDS         | [Unix Domain Socket](https://en.wikipedia.org/wiki/Unix_domain_socket)
 UEFI        | [Unified Extensible Firmware Interface](https://en.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface)
+UGC         | User Generated Content 
 UI          | User Interface  
 UIMA        | Unstructured Information Management Architecture
 UML         | Unified Modeling Language
