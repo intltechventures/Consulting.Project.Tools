@@ -504,6 +504,7 @@ FIPS        | [Federal Information Processing Standard](https://en.wikipedia.org
 FIRST       | Fast Independent Repeatable Self-Validating Timely [(source)](https://dzone.com/articles/writing-your-first-unit-tests)
 FISMA	    | Federal Information Security Management Act 
 FMEA        | Failure Mode and Effects Analysis
+fMRI        | functional Magnetic Resonance Imaging
 FoS         | Families of Systems
 FP          | Functional Programming 
 FPGA        | Field-Programmable Gate Arrays
@@ -513,7 +514,7 @@ FQL         | [Flows Query Language](https://learning.postman.com/docs/postman-f
 FQDN        | Fully Qualified Domain Name 
 FQHE        | [Fractional Quantum Hall Effect](https://en.wikipedia.org/wiki/Fractional_quantum_Hall_effect)
 FRC         | [First Robot Competition](https://www.firstinspires.org/robotics/frc)
-fMRI        | functional Magnetic Resonance Imaging 
+FRS         | [Fello of the Royal Society](https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society)
 FSC         | Financial Size Categories
 FSDG        | [(GNU) Free System Distribution Guidelines](https://www.gnu.org/distros/free-system-distribution-guidelines.html)
 FTP         | [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
