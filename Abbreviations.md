@@ -231,6 +231,7 @@ CEP         | [Complex Event Processing](https://en.wikipedia.org/wiki/Complex_e
 CER         | Control Exception Request
 CERN        | [European Organization for Nuclear Research](https://en.wikipedia.org/wiki/CERN), French: Organisation européenne pour la recherche nucléaire
 CESGA       | [Galician Supercomputing Center](https://www.cesga.es/)
+CIFAR       | [Canadian Institute for Advanced Research](https://en.wikipedia.org/wiki/Canadian_Institute_for_Advanced_Research)
 CFBR        | Commenting For Better Reach
 CFR         | Change Failure Rate
 CFT         | Cross-Functional Team
@@ -424,7 +425,9 @@ EBS         | Elastic Block Storage (AWS)
 EC          | European Commission
 EC2         | [Amazon Elastic Compute Cloud](https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud)
 ECA         | Embodied Conversational Agent(s)
-ECDH        | Elliptic Curve Diffie Hellman
+ECC         | [Elliptic-Curve Cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography)
+ECDH        | [Elliptic-Curve Diffie-Hellman](https://en.wikipedia.org/wiki/Elliptic-curve_Diffie%E2%80%93Hellman)
+ECDSA       | [Elliptic Curve Digital Signature Algorithm](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)
 eCF or e-CF | [European e-Competence Framework](https://esco.ec.europa.eu/en/about-esco/escopedia/escopedia/european-e-competence-framework-e-cf)
 EDA         | Enterprise Data Architecture
 EDA         | Event-Driven Architecture 
@@ -1117,7 +1120,7 @@ RPM         | Redhat Package Manager
 RPM         | Requests Per Minute
 RPO         | Recovery Point Objective
 RSVP        | [Resource Reservation Protocol](https://en.wikipedia.org/wiki/Resource_Reservation_Protocol)
-RSA         | [Rivest–Shamir–Adleman](https://en.wikipedia.org/wiki/RSA_(cryptosystem)), re: one of the first public-key cryptosystems)
+RSA         | [Rivest–Shamir–Adleman](https://en.wikipedia.org/wiki/RSA_(cryptosystem)), (re: one of the first public-key cryptosystems)
 RSG         | Risk Strategy & Governance
 RSU         | Restricted Stock Units
 RTB         | Run The Business
