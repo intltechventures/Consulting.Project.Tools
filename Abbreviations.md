@@ -72,6 +72,7 @@ AMASS       | Autonomous Multi-Domain Adaptive Swarms-of-Swarms
 AMI         | Amazon Machine Image
 AML         | Anti-Money Laundering
 AMMERSE     | [Agile, Minimal, Maintainable, Environmental, Reachable, Solvable, Extensible](https://www.ammerse.org/)
+AMMS        | Autonomous Mobility Management System:
 AMS         | Application Managed Service
 AMQP        | [Advanced Message Queuing Protocol](https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol)
 ANC         | Adaptive Network Control
@@ -179,6 +180,7 @@ BSA         | Bank Secrecy Act
 BSD         | [Berkeley Software Distribution](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
 BSI         | British Sandards Institution
 BTC         | Bitcoin
+BtoS        | Business-to-Society
 BU          | Business Unit
 BYO         | Bring Your Own
 BYOD        | Bring Your Own Device
@@ -195,6 +197,7 @@ CAGR        | [Compound Annual Growth Rate](https://en.wikipedia.org/wiki/Compou
 CAP         | Consistency, Availability, Partition Tolerance  
 CapEx       | [Capital Expenditure](https://en.wikipedia.org/wiki/Capital_expenditure)
 CAS         | [Compare-And-Swap | Compare-And-Set](https://en.wikipedia.org/wiki/Compare-and-swap)
+CASE        | Connected, Autonomous / Automated, Shared, and Electric
 CAT         | Customer Advisory Team
 CATEs       | [Conditional Average Treatment Effects](https://en.wikipedia.org/wiki/Average_treatment_effect)
 CBA         | Cost Benefit Analysis
@@ -755,6 +758,7 @@ LU          | Logical Unit
 LVM         | Logical Volume Manager
 L2TP        | [Layer 2 Tunneling Protocol](https://en.wikipedia.org/wiki/Layer_2_Tunneling_Protocol)
 M_          |
+MaaS        | Mobility as a Service
 MAC         | Machine Access Control 
 MAC         | Managed Application Consulting
 MAC         | [Mandatory Access Control](https://en.wikipedia.org/wiki/Mandatory_access_control)
@@ -820,6 +824,7 @@ MRR         | Monthly Recurring Revenue
 MSA         | Microservices Architecture  
 MSA         | Master Service Agreement
 MSE         | Mean Squared Error
+MSPF        | Mobility Service Platform
 MSP         | [Managed Service Provider](https://en.wikipedia.org/wiki/Managed_services)
 MSRC        | Microsoft Security Response Center team
 MTD         | Maximum Tolerable Downtime
@@ -1174,6 +1179,7 @@ SCP         | Service Control Policy
 SCTP        | [Stream Control Transmission Protocol](https://en.wikipedia.org/wiki/Stream_Control_Transmission_Protocol)
 SD          | Service Desk
 SDF         | System Data Flow 
+SDG         | Sustainable Development Goals
 SDI         | Software Defined Infrastructure
 SDK         | Software Development Kit  
 SDLC        | Software Development Life-cycle (aka Software Development Process)
