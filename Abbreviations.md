@@ -955,6 +955,7 @@ PCR         | Policy Change Request
 PCR         | Project Change Request
 PDCA        | Plan-Do-Check-{Act | Adjust} (Shewhart’s PDCA cycle, aka the Deming Cycle) [also see PDSA]
 PDH         | Product Development Hub
+PDI         | Personal Developer Instances 
 PDM         | Product Data Management
 PDSA        | Plan-Do-Study-Act
 PDP         | Policy Decision Point
