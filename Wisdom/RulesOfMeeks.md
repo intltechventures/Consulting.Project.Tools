@@ -142,6 +142,9 @@ changes you"**
 **\#115 - "If you must constantly walk in fear of stepping on eggshells, find something better to do with your time"**
 
 
+**\#116 - "You may be able to do anything - but you should carefully refrain from trying to do everything."**
+
+
 
 \#2xx - On the Art of  Managing People
 ====
