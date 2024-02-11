@@ -7,10 +7,10 @@
   + http://www.intltechventures.com
 
   + __Current Primary Laptop__:
-    * MSI GT72 6QE, Intel® Core™ i7-6700HQ, 24GB RAM (DDR4 2133MHz), Three SSD drvies (256GB M.2 SATA, 1TB M.2 SATA, 1TB SATA), 8.4 lbs
+    * HP Envy, 64GB RAM, 2TB SSD, 12th Gen Intel(R) Core(TM) i7-1260P, 12-Core, 2.10 GHz, 2 Thunderbolt 4, WiFi 6E, BT 5.3, Windows 11 Pro
 
-  + __Secondary Laptop__:
-    * HP Envy, 64GB RAM, 2TB SATA SSD
+  + __Previous Primary Laptop__: *DIED*
+    * MSI GT72 6QE, Intel® Core™ i7-6700HQ, 24GB RAM (DDR4 2133MHz), Three SSD drvies (256GB M.2 SATA, 1TB M.2 SATA, 1TB SATA), 8.4 lbs
 
   + __Emergency Backup Laptop__:
     * Lenovo Ideapad 110-15ACL, AMD A8-7410 2.2Ghz, 8GB RAM (1,600 MHz), 1TB SATA SSD, 4.8 lbs
@@ -280,6 +280,9 @@ __These are the primary software programs that I typically have installed on my 
 
 - [Microsoft Visual Studio](https://www.visualstudio.com/)
   + https://visualstudio.microsoft.com/downloads/
+
+  + Marketplace: Visual Studio > tools 
+    * https://marketplace.visualstudio.com/search?target=VS&category=Tools&vsVersion=&subCategory=All&sortBy=Installs
 
   + Configuration Options:
     * Setting the MSBuildDebugEngine=1 environment variable and then starting VS will give you full, proper binlogs from Visual Studio builds (including design-time)
