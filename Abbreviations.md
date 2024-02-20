@@ -76,6 +76,7 @@ AMMS        | Autonomous Mobility Management System:
 AMS         | Application Managed Service
 AMQP        | [Advanced Message Queuing Protocol](https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol)
 ANC         | Adaptive Network Control
+ANM         | Additive Noise Model
 ANN         | Artificial Neural Network
 ANSI        | [American National Standards Institute](https://en.wikipedia.org/wiki/American_National_Standards_Institute)
 AOL         | Attorney Opinion Letters 
@@ -204,6 +205,7 @@ CBA         | Cost Benefit Analysis
 CBAC        | [Claim-Based Attirbute Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see ABAC,PBAC)
 CBFR        | Commenting For Better Reach
 CBS         | Critical Business System
+CCANM       | Cascade Nonlinear Additive Noise Models 
 CCC         | FINOS: [Common Cloud Controls Project](https://www.finos.org/common-cloud-controls-project)
 CCD         | Conceptual Design Document
 CCPOLDAT    | [Customer, Channel, Process, Organisation, Location, Data, Application and Technology](https://en.wikipedia.org/wiki/POLDAT) (see POLDAT)
@@ -506,6 +508,7 @@ FIDO        | see [Fast IDentity Online (FIDO) Alliance](https://en.wikipedia.or
 FinCEN      | [Financial Crimes Enforcement Network](https://en.wikipedia.org/wiki/Financial_Crimes_Enforcement_Network)
 FHIR        | Fast Healthcare Interoperability Resources (a draft standard describing data formats and elements and an application programming interface for exchanging electronic health records)
 FIDO        | Fast Identity Online
+FINRA       | Financial Industry Regulatory Authority
 FIPS        | [Federal Information Processing Standard](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards), re: FIPS PUB 140-2
 FIRST       | Fast Independent Repeatable Self-Validating Timely [(source)](https://dzone.com/articles/writing-your-first-unit-tests)
 FISMA	    | Federal Information Security Management Act 
@@ -747,6 +750,7 @@ LGPL        | (GNU) Lesser General Public License
 LID         | Language Identification
 LLC         | [Logical Link Control](https://en.wikipedia.org/wiki/Logical_link_control)
 LLM         | Large Language Model
+LLRT        | Low Latency Runtime (e.g., [AWS](https://github.com/awslabs/llrt))
 LoRA        | [Low-Rank Adaptation](https://arxiv.org/abs/2106.09685) (of Large Language Models) [see [Microsoft github repo](https://github.com/microsoft/LoRA)]
 LSA         | Latent Semantic Analysis
 LSA         | Local Service Agreement
