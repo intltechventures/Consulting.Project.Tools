@@ -1065,7 +1065,7 @@ RAA         | Responsibility, Accountability, Authority
 RACF        | IBM [Resource Access Control Facility](https://en.wikipedia.org/wiki/Resource_Access_Control_Facility)
 RACI        | Responsible, Accountable, Consulted, Informed
 RAD         | Rapid Application Development 
-RAG         | [Retrieval-Augmented Generation](https://arxiv.org/abs/2005.11401)
+RAG         | [Retrieval-Augmented Generation](https://arxiv.org/abs/2005.11401), ([Wkipedia](https://en.wikipedia.org/wiki/Prompt_engineering#Retrieval-augmented_generation))
 RAG         | Red, Amber (Yellow), Green (see: [Traffic Light Rating System](https://en.wikipedia.org/wiki/Traffic_light_rating_system))
 RAID        | Redundant Array of Independent Disks
 RAM         | Random Access Memory
