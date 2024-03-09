@@ -77,6 +77,7 @@ AMS         | Application Managed Service
 AMQP        | [Advanced Message Queuing Protocol](https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol)
 ANC         | Adaptive Network Control
 ANM         | Additive Noise Model
+ANN         | [Approximate Nearest Neighbor](https://en.wikipedia.org/wiki/Nearest_neighbor_search#Approximation_methods)
 ANN         | Artificial Neural Network
 ANSI        | [American National Standards Institute](https://en.wikipedia.org/wiki/American_National_Standards_Institute)
 AOL         | Attorney Opinion Letters 
@@ -878,7 +879,8 @@ NLG         | Natural Language Generation
 NLP         | Natural Language Processing
 NLS         | Natural Language Support 
 NLU         | Natural Language Understanding
-NMS         | Network Management System 
+NMS         | Network Management System
+NNS         | [Nearest neighbor search](https://en.wikipedia.org/wiki/Nearest_neighbor_search)
 NOC         | Network Operations Center 
 NOPAT       | [Net Operating Profit After Tax](https://en.wikipedia.org/wiki/NOPAT)
 NPI         | Non-Public Personal Information (aka NPPI)
@@ -1379,6 +1381,7 @@ VAS         | Value-Added Services
 VBS         | [Virtualization-based Security](https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-vbs) (i.e., introduced in [Windows 11](https://en.wikipedia.org/wiki/Windows_11))
 VC          | Venture Capital 
 vCPU        | Virtual Central Processing Unit
+VDBMS       | pVector Database Danagement System](https://en.wikipedia.org/wiki/Vector_database), aka vector data, or vector store
 VDI         | [Virtual Desktop Infrastructure](https://en.wikipedia.org/wiki/Desktop_virtualization#Remote_desktop_virtualization)
 VEX         | [Software-Exploitability eXchange](https://ntia.gov/files/ntia/publications/vex_one-page_summary.pdf)
 VHD         | Virtual Hard Disk 
