@@ -4,7 +4,7 @@
 ## General Structure / Tiers
 
 
-|Level  |Processes      |Practdices     |Requirements Group |Notes  |
+|Level  |Processes      |Practices      |Requirements Group |Notes  |
 |-------|---------------|---------------|-------------------|-------|
 0       |Ad hoc         |Ad hoc         |Ad hoc             |       
 1       |Performed      |Basic          |A                  |       
