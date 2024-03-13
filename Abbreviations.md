@@ -272,6 +272,7 @@ CMF         | Content Monitoring and Filtering (see DLP)
 CMGR        | Compounded Monthly Growth Rate 
 CMK         | Customer Managed Keys
 CMM         | Capability Maturity Model
+CMMC        | [Cybersecurity Maturity Model Certification](https://dodcio.defense.gov/CMMC/Model/)
 CMOS        | [Complementary metal–oxide–semiconductor](https://en.wikipedia.org/wiki/CMOS)
 cn          | Common Name, re: LDAP
 CNAB        | [Cloud Native Application Bundles](https://cnab.io/)
