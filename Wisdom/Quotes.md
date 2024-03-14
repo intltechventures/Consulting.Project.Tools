@@ -94,6 +94,18 @@
 
 
 
+## Hooker, David
+- [Seven Principles of Software Development](http://wiki.c2.com/?SevenPrinciplesOfSoftwareDevelopment)
+1. The Reason It All Exists
+2. KISS (Keep It Simple, Stupid!)
+3. Maintain the Vision 
+4. What You Produce, Others Will Consume 
+5. Be Open to the Future
+6. Plan Ahead for Reuse
+7. Think!
+
+
+
 ## Hophe, Gregor
 - ["Abstractions are the #1 tool to manage complexity."](https://www.linkedin.com/posts/ghohpe_programming-without-a-stack-trace-when-abstractions-activity-7054482803861708801-kZCs)
 
@@ -204,11 +216,6 @@
 
 
 
-## Weber, Erik
-- "A company that rewards firefights breeds arsonists." 
-
-
-
 ## Raymond, Eric
 - Eric Raymond's [17 Unix rules](https://en.wikipedia.org/wiki/Unix_philosophy#Eric_Raymond's_17_Unix_Rules), re: [The Art of Unix Programming](https://en.wikipedia.org/wiki/The_Art_of_Unix_Programming) (2003)
 1. Build modular programs
@@ -256,18 +263,6 @@
 
 
 
-## Hooker, David
-- [Seven Principles of Software Development](http://wiki.c2.com/?SevenPrinciplesOfSoftwareDevelopment)
-1. The Reason It All Exists
-2. KISS (Keep It Simple, Stupid!)
-3. Maintain the Vision 
-4. What You Produce, Others Will Consume 
-5. Be Open to the Future
-6. Plan Ahead for Reuse
-7. Think!
-
-
-
 ## Parkinson, C. Northcote
 - Parkinson's Law: "Work expands so as to fill the time available for its completion." (1955, Economist article)
 
@@ -275,6 +270,16 @@
 
 ## Sowell, Thomas (an American economist)
 - “There are no solutions. There are only trade-offs.” 
+
+
+
+## Verilio, Paul 
+- “When you invent the ship, you also invent the shipwreck; when you invent the plane, you also invent the plane crash; and when you invent electricity, you invent electrocution. Every technology carries its own negativity, which is invented at the same time as technical progress.”
+
+
+
+## Weber, Erik
+- "A company that rewards firefights breeds arsonists." 
 
 
 
