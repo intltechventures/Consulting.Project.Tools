@@ -68,6 +68,7 @@ AKM         | Authentication and Key Management
 AKP         | Advanced Key Processor
 AKS         | Azure Kubernetes Service
 ALM         | [Application Lifecycle Management](https://en.wikipedia.org/wiki/Application_lifecycle_management)
+ALM         | Audio Language Models 
 AMASS       | Autonomous Multi-Domain Adaptive Swarms-of-Swarms
 AMI         | Amazon Machine Image
 AML         | Anti-Money Laundering
