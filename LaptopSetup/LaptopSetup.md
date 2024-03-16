@@ -160,7 +160,15 @@ __These are the primary software programs that I typically have installed on my 
 
 ### eBook Readers
 
-- [Adobe Reader](https://get.adobe.com/reader/)
+- https://en.wikipedia.org/wiki/List_of_PDF_software
+
+- Sumatra PDF
+  + https://en.wikipedia.org/wiki/Sumatra_PDF
+  + https://www.sumatrapdfreader.org/free-pdf-reader
+  + https://github.com/sumatrapdfreader/sumatrapdf
+
+
+- DISCARDED - [Adobe Reader](https://get.adobe.com/reader/)
   + Fonts: (needed to print certain documents, e.g. WA Healthcare 1095-A)
     * [Adobe Acrobat Reader DC Font Pack (Continuous) - For Acrobat Reader DC version 19.x](https://supportdownloads.adobe.com/thankyou.jsp?ftpID=6484&fileID=6484)
 
