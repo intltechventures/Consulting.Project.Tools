@@ -206,6 +206,7 @@ CATEs       | [Conditional Average Treatment Effects](https://en.wikipedia.org/w
 CBA         | Cost Benefit Analysis
 CBAC        | [Claim-Based Attirbute Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see ABAC,PBAC)
 CBFR        | Commenting For Better Reach
+CBR         | Change Blast Radius
 CBS         | Critical Business System
 CCANM       | Cascade Nonlinear Additive Noise Models 
 CCC         | FINOS: [Common Cloud Controls Project](https://www.finos.org/common-cloud-controls-project)
