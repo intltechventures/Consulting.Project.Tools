@@ -799,6 +799,7 @@ MEAP        | Mobile Enterprise Application Platform
 MECE        | [Mutually Exclusive, Collectivelivey Exhaustive](https://en.wikipedia.org/wiki/MECE_principle) Principle
 MED         | Management of External Data
 MERN        | MongoDB, Express.js, React.js, Node.js
+MFA         | Micro Frontend Architecture 
 MFA         | Multi-Factor Authentication
 MFE         | [Micro-Frontends](https://martinfowler.com/articles/micro-frontends.html)
 MFT         | [Master File Table](https://en.wikipedia.org/wiki/File_Allocation_Table)
@@ -1042,6 +1043,7 @@ PUP         | [PARC Universal Packet](https://en.wikipedia.org/wiki/PARC_Univers
 PV          | [Present Value](https://en.wikipedia.org/wiki/Present_value)
 PVA         | Power Virtual Agents (re: Microsoft BOT platform)
 PvP         | Player to Player 
+PWA         | [Progressive Web Application](https://en.wikipedia.org/wiki/Progressive_web_app)
 P2P         | [Peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer)
 Q_          |
 QA          | [Quality Assurance](https://en.wikipedia.org/wiki/Quality_assurance)
@@ -1346,7 +1348,8 @@ TSD         | Technical Specification Document
 TSO         | [Time Sharing Option](https://en.wikipedia.org/wiki/Time_Sharing_Option), re: IBM mainframe interactive time-sharing environment
 TSS         | [Time Sharing Operating System](https://en.wikipedia.org/wiki/TSS_(operating_system)), re: IBM
 TSS         | Technical Security Standards
-TTFB        | Time to First Byte 
+TTFB        | Time to First Byte
+TTI         | [Time to Interactive](https://web.dev/articles/tti)
 TTL         | Time To Live
 TTM         | Time-To-Market 
 TTP         | Trusted Third Party
