@@ -834,6 +834,7 @@ MRR         | Monthly Recurring Revenue
 MSA         | Microservices Architecture  
 MSA         | Master Service Agreement
 MSE         | Mean Squared Error
+MSK         | AWS [Managed Streaming for Apache Kafka](https://aws.amazon.com/msk/)
 MSPF        | Mobility Service Platform
 MSP         | [Managed Service Provider](https://en.wikipedia.org/wiki/Managed_services)
 MSRC        | Microsoft Security Response Center team
