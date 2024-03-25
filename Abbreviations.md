@@ -546,6 +546,7 @@ GCP         | Google Cloud Platfrom
 GDG         | Generation Date Group
 GDPR        | Genera Data Protection Regulation (re: EU)
 GFCI        | Greedy Fast Causal Interference (GFCI) Algorithm 
+GHAS        | [GitHub Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security)
 GIL         | [Global Interpreter Lock](https://en.wikipedia.org/wiki/Global_interpreter_lock)
 GIN         | Generalized Inverted Index
 GIST        | Generalized Search Tree
