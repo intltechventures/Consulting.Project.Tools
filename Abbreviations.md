@@ -1309,6 +1309,7 @@ SuD         | System Under Discussion (re, see book: [Writing Effective Use Case
 SUTVA       | [Stable Unit Treatment Value Assumption](https://en.wikipedia.org/wiki/Rubin_causal_model#Stable_unit_treatment_value_assumption_(SUTVA)) 
 SVG         | [Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 SW          | Software
+SWA         | Azure [Static Web Apps](https://azure.microsoft.com/en-us/products/app-service/static/) ([github](https://github.com/Azure/static-web-apps))
 SWAG        | Silly Wild-Ass Guess (also see ROM), aka an estimate 
 SWOT        | Strengths, Weaknesses, Opportunities, and Threats
 S&P         | Strategy & Planning
@@ -1322,6 +1323,7 @@ TAOC        | [The Art of Computer Programming](https://en.wikipedia.org/wiki/Th
 TAR         | [Tape Archive](https://en.wikipedia.org/wiki/Tar_(computing)) (file format). Aka tarball
 TB          | Terabyte
 TBD         | To Be Determined
+TBM         | Technolog Business Management 
 TBM         | [Technology Business Management Council](https://www.tbmcouncil.org/)
 TCO         | Total Cost of Ownership (see TOC)
 TCP         | [Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
