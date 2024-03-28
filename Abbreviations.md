@@ -132,6 +132,7 @@ B2B         | Business-to-Business
 B2C         | Business-to-Consumer
 BA          | Business Analyst
 BAA         | Business Associate Agreement
+BACM        | [Business Architecture Core Metamodel](https://www.omg.org/spec/BACM) (re: OMG.org)
 BAFO        | Best And Final Offer (e.g., RFP negotiations)
 BAIR        | [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/)
 BAU         | Business As Usual
