@@ -16,6 +16,7 @@ _           |
 A_          |
 A11y        | Accessibility [see: [Mozzila](https://developer.mozilla.org/en-US/docs/Web/Accessibility), [W3C](https://www.w3.org/standards/webdesign/accessibility)]
 A2C         | Advantage Actor-Critic (e.g., Deep Reinforcement Learning agent)
+AA          | Alternatives Analysis
 AAD         | [Average absolution deviation](https://en.wikipedia.org/wiki/Average_absolute_deviation) 
 AAD         | [Azure Active Directory](https://azure.microsoft.com/en-us/products/active-directory/)
 ABAC        | [Attribute-Based Access Contorl](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see CBAC, PBAC)
@@ -163,6 +164,7 @@ BIOS        | Basic Input-Output System
 BLOB        | Binary Large Object
 BLSR        | Baseline Security Requirement
 BMA         | Business Mission Area 
+BNA         | Business Needs Analysis
 BNF         | Backus-Naur Form
 BNS         | Business Needs Statement
 BOD         | Binding Operational Directive 
@@ -194,7 +196,7 @@ C5          | Command, Control, Computers, Communications and Cyber
 C&A         | Certification & Accreditation
 CA          | Certificate Authority
 CAAS        | Container as a Service
-CAB         | Change Advisory Board
+CAB         | [Change-Advisory Board](https://en.wikipedia.org/wiki/Change-advisory_board)
 CaC         | Compliance as Code
 CAC         | Customer Acquisition Cost
 CAGR        | [Compound Annual Growth Rate](https://en.wikipedia.org/wiki/Compound_annual_growth_rate) 
@@ -436,6 +438,7 @@ EBS         | Elastic Block Storage (AWS)
 EC          | European Commission
 EC2         | [Amazon Elastic Compute Cloud](https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud)
 ECA         | Embodied Conversational Agent(s)
+ECAB        | [Emergency Change-Advisory Board](https://en.wikipedia.org/wiki/Change-advisory_board)
 ECC         | [Elliptic-Curve Cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography)
 ECDH        | [Elliptic-Curve Diffie-Hellman](https://en.wikipedia.org/wiki/Elliptic-curve_Diffie%E2%80%93Hellman)
 ECDSA       | [Elliptic Curve Digital Signature Algorithm](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)
