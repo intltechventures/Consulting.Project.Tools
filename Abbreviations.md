@@ -848,6 +848,7 @@ MTDL        | Maximum Tolerable Data Loss
 mTLS        | Mutual Transport Layer Security (or, Mutually Authenticated TLS)
 MTPD        | Maximum Tolerable Period of Disruption 
 MTS         | Multidimensional Type Structure (e.g. [Thomsen Diagrams](https://en.wikipedia.org/wiki/Thomsen_Diagrams))
+MTTD        | Mean Time to Detect
 MTTR        | [Mean Time to Recovery](https://en.wikipedia.org/wiki/Mean_time_to_recovery)
 MTTR        | [Mean Time to Repair](https://en.wikipedia.org/wiki/Mean_time_to_repair)
 MTTR        | Mean Time to Remediate
@@ -912,6 +913,7 @@ OCF         | [Operating Cash Flow](https://en.wikipedia.org/wiki/Operating_cash
 OCI         | [Open Container Initiative](https://opencontainers.org/)
 OCI         | Oracle Cloud Infrastructure
 OCM         | [Organizational Change Management](https://en.wikipedia.org/wiki/Change_management)
+OCP         | [OpenShift Container Platform](https://en.wikipedia.org/wiki/OpenShift) ([IBM](https://www.ibm.com/products/openshift), [RedHat](https://www.redhat.com/en/technologies/cloud-computing/openshift/container-platform))
 OCTAVE      | Operationally Critical Threat, Asset, and Vulnerability Evaluation 
 OData       | Open Data Protocol 
 ODBC        | Open Database Connectivity
