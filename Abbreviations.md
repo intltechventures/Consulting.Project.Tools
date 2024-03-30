@@ -1057,7 +1057,8 @@ Q_          |
 QA          | [Quality Assurance](https://en.wikipedia.org/wiki/Quality_assurance)
 QAOA        | [Quantum Approximate Optimization Algorithm](https://en.wikipedia.org/wiki/Quantum_optimization_algorithms)
 QEC         | Quantum Error Correction 
-QFT         | Quantum Fourier Transform
+QFT         | [Quantum Field Theory](https://en.wikipedia.org/wiki/Quantum_field_theory)
+QFT         | [Quantum Fourier Transform](https://en.wikipedia.org/wiki/Quantum_Fourier_transform)
 QI          | Quality Improvement 
 QIT         | QUality Improvement Team
 QKD         | [Quantum Key Distribution](https://en.wikipedia.org/wiki/Quantum_key_distribution)
