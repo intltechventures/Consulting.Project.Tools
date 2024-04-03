@@ -107,7 +107,7 @@ ARN         | [Amazon Resource Name](https://docs.aws.amazon.com/general/latest/
 ARP         | Address Resolution Protocol
 ARPA        | Average Revenue Per Account
 ARR         | Annual Recurring Revenue 
-ART         | Agile Release Train (re: Scaled Agile Framework, SAFe)
+ART         | [Agile Release Train](https://scaledagileframework.com/agile-release-train/) (re: Scaled Agile Framework, SAFe)
 AS          | Authoritative Source
 ASCII       | [American Standard Code for Information Interchange](https://en.wikipedia.org/wiki/ASCII)
 ASI         | Artificial Super Intelligence
