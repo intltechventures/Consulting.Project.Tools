@@ -1311,7 +1311,7 @@ SSP         | System Security Plan
 SSPI        | Security Support Provider Interface
 STaaS       | Storage as a Service
 STAR        | Security Trust Assurance and Risk
-STAR        | [Situation. Task. Action. Result.](https://en.wikipedia.org/wiki/Situation,_task,_action,_result) [re: method]
+STAR        | [Situation (20%), Task (10%), Action (60%), Result (10%)](https://en.wikipedia.org/wiki/Situation,_task,_action,_result) [re: method]
 STM-1       | [Synchronous Transport Module level-1](https://en.wikipedia.org/wiki/STM-1)
 STS         | Security Token Service
 SuD         | System Under Discussion (re, see book: [Writing Effective Use Cases](https://www.amazon.com/Writing-Effective-Cases-Alistair-Cockburn/dp/0201702258))
