@@ -316,9 +316,12 @@ CSF         | Critical Success Factors
 CSI         | Container Storage Interface (e.g. Kubernetes)
 CSM         | Customer Service Management 
 CSM         | Customer Success Manager
+CSO         | Cloud Service Offering
+CSP         | Cloud Service Provider
 CSP         | [Content Security Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) 
 CSR         | Customer Service Representative
 CSR         | Certificate Signing Request 
+CSRB        | Cyber Safety Review Board
 CSRF        | Cross-Site Request Forgery 
 CSS         | [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 CTB         | Change The Business
@@ -341,6 +344,7 @@ DAP         | Directory Access Protocol (X.500)
 DAR         | Decision Analysis and Resolution technique
 DARPA       | Defense Advanced Research Projects Agency
 DARQ        | Distributed Ledger Technology (DLT), Artificial Intelligence (AI), Extended Reality (XR), Quantum Computing ~ re: Accenture
+DART        | Detection and Response Team
 DAS         | Direct Attached Storage 
 DaaS        | Data as a Service
 DARPA       | [Defense Advanced Research Projects Agency](https://en.wikipedia.org/wiki/DARPA)
@@ -395,6 +399,7 @@ DoS         | Denial of Service
 DOS         | [Disk Operating System](https://en.wikipedia.org/wiki/DOS)
 DP          | [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
 DPO         | Direct Preference Optimization (re: LLMs, tuning algorithm)
+DPoP        | Demonstrating Proof-of-Possession
 DR          | Disaster Recovery  
 DRB         | Design Review Board  
 DRBG        | [Deterministic Random Bit Generator](https://en.wikipedia.org/wiki/Pseudorandom_number_generator) - also see PRNG
@@ -483,6 +488,7 @@ ES          | ECMAScript (aka JavaScript)
 ESA         | Enterprise Solution Architecture
 ESG         | [Environmental, Social, and Governance](https://www.esg.org/)
 ESO         | European Standards Organization
+ESCO        | Enterprise Security Operations Center
 ESOP        | Employment Stock Ownership Plan
 ESP         | [Event Stream Processing](https://en.wikipedia.org/wiki/Event_stream_processing)
 ESPP        | Employee Stock Purchase Plan
@@ -511,9 +517,10 @@ FCoE        | Fibre Channel over Ethernet
 FCP         | [First Contentful Paint](https://web.dev/fcp/)
 FDDI        | [Fiber Distributed Data Interface](https://en.wikipedia.org/wiki/Fiber_Distributed_Data_Interface)
 FDL         | (GNU) Free Documentation License
+FedRAMP     | Federal Risk Authorization Management Program
 FHE         | Fully [Homomorphic Encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption) (e.g., [IBM](https://www.ibm.com/security/services/homomorphic-encryption_))
 FIBO        | [Financial Industry Business Ontology](https://spec.edmcouncil.org/fibo/)
-FIDO        | see [Fast IDentity Online (FIDO) Alliance](https://en.wikipedia.org/wiki/FIDO_Alliance)
+FIDO        | [Fast IDentity Online (FIDO)](https://en.wikipedia.org/wiki/FIDO_Alliance)
 FinCEN      | [Financial Crimes Enforcement Network](https://en.wikipedia.org/wiki/Financial_Crimes_Enforcement_Network)
 FHIR        | Fast Healthcare Interoperability Resources (a draft standard describing data formats and elements and an application programming interface for exchanging electronic health records)
 FIDO        | Fast Identity Online
@@ -576,6 +583,7 @@ GRC         | Governance, Risk, and Compliance
 GRE         | Generic Routing Encapsulation
 GRO         | Generic Receive Offload
 GRU         | Gated Recurrent Unit
+GSA         | General Services Administration
 GSM         | [Global System for Mobile Communications](https://en.wikipedia.org/wiki/GSM) 
 GTM         | Go-To-Market (re: strategy)
 GUC         | Global User Configuration 
@@ -608,6 +616,7 @@ HTML        | Hyper Text Markup Language
 HTTP        | [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 HTTPS       | Hypertext Transfer Protocol Secure
 HUD         | [Head-Up Display](https://en.wikipedia.org/wiki/HUD_(video_gaming))
+HVA         | High Value Asset
 HVCI        | [HyperVisor-enforced Code Integrity](https://learn.microsoft.com/en-us/windows-hardware/drivers/bringup/device-guard-and-credential-guard) (i.e., introduced in [Windows 11](https://en.wikipedia.org/wiki/Windows_11))
 HW          | Hardware
 I_          |
@@ -627,7 +636,7 @@ ICML        | International Conference on Machine Learning
 ICMP        | [Internet Control Message Protocol ](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol)
 ICP         | Ideal Customer Profile
 ICS         | Incident Command System
-ICT         | Information Communications and Technology 
+ICT         | Information and Communication Technology 
 iDaaS       | Identity as a Service
 IdAM        | See IAM
 IDCG        | Ideal Discounted Cumulative Gain
@@ -655,6 +664,8 @@ IMO         | Integration Management Office (i.e., during Mergers & Acquisitions
 INCOSE      | [International Council on Systems Engineering](https://en.wikipedia.org/wiki/International_Council_on_Systems_Engineering)
 IND         | [Inverse Neighbor Discovery](https://en.wikipedia.org/wiki/Neighbor_Discovery_Protocol)
 INVEST      | Independent Negotiable Valuable Estimable Small Testable [(source)](http://wiki.c2.com/?InvestModelForUserStories)
+IoA         | indicator of Attack
+IoC         | indicator of Compromise
 IOF         | [Industrial Ontologies Foundry](https://www.industrialontologies.org/)
 IOPS        | Input/Output Operations Per Second
 IoT         | Internet of Things
@@ -721,6 +732,7 @@ JSON        | [JavaScript Object Notation](https://en.wikipedia.org/wiki/JSON)
 JSONL       | [JSON Lines](https://jsonlines.org/)
 JSR         | [Java Specification Request](https://www.jcp.org/en/jsr/all)
 JSR         | JavaScript Remoting
+JTF         | Joint Task Force
 JVM         | [Java Virtual Machine](https://en.wikipedia.org/wiki/Java_virtual_machine)
 JVMS        | Java Virtual Machine Specification
 JWKS        | JSON Web Key Set
@@ -772,6 +784,7 @@ LU          | Logical Unit
 LVM         | Logical Volume Manager
 L2TP        | [Layer 2 Tunneling Protocol](https://en.wikipedia.org/wiki/Layer_2_Tunneling_Protocol)
 M_          |
+M&A         | Mergers & Acquisitions
 MaaS        | Mobility as a Service
 MAC         | Machine Access Control 
 MAC         | Managed Application Consulting
@@ -829,6 +842,7 @@ MOM         | Message Oriented Middleware
 MOQ         | Minimum Order Quantity
 MOTS        | Modified Off-The-Shelf 
 MOU         | Memorandum of Understanding
+MPL         | [Mozilla Public License](https://www.mozilla.org/en-US/MPL/)
 MQL         | Marketing Qualified Lead
 MRA         | Matters Requiring Attention
 MRC         | Management Risk Committee
@@ -837,12 +851,14 @@ MRM         | Model Risk Management
 MRM         | Most Responsible Moment
 MRR         | Monthly Recurring Revenue
 MSA         | Microservices Architecture  
+MSA         | Microsoft Services Account
 MSA         | Master Service Agreement
 MSE         | Mean Squared Error
 MSK         | AWS [Managed Streaming for Apache Kafka](https://aws.amazon.com/msk/)
 MSPF        | Mobility Service Platform
 MSP         | [Managed Service Provider](https://en.wikipedia.org/wiki/Managed_services)
 MSRC        | Microsoft Security Response Center team
+MSTC        | Microsoft Threat Intelligence Center
 MTD         | Maximum Tolerable Downtime
 MTDL        | Maximum Tolerable Data Loss
 mTLS        | Mutual Transport Layer Security (or, Mutually Authenticated TLS)
@@ -872,6 +888,7 @@ NAS         | Network Attached Storage
 NAT         | [Network Address Translation](https://en.wikipedia.org/wiki/Network_address_translation)
 NC          | Non-Compliant
 NCSA        | [National Center for Supercomputing Applications](https://en.wikipedia.org/wiki/National_Center_for_Supercomputing_Applications)
+NCSC        | National Cyber Security Centre
 NCT         | [.NET Community Toolkit](https://github.com/CommunityToolkit/dotnet)
 ND          | Neighbor Discovery
 NDA         | Non-Disclosure Agreement
@@ -880,6 +897,7 @@ NDP         | [Neighbor Discovery Protocol](https://en.wikipedia.org/wiki/Neighb
 NER         | Named Entity Recognition, re: ML
 NeRF        | Neural Radiance Fields (re: Deep Learning, optimizing continuous volumetric scene function)
 NISQ        | Noisy Intermediate-Scale Quantum
+NIST        | National Institute of Standards and Technology
 NFS         | Network File System 
 NFT         | [Non-Fungible Token](https://en.wikipedia.org/wiki/Non-fungible_token)
 NFV         | [Network Function Virtualization](https://en.wikipedia.org/wiki/Network_function_virtualization)
@@ -899,8 +917,10 @@ NPM         | [Node Package Manager](https://www.npmjs.com/)
 NPPI        | Non-Public Personal Informaiton (aka NPI)
 NPV         | [Net Present Value](https://en.wikipedia.org/wiki/Net_present_value)
 NRD         | Non-Record Disposal
+NSA         | National Security Agency
 NSG         | Network Security Group
 NSH         | Network Service Header 
+NSN         | nation-state notification
 NTE         | Not To Exceed
 NTFC        | No-Fee Terms and Conditions 
 NTIA        | [National Telecommunications and Information Administration](https://ntia.gov/), U.S. Department of Commerce
@@ -912,6 +932,7 @@ OASIS       | Organization for the Advancement of Structured Information Systems
 OCF         | [Operating Cash Flow](https://en.wikipedia.org/wiki/Operating_cash_flow)
 OCI         | [Open Container Initiative](https://opencontainers.org/)
 OCI         | Oracle Cloud Infrastructure
+OCIO        | Office of the Chief Information Officer
 OCM         | [Organizational Change Management](https://en.wikipedia.org/wiki/Change_management)
 OCP         | [OpenShift Container Platform](https://en.wikipedia.org/wiki/OpenShift) ([IBM](https://www.ibm.com/products/openshift), [RedHat](https://www.redhat.com/en/technologies/cloud-computing/openshift/container-platform))
 OCTAVE      | Operationally Critical Threat, Asset, and Vulnerability Evaluation 
@@ -925,12 +946,14 @@ OIC         | Oracle Integration Cloud (note: renamed in January 2019, to Oracle
 OID         | Object Identifier
 OIDC        | [OpenID Connect](https://openid.net/)
 OIDC        | Oracle Identity Cloud Service
+OIDF        | OpenID Foundation
 OKRs        | [Objectives and Key Results](https://en.wikipedia.org/wiki/OKR)
 OLA         | Operational-Level Agreement
 OLAP        | Online Analytical Processing
 OLB         | Object Language Bindings
 OLIN        | Online Information Network
 OLTP        | Online Transaction Processing 
+OMB         | Office of Management and Budget
 OMG         | [Object Management Group](https://en.wikipedia.org/wiki/Object_Management_Group)
 OMS         | Order Management System
 OO          | Object Oriented
@@ -950,6 +973,7 @@ OSI         | [Open Systems Interconnection](https://en.wikipedia.org/wiki/OSI_m
 OTC         | Order-to-Cash
 OTP         | One-Time Passcode
 ou          | Organizational Unit, re: LDAP 
+OWA         | Outlook Web Access
 OWASP       | [Open Web Application Security Project](https://owasp.org/)
 OWL         | [Web Ontology Language](https://en.wikipedia.org/wiki/Web_Ontology_Language)
 P_          | 
@@ -1111,7 +1135,7 @@ REST        | [Representational State Transfer](https://en.wikipedia.org/wiki/Re
 RFC         | [Request for Comments](https://en.wikipedia.org/wiki/Request_for_Comments)
 RFI         | Request for Information
 RFID        | Radio Frequency Identification
-RFM         | Requency, Frequency, Monetary 
+RFM         | [Recency, Frequency, Monetary Value](https://en.wikipedia.org/wiki/RFM_(market_research)
 RFO         | Reason for Outage
 RFP         | Request for Proposal
 RFQ         | Request for Quote
@@ -1140,6 +1164,7 @@ ROI         | [Return on Investment](https://en.wikipedia.org/wiki/Return_on_inv
 ROIT        | Return on Information Technology  
 ROLAP       | Relational OLAP
 ROM         | Rough Order of Magnitude (also see SWAG), aka an estimate
+ROS         | Robotic Operating System
 RP          | Relying Party (re: OpenID Connect)
 RPA         | [Robotic Process Automation](https://en.wikipedia.org/wiki/Robotic_process_automation)
 RPC         | [Remote Procedure Call](https://en.wikipedia.org/wiki/Remote_procedure_call)
@@ -1303,6 +1328,7 @@ SRS         | Secure and Reliable Systems
 SSADM       | (structured systems analysis and design methodology) - developed by  Tom DeMarco, Ed Yourdon, and Larry Constantine 
 SSD         | [Solid-State Disk](https://en.wikipedia.org/wiki/Solid-state_drive)
 SSH         | Secure Shell
+SSIRP       | Software and Services Incident Response Plan
 SSL         | Secure Sockets Layer
 SSML        | Speech Synthesis Markup Language 
 SSO         | [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on)
@@ -1365,6 +1391,7 @@ TTI         | [Time to Interactive](https://web.dev/articles/tti)
 TTL         | Time To Live
 TTM         | Time-To-Market 
 TTP         | Trusted Third Party
+TTPs        | Tactics, Techniques, and Procedures
 TTS         | Text-To-Speech 
 TXN         | Transaction
 U_          |
@@ -1413,6 +1440,7 @@ VNC         | Virtual Network Computing
 VNet        | Virtual Network
 VoIP        | [Voice over IP](https://en.wikipedia.org/wiki/Voice_over_IP)
 VPN         | [Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network)
+VPS         | Virtual Private Server 
 VQF         | Variational Quantum Factoring 
 VR          | Virtual Reality
 VRM         | Value Realization Model 
