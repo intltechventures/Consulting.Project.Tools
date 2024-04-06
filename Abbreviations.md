@@ -1368,8 +1368,9 @@ TCP         | [Transmission Control Protocol](https://en.wikipedia.org/wiki/Tran
 TCP/IP      | [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite)
 TCV         | Total Contract Value (TCV) 
 TDD         | [Test-Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
-TGB         | Technology Governance Board
 TFI         | [Office of Terrorism and Financial Intelligence](https://en.wikipedia.org/wiki/Office_of_Terrorism_and_Financial_Intelligence)
+TGB         | Technology Governance Board
+TIME        | [Tolerate. Invest. Migrate. Eliminate.](https://www.gartner.com/en/documents/3905663) (re: Gartner categorization)
 TLA         | Three Letter Acronym
 TLS         | [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security)
 TM          | Topic Model, re: NER, NLP, DL, ML
