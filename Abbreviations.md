@@ -1327,6 +1327,7 @@ SRP         | Single Responsibility Principle
 SRS         | Secure and Reliable Systems
 SSADM       | (structured systems analysis and design methodology) - developed by  Tom DeMarco, Ed Yourdon, and Larry Constantine 
 SSD         | [Solid-State Disk](https://en.wikipedia.org/wiki/Solid-state_drive)
+SSG         | [Server-Side {Generating | Generation}](https://en.wikipedia.org/wiki/Server-side_scripting)
 SSH         | Secure Shell
 SSIRP       | Software and Services Incident Response Plan
 SSL         | Secure Sockets Layer
@@ -1335,6 +1336,7 @@ SSO         | [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on)
 SSOT        | Single Source of Truth
 SSP         | System Security Plan
 SSPI        | Security Support Provider Interface
+SSR         | [Server-Side Rendering](https://en.wikipedia.org/wiki/Server-side_scripting)
 STaaS       | Storage as a Service
 STAR        | Security Trust Assurance and Risk
 STAR        | [Situation (20%), Task (10%), Action (60%), Result (10%)](https://en.wikipedia.org/wiki/Situation,_task,_action,_result) [re: method]
