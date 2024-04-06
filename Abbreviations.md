@@ -1328,6 +1328,7 @@ SRS         | Secure and Reliable Systems
 SSADM       | (structured systems analysis and design methodology) - developed by  Tom DeMarco, Ed Yourdon, and Larry Constantine 
 SSD         | [Solid-State Disk](https://en.wikipedia.org/wiki/Solid-state_drive)
 SSG         | [Server-Side {Generating | Generation}](https://en.wikipedia.org/wiki/Server-side_scripting)
+SSG         | [Static Site {Generation | Generator}](https://en.wikipedia.org/wiki/Static_site_generator)
 SSH         | Secure Shell
 SSIRP       | Software and Services Incident Response Plan
 SSL         | Secure Sockets Layer
