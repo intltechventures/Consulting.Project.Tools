@@ -8,12 +8,12 @@ This glossary is intended to provide a single refernce to be reused across multi
 
 |Term       | Definition|
 |-----------|-----------|
-_           | 
+_           |
 2FA         | Two-Factor Authentication
 3LOD        | [Three Lines of Defence Model](https://erm.ncsu.edu/library/article/cosos-take-on-the-three-lines-of-defense) (Codified by the Basel Committee on Banking Supervision in its 2011 Principles for the sound management of operational risk)
 3PL         | Third-Party Logistics providers
 7 Rs        | [Refactor, Replatform, Repurchase, Rehost, Relocate, Retain, Retire](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-retiring-applications/overview.html) - Re: AWS Migration Readiness
-A_          |
+**A_**      |
 A11y        | Accessibility [see: [Mozzila](https://developer.mozilla.org/en-US/docs/Web/Accessibility), [W3C](https://www.w3.org/standards/webdesign/accessibility)]
 A2C         | Advantage Actor-Critic (e.g., Deep Reinforcement Learning agent)
 AA          | Alternatives Analysis
@@ -128,7 +128,7 @@ AUP         | [Acceptable Use Policy](https://en.wikipedia.org/wiki/Acceptable_u
 AUROC       | Area Under the Receiver Operating Characteristics Curve 
 AVD         | [Azure Virtual Desktop](https://azure.microsoft.com/en-us/products/virtual-desktop/)
 AZ          | Availability Zone 
-B_          | 
+**B_**      | 
 B2B         | Business-to-Business
 B2C         | Business-to-Consumer
 BA          | Business Analyst
@@ -190,7 +190,7 @@ BtoS        | Business-to-Society
 BU          | Business Unit
 BYO         | Bring Your Own
 BYOD        | Bring Your Own Device
-C_          |
+**C_**      |
 C2          | Command and Control
 C5          | Command, Control, Computers, Communications and Cyber 
 C&A         | Certification & Accreditation
