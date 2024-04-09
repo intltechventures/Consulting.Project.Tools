@@ -3,8 +3,19 @@ cls
 REM 
 REM ***************************************************************************
 REM init_project.bat
-set version=1.4.2
-REM
+set version=1.4.7
+ECHO Running init_project.bat, version: %version%
+
+REM Valid Parent Directories - to prevent creation of project directories - outside of valid parent directories 
+REM **CUSTOMIZATION REQUIRED***
+set validParentDirs="_projects" "test" "10 Opportunities" "20 Prospects"
+
+REM **CUSTOMIZATION REQUIRED***
+set project_home_dir=c:\_intltechventures\_projects
+set location_text_file=c:\_kelvin\Location.txt
+set travel_expense_template=c:\_intltechventures\_templates\Travel\YYYY ITV Travel Expenses - Client - Template.xlsx
+
+
 REM Client Project Directory Setup Script
 REM (Illustrative, Not Exhaustive)
 REM
@@ -15,7 +26,7 @@ REM Author: Kelvin D. Meeks
 REM Email: kmeeks@intltechventures.com 
 REM
 REM Created: 2019-06-28
-REM Update:  2023-03-30
+REM Update:  2024-04-09 
 REM
 REM github file location
 REM https://github.com/intltechventures/Consulting.Project.Tools/blob/master/src/ProjectDirectoryStructure/init_project.bat
@@ -37,33 +48,73 @@ pause
 REM Get just the current directory name (not the full path)
 REM NOTE: nx means file name and extension only
 REM Reference: 
-REM 	https://superuser.com/questions/160702/get-current-folder-name-by-a-dos-command
-REM 	https://www.robvanderwoude.com/ntfor.php
+REM https://superuser.com/questions/160702/get-current-folder-name-by-a-dos-command
+REM https://ss64.com/nt/syntax-percent.html
+REM https://www.robvanderwoude.com/ntfor.php
 for %%I in (.) do set currentDir=%%~nxI
 
 ECHO Current Directory: %currentDir%
 pause
 
 REM REMEMBER - when doing string comparisons against variables, put them in quotes
-REM Reference:
-REM 	https://stackoverflow.com/questions/14954271/string-comparison-in-batch-file
+REM References:
+REM https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/for
+
+REM https://tutorialreference.com/batch-scripting/batch-script-arrays
+
+REM https://www.tutorialspoint.com/batch_script/batch_script_arrays.htm
+REM https://www.tutorialspoint.com/batch_script/batch_script_strings.htm
+
+REM https://www.geeksforgeeks.org/batch-script-arrays/
+REM https://www.geeksforgeeks.org/batch-script-iterating-over-an-array/
+REM https://www.geeksforgeeks.org/batch-script-iterating-over-an-array/
+
+REM https://ss64.com/nt/
+REM https://ss64.com/nt/syntax.html
+REM https://ss64.com/nt/delayedexpansion.html
+REM https://ss64.com/nt/syntax-arrays.html
+
+REM *** this is a *VERY* good reference 
+REM https://en.wikibooks.org/wiki/Windows_Batch_Scripting
 
 
-REM Prevent these conditions, always...
-if "%currentDir%" == "Kelvin" goto ERROR_INVALID_DIRECTORY
+REM https://www.dostips.com/forum/viewtopic.php?t=3244
+REM https://www.robvanderwoude.com/battech_array.php 
+
+REM https://superuser.com/questions/191224/populating-array-in-dos-batch-script
+
+REM https://stackoverflow.com/questions/14954271/string-comparison-in-batch-file
+REM https://stackoverflow.com/questions/14954271/string-comparison-in-batch-file
+REM https://stackoverflow.com/questions/17605767/create-a-list-or-an-array-and-print-each-item-in-windows-batch
+REM https://stackoverflow.com/questions/10166386/arrays-linked-lists-and-other-data-structures-in-cmd-exe-batch-script/10167990
+
+
+:CHECK_FOR_ROOT_DIR
+REM Prevent creating a project folder in the root directory 
+if "%currentDir%" == "" call echo ERROR: You cannot create a project in the root folder 
 if "%currentDir%" == "" goto ERROR_INVALID_DIRECTORY
 
 
-REM Check if the parent directory of the currentDir is "_projects" or "test"...
+
+:CHECK_FOR_VALID_PARENT_DIRS
+REM Check if the parent directory is one of the valid parent directories 
 pushd .
 cd ..
 for %%I in (.) do set parentDir=%%~nxI
-if "%parentDir%" == "_projects" goto START
-if "%parentDir%" == "test" goto START
-if "%parentDir%" == "10 Opportunities" goto START
-if "%parentDir%" == "20 Prospects" goto START
+ECHO parent directory: %parentDir%
+popd .
 
+for %%t in (%validParentDirs%) do (   
+	call echo Comparing parent directory: [%parentDir%] against Valid Parent Directory check: [%%t]
+	if %%t=="%parentDir%" (echo matched!)
+	if %%t=="%parentDir%" (goto START)
+)
+
+
+:ABORT_INVALID_PARENT_DIR_DETECTED
 REM Everything else is an error condition
+ECHO.
+ECHO ERROR: A valid entry in the "validParentDirs" list: [%validParentDirs%] - was not found
 goto ERROR_INVALID_DIRECTORY
 
 
@@ -134,6 +185,7 @@ if %dayNumber% == 5 set dayName=Friday
 if %dayNumber% == 6 set dayName=Saturday
 echo "...Day Name Set: %dayName%"
 
+
 if exist _journals\%year%\%month%\%dt%.txt goto SKIP_JOURNAL_CREATION
 ECHO "...Creating Journal File: _journals\%year%\%month%\%dt%.txt"
 
@@ -147,8 +199,12 @@ ECHO %journal_header% >> _journals\%year%\%month%\%dt%.txt
 REM Get just the current directory name (not the full path) - as the client name
 for %%I in (.) do set client=%%~nxI
 ECHO Client: %client% >> _journals\%year%\%month%\%dt%.txt
-set /p Location=<D:\_kelvin\Location.txt
+
+if exist %location_text_file% (
+set /p Location=<%location_text_file%
 ECHO Location: %Location% >> _journals\%year%\%month%\%dt%.txt
+)
+
 ECHO. >> _journals\%year%\%month%\%dt%.txt
 ECHO 09:00- >> _journals\%year%\%month%\%dt%.txt
 ECHO. >> _journals\%year%\%month%\%dt%.txt
@@ -172,50 +228,77 @@ mkdir admin
 mkdir admin\_status_reports\%year%\%month%
 mkdir admin\_templates
 mkdir admin\_timesheets\%year%\%month%
+
 mkdir admin\calendars\%year%
 
 mkdir admin\contacts
 mkdir admin\contacts\IT
 mkdir admin\contacts\IT\Architecture
-mkdir admin\contacts\IT\Engineering
-mkdir admin\contacts\IT\Operations
 mkdir admin\contacts\IT\DevOps
+mkdir admin\contacts\IT\Engineering
+mkdir admin\contacts\IT\Infrastructure
+mkdir admin\contacts\IT\Networking
+mkdir admin\contacts\IT\Operations
 mkdir admin\contacts\IT\Procurement
 mkdir admin\contacts\IT\QA
 mkdir admin\contacts\IT\Security
-mkdir admin\contacts\IT\Infrastructure
-mkdir admin\contacts\IT\Networking
+
 mkdir admin\contacts\PMO
+
 mkdir admin\contacts\SMEs
+
 mkdir admin\contacts\stakeholders
+
 mkdir admin\contacts\vendors
 
+mkdir admin\contacts\VMO
+
+
 mkdir admin\contracts\%year%\10_originals
+mkdir admin\contracts\%year%\15_modified
 mkdir admin\contracts\%year%\20_ITV_signed
 mkdir admin\contracts\%year%\30_client_signed
 mkdir admin\contracts\%year%\40_final
 mkdir admin\contracts\%year%\90_COI
 
+mkdir admin\expenses
+
 mkdir admin\facilities\locations
 mkdir admin\facilities\parking
+
 mkdir admin\holidays
 mkdir admin\holidays\%year%
+
 mkdir admin\housing
+
 mkdir admin\HR
-mkdir admin\invoices\%year%\%month%
+
 mkdir admin\invoice.payments\%year%\%month%
+mkdir admin\invoices\%year%\%month%
+
 mkdir admin\kudos\%year%
+
 mkdir admin\memos\%year%
+
 mkdir admin\onboarding
 mkdir admin\onboarding\laptop
 mkdir admin\onboarding\training
+
 mkdir admin\org_charts\%year%
+
 mkdir admin\policies
 mkdir admin\policies\HR
 mkdir admin\policies\Travel
+mkdir admin\policies\Network 
+
 mkdir admin\procedures
+
 mkdir admin\proposals\%year%
+
 mkdir admin\recommendations\%year%
+
+mkdir admin\remote_access
+
 mkdir admin\training\%year%
 
 touch admin\links.html
@@ -265,25 +348,26 @@ mkdir architecture\EA\assessments\%year%\TIME\eliminate
 
 mkdir architecture\EA\documentation
 
-mkdir architecture\EA\governance\TGB\meetings\%year%\%month%
-mkdir architecture\EA\governance\TGB\members\%year%
-mkdir architecture\EA\governance\TGB\process
-mkdir architecture\EA\governance\TGB\schedule\%year%
-
-mkdir architecture\EA\governance\TRM\meetings\%year%\%month%
-mkdir architecture\EA\governance\TRM\members\%year%
-mkdir architecture\EA\governance\TRM\process
-mkdir architecture\EA\governance\TRM\schedule\%year%
-
 mkdir architecture\EA\governance\APIs\meetings\%year%\%month%
 mkdir architecture\EA\governance\APIs\members\%year%
 mkdir architecture\EA\governance\APIs\process
 mkdir architecture\EA\governance\APIs\schedule\%year%
 
+mkdir architecture\EA\governance\ARB\meetings\%year%\%month%
+mkdir architecture\EA\governance\ARB\members\%year%
+mkdir architecture\EA\governance\ARB\process
+mkdir architecture\EA\governance\ARB\schedule\%year%
+
 mkdir architecture\EA\governance\Data\meetings\%year%\%month%
 mkdir architecture\EA\governance\Data\members\%year%
 mkdir architecture\EA\governance\Data\process
 mkdir architecture\EA\governance\Data\schedule\%year%
+
+mkdir architecture\EA\governance\policies
+
+mkdir architecture\EA\governance\principles
+
+mkdir architecture\EA\governance\procedures
 
 mkdir architecture\EA\governance\Repository\meetings\%year%\%month%
 mkdir architecture\EA\governance\Repository\members\%year%
@@ -295,16 +379,19 @@ mkdir architecture\EA\governance\Security\members\%year%
 mkdir architecture\EA\governance\Security\process
 mkdir architecture\EA\governance\Secureity\schedule\%year%
 
-mkdir architecture\EA\governance\ARB\meetings\%year%\%month%
-mkdir architecture\EA\governance\ARB\members\%year%
-mkdir architecture\EA\governance\ARB\process
-mkdir architecture\EA\governance\ARB\schedule\%year%
-
-mkdir architecture\EA\governance\principles
-mkdir architecture\EA\governance\policies
-mkdir architecture\EA\governance\standards
 mkdir architecture\EA\governance\specifications
-mkdir architecture\EA\governance\procedures
+
+mkdir architecture\EA\governance\standards
+
+mkdir architecture\EA\governance\TGB\meetings\%year%\%month%
+mkdir architecture\EA\governance\TGB\members\%year%
+mkdir architecture\EA\governance\TGB\process
+mkdir architecture\EA\governance\TGB\schedule\%year%
+
+mkdir architecture\EA\governance\TRM\meetings\%year%\%month%
+mkdir architecture\EA\governance\TRM\members\%year%
+mkdir architecture\EA\governance\TRM\process
+mkdir architecture\EA\governance\TRM\schedule\%year%
 
 mkdir architecture\EA\roadmap\%year%
 mkdir architecture\EA\roadmap\%year%\AS-IS
@@ -350,41 +437,40 @@ mkdir architecture\references\OSS
 
 mkdir architecture\references\shared_services
 mkdir architecture\references\shared_services\alerting
+mkdir architecture\references\shared_services\ETL
+mkdir architecture\references\shared_services\events
 mkdir architecture\references\shared_services\IAM
 mkdir architecture\references\shared_services\IAM\AD
 mkdir architecture\references\shared_services\IAM\AuthN
 mkdir architecture\references\shared_services\IAM\AuthZ
 mkdir architecture\references\shared_services\IAM\RBAC
 mkdir architecture\references\shared_services\IAM\SSO
-mkdir architecture\references\shared_services\ETL
 mkdir architecture\references\shared_services\low_code
-mkdir architecture\references\shared_services\no_code
 mkdir architecture\references\shared_services\messaging
-mkdir architecture\references\shared_services\streaming
-mkdir architecture\references\shared_services\events
 mkdir architecture\references\shared_services\MFT
 mkdir architecture\references\shared_services\monitoring
+mkdir architecture\references\shared_services\no_code
+mkdir architecture\references\shared_services\push_notifications
 mkdir architecture\references\shared_services\scheduling
 mkdir architecture\references\shared_services\SMS
-mkdir architecture\references\shared_services\push_notifications
+mkdir architecture\references\shared_services\streaming
 mkdir architecture\references\shared_services\workflow
 
 mkdir architecture\security
-mkdir architecture\security\IAM
+mkdir architecture\security\Certifications
+mkdir architecture\security\Certifications\HIPAA
+mkdir architecture\security\Certifications\HITRUST
+mkdir architecture\security\Certifications\PCI-DSS
+mkdir architecture\security\Certifications\SOC2
 mkdir architecture\security\DMZ
-mkdir architecture\security\WAF
+mkdir architecture\security\IAM
 mkdir architecture\security\Monitoring
 mkdir architecture\security\Monitoring\Egress
 mkdir architecture\security\Monitoring\Ingress
 mkdir architecture\security\Scanning
 mkdir architecture\security\Scanning\Code
 mkdir architecture\security\Scanning\Devices
-mkdir architecture\security\Certifications
-mkdir architecture\security\Certifications\HIPAA
-mkdir architecture\security\Certifications\HITRUST
-mkdir architecture\security\Certifications\SOC2
-mkdir architecture\security\Certifications\PCI-DSS
-
+mkdir architecture\security\WAF
 
 
 REM ***************************************************************************
@@ -393,25 +479,49 @@ ECHO.
 ECHO Preparing background\ directory entries...
 
 mkdir background
+
 mkdir background\BBB.org\%year%
+
+
 mkdir background\company
+mkdir background\company\business_lines
 mkdir background\company\collateral
 mkdir background\company\collateral\logos
 mkdir background\company\locations
-mkdir background\company\products
-mkdir background\company\services
-mkdir background\company\business_lines
-mkdir background\company\subsidiaries
 mkdir background\company\partnerships
 mkdir background\company\photos
+mkdir background\company\products
+mkdir background\company\services
+mkdir background\company\subsidiaries
 mkdir background\company\www
-mkdir background\glassdoor.com
-mkdir background\linkedin.com\profiles
-mkdir background\opportunity analysis\%year%\%month%
+
+mkdir background\logos 
+
 mkdir background\news.company\%year%\%month%
 mkdir background\news.competitors\%year%\%month%
 mkdir background\news.industry\%year%\%month%
 
+mkdir background\opportunity_analysis\%year%\%month%
+
+mkdir background\research\glassdoor.com
+mkdir background\research\linkedin.com\profiles
+mkdir background\research\wikipedia.org
+
+
+REM ***************************************************************************
+REM 
+ECHO.
+ECHO Preparing communications\ directory entries...
+
+mkdir communications\%year%\
+
+
+REM ***************************************************************************
+REM 
+ECHO.
+ECHO Preparing deliverables directory 
+
+mkdir deliverables\%year%
 
 
 REM ***************************************************************************
@@ -420,37 +530,40 @@ ECHO.
 ECHO Preparing engineering\ directory entries...
 
 mkdir engineering
+
+mkdir engineering\CD\
+mkdir engineering\CI\
+
+mkdir engineering\coding
+mkdir engineering\coding\standards
+
 mkdir engineering\governance
 mkdir engineering\governance\principles
 mkdir engineering\governance\policies
 mkdir engineering\governance\standards
 mkdir engineering\governance\specifications
-mkdir engineering\CI
-mkdir engineering\CD
-mkdir engineering\coding
-mkdir engineering\coding\standards
-mkdir engineering\UX
-mkdir engineering\UI\standards
 
-mkdir gitrepos
+mkdir engineering\UI\standards
+mkdir engineering\UX
+
 
 REM ***************************************************************************
 REM 
 ECHO.
 ECHO Preparing remaining misc. directory entries...
 
+mkdir gitrepos
 
-mkdir deliverables\%year%
+mkdir photos\%year%
 
 mkdir planning\%year%
 
 mkdir presentations\%year%
 
 mkdir references
-mkdir references\regulatory
 mkdir references\DevOps
+
 mkdir references\operations
-mkdir references\operations\monitoring
 mkdir references\operations\jobs
 mkdir references\operations\jobs\ad_hoc
 mkdir references\operations\jobs\daily
@@ -458,22 +571,32 @@ mkdir references\operations\jobs\weekly
 mkdir references\operations\jobs\quarterly
 mkdir references\operations\jobs\monthly
 mkdir references\operations\jobs\yearly
+mkdir references\operations\monitoring
+
+mkdir references\regulatory
+
 mkdir references\tips
 
 mkdir research\%year%
 
+mkdir sparx\images 
 mkdir sparx\models
 mkdir sparx\reports
-mkdir sparx\images
 
 mkdir special_projects\%year%
 
 
-mkdir photos\%year%
+REM ***************************************************************************
+REM 
+ECHO.
+ECHO Preparing travel directory entries...
+
 
 mkdir travel\%year%\
 
-copy "D:\_intltechventures\_templates\YYYY ITV Travel Expenses - Client - Template.xlsx" travel\%year%\.
+if exist %travel_expense_template% (
+copy "%travel_expense_template%" travel\%year%\.
+)
 
 touch travel\commute.txt
 
@@ -489,6 +612,13 @@ touch travel\hotels.txt
 ECHO. >> travel\hotels.txt
 ECHO Google Map Link: Hotels in the vicinity >> travel\hotels.txt
 ECHO. >> travel\hotels.txt
+
+
+
+REM ***************************************************************************
+REM 
+ECHO.
+ECHO Preparing vendor directory 
 
 mkdir vendors
 
@@ -650,9 +780,9 @@ goto END_JOB
 :ERROR_INVALID_DIRECTORY
 ECHO.
 ECHO ERROR
-ECHO - Remember: You need to change to an appropriate Project directory in d:\_intltechventures\projects
+ECHO - Suggestion: You should change to an appropriate Project directory in %projects_home_dir%
 d:
-cd "D:\_intltechventures\_projects"
+cd "%projects_home_dir%%"
 dir
 
 
