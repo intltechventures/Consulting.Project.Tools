@@ -24,7 +24,7 @@ REM Incorporate additional ideas from:
 REM https://github.com/intltechventures/Consulting.Project.Tools/blob/master/taxonomies/ClassificationCodes.md
 REM 
 
-set version=1.5.1
+set version=1.5.2
 ECHO.
 ECHO STARTING init_project.bat, version: %version%
 ECHO Created by Kelvin D. Meeks, International Technology Ventures, Inc. 
@@ -81,12 +81,14 @@ REM
 REM ***************************************************************************
 :CHECK_FOR_VALID_PARENT_DIRS
 REM Check if the parent directory is one of the valid parent directories 
+REM Retrieve Parent Directory name 
 pushd .
 cd ..
 for %%I in (.) do set parentDir=%%~nxI
 ECHO parent directory: %parentDir%
-popd .
+popd 
 
+REM Iterate through list of valid parent directories, and goto START if a match is found 
 for %%t in (%validParentDirs%) do (   
 	call echo Comparing parent directory: [%parentDir%] against Valid Parent Directory check: [%%t]
 	if %%t=="%parentDir%" (
@@ -112,14 +114,13 @@ REM
 REM ***************************************************************************
 :START
 
-REM Remember to pop back into currentDir, from the pushd, above...
-popd
 
 REM 
 REM ***************************************************************************
 REM Constructing Date and Time String
 REM ***************************************************************************
 REM 
+:CONSTRUCT_DATE_TIME
 ECHO.
 ECHO Preparing Date Fields...
 for /f %%I in ('wmic os get localdatetime ^|find "20"') do set dt=%%I
@@ -146,6 +147,7 @@ REM ***************************************************************************
 REM Prepare _journals Directory
 REM ***************************************************************************
 REM 
+:PREPARE_JOURNALS
 ECHO.
 ECHO Preparing _journals\%year%\%month% folder...
 mkdir _journals\%year%\%month%
@@ -161,10 +163,8 @@ REM
 REM	DayOfWeek
 REM	"Current day of the current week that matches the query (0 6). By convention, the value 0 is always Sunday, regardless of the culture or the locale set on the machine."
 REM ***************************************************************************
-REM 
-REM Get Day-of-Week...
+:GET_DAY_OF_WEEK
 for /F "skip=2 tokens=2-4 delims=," %%A in ('WMIC Path Win32_LocalTime Get DayOfWeek /Format:csv') do set dayNumber=%%A  
-
 
 if %dayNumber% == 0 set dayName=Sunday
 if %dayNumber% == 1 set dayName=Monday
@@ -516,9 +516,6 @@ mkdir background\company\products
 mkdir background\company\services
 mkdir background\company\subsidiaries
 mkdir background\company\www
-
-mkdir background\logos 
-
 
 mkdir background\news.company\%year%\%month%
 mkdir background\news.competitors\%year%\%month%
