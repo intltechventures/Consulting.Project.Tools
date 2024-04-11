@@ -3,19 +3,7 @@ cls
 REM 
 REM ***************************************************************************
 REM init_project.bat
-set version=1.4.7
-ECHO Running init_project.bat, version: %version%
-
-REM Valid Parent Directories - to prevent creation of project directories - outside of valid parent directories 
-REM **CUSTOMIZATION REQUIRED***
-set validParentDirs="_projects" "test" "10 Opportunities" "20 Prospects"
-
-REM **CUSTOMIZATION REQUIRED***
-set project_home_dir=c:\_intltechventures\_projects
-set location_text_file=c:\_kelvin\Location.txt
-set travel_expense_template=c:\_intltechventures\_templates\Travel\YYYY ITV Travel Expenses - Client - Template.xlsx
-
-
+REM 
 REM Client Project Directory Setup Script
 REM (Illustrative, Not Exhaustive)
 REM
@@ -26,7 +14,7 @@ REM Author: Kelvin D. Meeks
 REM Email: kmeeks@intltechventures.com 
 REM
 REM Created: 2019-06-28
-REM Update:  2024-04-09 
+REM Update:  2024-04-10 
 REM
 REM github file location
 REM https://github.com/intltechventures/Consulting.Project.Tools/blob/master/src/ProjectDirectoryStructure/init_project.bat
@@ -35,16 +23,36 @@ REM TO-DO:
 REM Incorporate additional ideas from:
 REM https://github.com/intltechventures/Consulting.Project.Tools/blob/master/taxonomies/ClassificationCodes.md
 REM 
-REM ***************************************************************************
-REM 
+
+set version=1.5.1
 ECHO.
-ECHO Starting init_batch.bat
-ECHO Version: %version%
+ECHO STARTING init_project.bat, version: %version%
+ECHO Created by Kelvin D. Meeks, International Technology Ventures, Inc. 
 ECHO.
 ECHO You need to run this from the specific root directory, created for a specific client project
+ECHO [CTL-C] to abort this job. 
+ECHO. 
+ECHO. 
 pause
 
 
+REM 
+REM ***************************************************************************
+REM An array of Valid Parent Directories - to prevent creation of project directories - outside of valid parent directories 
+REM **CUSTOMIZATION REQUIRED*** 
+set validParentDirs="_projects" "test" "10 Opportunities" "20 Prospects"
+
+REM 
+REM ***************************************************************************
+REM **CUSTOMIZATION REQUIRED***
+set projects_home_dir=c:\_intltechventures\_projects
+set location_text_file=c:\_kelvin\Location.txt
+set travel_expense_template=c:\_intltechventures\_templates\Travel\YYYY ITV Travel Expenses - Client - Template.xlsx
+
+
+
+REM 
+REM ***************************************************************************
 REM Get just the current directory name (not the full path)
 REM NOTE: nx means file name and extension only
 REM Reference: 
@@ -56,46 +64,21 @@ for %%I in (.) do set currentDir=%%~nxI
 ECHO Current Directory: %currentDir%
 pause
 
-REM REMEMBER - when doing string comparisons against variables, put them in quotes
-REM References:
-REM https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/for
 
-REM https://tutorialreference.com/batch-scripting/batch-script-arrays
-
-REM https://www.tutorialspoint.com/batch_script/batch_script_arrays.htm
-REM https://www.tutorialspoint.com/batch_script/batch_script_strings.htm
-
-REM https://www.geeksforgeeks.org/batch-script-arrays/
-REM https://www.geeksforgeeks.org/batch-script-iterating-over-an-array/
-REM https://www.geeksforgeeks.org/batch-script-iterating-over-an-array/
-
-REM https://ss64.com/nt/
-REM https://ss64.com/nt/syntax.html
-REM https://ss64.com/nt/delayedexpansion.html
-REM https://ss64.com/nt/syntax-arrays.html
-
-REM *** this is a *VERY* good reference 
-REM https://en.wikibooks.org/wiki/Windows_Batch_Scripting
-
-
-REM https://www.dostips.com/forum/viewtopic.php?t=3244
-REM https://www.robvanderwoude.com/battech_array.php 
-
-REM https://superuser.com/questions/191224/populating-array-in-dos-batch-script
-
-REM https://stackoverflow.com/questions/14954271/string-comparison-in-batch-file
-REM https://stackoverflow.com/questions/14954271/string-comparison-in-batch-file
-REM https://stackoverflow.com/questions/17605767/create-a-list-or-an-array-and-print-each-item-in-windows-batch
-REM https://stackoverflow.com/questions/10166386/arrays-linked-lists-and-other-data-structures-in-cmd-exe-batch-script/10167990
-
-
+REM 
+REM ***************************************************************************
 :CHECK_FOR_ROOT_DIR
 REM Prevent creating a project folder in the root directory 
-if "%currentDir%" == "" call echo ERROR: You cannot create a project in the root folder 
-if "%currentDir%" == "" goto ERROR_INVALID_DIRECTORY
+if "%currentDir%" == "" (
+	ECHO.
+	REM SET RED Text 
+	ECHO ERROR: You cannot create a project in the root folder 
+	goto ERROR_INVALID_DIRECTORY
+)
 
 
-
+REM 
+REM ***************************************************************************
 :CHECK_FOR_VALID_PARENT_DIRS
 REM Check if the parent directory is one of the valid parent directories 
 pushd .
@@ -106,18 +89,27 @@ popd .
 
 for %%t in (%validParentDirs%) do (   
 	call echo Comparing parent directory: [%parentDir%] against Valid Parent Directory check: [%%t]
-	if %%t=="%parentDir%" (echo matched!)
-	if %%t=="%parentDir%" (goto START)
+	if %%t=="%parentDir%" (
+		ECHO matched!
+		goto START
+	)
 )
 
 
+REM 
+REM ***************************************************************************
 :ABORT_INVALID_PARENT_DIR_DETECTED
 REM Everything else is an error condition
 ECHO.
+REM SET RED Text 
 ECHO ERROR: A valid entry in the "validParentDirs" list: [%validParentDirs%] - was not found
+ECHO Search term was: [%parentDir%]
+ECHO. 
 goto ERROR_INVALID_DIRECTORY
 
 
+REM 
+REM ***************************************************************************
 :START
 
 REM Remember to pop back into currentDir, from the pushd, above...
@@ -170,8 +162,6 @@ REM	DayOfWeek
 REM	"Current day of the current week that matches the query (0 6). By convention, the value 0 is always Sunday, regardless of the culture or the locale set on the machine."
 REM ***************************************************************************
 REM 
-ECHO.
-ECHO Preparing First Journal Entry...
 REM Get Day-of-Week...
 for /F "skip=2 tokens=2-4 delims=," %%A in ('WMIC Path Win32_LocalTime Get DayOfWeek /Format:csv') do set dayNumber=%%A  
 
@@ -186,9 +176,20 @@ if %dayNumber% == 6 set dayName=Saturday
 echo "...Day Name Set: %dayName%"
 
 
-if exist _journals\%year%\%month%\%dt%.txt goto SKIP_JOURNAL_CREATION
-ECHO "...Creating Journal File: _journals\%year%\%month%\%dt%.txt"
 
+REM 
+REM ***************************************************************************
+:START_JOURNAL_CREATION
+ECHO.
+ECHO Preparing First Journal Entry...
+
+if exist "_journals\%year%\%month%\%dt%.txt" (
+	ECHO.
+	ECHO ...Journal already exist: "_journals\%year%\%month%\%dt%.txt"
+	goto SKIP_JOURNAL_CREATION
+) 
+
+ECHO "...Creating Journal File: _journals\%year%\%month%\%dt%.txt"
 
 TOUCH _journals\%year%\%month%\%dt%.txt
 ECHO. >> _journals\%year%\%month%\%dt%.txt
@@ -200,7 +201,8 @@ REM Get just the current directory name (not the full path) - as the client name
 for %%I in (.) do set client=%%~nxI
 ECHO Client: %client% >> _journals\%year%\%month%\%dt%.txt
 
-if exist %location_text_file% (
+
+if exist "%location_text_file%" (
 set /p Location=<%location_text_file%
 ECHO Location: %Location% >> _journals\%year%\%month%\%dt%.txt
 )
@@ -218,9 +220,9 @@ REM Prepare other initial directories
 REM ***************************************************************************
 REM 
 
-
-REM ***************************************************************************
 REM 
+REM ***************************************************************************
+:CREATE_ADMIN_FOLDERS
 ECHO.
 ECHO Preparing admin\ directory entries...
 
@@ -263,6 +265,7 @@ mkdir admin\contracts\%year%\90_COI
 
 mkdir admin\expenses
 
+mkdir admin\facilities\maps
 mkdir admin\facilities\locations
 mkdir admin\facilities\parking
 
@@ -276,7 +279,9 @@ mkdir admin\HR
 mkdir admin\invoice.payments\%year%\%month%
 mkdir admin\invoices\%year%\%month%
 
-mkdir admin\kudos\%year%
+mkdir admin\kudos\given\%year%
+mkdir admin\kudos\received\%year%
+mkdir admin\kudos\received\LinkedIn\recommendations\%year%
 
 mkdir admin\memos\%year%
 
@@ -301,25 +306,44 @@ mkdir admin\remote_access
 
 mkdir admin\training\%year%
 
-touch admin\links.html
+REM 
+REM ***************************************************************************
+:CREATE_ENGAGEMENT_LINKS_FILE
+set file_name=client_engagement_links.html
+
+ECHO.
+ECHO Preparing Client Engagement Links file: %file_name%
+ECHO.
+	
+If exist admin\%file_name% (
+	ECHO Client Engagement File already exists - skipping
+	GOTO SKIP_ENGAGEMENT_LINKS_FILE
+)
+
+touch admin\%file_name%
+
 REM Remember to escape *EACH* shell metacharacters with "^"
 REM See other options: https://stackoverflow.com/questions/7308586/using-batch-echo-with-special-characters
-ECHO ^<html^> >> admin\links.html
-ECHO ^<head^> >> admin\links.html
-ECHO ^<title^>{client name} Links^</title^> >> admin\links.html
-ECHO ^</head^> >> admin\links.html
-ECHO ^<body^> >> admin\links.html
-ECHO. >> admin\links.html
-ECHO ^<em^>iMatch Links^</em^> >> admin\links.html
-ECHO ^<ul^> >> admin\links.html
-ECHO ^<li^>^<a href="" target="_blank"^>{Time Sheet Portal}^</a^>^</li^> >> admin\links.html
-ECHO ^</ul^> >> admin\links.html
-ECHO. >> admin\links.html
-ECHO ^</body^> >> admin\links.html
-ECHO ^</html^> >> admin\links.html
+ECHO ^<html^> >> admin\%file_name%
+ECHO ^<head^> >> admin\%file_name%
+ECHO ^<title^>{client name} Links^</title^> >> admin\%file_name%
+ECHO ^</head^> >> admin\%file_name%
+ECHO ^<body^> >> admin\%file_name%
+ECHO. >> admin\%file_name%
+ECHO ^<em^>Client Engagement Links^</em^> >> admin\%file_name%
+ECHO ^<ul^> >> admin\%file_name%
+ECHO ^<li^>^<a href="" target="_blank"^>{Time Sheet Portal}^</a^>^</li^> >> admin\%file_name%
+ECHO ^</ul^> >> admin\%file_name%
+ECHO. >> admin\%file_name%
+ECHO ^</body^> >> admin\%file_name%
+ECHO ^</html^> >> admin\%file_name%
 
-REM ***************************************************************************
+:SKIP_ENGAGEMENT_LINKS_FILE
+
+
 REM 
+REM ***************************************************************************
+:CREATE_ARCHITECTURE_FOLDERS
 ECHO.
 ECHO Preparing architecture\ directory entries...
 
@@ -473,15 +497,13 @@ mkdir architecture\security\Scanning\Devices
 mkdir architecture\security\WAF
 
 
-REM ***************************************************************************
 REM 
+REM ***************************************************************************
+:CREATE_BACKGROUND_FOLDERS
 ECHO.
 ECHO Preparing background\ directory entries...
 
 mkdir background
-
-mkdir background\BBB.org\%year%
-
 
 mkdir background\company
 mkdir background\company\business_lines
@@ -489,7 +511,7 @@ mkdir background\company\collateral
 mkdir background\company\collateral\logos
 mkdir background\company\locations
 mkdir background\company\partnerships
-mkdir background\company\photos
+mkdir background\company\photos\%year%\%month%
 mkdir background\company\products
 mkdir background\company\services
 mkdir background\company\subsidiaries
@@ -497,35 +519,45 @@ mkdir background\company\www
 
 mkdir background\logos 
 
+
 mkdir background\news.company\%year%\%month%
 mkdir background\news.competitors\%year%\%month%
 mkdir background\news.industry\%year%\%month%
 
 mkdir background\opportunity_analysis\%year%\%month%
 
-mkdir background\research\glassdoor.com
-mkdir background\research\linkedin.com\profiles
+
+mkdir background\research\BBB.org\%year%\%month%
+mkdir background\research\glassdoor.com\%year%\%month%
+mkdir background\research\linkedin.com\connections\%year%\%month% 
+mkdir background\research\linkedin.com\profiles\%year%\%month% 
 mkdir background\research\wikipedia.org
 
+:SKIP_BACKGROUND_FOLDERS
 
-REM ***************************************************************************
+
 REM 
+REM ***************************************************************************
+:CREATE_COMMUNICATION_FOLDES 
 ECHO.
 ECHO Preparing communications\ directory entries...
 
 mkdir communications\%year%\
 
 
+
+REM
 REM ***************************************************************************
-REM 
+:CREATE_DELIVERABLES_FOLDERS 
 ECHO.
 ECHO Preparing deliverables directory 
 
 mkdir deliverables\%year%
 
 
-REM ***************************************************************************
 REM 
+REM ***************************************************************************
+:CREATE_ENGINEERING_FOLDERS
 ECHO.
 ECHO Preparing engineering\ directory entries...
 
@@ -547,8 +579,9 @@ mkdir engineering\UI\standards
 mkdir engineering\UX
 
 
-REM ***************************************************************************
 REM 
+REM ***************************************************************************
+:CREATE_MISC_FOLDERS
 ECHO.
 ECHO Preparing remaining misc. directory entries...
 
@@ -586,206 +619,317 @@ mkdir sparx\reports
 mkdir special_projects\%year%
 
 
-REM ***************************************************************************
 REM 
+REM ***************************************************************************
+:CREATE_TRAVEL_FOLDERS
 ECHO.
 ECHO Preparing travel directory entries...
 
+mkdir travel\
+mkdir travel\_templates
+mkdir travel\research\%year%\
+mkdir travel\research\%year%\housing
+mkdir travel\research\%year%\hotels
+mkdir travel\research\%year%\services
+mkdir travel\research\%year%\flights
+mkdir travel\research\%year%\maps
+mkdir travel\trips\%year%\
 
-mkdir travel\%year%\
 
-if exist %travel_expense_template% (
-copy "%travel_expense_template%" travel\%year%\.
+REM 
+REM ***************************************************************************
+:COPY_TRAVEL_EXPENSE_TEMPLATE 
+
+if exist "%travel_expense_template%" (
+	copy "%travel_expense_template%" travel\_templates\.
+	GOTO SKIP_TRAVEL_EXPENSE_TEMPLATE
 )
 
-touch travel\commute.txt
+ECHO.
+REM YELLOW TEXT...
+ECHO WARNING: TRAVEL EXPENSE TEMPLTE [%travel_expose_template%] - NOT FOUND
 
-ECHO. >> travel\commute.txt
-ECHO Google Map Link: Driving Route from Home to Client Office >> travel\commute.txt
-
-ECHO. >> travel\commute.txt
-ECHO Google Map Link: Driving Route from Client Office to Home >> travel\commute.txt
-ECHO. >> travel\commute.txt
-
-touch travel\hotels.txt
-
-ECHO. >> travel\hotels.txt
-ECHO Google Map Link: Hotels in the vicinity >> travel\hotels.txt
-ECHO. >> travel\hotels.txt
+:SKIP_TRAVEL_EXPENSE_TEMPLATE 
 
 
 
-REM ***************************************************************************
 REM 
+REM ***************************************************************************
+:CREATE_COMMUTE_INFO
+set commute_info=commute_info.txt
+if exist "travel\%commute_info%" goto SKIP_COMMUTE_INFO
+
+touch travel\%commute_info%
+
+ECHO. >> travel\%commute_info%
+ECHO Google Map Link: Driving Route from Home to Client Office >> travel\%commute_info%
+
+ECHO. >> travel\%commute_info%
+ECHO Google Map Link: Driving Route from Client Office to Home >> travel\%commute_info%
+ECHO. >> travel\%commute_info%
+
+:SKIP_COMMUTE_INFO
+
+
+REM 
+REM ***************************************************************************
+:CREATE_HOTEL_INFO
+set hotel_info=hotel_info.txt
+if exist "travel\%hotel_info%" goto SKIP_HOTEL_INFO
+
+touch travel\%hotel_info%
+
+ECHO.
+ECHO Preparing "%hotel_info%" skeleton
+
+ECHO. >> travel\%hotel_info%
+ECHO Google Map Link: Hotels in the vicinity >> travel\%hotel_info%
+ECHO. >> travel\%hotel_info%
+
+:SKIP_HOTEL_INFO
+
+
+REM 
+REM ***************************************************************************
+:CREATE_VENDORS_DIR
 ECHO.
 ECHO Preparing vendor directory 
 
+if exist vendors (
+	ECHO.
+	ECHO vendors directory already exists, skipping 
+	GOTO SKIP_VENDORS_DIR 
+)	
+
 mkdir vendors
-
+	
+:SKIP_VENDORS_DIR
 
 REM 
 REM ***************************************************************************
-REM Prepare info.txt - general information file, in root directory of client Project folder
+REM Prepare Client Info - general information file, in root directory of client Project folder
 REM ***************************************************************************
-REM 
+:CREATE_CLIENT_INFO
 
-if exist info.txt goto END_JOB
-
-REM ***************************************************************************
-REM 
+set client_info=client_info.txt
 ECHO.
-ECHO Preparing info.txt skeleton...
+ECHO Checking for Client Info: %client_info%
+if exist %client_info% goto SKIP_CLIENT_INFO
 
-touch info.txt
-ECHO. >> info.txt
-ECHO. >> info.txt
-echo Client Name: %1 >> info.txt
+touch %client_info%
 
-ECHO. >> info.txt
-ECHO. >> info.txt
-echo Business Description: %1 >> info.txt
+ECHO.
+ECHO Preparing "%client_info%" skeleton
 
-ECHO. >> info.txt
-echo Address: >> info.txt
+ECHO. >> %client_info%
+ECHO. >> %client_info%
+echo Client Name: %currentDir% >> %client_info%
 
-ECHO. >> info.txt
-echo Company URL: >> info.txt
+ECHO. >> %client_info%
+ECHO. >> %client_info%
+echo Business Description: >> %client_info%
 
-ECHO. >> info.txt
-echo Company URL:, Executive Leadership Team: >> info.txt
+ECHO. >> %client_info%
+echo Address: >> %client_info%
 
-ECHO. >> info.txt
-echo Company LinkedIn URL: >> info.txt
+ECHO. >> %client_info%
+echo Company URL: >> %client_info%
 
-ECHO. >> info.txt 
-echo Glassdoor URL: >> info.txt
+ECHO. >> %client_info%
+echo Company URL:, Executive Leadership Team: >> %client_info%
 
-ECHO. >> info.txt 
-echo Twitter URL: >> info.txt
+ECHO. >> %client_info%
+echo Company LinkedIn URL: >> %client_info%
 
-ECHO. >> info.txt 
-echo YouTube URL: >> info.txt
+ECHO. >> %client_info% 
+echo Glassdoor URL: >> %client_info%
 
-ECHO. >> info.txt
-ECHO. >> info.txt
-ECHO. >> info.txt
-echo Date Founded: >> info.txt
+ECHO. >> %client_info% 
+echo Twitter URL: >> %client_info%
 
+ECHO. >> %client_info% 
+echo YouTube URL: >> %client_info%
 
-ECHO. >> info.txt
-ECHO Tech Crunch URL: >> info.txt
-
-ECHO. >> info.txt
-ECHO Angel List URL: >> info.txt
-
-ECHO. >> info.txt
-echo # Employees: >> info.txt
-
-ECHO. >> info.txt
-echo Annual Revenue: >> info.txt
-
-ECHO. >> info.txt
-echo Stock Symbol: >> info.txt
-
-ECHO. >> info.txt
-echo Investor Relations URL: >> info.txt
-
-ECHO. >> info.txt
-echo Yahoo Finance URL: >> info.txt
-
-ECHO. >> info.txt
-echo Google Finance URL: >> info.txt 
+ECHO. >> %client_info%
+ECHO. >> %client_info%
+ECHO. >> %client_info%
+echo Date Founded: >> %client_info%
 
 
-ECHO. >> info.txt
-ECHO. >> info.txt
-echo Opportunity Source: >> info.txt
+ECHO. >> %client_info%
+ECHO Tech Crunch URL: >> %client_info%
 
-ECHO. >> info.txt
-ECHO. >> info.txt
-echo Start Date: >> info.txt 
+ECHO. >> %client_info%
+ECHO Angel List URL: >> %client_info%
 
-ECHO. >> info.txt
-echo End Date: >> info.txt
+ECHO. >> %client_info%
+echo # Employees: >> %client_info%
 
-ECHO. >> info.txt
-ECHO Subcontracting Firm: >> info.txt
+ECHO. >> %client_info%
+echo Annual Revenue: >> %client_info%
 
-ECHO. >> info.txt
-echo Rate: >> info.txt
+ECHO. >> %client_info%
+echo Stock Symbol: >> %client_info%
 
-ECHO. >> info.txt
-echo Duration: >> info.txt
+ECHO. >> %client_info%
+echo Investor Relations URL: >> %client_info%
+
+ECHO. >> %client_info%
+echo Yahoo Finance URL: >> %client_info%
+
+ECHO. >> %client_info%
+echo Google Finance URL: >> %client_info% 
 
 
-ECHO. >> info.txt
-echo TimeZone: >> info.txt
+ECHO. >> %client_info%
+ECHO. >> %client_info%
+echo Opportunity Source: >> %client_info%
+
+ECHO. >> %client_info%
+ECHO. >> %client_info%
+echo Start Date: >> %client_info% 
+
+ECHO. >> %client_info%
+echo End Date: >> %client_info%
+
+ECHO. >> %client_info%
+ECHO Subcontracting Firm: >> %client_info%
+
+ECHO. >> %client_info%
+echo Rate: >> %client_info%
+
+ECHO. >> %client_info%
+echo Duration: >> %client_info%
 
 
-ECHO. >> info.txt
-echo Invoice Submission Email: >> info.txt
+ECHO. >> %client_info%
+echo TimeZone: >> %client_info%
 
-ECHO. >> info.txt 
-ECHO. >> info.txt
-echo Building - Help Desk: >> info.txt
 
-ECHO. >> info.txt
-echo Building - Facilities: >> info.txt
+ECHO. >> %client_info%
+echo Invoice Submission Email: >> %client_info%
 
-ECHO. >> info.txt
-echo Building - Security: >> info.txt
+ECHO. >> %client_info% 
+ECHO. >> %client_info%
+echo Building - Help Desk: >> %client_info%
 
-ECHO. >> info.txt
-echo Building - Parking: >> info.txt
+ECHO. >> %client_info%
+echo Building - Facilities: >> %client_info%
 
-ECHO. >> info.txt
-echo Building - Directions [Google Map Link]: >> info.txt
+ECHO. >> %client_info%
+echo Building - Security: >> %client_info%
 
-ECHO. >> info.txt
-ECHO Time Tracking URL: >> info.txt
+ECHO. >> %client_info%
+echo Building - Parking: >> %client_info%
 
-ECHO. >> info.txt
-echo Time Tracking Tasks: >> info.txt 
+ECHO. >> %client_info%
+echo Building - Directions [Google Map Link]: >> %client_info%
 
-ECHO. >> info.txt
-echo Web Email URL: >> info.txt
+ECHO. >> %client_info%
+ECHO Time Tracking URL: >> %client_info%
 
-ECHO. >> info.txt
-echo Corporate Network Access: >> info.txt
+ECHO. >> %client_info%
+echo Time Tracking Tasks: >> %client_info% 
 
-ECHO. >> info.txt
-echo VPN Access: >> info.txt
+ECHO. >> %client_info%
+echo Web Email URL: >> %client_info%
 
-ECHO. >> info.txt
-echo Login Account Details: >> info.txt
+ECHO. >> %client_info%
+echo Corporate Network Access: >> %client_info%
 
-ECHO. >> info.txt
-ECHO Travel Company: >> info.txt
-ECHO Reservations Number: >> info.txt 
-ECHO Reservations URL: >> info.txt 
-ECHO Corporate Account ID: >> info.txt 
+ECHO. >> %client_info%
+echo VPN Access: >> %client_info%
 
-ECHO. >> info.txt
-echo Guest WiFi SID: >> info.txt
-echo Guest WiFi User ID: >> info.txt
-echo Guest WiFi Password: >> info.txt
+ECHO. >> %client_info%
+echo Login Account Details: >> %client_info%
 
-ECHO. >> info.txt
-ECHO Laptop Equipment ID: >> info.txt
+ECHO. >> %client_info%
+ECHO Travel Company: >> %client_info%
+ECHO Reservations Number: >> %client_info% 
+ECHO Reservations URL: >> %client_info% 
+ECHO Corporate Account ID: >> %client_info% 
 
-ECHO. >> info.txt
+ECHO. >> %client_info%
+echo Guest WiFi SID: >> %client_info%
+echo Guest WiFi User ID: >> %client_info%
+echo Guest WiFi Password: >> %client_info%
 
+ECHO. >> %client_info%
+ECHO Laptop Equipment ID: >> %client_info%
+
+ECHO. >> %client_info%
+
+:SKIP_CLIENT_INFO 
+
+
+REM 
+REM ***************************************************************************
 goto END_JOB 
 
+
+REM 
+REM ***************************************************************************
 :ERROR_INVALID_DIRECTORY
 ECHO.
-ECHO ERROR
-ECHO - Suggestion: You should change to an appropriate Project directory in %projects_home_dir%
-d:
-cd "%projects_home_dir%%"
+REM SET RED Text 
+ECHO ERROR - INVALID DIRECTORY USAGE DETECTED 
+ECHO Parent Directory: [[%parentDir%]
+ECHO Current Directory: [%currentDir%]
+cd
+ECHO.
+ECHO Suggestion: You should change to an appropriate Project directory in %projects_home_dir%
+cd "%projects_home_dir%"
 dir
 
 
+REM 
+REM ***************************************************************************
 :END_JOB
 ECHO. 
-ECHO Finished!
+ECHO Project Initialization Script - completed!
+
+
+REM USEFUL BATCH SCRIPTING REFERNECES
+REM 
+REM ***************************************************************************
+REM REMEMBER - when doing string comparisons against variables, put them in quotes
+REM References:
+REM https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/for
+
+REM https://tutorialreference.com/batch-scripting/batch-script-arrays
+
+REM https://www.tutorialspoint.com/batch_script/batch_script_arrays.htm
+REM https://www.tutorialspoint.com/batch_script/batch_script_strings.htm
+
+REM https://www.geeksforgeeks.org/batch-script-strings/
+REM https://www.geeksforgeeks.org/batch-script-arrays/
+REM https://www.geeksforgeeks.org/batch-script-iterating-over-an-array/
+
+REM https://ss64.com/nt/
+REM https://ss64.com/nt/syntax.html
+REM https://ss64.com/nt/if.html
+REM https://ss64.com/nt/equ.html
+REM https://ss64.com/nt/delayedexpansion.html
+REM https://ss64.com/nt/syntax-arrays.html
+
+REM *** this is a *VERY* good reference 
+REM https://en.wikibooks.org/wiki/Windows_Batch_Scripting
+
+REM	https://tutorialreference.com/batch-scripting/batch-script-tutorial
+REM https://tutorialreference.com/batch-scripting/batch-script-string-manipulation
+
+REM https://www.dostips.com/DtTipsStringManipulation.php
+REM https://www.dostips.com/forum/viewtopic.php?t=3244
+
+REM https://www.robvanderwoude.com/ntif.php
+REM https://www.robvanderwoude.com/battech_array.php 
+
+REM https://retrocomputing.stackexchange.com/questions/24450/how-can-i-have-the-user-input-a-string-and-then-do-comparisons-on-it-in-a-batch
+
+REM https://superuser.com/questions/191224/populating-array-in-dos-batch-script
+
+REM https://stackoverflow.com/questions/14954271/string-comparison-in-batch-file
+REM https://stackoverflow.com/questions/14954271/string-comparison-in-batch-file
+REM https://stackoverflow.com/questions/17605767/create-a-list-or-an-array-and-print-each-item-in-windows-batch
+REM https://stackoverflow.com/questions/10166386/arrays-linked-lists-and-other-data-structures-in-cmd-exe-batch-script/10167990
+
