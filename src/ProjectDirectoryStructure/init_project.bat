@@ -204,6 +204,8 @@ ECHO Client: %client% >> _journals\%year%\%month%\%dt%.txt
 
 if exist %location_text_file% (
 set /p Location=<%location_text_file%
+ECHO.
+ECHO Setting Location to "%Location%"
 ECHO Location: %Location% >> _journals\%year%\%month%\%dt%.txt
 )
 
