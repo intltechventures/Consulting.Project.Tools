@@ -24,7 +24,7 @@ REM Incorporate additional ideas from:
 REM https://github.com/intltechventures/Consulting.Project.Tools/blob/master/taxonomies/ClassificationCodes.md
 REM 
 
-set version=1.5.3
+set version=1.5.4
 ECHO.
 ECHO STARTING init_project.bat, version: %version%
 ECHO Created by Kelvin D. Meeks, International Technology Ventures, Inc. 
@@ -202,7 +202,7 @@ for %%I in (.) do set client=%%~nxI
 ECHO Client: %client% >> _journals\%year%\%month%\%dt%.txt
 
 
-if exist "%location_text_file%" (
+if exist %location_text_file% (
 set /p Location=<%location_text_file%
 ECHO Location: %Location% >> _journals\%year%\%month%\%dt%.txt
 )
@@ -524,7 +524,15 @@ mkdir background\company\subsidiaries
 mkdir background\company\www
 
 mkdir background\news.company\%year%\%month%
+
 mkdir background\news.company.stock\%year%\%month%
+mkdir background\news.company.stock\%year%\10K\
+mkdir background\news.company.stock\%year%\10Q\
+mkdir background\news.company.stock\%year%\10Q\Q-1
+mkdir background\news.company.stock\%year%\10Q\Q-2
+mkdir background\news.company.stock\%year%\10Q\Q-3
+mkdir background\news.company.stock\%year%\10Q\Q-4
+
 mkdir background\news.competitors\%year%\%month%
 mkdir background\news.industry\%year%\%month%
 
