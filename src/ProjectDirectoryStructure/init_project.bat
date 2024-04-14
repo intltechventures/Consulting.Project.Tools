@@ -14,7 +14,7 @@ REM Author: Kelvin D. Meeks
 REM Email: kmeeks@intltechventures.com 
 REM
 REM Created: 2019-06-28
-REM Update:  2024-04-10 
+REM Update:  2024-04-14
 REM
 REM github file location
 REM https://github.com/intltechventures/Consulting.Project.Tools/blob/master/src/ProjectDirectoryStructure/init_project.bat
@@ -24,7 +24,7 @@ REM Incorporate additional ideas from:
 REM https://github.com/intltechventures/Consulting.Project.Tools/blob/master/taxonomies/ClassificationCodes.md
 REM 
 
-set version=1.5.2
+set version=1.5.3
 ECHO.
 ECHO STARTING init_project.bat, version: %version%
 ECHO Created by Kelvin D. Meeks, International Technology Ventures, Inc. 
@@ -269,6 +269,8 @@ mkdir admin\facilities\maps
 mkdir admin\facilities\locations
 mkdir admin\facilities\parking
 
+mkdir admin\global_sourcing
+
 mkdir admin\holidays
 mkdir admin\holidays\%year%
 
@@ -505,6 +507,10 @@ ECHO Preparing background\ directory entries...
 
 mkdir background
 
+mkdir background\_opportunity_seed\%year%\%month%
+mkdir background\_opportunity_analysis\%year%\%month%
+
+
 mkdir background\company
 mkdir background\company\business_lines
 mkdir background\company\collateral
@@ -518,10 +524,10 @@ mkdir background\company\subsidiaries
 mkdir background\company\www
 
 mkdir background\news.company\%year%\%month%
+mkdir background\news.company.stock\%year%\%month%
 mkdir background\news.competitors\%year%\%month%
 mkdir background\news.industry\%year%\%month%
 
-mkdir background\opportunity_analysis\%year%\%month%
 
 
 mkdir background\research\BBB.org\%year%\%month%
@@ -789,6 +795,10 @@ echo Start Date: >> %client_info%
 ECHO. >> %client_info%
 echo End Date: >> %client_info%
 
+
+ECHO. >> %client_info%
+echo Global Sourcing: >> %client_info%
+
 ECHO. >> %client_info%
 ECHO Subcontracting Firm: >> %client_info%
 
@@ -839,6 +849,15 @@ echo VPN Access: >> %client_info%
 
 ECHO. >> %client_info%
 echo Login Account Details: >> %client_info%
+
+ECHO. >> %client_info% 
+ECHO. >> %client_info%
+echo IT - Support / Help Desk: >> %client_info%
+
+ECHO. >> %client_info% 
+ECHO. >> %client_info%
+echo IT - Service Request URL: >> %client_info%
+
 
 ECHO. >> %client_info%
 ECHO Travel Company: >> %client_info%
