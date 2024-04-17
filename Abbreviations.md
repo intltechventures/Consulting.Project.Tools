@@ -586,7 +586,7 @@ GPG         | [GNU Privacy Guard](https://en.wikipedia.org/wiki/GNU_Privacy_Guar
 GPT         | Generative Pretrained Transformer
 GPT         | [GUID Partition Table](https://en.wikipedia.org/wiki/GUID_Partition_Table)
 GPU         | [Graphics Processing Uni](https://en.wikipedia.org/wiki/Graphics_processing_unit)
-GQL         | [Graph Query Language](https://www.gqlstandards.org/home)
+GQL         | [Graph Query Language](https://www.gqlstandards.org/home) [ISO/IEC 39075:2024](https://www.iso.org/standard/76120.html)
 GQM         | Goal, Question, Metric 
 GRC         | Governance, Risk, and Compliance
 GRE         | Generic Routing Encapsulation
