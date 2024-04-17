@@ -237,6 +237,7 @@ CDM         | Common Data Model
 CDN         | [Content Distribution Network](https://en.wikipedia.org/wiki/Content_delivery_network)
 CDO         | Chief Data Officer
 CDO         | Care Delivery Organizatoin
+CDP         | [Customer Data Platform](https://en.wikipedia.org/wiki/Customer_data_platform)
 CE          | Community Edition
 CEAF        | California Enterprise Architecture Framework
 CEB         | Corporate Executive Board
@@ -822,6 +823,7 @@ MDAP        | Mobile Application Development Platform
 MDM         | Master Data Management  
 MDM         | Mobile Device Management  
 MDR         | Marketing Development Representative
+MDS         | Master Data Service
 MDSL        | [Microservice-Domain Specific Language](https://microservice-api-patterns.github.io/MDSL-Specification/)
 ME          | Maximum Entropy 
 MEAN        | MongoDB, Express.js, Angular.js, Node.js
