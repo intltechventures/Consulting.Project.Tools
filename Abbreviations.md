@@ -284,6 +284,7 @@ CMMC        | [Cybersecurity Maturity Model Certification](https://dodcio.defens
 CMOS        | [Complementary metal–oxide–semiconductor](https://en.wikipedia.org/wiki/CMOS)
 cn          | Common Name, re: LDAP
 CNAB        | [Cloud Native Application Bundles](https://cnab.io/)
+CNAPP       | [Cloud-Native Application Protection Platform](https://www.microsoft.com/en-us/security/business/security-101/what-is-cnapp) 
 CNCF        | [Cloud Native Computing Foundation](https://www.cncf.io/)
 CNN         | Convolutional Neural Network
 CoE         | Center of Excellence
@@ -319,6 +320,7 @@ CSF         | Critical Success Factors
 CSI         | Container Storage Interface (e.g. Kubernetes)
 CSM         | Customer Service Management 
 CSM         | Customer Success Manager
+CSNS        | Cloud Service Network Security 
 CSO         | Cloud Service Offering
 CSP         | Cloud Service Provider
 CSP         | [Content Security Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) 
@@ -371,6 +373,7 @@ DD          | Data Dictionary
 DDA         | Data Design Authority
 DDoS        | Distributed Denial-of-Service (i.e. a network traffic attack)
 DEC         | Digital Equipment Corporation 
+DEIB        | Diversity, Equity, Inclusion, and Belonging
 DER         | Distinguished Encoding Rules
 DES         | [Data Encryption Standard](https://en.wikipedia.org/wiki/Data_Encryption_Standard)
 DFIR        | Digital Forensics, Incident Response  
@@ -595,6 +598,7 @@ GUI         | [Graphical User Interface](https://en.wikipedia.org/wiki/Graphical
 GUID        | [Globally Unique Identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier) - see UUID
 GWP         | Gross Written Premium (insurance industry)
 **H__**     | 
+HAI         | Stanford Institute for Human-Centered Artificial Intelligence 
 HATEOAS     | [Hypermedia As The Engine Of Application State](https://en.wikipedia.org/wiki/HATEOAS)
 HCI         | Human-Computer Interaction
 HCL         | [HashiCorp Configuration Language](https://github.com/hashicorp/hcl)
