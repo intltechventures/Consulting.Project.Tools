@@ -395,7 +395,8 @@ DMAIC       | [Define, Measure, Analayze, Improve, Control](https://en.wikipedia
 DMARC       | [Domain-based Message Authentication Reporting and Conformance](https://en.wikipedia.org/wiki/DMARC)
 DML         | Double Machine Learning
 DMN         | Demand
-DMO         | Data Management Office 
+DMO         | Data Management Office
+DMP         | [Data Management Platform](https://en.wikipedia.org/wiki/Data_management_platform)
 DMZ         | [Demilitarized Zone](https://en.wikipedia.org/wiki/DMZ_(computing)) - aka perimeter network or [screened subnet](https://en.wikipedia.org/wiki/Screened_subnet)
 DN          | Distinguished Name, re: LDAP
 DNAT        | Destination network address translation
