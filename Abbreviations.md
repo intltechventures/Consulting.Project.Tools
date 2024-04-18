@@ -184,7 +184,8 @@ BPS         | Bits Per Second
 BPSS        | Business Process Specification Schema 
 BR          | Business Rules
 BRD         | Business Requirements Document  
-BRM         | Business Reference Model  
+BRM         | Business Reference Model 
+BRS         | Business Requirements Specification
 BSA         | Bank Secrecy Act
 BSD         | [Berkeley Software Distribution](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
 BSI         | British Sandards Institution
@@ -471,6 +472,7 @@ EFF         | [Electronic Frontier Foundation](https://en.wikipedia.org/wiki/Ele
 EFTA        | European Free Trade Association 
 EHR         | Electronic Health Record(s)
 EIP         | [Enterprise Integration Patterns](https://en.wikipedia.org/wiki/Enterprise_Integration_Patterns), re: [[Hophe's EIP Messaging Patterns](https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html]
+EJB         | Enterprise Java Bean
 EKS         | Amazon [Amazon Elastic Kubernetes Service](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html)
 EL          | Enterprise Linux 
 ELF         | [Executable and Linkable Format](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
@@ -861,6 +863,7 @@ MOQ         | Minimum Order Quantity
 MOTS        | Modified Off-The-Shelf 
 MOU         | Memorandum of Understanding
 MPL         | [Mozilla Public License](https://www.mozilla.org/en-US/MPL/)
+MPM         | [Manufacturing process management](https://en.wikipedia.org/wiki/Manufacturing_process_management)
 MQL         | Marketing Qualified Lead
 MRA         | Matters Requiring Attention
 MRC         | Management Risk Committee
@@ -1017,7 +1020,7 @@ PCR         | Project Change Request
 PDCA        | Plan-Do-Check-{Act | Adjust} (Shewhart’s PDCA cycle, aka the Deming Cycle) [also see PDSA]
 PDH         | Product Development Hub
 PDI         | Personal Developer Instances 
-PDM         | Product Data Management
+PDM         | [Product Data Management](https://en.wikipedia.org/wiki/Product_data_management)
 PDSA        | Plan-Do-Study-Act
 PDP         | Policy Decision Point
 PDP         | [Programmed Data Processor](https://en.wikipedia.org/wiki/Programmed_Data_Processor)
@@ -1042,7 +1045,7 @@ PIU         | Profits Interests Units [a form of equity compensation typically i
 PKCE        | Proof Key for Code Exchange (pronounced "pixy"), re: [RFC 7636](https://tools.ietf.org/html/rfc7636)
 PKI         | [Public Key Infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure)
 PKM         | Personal Knowledge Management
-PLM         | Product Lifecycle Management
+PLM         | [Product Lifecycle Management](https://en.wikipedia.org/wiki/Product_lifecycle)
 PLSA        | Probabilistic Latent Semantic Analysis
 PM          | Program Manager
 PM          | Project Management
@@ -1066,7 +1069,7 @@ POV         | Point of View
 PPC         | Pay Per Click 
 PPI         | Protected Personal Information
 PPL         | Policy & Procedure Library
-PPM         | Project Portfolio Management
+PPM         | [Project Portfolio Management])(https://en.wikipedia.org/wiki/Project_portfolio_management)
 PPO         | Proximal Policy Optimization (e.g., Deep Reinforcement Learning algorithm)
 PPPoA       | [Point-to-Point Protocol over ATM](https://en.wikipedia.org/wiki/Point-to-Point_Protocol_over_ATM)
 PPPoE       | [Point-to-Point Protocol over Ethernet](https://en.wikipedia.org/wiki/Point-to-Point_Protocol)
@@ -1257,7 +1260,7 @@ SDP         | Software Defined Perimeter (also see VPN)
 SDR         | Sales Development Representative
 SDSL        | [Symmetric digital subscriber line](https://en.wikipedia.org/wiki/Symmetric_digital_subscriber_line)
 SE          | Standard Edition
-SE          | Systems Engineering
+SE          | [Systems Engineering](https://en.wikipedia.org/wiki/Systems_engineering)
 SEBoK       | [Systems Engineering Book of Knowledge](https://sercuarc.org/sebok/) - [wiki](https://sebokwiki.org/wiki/)
 SEC         | [U.S. Securities and Exchange Commission](https://en.wikipedia.org/wiki/U.S._Securities_and_Exchange_Commission)
 SEO         | Search Engine Optimization
@@ -1403,6 +1406,7 @@ ToM         | [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind)
 TOM         | Target Operating Model
 TOML        | [Tom's Obvious Minimal Language](https://toml.io/en/)
 TP          | Third-Party
+TPLC        | [Total Product Life Cycle](https://www.fda.gov/about-fda/cdrh-transparency/total-product-life-cycle-medical-devices)
 TPM         | [Trusted Platform Module](https://en.wikipedia.org/wiki/Trusted_Platform_Module)
 TPR         | True Positive Rate
 TPU         | Tensor Processing Unit(s) 
