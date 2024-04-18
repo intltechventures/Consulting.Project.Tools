@@ -148,6 +148,7 @@ BCP         | Business Continuity Planning (or Plan)
 BDAM        | IBM [Basic Direct Access Method](https://en.wikipedia.org/wiki/Basic_direct_access_method)
 BDB         | Biometric Data Block
 BDD         | [Behavior-Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
+BDFL        | Benevolent Dictator For Life 
 BDR         | Business Development Resources
 BDR         | Business Development Representative 
 BDS `       | Boot Device Selection
@@ -540,6 +541,7 @@ FISMA	    | Federal Information Security Management Act
 FMEA        | Failure Mode and Effects Analysis
 fMRI        | functional Magnetic Resonance Imaging
 FoS         | Families of Systems
+FOSS        | [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 FP          | Functional Programming 
 FPGA        | Field-Programmable Gate Arrays
 FPR         | False Positive Rate
