@@ -204,6 +204,7 @@ CAAS        | Container as a Service
 CAB         | [Change-Advisory Board](https://en.wikipedia.org/wiki/Change-advisory_board)
 CaC         | Compliance as Code
 CAC         | Customer Acquisition Cost
+CAF         | Cloud Adoption Framework ([Azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/))
 CAGR        | [Compound Annual Growth Rate](https://en.wikipedia.org/wiki/Compound_annual_growth_rate) 
 CAP         | Consistency, Availability, Partition Tolerance  
 CapEx       | [Capital Expenditure](https://en.wikipedia.org/wiki/Capital_expenditure)
@@ -984,6 +985,7 @@ OODA        | [Observe-Orient-Decide-Act](https://en.wikipedia.org/wiki/OODA_loo
 OOP         | Object Oriented Programming 
 OOTB        | Out Of The Box
 OPA         | Open Policy Agent
+OPEA        | [Open Platform for Enterprise AI](https://opea.dev/), ([GitHub](https://github.com/opea-project)
 OpenELA     | [Open Enterprise Linux Association](https://openela.org/)
 OpEx        | [Operational Expense](https://en.wikipedia.org/wiki/Operating_expense)
 OPS         | Operations
