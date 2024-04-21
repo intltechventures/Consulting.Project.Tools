@@ -607,6 +607,7 @@ GWP         | Gross Written Premium (insurance industry)
 **H__**     | 
 HAI         | Stanford Institute for Human-Centered Artificial Intelligence 
 HATEOAS     | [Hypermedia As The Engine Of Application State](https://en.wikipedia.org/wiki/HATEOAS)
+HBM         | High-Bandwidth Memory
 HCI         | Human-Computer Interaction
 HCL         | [HashiCorp Configuration Language](https://github.com/hashicorp/hcl)
 HDD         | [Hard Disk Drive](https://en.wikipedia.org/wiki/Hard_disk_drive)
@@ -786,10 +787,12 @@ LEM         | [Law of Excluded Middle](https://en.wikipedia.org/wiki/Law_of_excl
 LeSS        | [Large Scale Scrum](https://less.works/)
 LGPL        | (GNU) Lesser General Public License 
 LID         | Language Identification
+LLaMA       | Large Language Model Meta AI
 LLC         | [Logical Link Control](https://en.wikipedia.org/wiki/Logical_link_control)
 LLM         | Large Language Model
 LLRT        | Low Latency Runtime (e.g., [AWS](https://github.com/awslabs/llrt))
 LoRA        | [Low-Rank Adaptation](https://arxiv.org/abs/2106.09685) (of Large Language Models) [see [Microsoft github repo](https://github.com/microsoft/LoRA)]
+LPU         | Language Processing Unit 
 LSA         | Latent Semantic Analysis
 LSA         | Local Service Agreement
 LSE         | Large Scale Event
@@ -1424,7 +1427,8 @@ TTL         | Time To Live
 TTM         | Time-To-Market 
 TTP         | Trusted Third Party
 TTPs        | Tactics, Techniques, and Procedures
-TTS         | Text-To-Speech 
+TTS         | Text-To-Speech
+TWh         | Terawatt-hours
 TXN         | Transaction
 **U__**     |
 UAT         | User Acceptance Testing
@@ -1535,9 +1539,10 @@ XSS         | Cross-Site Scripting
 **Y__**     |
 YAGNI       | You Aren't Gonna Need It 
 YAS         | Yet Another Silo
+YB          | [Yottabyte](https://simple.wikipedia.org/wiki/Yottabyte)
 YBYO        | You Build, You Own (alternatively: You Buid It, You Own It)
 **Z__**     |
-ZB          | [Zettabyte](https://en.wikipedia.org/wiki/Zettabyte_Era)
+ZB          | [Zettabyte](https://simple.wikipedia.org/wiki/Zettabyte)
 ZBB         | [Zero-Based Budgeting](https://en.wikipedia.org/wiki/Zero-based_budgeting)
 zkEVM       | [zero-knowledge Ethereum Virtual Machine](https://blog.chain.link/zkevm/)
 ZKP         | [Zero Knowledge Proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
