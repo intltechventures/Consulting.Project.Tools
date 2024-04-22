@@ -1229,6 +1229,7 @@ SAFe        | Scaled Agile Framework
 SAM         | [Segment Anything Model](https://ai.facebook.com/research/publications/segment-anything/) [re: A Foundation model for image segmentation, from FAIR]
 SAM         | [Serverless Application Model](https://aws.amazon.com/serverless/sam/)
 SAM         | [Serviceable Addressable Market](https://en.wikipedia.org/wiki/Serviceable_available_market)
+SAM         | Software Asset Management
 SAM         | Successive Approximation Model, created by Allen Interactions 
 SAML        | Security Assertion Markup Language
 SAN         | [Storage Area Networks](https://en.wikipedia.org/wiki/Storage_area_network)
