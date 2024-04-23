@@ -183,6 +183,7 @@ __These are the primary software programs that I typically have installed on my 
 ### Basic Code/Text/Config Editors
 - [Notepad++](https://notepad-plus-plus.org/)
   + Additional Plugins
+    * DSpellCheck
     * Markdown++
       * https://github.com/Edditoria/markdown-plus-plus 
     * NppRegExTractor
