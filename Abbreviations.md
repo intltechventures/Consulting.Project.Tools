@@ -105,6 +105,7 @@ ARHR        | Average Reciprocal Hit Ratio
 ARI         | Amazon Ramdisk Image
 ARIMA       | Auto-Regressive Integrated Moving Average
 ARM         | Architectural Reference Model
+ARM         | [Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-resource-manager/)
 ARN         | [Amazon Resource Name](https://docs.aws.amazon.com/general/latest/gr/aws-arns-and-namespaces.html)
 ARP         | Address Resolution Protocol
 ARPA        | Average Revenue Per Account
@@ -996,6 +997,7 @@ ORC         | Operational Risk Committee
 OSF         | [Open Software Foundation](https://en.wikipedia.org/wiki/Open_Software_Foundation)
 OSFI        | Canadanian version of OFAC
 OSI         | [Open Systems Interconnection](https://en.wikipedia.org/wiki/OSI_model) model 
+OSQI        | [Open Source Quality Institutes](https://www.tbray.org/ongoing/When/202x/2024/04/01/OSQI) - an idea by Tim Bray
 OTC         | Order-to-Cash
 OTP         | One-Time Passcode
 ou          | Organizational Unit, re: LDAP 
@@ -1434,6 +1436,7 @@ TXN         | Transaction
 **U__**     |
 UAT         | User Acceptance Testing
 UCaaS       | [Unified Communications as a Service](https://en.wikipedia.org/wiki/Unified_communications_as_a_service)
+UCP         | Universal Control-Plane
 UDDI        | Universal Description, Discovery, & Integration
 UDEF        | Universal Data Element Framework
 UDF         | User Defined File
