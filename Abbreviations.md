@@ -218,6 +218,7 @@ CBAC        | [Claim-Based Attirbute Control](https://en.wikipedia.org/wiki/Attr
 CBFR        | Commenting For Better Reach
 CBR         | Change Blast Radius
 CBS         | Critical Business System
+CCaaS       | Contact Center as a Service
 CCANM       | Cascade Nonlinear Additive Noise Models 
 CCC         | FINOS: [Common Cloud Controls Project](https://www.finos.org/common-cloud-controls-project)
 CCD         | Conceptual Design Document
