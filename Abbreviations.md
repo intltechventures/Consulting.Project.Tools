@@ -278,6 +278,7 @@ CISA        | [Cybersecurity and Infrastructure Security Agency](https://www.cis
 CISC        | [Complex Instruction Set Computer](https://en.wikipedia.org/wiki/Complex_instruction_set_computer)
 CISM        | Certified Information Security Manager
 CISSP       | [Certified Information Systems Security Professionals](https://www.isc2.org/Certifications/CISSP-Concentrations)
+CL          | [Change List](https://en.wikipedia.org/wiki/Version_control)
 CLI         | Command Line Interface
 CLT         | [Central Limit Theorem](https://en.wikipedia.org/wiki/Central_limit_theorem)
 CMDB        | Configuration Management Database
