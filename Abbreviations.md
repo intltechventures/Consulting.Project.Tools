@@ -1406,6 +1406,7 @@ TCP/IP      | [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_p
 TCV         | Total Contract Value (TCV) 
 TDD         | [Test-Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
 TFI         | [Office of Terrorism and Financial Intelligence](https://en.wikipedia.org/wiki/Office_of_Terrorism_and_Financial_Intelligence)
+TFP         | [Total Factor Productivity](https://en.wikipedia.org/wiki/Total_factor_productivity)
 TGB         | Technology Governance Board
 TIME        | [Tolerate. Invest. Migrate. Eliminate.](https://www.gartner.com/en/documents/3905663) (re: Gartner categorization)
 TLA         | Three Letter Acronym
