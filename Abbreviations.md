@@ -1000,6 +1000,7 @@ OSF         | [Open Software Foundation](https://en.wikipedia.org/wiki/Open_Soft
 OSFI        | Canadanian version of OFAC
 OSI         | [Open Systems Interconnection](https://en.wikipedia.org/wiki/OSI_model) model 
 OSQI        | [Open Source Quality Institutes](https://www.tbray.org/ongoing/When/202x/2024/04/01/OSQI) - an idea by Tim Bray
+OSSF        | [Open Source Security Foundation](https://openssf.org/)
 OTC         | Order-to-Cash
 OTP         | One-Time Passcode
 ou          | Organizational Unit, re: LDAP 
@@ -1384,6 +1385,7 @@ SVG         | [Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_
 SW          | Software
 SWA         | Azure [Static Web Apps](https://azure.microsoft.com/en-us/products/app-service/static/) ([github](https://github.com/Azure/static-web-apps))
 SWAG        | Silly Wild-Ass Guess (also see ROM), aka an estimate 
+SWE         | [Software Engineer | Software Engineering](https://en.wikipedia.org/wiki/Software_engineering)
 SWOT        | Strengths, Weaknesses, Opportunities, and Threats
 **T__**     |
 T2R2        | Transparent, Traceable, Replicable and Reproducible a
