@@ -573,8 +573,18 @@ __These are the primary software programs that I typically have installed on my 
 
 ## Database Technologies
 
+### Primary Database
+
+- [PostgreSQL](http://www.postgresql.org/)
+  + https://www.postgresql.org/docs/
+  + NOTE: remember to add the ../bin to your PATH
+
+
+### Secondary Databases
+
 - [MariaDB](https://mariadb.org/)
   + https://mariadb.com/docs/reference/
+
 
 - [Microsoft SQL Server](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
   + https://www.microsoft.com/en-us/sql-server/sql-server-downloads
@@ -597,8 +607,6 @@ __These are the primary software programs that I typically have installed on my 
       * https://tediousjs.github.io/tedious/
       * https://github.com/tediousjs/tedious
 
-- [PostgreSQL](http://www.postgresql.org/)
-  + https://www.postgresql.org/docs/
 
 - [Oracle](https://www.oracle.com/database/)
   + https://docs.oracle.com/en/database/index.html
@@ -612,7 +620,9 @@ __These are the primary software programs that I typically have installed on my 
   + Oracle SQLcl
     * https://docs.oracle.com/en/database/oracle/sql-developer-command-line/19.2/sqcug/working-sqlcl.html#GUID-1343FA2B-BDB4-4645-B4D4-CD7C3E200AC9
 
+
 - [datomic](http://www.datomic.com/)
+
 
 - [Neo4j](http://neo4j.com)
   + https://neo4j.com/developer/get-started/
@@ -621,13 +631,23 @@ __These are the primary software programs that I typically have installed on my 
 
 ## Application/Web Servers
 
-- [NGINX](https://www.nginx.com/)
+- [Apache HTTPD](https://httpd.apache.org/)
+
 
 - [Apache Tomcat](http://tomcat.apache.org/)
 
+
 - [Apache TomEE](http://tomee.apache.org/)
 
+
+- [Eclipse GlassFish](https://glassfish.org/)
+  + https://github.com/eclipse-ee4j/glassfish
+
+
 - [Jetty](http://www.eclipse.org/jetty/)
+
+
+- [NGINX](https://www.nginx.com/)
 
 
 
