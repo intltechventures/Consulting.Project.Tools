@@ -794,6 +794,7 @@ LLaMA       | Large Language Model Meta AI
 LLC         | [Logical Link Control](https://en.wikipedia.org/wiki/Logical_link_control)
 LLM         | Large Language Model
 LLRT        | Low Latency Runtime (e.g., [AWS](https://github.com/awslabs/llrt))
+LOI         | Letter of Intent
 LoRA        | [Low-Rank Adaptation](https://arxiv.org/abs/2106.09685) (of Large Language Models) [see [Microsoft github repo](https://github.com/microsoft/LoRA)]
 LPU         | Language Processing Unit 
 LSA         | Latent Semantic Analysis
