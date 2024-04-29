@@ -1454,6 +1454,7 @@ UEFI        | [Unified Extensible Firmware Interface](https://en.wikipedia.org/w
 UGC         | User Generated Content 
 UI          | User Interface  
 UIMA        | Unstructured Information Management Architecture
+ULID        | [Universally unique Lexicographically sortable IDentifier](https://github.com/ulid/spec)
 UML         | Unified Modeling Language
 UPC         | [Universal Product Code](https://en.wikipedia.org/wiki/Universal_Product_Code)
 USB         | [Universal Serial Bus](https://en.wikipedia.org/wiki/USB)
