@@ -1216,6 +1216,7 @@ RTFM        | Read The Freaking Manual
 RTM         | Requirements Traceability Matrix
 RTP         | [Real-time Transport Protocol](https://en.wikipedia.org/wiki/Real-time_Transport_Protocol)
 RTR         | Record-to-Report
+RTR         | Right To Represent
 RTSP        | [Real Time Streaming Protocol](https://en.wikipedia.org/wiki/Real_Time_Streaming_Protocol)
 RTT         | Round-Trip Time  
 RTO         | Recovery Time Objective  
