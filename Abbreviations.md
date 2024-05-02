@@ -758,6 +758,7 @@ JVMS        | Java Virtual Machine Specification
 JWKS        | JSON Web Key Set
 JWT         | [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token)
 **K__**     |
+KAN         | [Kolmogorov–Arnold Network](https://arxiv.org/abs/2404.19756) [1](https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Arnold_representation_theorem)
 KCL         | Kinesis Client Library
 KCSA        | Kubernetes and Cloud Security Associate (KCSA) certification, re: CNCF
 KDC         | Key Distribution Center
@@ -859,7 +860,7 @@ MIT/LCS     | [Massachusetts Institute of Technology](https://en.wikipedia.org/w
 ML          | Machine Learning 
 MLE         | [Maximum Likelihood Estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
 MLP         | Minimum Lovable Product
-MLP         | Multi-Layer Perception 
+MLP         | [Multi-Layer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 MMS         | Massively Multilingual Speech
 MNAR        | Missing Not At Random (re: data quality/completeness)
 MOA         | Memorandum of Agreement
