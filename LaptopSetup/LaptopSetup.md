@@ -208,7 +208,9 @@ __These are the primary software programs that I typically have installed on my 
 
 - [Visual Studio Code](https://code.visualstudio.com/)
   + https://code.visualstudio.com/docs/
+
   + [Marketplace for Extensions](https://code.visualstudio.com/docs?start=true#top-extensions)
+
   + My Installed Extensions:
     * https://marketplace.visualstudio.com/itemdetails?itemName=dbaeumer.vscode-eslint  
     * https://marketplace.visualstudio.com/items?itemName=Tyriar.vscode-terminal-here
@@ -235,6 +237,10 @@ __These are the primary software programs that I typically have installed on my 
         * https://github.com/scala/vscode-scala-syntax
     * Remote Development (Preview)
       * https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack
+
+  + Other Extensions to consider:
+    * HashiCorp Terraform
+      * https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform
 
 - Alternatives:
   * [ATOM](https://atom.io/) - (still evaluating...)
