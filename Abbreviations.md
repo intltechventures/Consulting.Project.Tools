@@ -392,6 +392,7 @@ DHCP        | [Dynamic Host Configuration Protocol](https://en.wikipedia.org/wik
 DHT         | [Distributed Hash Table](https://en.wikipedia.org/wiki/Distributed_hash_table)
 DIM         | Domain Information Model
 DJIA        | Dow Jones Industrial Average
+DKG         | [Distributed Key Generation](https://en.wikipedia.org/wiki/Distributed_key_generation)
 DLD			| Detail-Level Design 
 DLM         | Database Lifecycle Management
 DLP         | [Data Loss Prevention](https://en.wikipedia.org/wiki/Data_loss_prevention_software)
