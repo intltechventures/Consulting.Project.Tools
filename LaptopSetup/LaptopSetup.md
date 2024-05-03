@@ -6,14 +6,21 @@
   + https://www.linkedin.com/in/kelvinmeeks/
   + http://www.intltechventures.com
 
-  + __Current Primary Laptop__:
+  + __Current Primary Laptop__ (for research & development): *May 2023*
     * HP Envy, 64GB RAM, 2TB SSD, 12th Gen Intel(R) Core(TM) i7-1260P, 12-Core, 2.10 GHz, 2 Thunderbolt 4, WiFi 6E, BT 5.3, Windows 11 Pro
+    * https://www.amazon.com/gp/product/B0BGKKF2DD/
 
-  + __Previous Primary Laptop__: *DIED*
-    * MSI GT72 6QE, Intel® Core™ i7-6700HQ, 24GB RAM (DDR4 2133MHz), Three SSD drvies (256GB M.2 SATA, 1TB M.2 SATA, 1TB SATA), 8.4 lbs
+  + __Previous Primary Laptop__: *DIED in January 2024*
+    * MSI GT72 6QE, Intel® Core™ i7-6700HQ, 24GB RAM (DDR4 2133MHz), Three SSD drvies (256GB M.2 SATA, 1TB M.2 SATA, 1TB SATA), 8.4 lbs, Windows 10 Pro
+    * Fry's Electronics purchase
 
-  + __Emergency Backup Laptop__:
-    * Lenovo Ideapad 110-15ACL, AMD A8-7410 2.2Ghz, 8GB RAM (1,600 MHz), 1TB SATA SSD, 4.8 lbs
+  + __Secondary Laptop__ (for client work): *May 2024*
+    * MSI GE76 Raider Gaming Laptop, INtel Core i7-12700H (12th Gen), 64GB RAM, 2TB SSD, 17.3" FHD 144 Hz, NVIDIA GeForce RTX 3060, Windows 11
+    * https://www.amazon.com/dp/B0BTHLR9RR
+
+  + __Emergency Backup Laptop__: 
+    * Lenovo Ideapad 110-15ACL, AMD A8-7410 2.2Ghz, 8GB RAM (1,600 MHz), 1TB SATA SSD, 4.8 lbs, Windows 10 Pro
+
 
   + [Logitech K540 keyboard](https://www.amazon.com/Logitech-Wireless-Keyboard-Computers-Laptops/dp/B07QY3BJBV)
     * Future, to evaluate:
@@ -37,8 +44,8 @@
     * [TP-Link AC2600 WiFi, Extender(RE650), Up to 2600Mbps, Dual Band WiFi Range Extender, Gigabit port, Internet Booster, Repeater, Access Point,4x4 MU-MIMO](https://www.amazon.com/Extender-2600Mbps-Repeater-Internet-RE650/dp/B01MR90E3A/)
 
   + Mobile Hotspot Wifi
-    * [T-Mobile MiFi, Inseego, 5G MiFi M2000](https://www.t-mobile.com/hotspot-iot-connected-devices/inseego-5g-mifi-m2000)
-    * NETGEAR AirCard AC781S AT&T Unite Pro 4g LTE Hotspot
+    * Primary: [T-Mobile MiFi, Inseego, 5G MiFi M2000](https://www.t-mobile.com/hotspot-iot-connected-devices/inseego-5g-mifi-m2000)
+    * Secondary: NETGEAR AirCard AC781S AT&T Unite Pro 4g LTE Hotspot
 
   + Printer
     * [HP LaserJet Pro MFP M29w](https://www.amazon.com/HP-Laserjet-M29W-Wireless-Monochrome/dp/B09MTFNC5P/)
@@ -212,14 +219,17 @@ __These are the primary software programs that I typically have installed on my 
   + [Marketplace for Extensions](https://code.visualstudio.com/docs?start=true#top-extensions)
 
   + My Installed Extensions:
-    * https://marketplace.visualstudio.com/itemdetails?itemName=dbaeumer.vscode-eslint  
+    * https://marketplace.visualstudio.com/itemdetails?itemName=dbaeumer.vscode-eslint 
+
     * https://marketplace.visualstudio.com/items?itemName=Tyriar.vscode-terminal-here
       * "Creates an intergrated terminal session at the current file's directory"
         * ```ctrl/cmd+shift+p```
         * View > Command Palette > ``` terminalHere.create```
       * https://github.com/Tyriar/vscode-terminal-here
       * https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel
+
     * https://marketplace.visualstudio.com/items?itemName=YoshinoriN.current-file-path
+
     * Go Tools
       * gocode
       * gopkgs
@@ -232,15 +242,21 @@ __These are the primary software programs that I typically have installed on my 
       * godef
       * goreturns
       * golint
+
     * Scala Plugins
       * https://marketplace.visualstudio.com/items?itemName=scala-lang.scala
         * https://github.com/scala/vscode-scala-syntax
+
     * Remote Development (Preview)
       * https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack
 
   + Other Extensions to consider:
     * HashiCorp Terraform
       * https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform
+
+    * The Postman VS Code extension
+      * https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode
+      
 
 - Alternatives:
   * [ATOM](https://atom.io/) - (still evaluating...)
