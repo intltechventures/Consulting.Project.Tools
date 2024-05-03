@@ -11,11 +11,11 @@
     * https://www.amazon.com/gp/product/B0BGKKF2DD/
 
   + __Previous Primary Laptop__: *April 2016, DIED January 2024*
-    * MSI GT72 6QE, Intel® Core™ i7-6700HQ, 24GB RAM (DDR4 2133MHz), Three SSD drvies (256GB M.2 SATA, 1TB M.2 SATA, 1TB SATA), 8.4 lbs, Windows 10 Pro
+    * MSI GT72 6QE, Intel® Core™ i7-6700HQ, 24GB RAM (DDR4 2133MHz), two SSD drvies (1TB M.2 SATA SSD, 1TB SATA SSD), 8.4 lbs, Windows 10 Pro
     * Fry's Electronics purchase
 
   + __Secondary Laptop__ (for client work): *May 2024*
-    * MSI GE76 Raider Gaming Laptop, INtel Core i7-12700H (12th Gen), 64GB RAM, 2TB SSD, 17.3" FHD 144 Hz, NVIDIA GeForce RTX 3060, Windows 11
+    * MSI GE76 Raider Gaming Laptop, INtel Core i7-12700H (12th Gen, 14 core CPU, 2.69-4.7GHz), 64GB RAM (4800MHz, DDR5), 2TB NVMe SSD HDD, 17.3" FHD 144 Hz, NVIDIA GeForce RTX 3060, 802.11ax WiFi, Battery Pack - 4 cell (99.9Whr), Windows 11, 6.39 pounds 
     * https://www.amazon.com/dp/B0BTHLR9RR
 
   + __Emergency Backup Laptop__: *January 2017*
