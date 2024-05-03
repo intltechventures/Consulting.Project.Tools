@@ -10,7 +10,7 @@
     * HP Envy, 64GB RAM, 2TB SSD, 12th Gen Intel(R) Core(TM) i7-1260P, 12-Core, 2.10 GHz, 2 Thunderbolt 4, WiFi 6E, BT 5.3, Windows 11 Pro
     * https://www.amazon.com/gp/product/B0BGKKF2DD/
 
-  + __Previous Primary Laptop__: *DIED in January 2024*
+  + __Previous Primary Laptop__: *April 2016, DIED January 2024*
     * MSI GT72 6QE, Intel® Core™ i7-6700HQ, 24GB RAM (DDR4 2133MHz), Three SSD drvies (256GB M.2 SATA, 1TB M.2 SATA, 1TB SATA), 8.4 lbs, Windows 10 Pro
     * Fry's Electronics purchase
 
@@ -18,8 +18,9 @@
     * MSI GE76 Raider Gaming Laptop, INtel Core i7-12700H (12th Gen), 64GB RAM, 2TB SSD, 17.3" FHD 144 Hz, NVIDIA GeForce RTX 3060, Windows 11
     * https://www.amazon.com/dp/B0BTHLR9RR
 
-  + __Emergency Backup Laptop__: 
+  + __Emergency Backup Laptop__: *January 2017*
     * Lenovo Ideapad 110-15ACL, AMD A8-7410 2.2Ghz, 8GB RAM (1,600 MHz), 1TB SATA SSD, 4.8 lbs, Windows 10 Pro
+    * Fry's Electronics purchase
 
 
   + [Logitech K540 keyboard](https://www.amazon.com/Logitech-Wireless-Keyboard-Computers-Laptops/dp/B07QY3BJBV)
