@@ -1033,6 +1033,7 @@ PCR         | Project Change Request
 PDCA        | Plan-Do-Check-{Act | Adjust} (Shewhart’s PDCA cycle, aka the Deming Cycle) [also see PDSA]
 PDH         | Product Development Hub
 PDI         | Personal Developer Instances 
+PDK         | Platform Development Kit 
 PDM         | [Product Data Management](https://en.wikipedia.org/wiki/Product_data_management)
 PDSA        | Plan-Do-Study-Act
 PDP         | Policy Decision Point
@@ -1491,6 +1492,7 @@ VNC         | Virtual Network Computing
 VNet        | Virtual Network
 VNI ???     | Virtual Network Interface
 VoIP        | [Voice over IP](https://en.wikipedia.org/wiki/Voice_over_IP)
+VPDA        | Versioning, Packaging, Dependency Management, Artifact Management
 VPN         | [Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network)
 VPS         | Virtual Private Server 
 VQF         | Variational Quantum Factoring 
