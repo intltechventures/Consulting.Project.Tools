@@ -1322,7 +1322,7 @@ SMURFS      | Specifically Marketable, Useful, Releasable Feature Sets ([source]
 sn          | Surname, re: LDAP
 SN          | abbreviation for [ServiceNow](https://www.servicenow.com/)
 SNAFU       | Situation Normal, All Fucked Up
-SNI         | Server Name Indiciation
+SNI         | [Server Name Indiciation](https://en.wikipedia.org/wiki/Server_Name_Indication)
 SNOW        | abbreviation for [ServiceNow](https://www.servicenow.com/)
 SO          | Sales Order
 SOA         | [Service Oriented Architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture)
@@ -1524,6 +1524,7 @@ WCET        | [Worst-Case Execution Time](https://en.wikipedia.org/wiki/Worst-ca
 WCT         | [Windows Community Toolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit)
 WD          | Working Draft
 WDM         | [Windows Driver Model](https://en.wikipedia.org/wiki/Windows_Driver_Model)    
+WFM         | Windows Filtering Platform
 Wi-Fi       | Wireless Fidelity
 WIP         | Work in Progress
 WISP        | [Wireless Internet service provider](https://en.wikipedia.org/wiki/Wireless_Internet_service_provider)
@@ -1563,4 +1564,5 @@ ZKP         | [Zero Knowledge Proof](https://en.wikipedia.org/wiki/Zero-knowledg
 ZSP         | Zero Standing Privilege 
 ZT          | Zero Trust
 ZTA         | [Zero Trust Architecture](https://csrc.nist.gov/publications/detail/sp/800-207/final)
+ZTDNS       | [Zero Trust DNS](https://techcommunity.microsoft.com/t5/networking-blog/announcing-zero-trust-dns-private-preview/ba-p/4110366)
 ZTNA        | Zero Trust Network Access 
