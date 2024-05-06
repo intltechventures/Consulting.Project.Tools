@@ -23,7 +23,7 @@
     * Fry's Electronics purchase
 
 
-  + [Logitech K540 keyboard](https://www.amazon.com/Logitech-Wireless-Keyboard-Computers-Laptops/dp/B07QY3BJBV)
+  + [Logitech K540 keyboard](https://www.amazon.com/Logitech-Wireless-Keyboard-Computers-Laptops/dp/B07QY3BJBV) [2024 model](https://www.amazon.com/Logitech-Advanced-Wireless-USB-Receiver-Multimedia/dp/B0CBPNWCVS/)
     * Future, to evaluate:
       * [K380 Multi-Device Bluetooth Keyboard](https://www.logitech.com/en-us/product/multi-device-keyboard-k380)
       * [K780 K780 Multi-Device Wireless Keyboard](https://www.logitech.com/en-us/product/k780-multi-device-wireless-keyboard?crid=27)
