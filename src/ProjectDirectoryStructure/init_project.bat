@@ -14,7 +14,7 @@ REM Author: Kelvin D. Meeks
 REM Email: kmeeks@intltechventures.com 
 REM
 REM Created: 2019-06-28
-REM Update:  2024-04-14
+REM Update:  2024-05-06
 REM
 REM github file location
 REM https://github.com/intltechventures/Consulting.Project.Tools/blob/master/src/ProjectDirectoryStructure/init_project.bat
@@ -24,7 +24,7 @@ REM Incorporate additional ideas from:
 REM https://github.com/intltechventures/Consulting.Project.Tools/blob/master/taxonomies/ClassificationCodes.md
 REM 
 
-set version=1.5.4
+set version=1.5.5
 ECHO.
 ECHO STARTING init_project.bat, version: %version%
 ECHO Created by Kelvin D. Meeks, International Technology Ventures, Inc. 
@@ -607,6 +607,7 @@ mkdir planning\%year%
 mkdir presentations\%year%
 
 mkdir references
+mkdir references\applications
 mkdir references\DevOps
 
 mkdir references\operations
