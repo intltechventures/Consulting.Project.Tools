@@ -7,7 +7,7 @@
   + http://www.intltechventures.com
 
   + __Current Primary Laptop__ (for research & development): *May 2023*
-    * HP Envy, 64GB RAM, 2TB SSD, 12th Gen Intel(R) Core(TM) i7-1260P, 12-Core, 2.10 GHz, 2 Thunderbolt 4, WiFi 6E, BT 5.3, Windows 11 Pro
+    * HP Envy 17-cr0xxx, 64GB RAM, 2TB SSD, 12th Gen Intel(R) Core(TM) i7-1260P, 12-Core, 2.10 GHz, 2 Thunderbolt 4, WiFi 6E, BT 5.3, Windows 11 Pro
     * https://www.amazon.com/gp/product/B0BGKKF2DD/
 
   + __Previous Primary Laptop__: *April 2016, DIED January 2024*
@@ -15,11 +15,11 @@
     * Fry's Electronics purchase
 
   + __Secondary Laptop__ (for client work): *May 2024*
-    * MSI GE76 Raider Gaming Laptop, INtel Core i7-12700H (12th Gen, 14 core CPU, 2.69-4.7GHz), 64GB RAM (4800MHz, DDR5), 2TB NVMe SSD HDD, 17.3" FHD 144 Hz, NVIDIA GeForce RTX 3060, 802.11ax WiFi, Battery Pack - 4 cell (99.9Whr), Windows 11, 6.39 pounds 
+    * MSI Raider GE76 12UE, Gaming Laptop, Intel Core i7-12700H (12th Gen, 14 core CPU, 2.69-4.7GHz), 64GB RAM (4800MHz, DDR5), 2TB NVMe SSD HDD, 17.3" FHD 144 Hz, NVIDIA GeForce RTX 3060, 802.11ax WiFi, Battery Pack - 4 cell (99.9Whr), Windows 11, 6.39 pounds 
     * https://www.amazon.com/dp/B0BTHLR9RR
 
   + __Emergency Backup Laptop__: *January 2017*
-    * Lenovo Ideapad 110-15ACL, AMD A8-7410 2.2Ghz, 8GB RAM (1,600 MHz), 1TB SATA SSD, 4.8 lbs, Windows 10 Pro
+    * Lenovo Ideapad 80TJ 110-15ACL, AMD A8-7410 2.2Ghz, 8GB RAM (1,600 MHz), 1TB SATA SSD, 4.8 lbs, Windows 10 Pro
     * Fry's Electronics purchase
 
 
