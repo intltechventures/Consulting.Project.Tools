@@ -625,6 +625,7 @@ Hipster     | [Health IoT Privacy and Security Transferred to Engineering Requir
 HITRUST     | Health Information Trust Alliance
 HLD         | High-Level Design  
 HLP         | Human Level Performance (re: Machine Learning)
+HMAC        | [Hash-based Message Authentication Code](https://en.wikipedia.org/wiki/HMAC)
 HMM         | Hidden Markov Models
 HOLAP       | Hybrid OLAP
 HOT         | Heap Oriented Tuples
@@ -833,6 +834,8 @@ MBRE        | Model-Based Requirement Engineering
 MBSE        | [Model-Based Systems Engineering](https://en.wikipedia.org/wiki/Model-based_systems_engineering)
 MCAR        | Missing Completely At Random (re: data quality/completeness)
 MD          | Markdown Language 
+MD5         | [MD5 Message-Digest Algorithm](https://en.wikipedia.org/wiki/MD5)
+MD6         | [MD6 Message-Digest Algorithm](https://en.wikipedia.org/wiki/MD6)
 MDA         | Multi-Dimensional Analytical (i.e.  queries)
 MDAP        | Mobile Application Development Platform  
 MDM         | Master Data Management  
@@ -1287,6 +1290,8 @@ SFIA        | [Skills Framework for the Information Age](https://en.wikipedia.or
 SFRA        | [Storefront Reference Architecture](https://documentation.b2c.commercecloud.salesforce.com/DOC2/index.jsp?topic=%2Fcom.demandware.dochelp%2Fcontent%2Fb2c_commerce%2Ftopics%2Fsfra%2Fb2c_sfra.html) (i.e., Salesforce B2C Commerce)
 SFTP        | Secure File Transfer Protocol
 SFPF        | Senior Foreign Political Figures 
+SHA-2       | [Secure Hash Algorithm 2](https://en.wikipedia.org/wiki/SHA-2)
+SHA-3       | [Secure Hash Algorithm 3](https://en.wikipedia.org/wiki/SHA-3) - also see [NIST/FIPS 202](https://csrc.nist.gov/projects/hash-functions/sha-3-project/sha-3-standardization)
 SHAP        | [SHapley Additive exPlanations](https://shap.readthedocs.io/en/latest/#)
 SHIR        | Self-Hosted Integration Runtime
 SI          | System Integrator
