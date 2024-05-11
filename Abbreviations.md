@@ -196,6 +196,7 @@ BU          | Business Unit
 BYO         | Bring Your Own
 BYOD        | Bring Your Own Device
 **C__**     |
+C-V2X       | [Celluar-vehicle-to-everything](https://en.wikipedia.org/wiki/Cellular_V2X)
 C2          | Command and Control
 C4          | [C4 Model viewpoints: Context, Container, Component, Code](https://en.wikipedia.org/wiki/C4_model)
 C5          | Command, Control, Computers, Communications and Cyber 
@@ -1474,6 +1475,7 @@ UTF         | [Unicode Transformation Format](https://en.wikipedia.org/wiki/Unic
 UUID        | [Universal Unique Identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier) - also GUID
 UX          | User Experience
 **V__**     |
+V2X         | [Vehicle-to-Everything](https://en.wikipedia.org/wiki/Vehicle-to-everything)
 VA          | Validation Authority
 VAE         | Variational Autoencoders
 VAPT        | [Vulnerability Assessment and Penetration Testing](https://en.wikipedia.org/wiki/Vulnerability_assessment_(computing)#Vulnerability_assessment_vs_penetration_testing)
