@@ -479,7 +479,7 @@ EEA         | European Economic Area
 EFF         | [Electronic Frontier Foundation](https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation)
 EFTA        | European Free Trade Association 
 EHR         | Electronic Health Record(s)
-EIP         | [Enterprise Integration Patterns](https://en.wikipedia.org/wiki/Enterprise_Integration_Patterns), re: [[Hophe's EIP Messaging Patterns](https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html]
+EIP         | [Enterprise Integration Patterns](https://en.wikipedia.org/wiki/Enterprise_Integration_Patterns), re: [Hophe's EIP Messaging Patterns](https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html)
 EJB         | Enterprise Java Bean
 EKS         | Amazon [Amazon Elastic Kubernetes Service](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html)
 EL          | Enterprise Linux 
@@ -1180,7 +1180,7 @@ RFC         | [Request for Comments](https://en.wikipedia.org/wiki/Request_for_C
 RFE         | Recursive Feature Elimination
 RFI         | Request for Information
 RFID        | Radio Frequency Identification
-RFM         | [Recency, Frequency, Monetary Value](https://en.wikipedia.org/wiki/RFM_(market_research)
+RFM         | [Recency, Frequency, Monetary Value](https://en.wikipedia.org/wiki/RFM_(market_research))
 RFO         | Reason for Outage
 RFP         | Request for Proposal
 RFQ         | Request for Quote
@@ -1495,7 +1495,7 @@ VAS         | Value-Added Services
 VBS         | [Virtualization-based Security](https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-vbs) (i.e., introduced in [Windows 11](https://en.wikipedia.org/wiki/Windows_11))
 VC          | Venture Capital 
 vCPU        | Virtual Central Processing Unit
-VDBMS       | pVector Database Danagement System](https://en.wikipedia.org/wiki/Vector_database), aka vector data, or vector store
+VDBMS       | [Vector Database Danagement System](https://en.wikipedia.org/wiki/Vector_database), aka vector data, or vector store
 VDI         | [Virtual Desktop Infrastructure](https://en.wikipedia.org/wiki/Desktop_virtualization#Remote_desktop_virtualization)
 VEX         | [Software-Exploitability eXchange](https://ntia.gov/files/ntia/publications/vex_one-page_summary.pdf)
 VHD         | Virtual Hard Disk 
