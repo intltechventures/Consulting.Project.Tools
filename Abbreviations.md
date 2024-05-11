@@ -208,6 +208,7 @@ CaC         | Compliance as Code
 CAC         | Customer Acquisition Cost
 CAF         | Cloud Adoption Framework ([Azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/))
 CAGR        | [Compound Annual Growth Rate](https://en.wikipedia.org/wiki/Compound_annual_growth_rate) 
+CALM        | [Communications Access for Land Mobiles](https://en.wikipedia.org/wiki/Communications_Access_for_Land_Mobiles)
 CAP         | Consistency, Availability, Partition Tolerance  
 CapEx       | [Capital Expenditure](https://en.wikipedia.org/wiki/Capital_expenditure)
 CAS         | [Compare-And-Swap | Compare-And-Set](https://en.wikipedia.org/wiki/Compare-and-swap)
@@ -431,6 +432,7 @@ DSLAM       | [Digital subscriber line access multiplexer](https://en.wikipedia.
 DSML        | Data Science and Machine Learning
 DSN         | Data Source Name  
 DSPM        | Data Security Posture Management
+DSRC        | [Dedicated short-range communications](https://en.wikipedia.org/wiki/Dedicated_short-range_communications)
 DSRP        | [Distinctions, Systems, Relationships, and Perspectives](https://en.wikipedia.org/wiki/DSRP)
 DSS         | Data Security Standard
 DTAP        | Development, Test, Acceptance, Production (i.e, typical deployment environment types) 
@@ -722,6 +724,7 @@ ISAP        | Information Security Automation Program
 iSCI        | [Internet Small Computer System Interface](https://en.wikipedia.org/wiki/Information_Security_Automation_Program)
 ISDN        | [Integrated Services Digital Network](https://en.wikipedia.org/wiki/Integrated_Services_Digital_Network)
 ISG         | Industry Specification Group
+ISM         | Industrial, Scientific and Medical
 ISM         | [Information Security Management](https://en.wikipedia.org/wiki/Information_security_management)
 ISMS        | [Information Security Management System](https://en.wikipedia.org/wiki/Information_security_management)
 ISO         | [International Standards Organization](https://en.wikipedia.org/wiki/International_Organization_for_Standardization)
@@ -737,7 +740,9 @@ ITAM        | IT Asset Management
 ITAR		| International Traffic in Arms Regulations
 ITIL        | [Information Technology Infrastructure Library](https://en.wikipedia.org/wiki/ITIL)
 ITIRB       | Information Technology Investment Review Board
+ITS         | [Intelligent Transportation System](https://en.wikipedia.org/wiki/Intelligent_transportation_system)
 ITSM        | Information Technlogy Service Management
+ITU         | [International Telecommunication Union](https://en.wikipedia.org/wiki/International_Telecommunication_Union)
 IX          | Internet Exchange
 IXPs        | [Internet exchange points](https://en.wikipedia.org/wiki/Internet_exchange_point)
 **J__**     | 
@@ -1475,6 +1480,12 @@ UTF         | [Unicode Transformation Format](https://en.wikipedia.org/wiki/Unic
 UUID        | [Universal Unique Identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier) - also GUID
 UX          | User Experience
 **V__**     |
+V2B         | Vehicle-to-Building
+V2C         | Vehcile-to-Cloud
+V2D         | [Vehicle-to-Device](https://en.wikipedia.org/wiki/Vehicle-to-device)
+V2G         | [Vehicle-to-Grid](https://en.wikipedia.org/wiki/Vehicle-to-grid)
+V2I         | [Vehicle-to-Infrastructure](https://en.wikipedia.org/wiki/Vehicle_infrastructure_integration)
+V2V         | [Vehicle ad hock netowrk, or vehicle-to-vehicle](https://en.wikipedia.org/wiki/Vehicular_ad_hoc_network)
 V2X         | [Vehicle-to-Everything](https://en.wikipedia.org/wiki/Vehicle-to-everything)
 VA          | Validation Authority
 VAE         | Variational Autoencoders
@@ -1490,6 +1501,7 @@ VEX         | [Software-Exploitability eXchange](https://ntia.gov/files/ntia/pub
 VHD         | Virtual Hard Disk 
 VIF ???     | Virtual Network InterFace
 VIF         | Variance Inflation Factor
+VII         | [ehicle Infrasture Integration](https://en.wikipedia.org/wiki/Vehicle_infrastructure_integration)
 VIP         | Virtual IP address
 VISP        | [Virtual ISP](https://en.wikipedia.org/wiki/Virtual_ISP)
 VLAN        | Virtual Local Area Network 
