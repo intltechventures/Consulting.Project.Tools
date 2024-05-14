@@ -473,7 +473,7 @@ EDA         | Exploratory Data Analysis
 EDI         | Electronic Data Interchange
 EDIFECT     | [Electronic Data Interchange for Administration, Commerce and Transport](https://en.wikipedia.org/wiki/EDIFACT)
 EDMC        | [Enterprise Data Management Council](https://edmcouncil.org/)
-EDR         | endpoint detection & response (i.e., cybersecurity security software)
+EDR         | Endpoint Detection and Response (i.e., cybersecurity security software)
 EDW         | Enterprise Data Warehouse (also see DW, DWH)
 EEA         | European Economic Area
 EFF         | [Electronic Frontier Foundation](https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation)
@@ -934,6 +934,7 @@ ND          | Neighbor Discovery
 NDA         | Non-Disclosure Agreement
 NDCG        | Normalized Discounted Cumulative Gain 
 NDP         | [Neighbor Discovery Protocol](https://en.wikipedia.org/wiki/Neighbor_Discovery_Protocol)
+NDR         | Network Detection and Response
 NER         | Named Entity Recognition, re: ML
 NeRF        | Neural Radiance Fields (re: Deep Learning, optimizing continuous volumetric scene function)
 NISQ        | Noisy Intermediate-Scale Quantum
@@ -1466,6 +1467,7 @@ UDN         | [Unbounded Depth Neural Network](https://www.marktechpost.com/2022
 UDP         | [User Datagram Protocol](https://en.wikipedia.org/wiki/User_Datagram_Protocol)
 UDR         | User-Defined Routes 
 UDS         | [Unix Domain Socket](https://en.wikipedia.org/wiki/Unix_domain_socket)
+UEBA        | [User and Entity Behavior Analytics](https://en.wikipedia.org/wiki/User_behavior_analytics#Distinction_between_UBA_and_UEBA)
 UEFI        | [Unified Extensible Firmware Interface](https://en.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface)
 UGC         | User Generated Content 
 UI          | User Interface  
@@ -1563,7 +1565,7 @@ WSJF        | Weighted Shortest Job First (re: Scaled Agile Framework, SAFe)
 WWW         | [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web)
 **X__**     |
 XA          | EXtended Architecture
-XDR         | Extended Detection and Response
+XDR         | [Extended Detection and Response](https://en.wikipedia.org/wiki/Extended_detection_and_response)
 XID         | Transaction Identifier
 XML         | [Extensible Markup Language](https://en.wikipedia.org/wiki/XML)
 XNS         | [Xerox Network Systems](https://en.wikipedia.org/wiki/Xerox_Network_Systems)
