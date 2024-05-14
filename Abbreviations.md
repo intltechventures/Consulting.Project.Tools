@@ -1549,6 +1549,7 @@ WD          | Working Draft
 WDM         | [Windows Driver Model](https://en.wikipedia.org/wiki/Windows_Driver_Model)    
 WFM         | Windows Filtering Platform
 Wi-Fi       | Wireless Fidelity
+WLIF        | [Workload Identity Federation](https://cloud.google.com/iam/docs/workload-identity-federation)
 WIP         | Work in Progress
 WISP        | [Wireless Internet service provider](https://en.wikipedia.org/wiki/Wireless_Internet_service_provider)
 WLM         | Work Lifecycle Management
