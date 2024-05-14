@@ -301,7 +301,7 @@ COI         | Community of Interest
 COOP        | Continuity of Operations 
 CoP         | Community of Practice 
 CORBA       | [Common Object Request Broker Architecture](https://en.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture)
-CORS        | Cross-Origin Resource Sharing
+CORS        | [Cross-Origin Resource Sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
 COSS        | Commercial Open Source Software 
 COTS        | Commercial Off-The-Shelf
 CPC         | Cost Per Click
@@ -647,7 +647,7 @@ HW          | Hardware
 IA          | Information Assurance
 IA          | Internal Audit
 IaaS        | Infrastructure as a Service  
-IaC         | Infrastructure as Code
+IaC         | [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_code)
 IAM         | [Identity and Access Management](https://en.wikipedia.org/wiki/Identity_management)
 IANA        | [Internet Assigned Numbers Authority](https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority)
 IAS         | International Accounting Standard
@@ -672,7 +672,7 @@ IDL         | [Interface Description Language](https://en.wikipedia.org/wiki/Int
 IdM         | Identity Management, also see IAM
 IdP         | Identity Provider
 IDP         | Individual Development Plan 
-IDP         | [Internal Developer Platform](https://internaldeveloperplatform.org/)
+IDP         | [Internal Developer Platform](https://internaldeveloperplatform.org/) (or Portal)
 IDS         | [Intrusion Detection System](https://en.wikipedia.org/wiki/Intrusion_detection_system)
 IE          | Information Extraction, re: NER, DL, ML, NLP
 IEC         | [International Electrotechnical Commission](https://en.wikipedia.org/wiki/International_Electrotechnical_Commission)
@@ -1062,6 +1062,7 @@ PI          | Program Increment (re: Scaled Agile Framework, SAFe)
 PIA         | Privacy Impact Assessment
 PII			| Personally Identifiable Information
 PIN         | Personal Identification Number 
+PIP         | [Performance Improvement Plan](https://en.wikipedia.org/wiki/Performance_improvement)
 PIR         | Post Incident Review
 PIT         | Platform Information Technology
 PITR        | Point In Time Recovery
