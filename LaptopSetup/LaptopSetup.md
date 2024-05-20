@@ -454,6 +454,7 @@ __These are the primary software programs that I typically have installed on my 
 - [Eclipse](http://www.eclipse.org)
   + [See the plugins that I usually install](https://github.com/intltechventures/EclipseNotes/blob/master/README.md)
 
+
 - [Android Studio / SDK](http://developer.android.com/sdk/index.html)
 
 
@@ -468,6 +469,7 @@ __These are the primary software programs that I typically have installed on my 
 - Possible Alternatives:
   * https://balsamiq.com
     * https://balsamiq.com/wireframes/
+
   * https://www.mockflow.com/
 
 
@@ -715,21 +717,37 @@ __These are the primary software programs that I typically have installed on my 
 
 ## Deployment / Cloud / Kubernetes / Container / VM Tools
 
+- Windows Subystem for Linux, WSL
+  + https://learn.microsoft.com/en-us/windows/wsl/install
+  + https://techcommunity.microsoft.com/t5/windows-11/how-to-install-the-linux-windows-subsystem-in-windows-11/m-p/2701207/page/3
+
+
 - [minikube](https://minikube.sigs.k8s.io/docs/)
   + https://github.com/kubernetes/minikube
 
+
 - [AWS Command Line Interface (CLI)](https://aws.amazon.com/cli/)
+
+
+- Azure Command Line Interface (CLI)
+
+
+- GCP Command Line Interface (CLI) 
+
 
 - [Ansible](https://www.ansible.com/)
 
+
 - [Vagrant](https://www.vagrantup.com)
   + https://github.com/hashicorp/vagrant
+
 
 - [Docker](https://www.docker.com/)
   + [Docker Community Edition](https://store.docker.com/editions/community/docker-ce-desktop-windows)
   + [Docker Hub](https://hub.docker.com/)
   + Enable Microsoft Windows WSL:
     * ```Enable-WindowsOptionalFeature -Online -FeatureName $("VirtualMachinePlatform", "Microsoft-Windows-Subsystem-Linux")```
+
 
 - Container/VM OS Options:
 
