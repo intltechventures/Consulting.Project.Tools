@@ -345,6 +345,8 @@ __These are the primary software programs that I typically have installed on my 
       * rust-analyzer
       * This extension provides support for the Rust programming language. It is recommended over and replaces rust-lang.rust.
 
+    * https://marketplace.visualstudio.com/items?itemName=golang.go
+      * Go for Visual Studio Code
 
     * https://marketplace.visualstudio.com/items?itemName=YoshinoriN.current-file-path
       * display current file's path from absolute (root directory) or workspace highest directory in StatusBar by Unix style or Windows style.
@@ -1184,7 +1186,6 @@ __These are the primary software programs that I typically have installed on my 
 - Mozilla Firefox
 - Google Chrome 
 
-
 - Microsoft Word
 - Microsoft Excel 
 - Microsoft PowerPoint 
@@ -1194,7 +1195,6 @@ __These are the primary software programs that I typically have installed on my 
 - Eclipse
 - Visual Studio Code
 - Visual Studio 2022 
-
 
 - Office Calc
 - LibreOffice Writer
