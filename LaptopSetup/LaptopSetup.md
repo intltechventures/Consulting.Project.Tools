@@ -333,12 +333,19 @@ __These are the primary software programs that I typically have installed on my 
 - [Visual Studio Code](https://code.visualstudio.com/)
   + Disable these configuration settings
     * ```telemetry.enableTelemetry```
+
   + Suggested: Disable Program Data Package Cache
     * https://www.quora.com/Can-I-delete-the-folder-C-ProgramData-Package-Cache
       * Disable: ```"%ProgramFiles(x86)%\Microsoft Visual Studio\Installer\vs_installer.exe" --nocache```
       * Enable: ```"%ProgramFiles(x86)%\Microsoft Visual Studio\Installer\vs_installer.exe" repair --passive --norestart --cache```
 
   + Marketplace Extensions:
+
+    * https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer
+      * rust-analyzer
+      * This extension provides support for the Rust programming language. It is recommended over and replaces rust-lang.rust.
+
+
     * https://marketplace.visualstudio.com/items?itemName=YoshinoriN.current-file-path
       * display current file's path from absolute (root directory) or workspace highest directory in StatusBar by Unix style or Windows style.
 
@@ -396,7 +403,22 @@ __These are the primary software programs that I typically have installed on my 
     * https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit
       * C# Dev Kit
 
-    * TODO: Research other VS Plugins/Extensions: 
+    * https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl
+      * Visual Studio Code WSL
+      * https://code.visualstudio.com/docs/remote/wsl
+      * https://learn.microsoft.com/en-us/windows/wsl/
+
+
+    * https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
+      * Visual Studio Code Dev Containers
+      * Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.
+
+    * https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack
+      * Visual Studio Code Remote Development Extension Pack
+      * https://github.com/Microsoft/vscode-remote-release
+
+
+    * ```TODO: Research other VS Plugins/Extensions:```
       * Source ideas: 
         * https://twitter.com/laurieontech/status/1582738189948633095
 
@@ -1143,56 +1165,52 @@ __These are the primary software programs that I typically have installed on my 
   + https://en.wikipedia.org/wiki/SolidWorks
 
 
-# Task Bar entries (updated: 2023-09-23)
-1. Thunderbird email
+# Task Bar entries (updated: 2024-05-25)
+- Windows Settings
 
-2. Notepad++
-3. Microsoft Windows Calculator
+- Thunderbird email
+- Notepad++
+- Microsoft Windows Calculator
+- Snip & Sketch
+  * Snagit (optional)
 
-4. Snip & Sketch
-5. Snagit 
+- File Explorer 
+- Git Bash
+- Command Prompt 
+- Windows PowerShell 
+
+- Alarms & Clocks
+
+- Mozilla Firefox
+- Google Chrome 
 
 
-6. Office Calc
-7. LibreOffice Draw
-8. LibreOffice Writer
+- Microsoft Word
+- Microsoft Excel 
+- Microsoft PowerPoint 
+- Microsoft Teams
 
-9. File Explorer 
+- Sparx Enterprise Architect 
+- Eclipse
+- Visual Studio Code
+- Visual Studio 2022 
 
-10. Command Prompt 
-11. Git Bash
-12. Windows PowerShell 
 
-13. Alarms & Clocks
+- Office Calc
+- LibreOffice Writer
+- LibreOffice Draw
 
-14. Sparx Enterprise Architect 
-15. Eclipse
-16. Visual Studio Code 
-17. Visual Studio 2022 
+- TrueCrypt
+- Macrium Reflect 
+- Kindle 
+- VLC Media Player 
 
-18. Mozilla Firefox
-19. Google Chrome 
-20. Microsoft Edge 
+- Windows Resource Monitor
+- Windows Control Panel 
+- Windows Computer Management
+- Windows Advanced System Setup 
+- Windows Event Viewer 
+- Windows Tools 
+- Windows System Configuration
 
-21. Word
-22. Excel 
-23. PowerPoint 
-
-24. iTunes
-25. Kindle 
-
-26. Control Panel 
-27. Event Viewer 
-28. System Configuration
-29. Settings 
-
-30. Dragon Gaming Center
-
-31. 7-Zip File Manager
-32. FileZilla 
-
-33. VLC media player 
-
-34. TrueCrypt
-36. Macrium Reflect
-37. ExpressVPN
+- ExpressVPN
