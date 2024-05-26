@@ -538,6 +538,7 @@ FCP         | [First Contentful Paint](https://web.dev/fcp/)
 FDDI        | [Fiber Distributed Data Interface](https://en.wikipedia.org/wiki/Fiber_Distributed_Data_Interface)
 FDL         | (GNU) Free Documentation License
 FedRAMP     | Federal Risk Authorization Management Program
+FFT         | Full Fine-Tuning
 FHE         | Fully [Homomorphic Encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption) (e.g., [IBM](https://www.ibm.com/security/services/homomorphic-encryption_))
 FIBO        | [Financial Industry Business Ontology](https://spec.edmcouncil.org/fibo/)
 FIDO        | [Fast IDentity Online (FIDO)](https://en.wikipedia.org/wiki/FIDO_Alliance)
@@ -1140,6 +1141,7 @@ QMT         | Quality Monitoring Team
 QNN         | Quanvolutional Neural Network
 QoE         | [Quality of experience](https://en.wikipedia.org/wiki/Quality_of_experience)
 QoS         | [Quality of Service](https://en.wikipedia.org/wiki/Quality_of_service)
+QRE         | Quantum Resource Estimation
 QSA         | Qualified Security Assessor
 QPS         | Queries Per Second
 QSM         | Quantitative Software Management 
