@@ -98,6 +98,7 @@ APM         | Application Performance Monitoring
 APNIC       | Asia Pacific Network Information Centre
 APNS        | [Apple Push Notification service](https://en.wikipedia.org/wiki/Apple_Push_Notification_service)
 APO         | Automatic Prompt Optimization
+APT         | Advanced Persistent Threat
 AP@N        | Average Precision
 ARB         | Architecture Review Board (aka ARC)
 ARC         | Architecture Review Committee, or Council (aka ARB)
@@ -154,6 +155,7 @@ BDR         | Business Development Resources
 BDR         | Business Development Representative 
 BDS `       | Boot Device Selection
 BDUF        | Big Design Up Front
+BEC         | Business Email Compromise 
 BEC         | Business Executive Committee 
 BFT         | Byzantine Fault Tolerant
 BFO         | [Basic Formal Ontology](https://basic-formal-ontology.org/)
@@ -279,6 +281,7 @@ CISA        | Certified Information Systems Auditor
 CISA        | [Cybersecurity and Infrastructure Security Agency](https://www.cisa.gov/cybersecurity-division)
 CISC        | [Complex Instruction Set Computer](https://en.wikipedia.org/wiki/Complex_instruction_set_computer)
 CISM        | Certified Information Security Manager
+CISO        | Chief Information Security Officer
 CISSP       | [Certified Information Systems Security Professionals](https://www.isc2.org/Certifications/CISSP-Concentrations)
 CL          | [Change List](https://en.wikipedia.org/wiki/Version_control)
 CLI         | Command Line Interface
@@ -340,6 +343,7 @@ CSRF        | Cross-Site Request Forgery
 CSS         | [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 CTB         | Change The Business
 CTE         | Commono Table Expressions (re: SQL)
+CTI         | Cyber Threat Intelligence
 CTO         | Chief Technology Officer  
 CUI	   		| Controlled Unclassified Information (CUI), as defined by Executive Order 13556 (2010)
 CUSO        | Combined U.S. Operations
@@ -708,6 +712,7 @@ IPv4        | [Internet Protocol version 4](https://en.wikipedia.org/wiki/IPv4)
 IPv6        | [Internet Protocol version 6](https://en.wikipedia.org/wiki/IPv6)
 IPW         | Inverse Probability Weighting
 IPX         | [Internetwork Packet Exchange](https://en.wikipedia.org/wiki/Internetwork_Packet_Exchange)
+IR          | Incident Response 
 IR          | Information Retrieval 
 IR35        | [Off-payroll working rules for clients, workers (contractors) and their intermediaries (UK)](https://www.gov.uk/guidance/understanding-off-payroll-working-ir35)
 IRM         | Incident Response Management
@@ -847,6 +852,7 @@ MDA         | Multi-Dimensional Analytical (i.e.  queries)
 MDAP        | Mobile Application Development Platform  
 MDM         | Master Data Management  
 MDM         | Mobile Device Management  
+MDR         | Managed Detection and Response 
 MDR         | Marketing Development Representative
 MDS         | Master Data Service
 MDSL        | [Microservice-Domain Specific Language](https://microservice-api-patterns.github.io/MDSL-Specification/)
@@ -899,6 +905,7 @@ MSK         | AWS [Managed Streaming for Apache Kafka](https://aws.amazon.com/ms
 MSPF        | Mobility Service Platform
 MSP         | [Managed Service Provider](https://en.wikipedia.org/wiki/Managed_services)
 MSRC        | Microsoft Security Response Center team
+MSSP        | Managed Security Service Provider 
 MSTC        | Microsoft Threat Intelligence Center
 MTD         | Maximum Tolerable Downtime
 MTDL        | Maximum Tolerable Data Loss
@@ -1013,6 +1020,7 @@ ORC         | Operational Risk Committee
 OSF         | [Open Software Foundation](https://en.wikipedia.org/wiki/Open_Software_Foundation)
 OSFI        | Canadanian version of OFAC
 OSI         | [Open Systems Interconnection](https://en.wikipedia.org/wiki/OSI_model) model 
+OSINT       | Open-Source Intelligence 
 OSQI        | [Open Source Quality Institutes](https://www.tbray.org/ongoing/When/202x/2024/04/01/OSQI) - an idea by Tim Bray
 OSSF        | [Open Source Security Foundation](https://openssf.org/)
 OTC         | Order-to-Cash
