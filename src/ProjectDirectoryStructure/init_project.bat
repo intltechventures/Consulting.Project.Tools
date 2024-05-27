@@ -14,7 +14,7 @@ REM Author: Kelvin D. Meeks
 REM Email: kmeeks@intltechventures.com 
 REM
 REM Created: 2019-06-28
-REM Update:  2024-05-06
+REM Update:  2024-05-27
 REM
 REM github file location
 REM https://github.com/intltechventures/Consulting.Project.Tools/blob/master/src/ProjectDirectoryStructure/init_project.bat
@@ -24,7 +24,7 @@ REM Incorporate additional ideas from:
 REM https://github.com/intltechventures/Consulting.Project.Tools/blob/master/taxonomies/ClassificationCodes.md
 REM 
 
-set version=1.5.5
+set version=1.5.6
 ECHO.
 ECHO STARTING init_project.bat, version: %version%
 ECHO Created by Kelvin D. Meeks, International Technology Ventures, Inc. 
@@ -353,8 +353,24 @@ ECHO Preparing architecture\ directory entries...
 
 mkdir architecture
 
+mkdir architecture\business
+mkdir architecture\business\capabilities
+mkdir architecture\business\processes
+
+
+mkdir architecture\data
+mkdir architecture\data\catalog
+mkdir architecture\data\conceptual
+mkdir architecture\data\flows
+mkdir architecture\data\logical
+mkdir architecture\data\phyiscal
+
+
 mkdir architecture\EA\analysis\SWOT 
 
+
+mkdir architecture\EA\APM
+mkdir architecture\EA\APM\BU
 mkdir architecture\EA\APM\BU\XYZ\%year%
 mkdir architecture\EA\APM\BU\XYZ\%year%\inventory
 mkdir architecture\EA\APM\BU\XYZ\%year%\roadmap
@@ -365,6 +381,7 @@ mkdir architecture\EA\APM\BU\XYZ\%year%\assessment\TIME\invest
 mkdir architecture\EA\APM\BU\XYZ\%year%\assessment\TIME\migrate
 mkdir architecture\EA\APM\BU\XYZ\%year%\assessment\TIME\eliminate
 
+
 mkdir architecture\EA\assessments\%year%
 mkdir architecture\EA\assessments\%year%\maturity
 mkdir architecture\EA\assessments\%year%\report 
@@ -374,64 +391,78 @@ mkdir architecture\EA\assessments\%year%\TIME\invest
 mkdir architecture\EA\assessments\%year%\TIME\migrate
 mkdir architecture\EA\assessments\%year%\TIME\eliminate
 
+
 mkdir architecture\EA\documentation
 
+
+
+mkdir architecture\EA\governance
 mkdir architecture\EA\governance\APIs\meetings\%year%\%month%
 mkdir architecture\EA\governance\APIs\members\%year%
 mkdir architecture\EA\governance\APIs\process
 mkdir architecture\EA\governance\APIs\schedule\%year%
+
 
 mkdir architecture\EA\governance\ARB\meetings\%year%\%month%
 mkdir architecture\EA\governance\ARB\members\%year%
 mkdir architecture\EA\governance\ARB\process
 mkdir architecture\EA\governance\ARB\schedule\%year%
 
+
 mkdir architecture\EA\governance\Data\meetings\%year%\%month%
 mkdir architecture\EA\governance\Data\members\%year%
 mkdir architecture\EA\governance\Data\process
 mkdir architecture\EA\governance\Data\schedule\%year%
 
+
 mkdir architecture\EA\governance\policies
-
 mkdir architecture\EA\governance\principles
-
 mkdir architecture\EA\governance\procedures
+
 
 mkdir architecture\EA\governance\Repository\meetings\%year%\%month%
 mkdir architecture\EA\governance\Repository\members\%year%
 mkdir architecture\EA\governance\Repository\process
 mkdir architecture\EA\governance\Repository\schedule\%year%
 
+
 mkdir architecture\EA\governance\Security\meetings\%year%\%month%
 mkdir architecture\EA\governance\Security\members\%year%
 mkdir architecture\EA\governance\Security\process
 mkdir architecture\EA\governance\Secureity\schedule\%year%
 
+
 mkdir architecture\EA\governance\specifications
+
 
 mkdir architecture\EA\governance\standards
 
+
+mkdir architecture\EA\governance\TGB
 mkdir architecture\EA\governance\TGB\meetings\%year%\%month%
 mkdir architecture\EA\governance\TGB\members\%year%
 mkdir architecture\EA\governance\TGB\process
 mkdir architecture\EA\governance\TGB\schedule\%year%
 
+
+mkdir architecture\EA\governance\TRM
 mkdir architecture\EA\governance\TRM\meetings\%year%\%month%
 mkdir architecture\EA\governance\TRM\members\%year%
 mkdir architecture\EA\governance\TRM\process
 mkdir architecture\EA\governance\TRM\schedule\%year%
 
+
 mkdir architecture\EA\roadmap\%year%
 mkdir architecture\EA\roadmap\%year%\AS-IS
 mkdir architecture\EA\roadmap\%year%\TO-BE
 
+
 mkdir architecture\EA\seminars\%year%\%month%
+
 
 mkdir architecture\EA\views
 mkdir architecture\EA\views\conceptual
 mkdir architecture\EA\views\endpoints
-mkdir architecture\EA\views\data
-mkdir architecture\EA\views\data_flows
 mkdir architecture\EA\views\infrastructure
 mkdir architecture\EA\views\processes
 mkdir architecture\EA\views\security
@@ -443,6 +474,7 @@ mkdir architecture\EA\views\security\AD
 mkdir architecture\EA\views\security\Monitoring
 mkdir architecture\EA\views\security\Monitoring\Intrusion
 mkdir architecture\EA\views\security\Monitoring\Traffic
+
 
 mkdir architecture\infrastructure
 mkdir architecture\infrastructure\overview
@@ -460,19 +492,14 @@ mkdir architecture\infrastructure\environments\99_PROD
 
 
 mkdir architecture\references
-
 mkdir architecture\references\OSS
+
 
 mkdir architecture\references\shared_services
 mkdir architecture\references\shared_services\alerting
 mkdir architecture\references\shared_services\ETL
 mkdir architecture\references\shared_services\events
-mkdir architecture\references\shared_services\IAM
-mkdir architecture\references\shared_services\IAM\AD
-mkdir architecture\references\shared_services\IAM\AuthN
-mkdir architecture\references\shared_services\IAM\AuthZ
-mkdir architecture\references\shared_services\IAM\RBAC
-mkdir architecture\references\shared_services\IAM\SSO
+
 mkdir architecture\references\shared_services\low_code
 mkdir architecture\references\shared_services\messaging
 mkdir architecture\references\shared_services\MFT
@@ -484,21 +511,36 @@ mkdir architecture\references\shared_services\SMS
 mkdir architecture\references\shared_services\streaming
 mkdir architecture\references\shared_services\workflow
 
+
 mkdir architecture\security
 mkdir architecture\security\Certifications
 mkdir architecture\security\Certifications\HIPAA
 mkdir architecture\security\Certifications\HITRUST
 mkdir architecture\security\Certifications\PCI-DSS
 mkdir architecture\security\Certifications\SOC2
+mkdir architecture\security\DLP
 mkdir architecture\security\DMZ
+mkdir architecture\security\EDR
+
 mkdir architecture\security\IAM
+mkdir architecture\security\IAM\AD
+mkdir architecture\security\IAM\AuthN
+mkdir architecture\security\IAM\AuthZ
+mkdir architecture\security\IAM\RBAC
+mkdir architecture\security\IAM\SSO
+mkdir architecture\security\IAM\SSO\OAuth2
+
+mkdir architecture\security\IR
 mkdir architecture\security\Monitoring
 mkdir architecture\security\Monitoring\Egress
 mkdir architecture\security\Monitoring\Ingress
 mkdir architecture\security\Scanning
 mkdir architecture\security\Scanning\Code
 mkdir architecture\security\Scanning\Devices
+mkdir architecture\security\SIEM
+mkdir architecture\security\SOC
 mkdir architecture\security\WAF
+mkdir architecture\security\ZT
 
 
 REM 
