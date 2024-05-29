@@ -4,7 +4,7 @@
 
 - https://intltechventures.blogspot.com/2018/06/2018-06-20-wednesday-some-reading-on.html
 
-
+- - The following is intended to provide a place for me to capture my own evolving thoughts on what an ADR might look like.
 
 
 ## A Proposed Tempalte:
