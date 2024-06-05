@@ -878,6 +878,7 @@ ML          | Machine Learning
 MLE         | [Maximum Likelihood Estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
 MLP         | Minimum Lovable Product
 MLP         | [Multi-Layer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
+MLS         | [Messaging Layer Security (RFC 9420)](https://datatracker.ietf.org/doc/rfc9420/)
 MMS         | Massively Multilingual Speech
 MNAR        | Missing Not At Random (re: data quality/completeness)
 MOA         | Memorandum of Agreement
