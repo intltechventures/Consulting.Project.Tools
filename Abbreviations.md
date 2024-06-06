@@ -1539,7 +1539,7 @@ VSM         | [Value Stream Management](https://www.forbes.com/sites/forbestechc
 VSMP        | [Value Stream Management Platform](https://www.gartner.com/reviews/market/value-stream-management-platforms)
 VSOC        | Virtual Security Operations Center
 VTOC        | [Volume Table of Contents](https://en.wikipedia.org/wiki/Volume_Table_of_Contents), re: IBM
-VUCA        | [Volatility, Uncertainty, Complexity, Ambiguity](https://en.wikipedia.org/wiki/VUCAhttps://en.wikipedia.org/wiki/VUCA) (origin: The U.S. Army War College, [Wikipedia](https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity))
+VUCA        | [Volatility, Uncertainty, Complexity, Ambiguity](https://en.wikipedia.org/wiki/VUCA) - origin: The U.S. Army War College
 VXLAN       | Virtual Extensible LAN
 **W__**     |
 W3          | World Wide Web (i.e. WWW)
