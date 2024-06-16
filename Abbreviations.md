@@ -348,6 +348,7 @@ CTO         | Chief Technology Officer
 CUI	   		| Controlled Unclassified Information (CUI), as defined by Executive Order 13556 (2010)
 CUSO        | Combined U.S. Operations
 CV          | Cross-Validation
+CVD         | Coordinated Vulnerability Disclosure
 CVE         | [Critical Vulnerabilities and Exposures](https://www.cve.org/)
 CVS         | Concurrent Version System
 CWE         | [Critical Weakness Enumeration](https://cwe.mitre.org/) (also see: [Wikipedia](https://en.wikipedia.org/wiki/Common_Weakness_Enumeration)
@@ -905,7 +906,7 @@ MSE         | Mean Squared Error
 MSK         | AWS [Managed Streaming for Apache Kafka](https://aws.amazon.com/msk/)
 MSPF        | Mobility Service Platform
 MSP         | [Managed Service Provider](https://en.wikipedia.org/wiki/Managed_services)
-MSRC        | Microsoft Security Response Center team
+MSRC        | [Microsoft Security Response Center](https://msrc.microsoft.com/)
 MSSP        | Managed Security Service Provider 
 MSTC        | Microsoft Threat Intelligence Center
 MTD         | Maximum Tolerable Downtime
