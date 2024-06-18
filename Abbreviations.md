@@ -862,6 +862,7 @@ MEAN        | MongoDB, Express.js, Angular.js, Node.js
 MEAP        | Mobile Enterprise Application Platform  
 MECE        | [Mutually Exclusive, Collectivelivey Exhaustive](https://en.wikipedia.org/wiki/MECE_principle) Principle
 MED         | Management of External Data
+MEI         | Merit, Excellence, and Intelligence
 MERN        | MongoDB, Express.js, React.js, Node.js
 MFA         | Micro Frontend Architecture 
 MFA         | Multi-Factor Authentication
