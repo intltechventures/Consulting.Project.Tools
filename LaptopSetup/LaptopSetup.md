@@ -823,6 +823,7 @@ __These are the primary software programs that I typically have installed on my 
 - Microsoft Word
 
 - Microsoft Excel
+  + https://support.microsoft.com/en-us/office/load-the-analysis-toolpak-in-excel-6a63e598-cd6d-42e3-9317-6b40ba1a66b4
   + Enable optional default plugins:
     * ![](images/Excel-Add-Ins.jpg)     
 
