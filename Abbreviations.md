@@ -948,6 +948,7 @@ NDP         | [Neighbor Discovery Protocol](https://en.wikipedia.org/wiki/Neighb
 NDR         | Network Detection and Response
 NER         | Named Entity Recognition, re: ML
 NeRF        | Neural Radiance Fields (re: Deep Learning, optimizing continuous volumetric scene function)
+NIDS        | [Network-based Intrusion Detection System](https://en.wikipedia.org/wiki/Intrusion_detection_system)
 NISQ        | Noisy Intermediate-Scale Quantum
 NIST        | National Institute of Standards and Technology
 NFS         | Network File System 
