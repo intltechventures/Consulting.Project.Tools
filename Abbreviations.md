@@ -110,6 +110,7 @@ ARM         | [Azure Resource Manager](https://learn.microsoft.com/en-us/azure/a
 ARN         | [Amazon Resource Name](https://docs.aws.amazon.com/general/latest/gr/aws-arns-and-namespaces.html)
 ARP         | Address Resolution Protocol
 ARPA        | Average Revenue Per Account
+ARPU        | Average Revenue Per User 
 ARR         | Annual Recurring Revenue 
 ART         | [Agile Release Train](https://scaledagileframework.com/agile-release-train/) (re: Scaled Agile Framework, SAFe)
 AS          | Authoritative Source
@@ -313,6 +314,7 @@ CPL         | Cost Per Lead
 CPM         | Capability Portfolio Management 
 CPU         | [entral Processing Unit](https://en.wikipedia.org/wiki/Central_processing_unit)
 CQRS        | Command Query Responsibility Segregation  
+CR          | Conversion Rate
 CRC         | Class Responsibility Collaboration (i.e., usually captured in a form known as "[cards](http://agilemodeling.com/artifacts/crcModel.htm)", see original [OOPSLA 1989 paper](http://c2.com/doc/oopsla89/paper.html))
 CRCQs       | Cryptanalytically-Relevant Quantum Computers 
 CRD         | Custom Resource Definitions (e.g., Kubernetes)
@@ -344,7 +346,8 @@ CSS         | [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_S
 CTB         | Change The Business
 CTE         | Commono Table Expressions (re: SQL)
 CTI         | Cyber Threat Intelligence
-CTO         | Chief Technology Officer  
+CTO         | Chief Technology Officer 
+CTR         | Click-Through-Rate
 CUI	   		| Controlled Unclassified Information (CUI), as defined by Executive Order 13556 (2010)
 CUSO        | Combined U.S. Operations
 CV          | Cross-Validation
@@ -819,6 +822,7 @@ LSE         | Large Scale Event
 LSM         | [Log-Structured Merge-Tree](https://en.wikipedia.org/wiki/Log-structured_merge-tree)
 LSTM        | Long Short-Term Memory
 LTV         | Lifetime Value
+LTV         | [Loan-to-Value](https://www.investopedia.com/terms/l/loantovalue.asp)
 LU          | Logical Unit  
 LVM         | Logical Volume Manager
 L2TP        | [Layer 2 Tunneling Protocol](https://en.wikipedia.org/wiki/Layer_2_Tunneling_Protocol)
@@ -1440,6 +1444,7 @@ TDD         | [Test-Driven Development](https://en.wikipedia.org/wiki/Test-drive
 TFI         | [Office of Terrorism and Financial Intelligence](https://en.wikipedia.org/wiki/Office_of_Terrorism_and_Financial_Intelligence)
 TFP         | [Total Factor Productivity](https://en.wikipedia.org/wiki/Total_factor_productivity)
 TGB         | Technology Governance Board
+THIRA       | [Threat and Hazard Identification and Risk Assessment](https://www.fema.gov/emergency-managers/national-preparedness/goal/risk-capability-assessment)
 TIME        | [Tolerate. Invest. Migrate. Eliminate.](https://www.gartner.com/en/documents/3905663) (re: Gartner categorization)
 TLA         | Three Letter Acronym
 TLS         | [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security)
