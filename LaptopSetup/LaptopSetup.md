@@ -6,58 +6,80 @@
   + https://www.linkedin.com/in/kelvinmeeks/
   + http://www.intltechventures.com
 
-  + __Current Primary Laptop__ (for research & development): *May 2023*
-    * HP Envy 17-cr0xxx, 64GB RAM, 2TB SSD, 12th Gen Intel(R) Core(TM) i7-1260P, 12-Core, 2.10 GHz, 2 Thunderbolt 4, WiFi 6E, BT 5.3, Windows 11 Pro
-    * https://www.amazon.com/gp/product/B0BGKKF2DD/
+## Hardware
 
-  + __Previous Primary Laptop__: *April 2016, DIED January 2024*
-    * MSI GT72 6QE, Intel® Core™ i7-6700HQ, 24GB RAM (DDR4 2133MHz), two SSD drvies (1TB M.2 SATA SSD, 1TB SATA SSD), 8.4 lbs, Windows 10 Pro
-    * Fry's Electronics purchase
+### Computers 
 
-  + __Secondary Laptop__ (for client work): *May 2024*
-    * MSI Raider GE76 12UE, Gaming Laptop, Intel Core i7-12700H (12th Gen, 14 core CPU, 2.69-4.7GHz), 64GB RAM (4800MHz, DDR5), 2TB NVMe SSD HDD, 17.3" FHD 144 Hz, NVIDIA GeForce RTX 3060, 802.11ax WiFi, Battery Pack - 4 cell (99.9Whr), Windows 11, 6.39 pounds 
-    * https://www.amazon.com/dp/B0BTHLR9RR
+- __Current Primary Laptop__ (for research & development): *May 2023*
+  + HP Envy 17-cr0xxx, 64GB RAM, 2TB SSD, 12th Gen Intel(R) Core(TM) i7-1260P, 12-Core, 2.10 GHz, 2 Thunderbolt 4, WiFi 6E, BT 5.3, Windows 11 Pro
+  + https://www.amazon.com/gp/product/B0BGKKF2DD/
 
-  + __Emergency Backup Laptop__: *January 2017*
-    * Lenovo Ideapad 80TJ 110-15ACL, AMD A8-7410 2.2Ghz, 8GB RAM (1,600 MHz), 1TB SATA SSD, 4.8 lbs, Windows 10 Pro
-    * Fry's Electronics purchase
+- __Previous Primary Laptop__: *April 2016, DIED January 2024*
+  + MSI GT72 6QE, Intel® Core™ i7-6700HQ, 24GB RAM (DDR4 2133MHz), two SSD drvies (1TB M.2 SATA SSD, 1TB SATA SSD), 8.4 lbs, Windows 10 Pro
+  + Fry's Electronics purchase
 
+- __Secondary Laptop__ (for client work): *May 2024*
+  + MSI Raider GE76 12UE, Gaming Laptop, Intel Core i7-12700H (12th Gen, 14 core CPU, 2.69-4.7GHz), 64GB RAM (4800MHz, DDR5), 2TB NVMe SSD HDD, 17.3" FHD 144 Hz, NVIDIA GeForce RTX 3060, 802.11ax WiFi, Battery Pack - 4 cell (99.9Whr), Windows 11, 6.39 pounds 
+  + https://www.amazon.com/dp/B0BTHLR9RR
 
-  + [Logitech K540 keyboard](https://www.amazon.com/Logitech-Wireless-Keyboard-Computers-Laptops/dp/B07QY3BJBV) [2024 model](https://www.amazon.com/Logitech-Advanced-Wireless-USB-Receiver-Multimedia/dp/B0CBPNWCVS/)
-    * Future, to evaluate:
-      * [K380 Multi-Device Bluetooth Keyboard](https://www.logitech.com/en-us/product/multi-device-keyboard-k380)
-      * [K780 K780 Multi-Device Wireless Keyboard](https://www.logitech.com/en-us/product/k780-multi-device-wireless-keyboard?crid=27)
-        * switch between (3) different devices...
-  + [Logitech M310 mouse](https://www.amazon.com/Logitech-M310-Wireless-Mouse-Symmetrical/dp/B008QS8G5O/)
-    * (This mouse came bundled with the K540 keyboard)
-    * Future, to evaluate:
-      * [M720 Triathlon, Multi-device wireless mouse](https://www.logitech.com/en-us/product/m720-triathlon?crid=7)
-
-  + [ULBRE Soho KVM Switch 4 Port USB 3.0 Sharing Box Selector, 4Port Peripheral Switcher KM Adapter KVM Console Hub for Office PC Printer Mouse Keyboard](https://www.amazon.com/dp/B07DKD7JHG/) 
-
-  + [HDMI Switch 4K@60hz HDMI Splitter, Aluminum HDMI 2.0 Switcher 2 in 1 Out, HDMI Splitter 1 in 2 Out, Bi-Directional Switch Support 4K 3D HDR for Xbox PS5/4/3 Blu-Ray Player Fire Stick Roku HDTV](https://www.amazon.com/gp/product/B09D7MRPJF/)
-
-  + Logitech H390 USB Headset w/Noise-Canceling Microphone
-    * https://www.walmart.com/ip/Logitech-H390-USB-Headset-w-Noise-Canceling-Microphone/8198023
-    * https://www.amazon.com/Logitech-logitech-noisecanceling-Microphone-Packaging/dp/B075G4JT4S/
-
-  + WiFi Extender
-    * [TP-Link AC2600 WiFi, Extender(RE650), Up to 2600Mbps, Dual Band WiFi Range Extender, Gigabit port, Internet Booster, Repeater, Access Point,4x4 MU-MIMO](https://www.amazon.com/Extender-2600Mbps-Repeater-Internet-RE650/dp/B01MR90E3A/)
-
-  + Mobile Hotspot Wifi
-    * Primary: [T-Mobile MiFi, Inseego, 5G MiFi M2000](https://www.t-mobile.com/hotspot-iot-connected-devices/inseego-5g-mifi-m2000)
-    * Secondary: NETGEAR AirCard AC781S AT&T Unite Pro 4g LTE Hotspot
-
-  + Printer
-    * [HP LaserJet Pro MFP M29w](https://www.amazon.com/HP-Laserjet-M29W-Wireless-Monochrome/dp/B09MTFNC5P/)
-      * All-in-One Wireless Monochrome Laser Printer for Home Business Office, White - Print Scan Copy - 19 ppm, 600 x 600 dpi, 8.5 x 11.69 Print Size, 1.0" Icon LCD Display 
-
-  + Monitor
-    * [HP M24f FHD (model 2D9K0AA)](https://www.amazon.com/New-HP-M24f-Monitor-Anti-Glare/dp/B09HW5QGVR/)
-      * 23.8" FHD 1080p IPS LED Anti-Glare Monitor, Silver and Black - AMD FreeSync, 70Hz, 300 nits, HDMI & VGA Ports, Tilt + HDMI Cable 
+- __Emergency Backup Laptop__: *January 2017*
+  + Lenovo Ideapad 80TJ 110-15ACL, AMD A8-7410 2.2Ghz, 8GB RAM (1,600 MHz), 1TB SATA SSD, 4.8 lbs, Windows 10 Pro
+  + Fry's Electronics purchase
 
 
-__These are the primary software programs that I typically have installed on my personal development machine...__
+### Peripherals 
+
+- [Logitech K540 keyboard](https://www.amazon.com/Logitech-Wireless-Keyboard-Computers-Laptops/dp/B07QY3BJBV) [2024 model](https://www.amazon.com/Logitech-Advanced-Wireless-USB-Receiver-Multimedia/dp/B0CBPNWCVS/)
+  + Future, to evaluate:
+    * [K380 Multi-Device Bluetooth Keyboard](https://www.logitech.com/en-us/product/multi-device-keyboard-k380)
+    * [K780 K780 Multi-Device Wireless Keyboard](https://www.logitech.com/en-us/product/k780-multi-device-wireless-keyboard?crid=27)
+      * switch between (3) different devices...
+
+- [Logitech M310 mouse](https://www.amazon.com/Logitech-M310-Wireless-Mouse-Symmetrical/dp/B008QS8G5O/)
+  +(This mouse came bundled with the K540 keyboard)
+  + Future, to evaluate:
+    * [M720 Triathlon, Multi-device wireless mouse](https://www.logitech.com/en-us/product/m720-triathlon?crid=7)
+
+- [ULBRE Soho KVM Switch 4 Port USB 3.0 Sharing Box Selector, 4Port Peripheral Switcher KM Adapter KVM Console Hub for Office PC Printer Mouse Keyboard](https://www.amazon.com/dp/B07DKD7JHG/) 
+
+- [HDMI Switch 4K@60hz HDMI Splitter, Aluminum HDMI 2.0 Switcher 2 in 1 Out, HDMI Splitter 1 in 2 Out, Bi-Directional Switch Support 4K 3D HDR for Xbox PS5/4/3 Blu-Ray Player Fire Stick Roku HDTV](https://www.amazon.com/gp/product/B09D7MRPJF/)
+
+- Logitech H390 USB Headset w/Noise-Canceling Microphone
+  + https://www.walmart.com/ip/Logitech-H390-USB-Headset-w-Noise-Canceling-Microphone/8198023
+  + https://www.amazon.com/Logitech-logitech-noisecanceling-Microphone-Packaging/dp/B075G4JT4S/
+
+### Networking
+
+- WiFi Extender
+  + [TP-Link AC2600 WiFi, Extender(RE650), Up to 2600Mbps, Dual Band WiFi Range Extender, Gigabit port, Internet Booster, Repeater, Access Point,4x4 MU-MIMO](https://www.amazon.com/Extender-2600Mbps-Repeater-Internet-RE650/dp/B01MR90E3A/)
+
+- Mobile Hotspot Wifi
+  + Primary: [T-Mobile MiFi, Inseego, 5G MiFi M2000](https://www.t-mobile.com/hotspot-iot-connected-devices/inseego-5g-mifi-m2000)
+  + Secondary: NETGEAR AirCard AC781S AT&T Unite Pro 4g LTE Hotspot
+
+
+- FUTURE PLANNED ADDITIONS:
+  + [GL-AXT1800 (Slate AX) Pocket-sized Wi-Fi 6 Gigabit Travel Router](https://www.amazon.com/GL-iNet-GL-AXT1800-Pocket-Sized-Extender-Repeater/dp/B0B2J7WSDK)
+    * re: Dave's Garage YouTube Episode: [Why You Need a Pocket Router: Hotels, Airports, Airplanes, Cruise Ships - Stay Connected Anywhere!](https://www.youtube.com/watch?v=OYxQ4Lvqn14)
+
+
+### Printers
+
+- Printer
+  + [HP LaserJet Pro MFP M29w](https://www.amazon.com/HP-Laserjet-M29W-Wireless-Monochrome/dp/B09MTFNC5P/)
+    * All-in-One Wireless Monochrome Laser Printer for Home Business Office, White - Print Scan Copy - 19 ppm, 600 x 600 dpi, 8.5 x 11.69 Print Size, 1.0" Icon LCD Display 
+
+
+### Monitors 
+
+- Monitor
+  + [HP M24f FHD (model 2D9K0AA)](https://www.amazon.com/New-HP-M24f-Monitor-Anti-Glare/dp/B09HW5QGVR/)
+    * 23.8" FHD 1080p IPS LED Anti-Glare Monitor, Silver and Black - AMD FreeSync, 70Hz, 300 nits, HDMI & VGA Ports, Tilt + HDMI Cable 
+
+  
+  
+
+__These following sections are the primary software programs that I typically have installed on my personal development machine...__
 
 
 ## Application Package Managers (still evaluating...)
