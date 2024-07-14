@@ -547,6 +547,7 @@ FDDI        | [Fiber Distributed Data Interface](https://en.wikipedia.org/wiki/F
 FDL         | (GNU) Free Documentation License
 FedRAMP     | Federal Risk Authorization Management Program
 FFT         | Full Fine-Tuning
+FFW         | Feedforward
 FHE         | Fully [Homomorphic Encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption) (e.g., [IBM](https://www.ibm.com/security/services/homomorphic-encryption_))
 FIBO        | [Financial Industry Business Ontology](https://spec.edmcouncil.org/fibo/)
 FIDO        | [Fast IDentity Online (FIDO)](https://en.wikipedia.org/wiki/FIDO_Alliance)
@@ -557,6 +558,7 @@ FINRA       | Financial Industry Regulatory Authority
 FIPS        | [Federal Information Processing Standard](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards), re: FIPS PUB 140-2
 FIRST       | Fast Independent Repeatable Self-Validating Timely [(source)](https://dzone.com/articles/writing-your-first-unit-tests)
 FISMA	    | Federal Information Security Management Act 
+FLOPS       | [Floating Point Operations Per Second](https://en.wikipedia.org/wiki/FLOPS)
 FMEA        | Failure Mode and Effects Analysis
 fMRI        | functional Magnetic Resonance Imaging
 FoS         | Families of Systems
@@ -888,6 +890,7 @@ MLS         | [Messaging Layer Security (RFC 9420)](https://datatracker.ietf.org
 MMS         | Massively Multilingual Speech
 MNAR        | Missing Not At Random (re: data quality/completeness)
 MOA         | Memorandum of Agreement
+MoE         | Mixture of Experts
 MOJO        | [Maven plain Old Java Object](https://maven.apache.org/plugin-developers/index.html)
 MOLAP       | Multidimensional OLAP
 MoM         | Month-on-Month
@@ -1040,6 +1043,7 @@ OWL         | [Web Ontology Language](https://en.wikipedia.org/wiki/Web_Ontology
 **P__**     | 
 P           | Precision
 P&L         | Profit and Loss 
+PaaR        | Platform as a Runtime
 PaaS        | Platform as a Service, aka aPaaS (i.e., Application Platform as a Service)
 PaLM        | [Pathways Language Model](https://arxiv.org/abs/2204.02311)
 PAM         | Pluggable Authentication Modules
@@ -1069,6 +1073,7 @@ PDSA        | [Plan-Do-Stuy-Act](https://en.wikipedia.org/wiki/Continual_improve
 PDU         | [Protocol data unit](https://en.wikipedia.org/wiki/Protocol_data_unit)
 PE          | [Private Equity](https://www.investopedia.com/terms/p/privateequity.asp) 
 PEAP        | [Protected Extensible Authentication Protocol](https://en.wikipedia.org/wiki/Protected_Extensible_Authentication_Protocol)
+PEER        | Parameter Efficient Expert Retrieval
 PEFT        | Parameter Efficient Fine Tuning
 PEM         | Privacy Enhanced Mail
 PEP         | [Packet Exchange Protocol](https://en.wikipedia.org/wiki/Xerox_Network_Systems#Transport_layer_protocols)
