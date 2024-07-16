@@ -338,6 +338,7 @@ CSNS        | Cloud Service Network Security
 CSO         | Cloud Service Offering
 CSP         | Cloud Service Provider
 CSP         | [Content Security Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) 
+CSPM        | CLOUD SECURITY POSTURE MANAGEMENT
 CSR         | Customer Service Representative
 CSR         | Certificate Signing Request 
 CSRB        | Cyber Safety Review Board
