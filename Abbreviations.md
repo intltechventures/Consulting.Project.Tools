@@ -610,6 +610,7 @@ GPG         | [GNU Privacy Guard](https://en.wikipedia.org/wiki/GNU_Privacy_Guar
 GPT         | Generative Pretrained Transformer
 GPT         | [GUID Partition Table](https://en.wikipedia.org/wiki/GUID_Partition_Table)
 GPU         | [Graphics Processing Uni](https://en.wikipedia.org/wiki/Graphics_processing_unit)
+GQA         | Grouped-Query Attention
 GQL         | [Graph Query Language](https://www.gqlstandards.org/home) [ISO/IEC 39075:2024](https://www.iso.org/standard/76120.html)
 GQM         | Goal, Question, Metric 
 GRC         | Governance, Risk, and Compliance
@@ -956,6 +957,7 @@ NDP         | [Neighbor Discovery Protocol](https://en.wikipedia.org/wiki/Neighb
 NDR         | Network Detection and Response
 NER         | Named Entity Recognition, re: ML
 NeRF        | Neural Radiance Fields (re: Deep Learning, optimizing continuous volumetric scene function)
+NGAV        | New-Generation Antivirus 
 NIDS        | [Network-based Intrusion Detection System](https://en.wikipedia.org/wiki/Intrusion_detection_system)
 NISQ        | Noisy Intermediate-Scale Quantum
 NIST        | National Institute of Standards and Technology
