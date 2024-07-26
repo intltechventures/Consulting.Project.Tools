@@ -327,6 +327,7 @@ CRUD        | Create, Read, Update, Delete
 CSA         | Cloud Security Alliance
 CSAT        | [Customer Satisfaction](https://en.wikipedia.org/wiki/Customer_satisfaction)
 CSD         | Consolidated Service Desk
+CSF         | Critical Success Factors
 CSDM        | [Common Service Data Model](https://docs.servicenow.com/bundle/paris-servicenow-platform/page/product/csdm-implementation/concept/csdm-basics.html) (re: ServiceNow)
 CSET        | [Center for Security and Emerging Technology (CSET)](https://cset.georgetown.edu/)
 CSF         | Common Security Framework
@@ -1095,6 +1096,7 @@ PIU         | Profits Interests Units [a form of equity compensation typically i
 PKCE        | Proof Key for Code Exchange (pronounced "pixy"), re: [RFC 7636](https://tools.ietf.org/html/rfc7636)
 PKI         | [Public Key Infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure)
 PKM         | Personal Knowledge Management
+PLC         | Project Life Cycle 
 PLM         | [Product Lifecycle Management](https://en.wikipedia.org/wiki/Product_lifecycle)
 PLSA        | Probabilistic Latent Semantic Analysis
 PM          | Program Manager
