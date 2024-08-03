@@ -48,6 +48,8 @@
   + https://www.walmart.com/ip/Logitech-H390-USB-Headset-w-Noise-Canceling-Microphone/8198023
   + https://www.amazon.com/Logitech-logitech-noisecanceling-Microphone-Packaging/dp/B075G4JT4S/
 
+
+
 ### Networking
 
 - WiFi Extender
@@ -459,6 +461,9 @@ __These following sections are the primary software programs that I typically ha
       * Endwise
 
       * ESLint
+
+      * Excel to Markdown Table
+        * https://marketplace.visualstudio.com/items?itemName=csholmq.excel-to-markdown-table
 
       * Git Graph
 
