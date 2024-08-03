@@ -1230,6 +1230,7 @@ RMA         | [Return Merchandise Authorization](https://en.wikipedia.org/wiki/R
 RMA         | Risk Management Administration
 RMAD        | Rapid Mobile App Development  
 RMF         | Risk Management Framework 
+RMIS        | Risk Management Information System
 RMS         | Rights Management Service
 RMSE        | Root Mean Squared Error
 ROC         | [Receiver Operating Characteristic](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
@@ -1470,6 +1471,7 @@ TPLC        | [Total Product Life Cycle](https://www.fda.gov/about-fda/cdrh-tran
 TPM         | [Trusted Platform Module](https://en.wikipedia.org/wiki/Trusted_Platform_Module)
 TPR         | True Positive Rate
 TPU         | Tensor Processing Unit(s) 
+TRACTOR     | [TRanslating All C TO Rust](https://www.darpa.mil/news-events/2024-07-31a) (DARPA project)
 TRM         | Technical Reference Model
 TRPM        | Third-Party Risk Management
 TSD         | Technical Specification Document
