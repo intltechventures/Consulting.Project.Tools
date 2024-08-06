@@ -1153,6 +1153,7 @@ P2P         | [Peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer)
 **Q__**     |
 QA          | [Quality Assurance](https://en.wikipedia.org/wiki/Quality_assurance)
 QAOA        | [Quantum Approximate Optimization Algorithm](https://en.wikipedia.org/wiki/Quantum_optimization_algorithms)
+QAR         | Quality Assurance Review
 QEC         | Quantum Error Correction 
 QFT         | [Quantum Field Theory](https://en.wikipedia.org/wiki/Quantum_field_theory)
 QFT         | [Quantum Fourier Transform](https://en.wikipedia.org/wiki/Quantum_Fourier_transform)
