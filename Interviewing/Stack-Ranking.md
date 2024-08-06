@@ -1,5 +1,6 @@
 
-# Stack Ranking Scoring Definitions
+# Stack-Ranking Scoring Definitions
+
 
 |Ranking | Definition|
 |-----|-----------|
