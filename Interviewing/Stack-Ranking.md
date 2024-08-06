@@ -9,7 +9,7 @@
 3 | Does not meet the skills/experience for the position, significant concerns with the candidate's interest/willingness to learn/grow into the role
 4 | Does not meet the skills/experience for the position, some concerns with candidate's ability to be mentored/trained 
 5 | Does not meet the skills/experience for the position, but could possible be mentored/trained. 
-6 | Some material gaps in the skills/experience for the position. This will flourish with the right mentoring/training. 
+6 | Some material gaps in the skills/experience for the position. This person will flourish with the right mentoring/training. 
 7 | Partially meets skills/experience for the position, some additonal mentoring/training/support is recommended to help this person grow into their role.
 8 | Meets skills/experience for the position. This person should be able to help coach and mentor fellow team members. 
 9 | Exceeds skills/experience for the position. This person would be a "force-multiplier" within assigned teams. This person has sufficient depth and breadth of experience to mentor others, and elevate them to their level.
