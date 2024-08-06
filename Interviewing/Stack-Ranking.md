@@ -4,7 +4,7 @@
 |Ranking | Definition|
 |-----|-----------|
 0 | Not a viable candidate, under any conditions. Candidate has made false statements, or materially misrepresented their skills/experience
-1 | Candidate has demonstrated one or more anti-patterns (e.g., frequent short-term job-hopping, failure to invest in their contuing professional development/education, repeating one year of experience [n] times, etc.)
+1 | Candidate has demonstrated one or more anti-patterns (e.g., frequent short-term job-hopping, failure to invest in their continuing professional development/education, repeating one year of experience [n] times, etc.)
 2 | Candidate has some behavioral issues, directly observed during the interview process (e.g., communication style, lack of professionalism, bad attitude, lack of intellectual curiosity, etc.)
 3 | Does not meet the skills/experience for the position, significant concerns with the candidate's interest/willingness to learn/grow into the role
 4 | Does not meet the skills/experience for the position, some concerns with candidate's ability to be mentored/trained 
