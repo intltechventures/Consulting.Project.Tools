@@ -1,5 +1,5 @@
 
-# Self-Assessing Scoring Definitions
+# Self-Assesment Scoring Definitions
 
 Often, when conducting interviews to assess candidates, I want to get a quick snapshot of how they might rate their knowledge of various technical areas - and want to establish a consistent scoring approach that eliminates the sometimes very subjective nature of this type of questioning.   
 
@@ -18,4 +18,4 @@ The following is my go-to approach in establishing a consistent definition of a 
 7 | Directly (hands-on) involved in the design, implementation, deployment, and maintenance - of at least one solution in production
 8 | Directly (hands-on) involved in the design, implementation, deployment, and maintenance - of multiple solutions in production
 9 | Recognized go-to expert within their company (current, or previous)
-10 | Recognized within their industry | globally - as an expert (i.e. participated in creation/development of the technology, frequently invited to speak at conferences on the technology, authored definitive books on the technology, etc.)
+10 | Recognized within their industry, or globally - as an expert (i.e. participated in creation/development of the technology, frequently invited to speak at conferences on the technology, authored definitive books on the technology, etc.)
