@@ -5,6 +5,8 @@ In most organizations, there are some quick-and-easy improvements that can be ma
 
 
 ## Naming Conventions
+Establishing consistent naming convetions helps improve productivity by decreasing the time it takes to find something. 
+
 
 - Establish a consistent pattern for how dates should be written.
   + Recommended: [ISO 8601 Standard](https://en.wikipedia.org/wiki/ISO_8601) (YYYY-MM-DD)
@@ -47,6 +49,8 @@ In most organizations, there are some quick-and-easy improvements that can be ma
 
 
 ## Information / Document / Communication / Knowledge Management / Sharing
+Establishing consistent practices in how informaiton is organized, communicated, shared - helps increase productivity by reducing the amount of wasted time spent trying to find something - and eliminating the confusion of whether you have the right/current version of a thing. 
+
 
 - **Anti-Patterns**:
   + Finding numerous copies of documents in the same folder (with "Copy", version numbers, user initials, dates, etc. - as part of the file name)
