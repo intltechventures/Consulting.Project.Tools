@@ -84,15 +84,16 @@ In most organizations, there are some quick-and-easy improvements that can be ma
     * Hides where the source document is stored 
     * Results in multiple copies being distributed - with no visibility to any subsequent forwarding actions to others. 
     * Results in a proliferation of [n] copies of the document existing, and possibly being stored in [m] locations.
+    * In one case, I observed an organization's chat message retention policy that forced deletion of content after 30 days. 
    
 
-- **DO NOT** send links to documents 
+- **DO NOT** send a link to a *specific* **document**
   + Rationale:
     * Direct links are more fragile than links to the containing folder 
     * Often obscures where the document is actually stored 
     * If a document is deleted and re-added (even if the same name is kept) - may not be the same link, on some file sharing platforms.
 
-- **DO** send links to the FOLDER where a document may be found.
+- **DO** send links to the **FOLDER where a document may be found**.
   + Rationale:
     * Document names may change (more frequently, over time, than folder structures)
     * Related documents can be added to the folder, without needing to send additional links 
