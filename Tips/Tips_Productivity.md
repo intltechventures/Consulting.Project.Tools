@@ -37,7 +37,15 @@
   + *SUGGESTED*: Use an underscore as the first character of the {*File| Folder*} name to **force it** to sort naturally to the top of a folder's content list.
 
 
-## Information / Document / Communication / Sharing
+
+
+## Information / Document / Communication / Knowledge Management / Sharing
+
+- **Anti-Patterns**:
+  + Finding numerous copies of documents in the same folder (with "Copy", version numbers, user initials, dates, etc. - as part of the file name)
+  + No sub-folder structures - everything just dumped into a single root-level folder 
+  + No archiving strategy, or naming convention
+
 
 - **DO** Create a shared wiki
 
@@ -64,5 +72,12 @@
     * Document names may change (more frequently, over time, than folder structures)
     * Related documents can be added to the folder, without needing to send additional links 
     * Supports serendipity (i.e, discovery of the nearby, and adjacent)
+
+
+- Archival Strategies:
+  + File Sharing Platforms:
+    * Create an "_archived" folder
+      * create separate sub-folders, by YYYY
+        * Create a *"{YYYY-MM-DD} SNAPSHOT"* folder to identify WHEN something was archived
 
 
