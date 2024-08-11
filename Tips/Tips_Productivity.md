@@ -27,14 +27,14 @@
 
 
 - When needing to group a subset of documents together, within a folder containing a larger collection of documents...
-  + <option>: Create a separate folder
-  + <option>: Use a common prefix
-    * <option>: Use a date as a prefix
-    * <option>: Use a literal text prefix (e.g., "proj-ABC-")
+  + *option*: Create a separate folder
+  + *option*: Use a common prefix
+    * *option*: Use a date as a prefix
+    * *option*: Use a literal text prefix (e.g., "proj-ABC-")
 
 
 - For frequently used content 
-  + SUGGESTED: Use an underscore as the first character of {File | Folder} to force it to naturally sort to the top of a folder content list.
+  + *SUGGESTED*: Use an underscore as the first character of {File | Folder} to force it to naturally sort to the top of a folder content list.
 
 
 ## Information / Document / Communication / Sharing
