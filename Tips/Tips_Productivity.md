@@ -1,6 +1,9 @@
 
 # Productivity Tips 
 
+In most organizations, there are some quick-and-easy improvements that can be made to help increase productivity. These are just a few suggestions that I usually try to introduce very early in any client engagement. 
+
+
 ## Naming Conventions
 
 - Establish a consistent pattern for how dates should be written.
@@ -9,7 +12,7 @@
   + Rationale:
     * Consistency 
     * Easily recognized 
-    * Avoids confusion when collaborating with international collegues 
+    * Avoids confusion when collaborating with international colleagues 
     * Supports internationalization 
 
 - **DO** specify Time using 24-hour format
@@ -60,7 +63,9 @@
   + No access control/restriction on potentially sensitive (or confidential) content (e.g., corporate strategy documents, legal contracts, etc.)
 
 
-- **DO** Create a shared wiki for team collaboration
+- **DO** create a *Shared Glossary* - to eliminate the redundant creation of a glossary in every artifact. Simply provide the Shared Glossary.
+
+- **DO** create a shared wiki for team collaboration
   + Rationale:
     * A wiki is a living document - you don't have to guess where the lastest version is stored (like a document).
     * Easily updated/maintained. 
@@ -76,7 +81,7 @@
 - **DO NOT** send documents as attachments (e.g., in chat messages, or email)
   + Rationale:
     * Avoids needing to send corrections/updates
-    * Hides where the source documen is stored 
+    * Hides where the source document is stored 
     * Results in multiple copies being distributed - with no visibility to any subsequent forwarding actions to others. 
     * Results in a proliferation of [n] copies of the document existing, and possibly being stored in [m] locations.
    
@@ -87,11 +92,11 @@
     * Often obscures where the document is actually stored 
     * If a document is deleted and re-added (even if the same name is kept) - may not be the same link, on some file sharing platforms.
 
-- **DO** send links to the FOLDER where a document mayh be found.
+- **DO** send links to the FOLDER where a document may be found.
   + Rationale:
     * Document names may change (more frequently, over time, than folder structures)
     * Related documents can be added to the folder, without needing to send additional links 
-    * Supports serendipity (i.e, discovery of the nearby, and adjacent)
+    * Supports serendipity (i.e., discovery of the nearby, and adjacent)
 
 
 - Archival Strategies:
