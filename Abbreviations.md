@@ -1434,6 +1434,7 @@ SW          | Software
 SWA         | Azure [Static Web Apps](https://azure.microsoft.com/en-us/products/app-service/static/) ([github](https://github.com/Azure/static-web-apps))
 SWAG        | Silly Wild-Ass Guess (also see ROM), aka an estimate 
 SWE         | [Software Engineer | Software Engineering](https://en.wikipedia.org/wiki/Software_engineering)
+SWG         | Secure Web Gateway
 SWOT        | Strengths, Weaknesses, Opportunities, and Threats
 **T__**     |
 T2R2        | Transparent, Traceable, Replicable and Reproducible a
