@@ -17,23 +17,24 @@ In most organizations, there are some quick-and-easy improvements that can be ma
 
 - **DO** specify Time using 24-hour format
   + Examples:
-    * Example: (for 5pm): 17:00
-    * Example: (for 8am): 08:00 
-    * Example: (for 8:30pm): 20:30
+    * Example (for 5pm): *17:00*
+    * Example (for 8am): *08:00*
+    * Example (for 8:30pm): *20:30*
   + Rationale:
     * Clarity
+    * Conciseness
     * Avoiding confusion
 
 
 - **DO** specify the Time Zone whenever you write a time.
-  + Example: 08:00 (Pacific)
+  + Example: *08:00 (Pacific)*
 
 
 - When needing to group a subset of documents together, within a folder containing a larger collection of documents...
   + *option*: Create a separate folder
   + *option*: Use a common prefix
     * *option*: Use a date as a prefix
-    * *option*: Use a literal text prefix (e.g., "proj-ABC-")
+    * *option*: Use a literal text prefix (e.g., "*proj-ABC-*")
 
 
 - For frequently used content 
@@ -103,7 +104,7 @@ In most organizations, there are some quick-and-easy improvements that can be ma
 - Archival Strategies:
   + File Sharing Platforms:
     * Create an "_archived" folder
-      * create separate sub-folders, by YYYY
+      * create separate *YYYY* sub-folders
         * Create a *"{YYYY-MM-DD} SNAPSHOT"* folder to identify WHEN something was archived
 
 
