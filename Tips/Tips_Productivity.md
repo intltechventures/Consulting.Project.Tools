@@ -34,7 +34,7 @@
 
 
 - For frequently used content 
-  + *SUGGESTED*: Use an underscore as the first character of {File | Folder} to force it to naturally sort to the top of a folder content list.
+  + *SUGGESTED*: Use an underscore as the first character of the {*File| Folder*} name to **force it** to sort naturally to the top of a folder's content list.
 
 
 ## Information / Document / Communication / Sharing
