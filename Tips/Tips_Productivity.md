@@ -35,7 +35,10 @@
 
 - For frequently used content 
   + *SUGGESTED*: Use an underscore as the first character of the {*File| Folder*} name to **force it** to sort naturally to the top of a folder's content list.
-
+  + Examples:
+    * *_journals*
+    * *_templates*
+    * *_status_reports*
 
 
 
@@ -43,11 +46,28 @@
 
 - **Anti-Patterns**:
   + Finding numerous copies of documents in the same folder (with "Copy", version numbers, user initials, dates, etc. - as part of the file name)
-  + No sub-folder structures - everything just dumped into a single root-level folder 
-  + No archiving strategy, or naming convention
+
+  + No sub-folder structures - everything just dumped into a single root-level folder.
+
+  + No archiving strategy.
+
+  + No established naming conventions.
+
+  + Mixed use of different date formats (in naming artifacts, folders, or in the content of an artifact).
+
+  + Massive documents that attempt to contain everything in a sngle document. 
+
+  + No access control/restriction on potentially sensitive (or confidential) content (e.g., corporate strategy documents, legal contracts, etc.)
 
 
-- **DO** Create a shared wiki
+- **DO** Create a shared wiki for team collaboration
+  + Rationale:
+    * A wiki is a living document - you don't have to guess where the lastest version is stored (like a document).
+    * Easily updated/maintained. 
+    * A collaborative effort - anyone on the team can help improve the content. 
+    * Easily search across all of the wiki pages.
+    * *Usally* support versioning of pages.
+    * *May* support fine-grain permission (e.g., ability to restrict access, limit who may edit vs. view, etc.)
 
 
 - **DO** write daily journals / blog posts
