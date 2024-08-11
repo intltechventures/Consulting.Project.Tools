@@ -5,7 +5,8 @@ In most organizations, there are some quick-and-easy improvements that can be ma
 
 
 ## Naming Conventions
-Establishing consistent naming convetions helps improve productivity by decreasing the time it takes to find something. 
+- Establishing consistent naming conventions helps improve productivity by decreasing the time it takes to find something. 
+- Consistent naming conventions also help in discovery and promoting the potential for reuse of to be found in existing artifacts. 
 
 
 - Establish a consistent pattern for how dates should be written.
@@ -49,7 +50,8 @@ Establishing consistent naming convetions helps improve productivity by decreasi
 
 
 ## Information / Document / Communication / Knowledge Management / Sharing
-Establishing consistent practices in how informaiton is organized, communicated, shared - helps increase productivity by reducing the amount of wasted time spent trying to find something - and eliminating the confusion of whether you have the right/current version of a thing. 
+- Establishing consistent practices in how informaiton is organized, communicated, and hared - helps increase productivity by reducing the amount of wasted time spent trying to find something - and eliminating the confusion of whether you have the right/current version of a thing. 
+- Consistent practices also help in promoting discovery and the potential reuse of information contained in existing artifacts. 
 
 
 - **Anti-Patterns**:
