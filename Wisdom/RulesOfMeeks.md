@@ -321,6 +321,9 @@ changes you"**
 **\#708 - "Avoid Death March Projects."**
 
 
+**\#709 - "If you stop learning, you will eventually stop earning"**
+
+
 **\#799 - "Never forget - a full-time job doesn't come with any guarantee"**
 
 
