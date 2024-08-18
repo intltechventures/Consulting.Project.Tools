@@ -644,6 +644,7 @@ HLD         | High-Level Design
 HLP         | Human Level Performance (re: Machine Learning)
 HMAC        | [Hash-based Message Authentication Code](https://en.wikipedia.org/wiki/HMAC)
 HMM         | Hidden Markov Models
+HNSW        | [Hierarchical Navigable Small World](https://en.wikipedia.org/wiki/Hierarchical_navigable_small_world)
 HOLAP       | Hybrid OLAP
 HOT         | Heap Oriented Tuples
 HPC         | Horizontal Pod Autoscaling (Kubernetes)
@@ -824,6 +825,7 @@ LPU         | Language Processing Unit
 LSA         | Latent Semantic Analysis
 LSA         | Local Service Agreement
 LSE         | Large Scale Event
+LSH         | [Locality-Sensitive Hashing](https://en.wikipedia.org/wiki/Locality-sensitive_hashing)
 LSM         | [Log-Structured Merge-Tree](https://en.wikipedia.org/wiki/Log-structured_merge-tree)
 LSTM        | Long Short-Term Memory
 LTV         | Lifetime Value
