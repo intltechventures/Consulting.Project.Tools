@@ -452,6 +452,7 @@ DVI         | [Device Independent file format](https://en.wikipedia.org/wiki/Dev
 DVR         | Distributed Virtual Router
 DW          | Data Warehouse (also see DWH, EDW)
 DWH         | Data Warehouse (also see DW, EDW)
+DX          | Developer Experience 
 DXP         | Digital Experience Platform
 **E__**     | 
 EA          | Enterprise Architecture  
@@ -1380,6 +1381,7 @@ SoE         | System of Engagement
 SOLID       | Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion
 SOM         | Serviceable Obtainable Market
 SONET       | [Synchronous optical networking](https://en.wikipedia.org/wiki/Synchronous_optical_networking)
+SOSL        | [Salesforce Object Search Language](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/)
 SOP         | Standard Operating Procedure
 SOR         | System of Record
 SoS         | Systems of Systems 
