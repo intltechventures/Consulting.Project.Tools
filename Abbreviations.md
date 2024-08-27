@@ -1534,7 +1534,7 @@ VAX         | [Virtual Address eXtension](https://en.wikipedia.org/wiki/VAX_)
 VAS         | Value-Added Services
 VBS         | [Virtualization-based Security](https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-vbs) (i.e., introduced in [Windows 11](https://en.wikipedia.org/wiki/Windows_11))
 VC          | Venture Capital 
-VCF         | VMware Cloud Foundation
+VCF         | VMware Cloud Foundation  
 vCPU        | Virtual Central Processing Unit
 VDBMS       | [Vector Database Danagement System](https://en.wikipedia.org/wiki/Vector_database), aka vector data, or vector store
 VDI         | [Virtual Desktop Infrastructure](https://en.wikipedia.org/wiki/Desktop_virtualization#Remote_desktop_virtualization)
