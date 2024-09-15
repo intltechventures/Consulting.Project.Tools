@@ -1477,6 +1477,7 @@ TP          | Third-Party
 TPLC        | [Total Product Life Cycle](https://www.fda.gov/about-fda/cdrh-transparency/total-product-life-cycle-medical-devices)
 TPM         | [Trusted Platform Module](https://en.wikipedia.org/wiki/Trusted_Platform_Module)
 TPR         | True Positive Rate
+TPS         | [Toyota Production System](https://en.wikipedia.org/wiki/Toyota_Production_System)
 TPU         | Tensor Processing Unit(s) 
 TRACTOR     | [TRanslating All C TO Rust](https://www.darpa.mil/news-events/2024-07-31a) (DARPA project)
 TRM         | Technical Reference Model
