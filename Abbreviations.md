@@ -132,6 +132,7 @@ AUC-ROC     | Area Under Curve – Receiver Operating Characteristics Curve
 AUP         | [Acceptable Use Policy](https://en.wikipedia.org/wiki/Acceptable_use_policy)
 AUROC       | Area Under the Receiver Operating Characteristics Curve 
 AVD         | [Azure Virtual Desktop](https://azure.microsoft.com/en-us/products/virtual-desktop/)
+AWM         | Agent Workflow Memory
 AZ          | Availability Zone 
 **B__**     | 
 B2B         | Business-to-Business
