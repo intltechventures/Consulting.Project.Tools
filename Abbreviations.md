@@ -325,7 +325,8 @@ CRL         | Certificate Revocation List
 CRM         | Customer Relationship Management
 CRO         | Chief Risk Officer
 CRUD        | Create, Read, Update, Delete
-CSA         | Cloud Security Alliance
+CSA         | [Cloud Security Alliance](https://cloudsecurityalliance.org/)
+CSA         | Cloud Service Appliance 
 CSAT        | [Customer Satisfaction](https://en.wikipedia.org/wiki/Customer_satisfaction)
 CSD         | Consolidated Service Desk
 CSF         | Critical Success Factors
