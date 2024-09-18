@@ -145,6 +145,10 @@ changes you"**
 **\#116 - "You may be able to do anything - but you should carefully refrain from trying to do everything."**
 
 
+**\#117 - "I will tell you what you need to hear, which may not be what you necessarily want to hear."**
+
+
+
 
 \#2xx - On the Art of  Managing People
 ====
