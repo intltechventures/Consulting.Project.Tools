@@ -201,6 +201,9 @@ changes you"**
 **\#216 - "Refusing to make a decision - is a decision, and there will be consequences."**
 
 
+**\#217 - "DO NOT feed the trolls under their bridges"**
+
+
 
 \#3xx - On Design 
 ====
@@ -264,7 +267,6 @@ changes you"**
 **\#511 - "You don't know - yet, what you don't know"**
 
 
-**\#512 - "DO NOT feed the trolls under their bridges"**
 
 
 \#6xx - On Negotiating
@@ -295,6 +297,16 @@ changes you"**
 
 
 **\#609 - "Never pay more than 10% upfront - for the intial kick-off of a fixed-price arrangement"**
+
+
+**\#610 - "NEVER agree to payment terms that are longer than NET-30"**
+
+
+**\#611 - "Include clauses in your contracts/SOWs that allow you to immediately terminate if invoices are not paid on time"**
+
+
+**\#612 - "ALWAYS include a clause in your contracts/SOWs that allow you to terminate, for convenience (e.g., with 10-30 days notification)"**
+
 
 
 
