@@ -176,8 +176,10 @@ BNA         | Business Needs Analysis
 BNF         | Backus-Naur Form
 BNS         | Business Needs Statement
 BOD         | Binding Operational Directive 
+BOE         | Basis of Estimate
 BOF         | Buffer Overflow 
 BoK         | Body of Knowledge 
+BOM         | [Basic Order of Magntitude](https://www.acronymfinder.com/Basic-Order-of-Magnitude-(BOM).html)
 BOM         | Bill of Matrials
 BOOTP       | [Bootstrap Protocol](https://en.wikipedia.org/wiki/Bootstrap_Protocol)
 BOSS        | Business Operation Support Services 
