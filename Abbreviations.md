@@ -1274,6 +1274,7 @@ RTO         | Recovery Time Objective
 RUM         | Real User Measurements (or Monitoring)
 RUM         | Resources Under Management
 RUP         | Rational Unified Process
+RWKV        | Receptance Weighted Key Value (an open-source model that modernizes Recurrent Neural Networks to match the performance of Transformer-based LLMs)
 **S__**     |
 S&P         | Strategy & Planning
 S-DBR       | [Simplified Drum-Buffer-Rope](https://en.wikipedia.org/wiki/Theory_of_constraints#Operations)
@@ -1623,6 +1624,7 @@ XSS         | Cross-Site Scripting
 YAGNI       | You Aren't Gonna Need It 
 YAS         | Yet Another Silo
 YB          | [Yottabyte](https://simple.wikipedia.org/wiki/Yottabyte)
+YBIYRI      | You-build-it-you-run-it
 YBYO        | You Build, You Own (alternatively: You Buid It, You Own It)
 **Z__**     |
 ZB          | [Zettabyte](https://simple.wikipedia.org/wiki/Zettabyte)
