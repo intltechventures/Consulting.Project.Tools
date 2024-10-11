@@ -708,8 +708,8 @@ IMO         | Integration Management Office (i.e., during Mergers & Acquisitions
 INCOSE      | [International Council on Systems Engineering](https://en.wikipedia.org/wiki/International_Council_on_Systems_Engineering)
 IND         | [Inverse Neighbor Discovery](https://en.wikipedia.org/wiki/Neighbor_Discovery_Protocol)
 INVEST      | Independent Negotiable Valuable Estimable Small Testable [(source)](http://wiki.c2.com/?InvestModelForUserStories)
-IoA         | indicator of Attack
-IoC         | indicator of Compromise
+IoA         | Indicator of Attack
+IoC         | Indicator of Compromise
 IOF         | [Industrial Ontologies Foundry](https://www.industrialontologies.org/)
 IOPS        | Input/Output Operations Per Second
 IoT         | Internet of Things
@@ -827,6 +827,7 @@ LLRT        | Low Latency Runtime (e.g., [AWS](https://github.com/awslabs/llrt))
 LOI         | Letter of Intent
 LoRA        | [Low-Rank Adaptation](https://arxiv.org/abs/2106.09685) (of Large Language Models) [see [Microsoft github repo](https://github.com/microsoft/LoRA)]
 LPU         | Language Processing Unit 
+LRM         | Large Reasoning Model
 LSA         | Latent Semantic Analysis
 LSA         | Local Service Agreement
 LSE         | Large Scale Event
@@ -867,6 +868,7 @@ MD5         | [MD5 Message-Digest Algorithm](https://en.wikipedia.org/wiki/MD5)
 MD6         | [MD6 Message-Digest Algorithm](https://en.wikipedia.org/wiki/MD6)
 MDA         | Multi-Dimensional Analytical (i.e.  queries)
 MDAP        | Mobile Application Development Platform  
+MDE         | Minimum Detectable Effect
 MDM         | Master Data Management  
 MDM         | Mobile Device Management  
 MDR         | Managed Detection and Response 
