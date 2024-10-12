@@ -570,6 +570,7 @@ FMEA        | Failure Mode and Effects Analysis
 fMRI        | functional Magnetic Resonance Imaging
 FoS         | Families of Systems
 FOSS        | [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software)
+FOSSA       | [Free Open Source Software Analysis](https://fossa.com)
 FP          | Functional Programming 
 FPGA        | Field-Programmable Gate Arrays
 FPR         | False Positive Rate
