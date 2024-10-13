@@ -1324,6 +1324,7 @@ SDLC        | Software Development Life-cycle (aka Software Development Process)
 SDLP        | Systems Development Lifecycle Process
 SDN         | [Software Defined Networking](https://en.wikipedia.org/wiki/Software-defined_networking)
 SDN         | [Specially Designated Nationals and Blocked Persons List](https://en.wikipedia.org/wiki/Specially_Designated_Nationals_and_Blocked_Persons_List)
+SDP         | Safe Deployment Practices
 SDP         | Software Defined Perimeter (also see VPN)
 SDR         | Sales Development Representative
 SDSL        | [Symmetric digital subscriber line](https://en.wikipedia.org/wiki/Symmetric_digital_subscriber_line)
