@@ -452,6 +452,7 @@ DSS         | Data Security Standard
 DTAP        | Development, Test, Acceptance, Production (i.e, typical deployment environment types) 
 DTC         | direct-to-consumer
 DTO         | [Data Transfer Object](https://en.wikipedia.org/wiki/Data_transfer_object)
+DTSTTCPW    | [Do The Simplest Thing That Could Possibly Work](https://wiki.c2.com/?DoTheSimplestThingThatCouldPossiblyWork) 
 DVI         | [Device Independent file format](https://en.wikipedia.org/wiki/Device_independent_file_format)
 DVR         | Distributed Virtual Router
 DW          | Data Warehouse (also see DWH, EDW)
