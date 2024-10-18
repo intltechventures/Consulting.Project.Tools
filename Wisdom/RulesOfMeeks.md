@@ -148,6 +148,8 @@ changes you"**
 **\#117 - "I will tell you what you need to hear, which may not be what you necessarily want to hear."**
 
 
+**\#118 - "After repeated attempts are made to correct (or compensate) for the gross incompetence of someone, you must be willing to consider the possibility that malicious intent may be involved."**
+
 
 
 \#2xx - On the Art of  Managing People
