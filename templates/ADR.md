@@ -7,6 +7,15 @@
 - - The following is intended to provide a place for me to capture my own evolving thoughts on what an ADR might look like.
 
 
+
+## References
+
+- https://iasa-global.github.io/btabok/architecture_decision_record.html
+  + https://iasa-global.github.io/btabok/decisions.html
+
+
+
+
 ## A Proposed Tempalte:
 
 - The following is intended to provide a place for me to capture my own evolving thoughts on what an ADR might look like.
