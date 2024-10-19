@@ -430,6 +430,7 @@ DORA        | [Digital Operational Resilience Act, re: Regulation (EU) 2022/2554
 DoS         | Denial of Service 
 DOS         | [Disk Operating System](https://en.wikipedia.org/wiki/DOS)
 DP          | [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
+DPC         | Discrete Process Control
 DPO         | Direct Preference Optimization (re: LLMs, tuning algorithm)
 DPoP        | Demonstrating Proof-of-Possession
 DR          | Disaster Recovery  
@@ -682,6 +683,7 @@ ICML        | International Conference on Machine Learning
 ICMP        | [Internet Control Message Protocol ](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol)
 ICP         | Ideal Customer Profile
 ICS         | Incident Command System
+ICS         | Industrial Control Systems
 ICT         | Information and Communication Technology 
 iDaaS       | Identity as a Service
 IdAM        | See IAM
@@ -1049,6 +1051,7 @@ OSI         | [Open Systems Interconnection](https://en.wikipedia.org/wiki/OSI_m
 OSINT       | Open-Source Intelligence 
 OSQI        | [Open Source Quality Institutes](https://www.tbray.org/ongoing/When/202x/2024/04/01/OSQI) - an idea by Tim Bray
 OSSF        | [Open Source Security Foundation](https://openssf.org/)
+OT          | Operational Technology (re: computing systems that are used to manage industrial operations as opposed to administrative operations)
 OTC         | Order-to-Cash
 OTP         | One-Time Passcode
 ou          | Organizational Unit, re: LDAP 
@@ -1108,6 +1111,7 @@ PKCE        | Proof Key for Code Exchange (pronounced "pixy"), re: [RFC 7636](ht
 PKI         | [Public Key Infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure)
 PKM         | Personal Knowledge Management
 PLC         | Project Life Cycle 
+PLCs        | Programmable Logic Controllers
 PLM         | [Product Lifecycle Management](https://en.wikipedia.org/wiki/Product_lifecycle)
 PLSA        | Probabilistic Latent Semantic Analysis
 PM          | Program Manager
@@ -1275,6 +1279,7 @@ RTR         | Right To Represent
 RTSP        | [Real Time Streaming Protocol](https://en.wikipedia.org/wiki/Real_Time_Streaming_Protocol)
 RTT         | Round-Trip Time  
 RTO         | Recovery Time Objective  
+RTUs        | Remote Terminal Units
 RUM         | Real User Measurements (or Monitoring)
 RUM         | Resources Under Management
 RUP         | Rational Unified Process
