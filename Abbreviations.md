@@ -305,6 +305,7 @@ CNCF        | [Cloud Native Computing Foundation](https://www.cncf.io/)
 CNN         | Convolutional Neural Network
 CoE         | Center of Excellence
 COI         | Community of Interest
+CoLA        | [Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427)
 COOP        | Continuity of Operations 
 CoP         | Community of Practice 
 CORBA       | [Common Object Request Broker Architecture](https://en.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture)
