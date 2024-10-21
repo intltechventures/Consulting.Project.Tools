@@ -142,6 +142,7 @@ BAA         | Business Associate Agreement
 BACM        | [Business Architecture Core Metamodel](https://www.omg.org/spec/BACM) (re: OMG.org)
 BAFO        | Best And Final Offer (e.g., RFP negotiations)
 BAIR        | [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/)
+BASE        | Basically Available, Soft state, Eventual consistency
 BAU         | Business As Usual
 BC          | Business Continuity
 BCD         | Binary Coded Decimal
