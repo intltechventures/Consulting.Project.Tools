@@ -902,6 +902,7 @@ MISD        | [Multiple Instruction Streams, Single Data Stream](https://en.wiki
 MIT/LCS     | [Massachusetts Institute of Technology](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology) Laboratory for Computer Science
 ML          | Machine Learning 
 MLE         | [Maximum Likelihood Estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
+MLLM        | Multimodal Large Language Models
 MLP         | Minimum Lovable Product
 MLP         | [Multi-Layer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 MLS         | [Messaging Layer Security (RFC 9420)](https://datatracker.ietf.org/doc/rfc9420/)
@@ -1578,6 +1579,7 @@ VR          | Virtual Reality
 VRM         | Value Realization Model 
 VRM         | Vendor Relationship Manager (aka VRO)
 VRO         | Vendor Relationship Owner (aka VRM)
+VSA         | Vertical Slice Architecture
 VSAM        | Virtual Storage Access Method
 VSM         | [Value Stream Mapping](https://en.wikipedia.org/wiki/Value-stream_mapping)
 VSM         | [Value Stream Management](https://www.forbes.com/sites/forbestechcouncil/2019/07/08/what-is-value-stream-management-a-primer-for-enterprise-leadership/?sh=68f05f4b7b67)
