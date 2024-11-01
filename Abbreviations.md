@@ -1330,6 +1330,7 @@ SDF         | System Data Flow
 SDG         | Sustainable Development Goals
 SDI         | Software Defined Infrastructure
 SDK         | Software Development Kit  
+SDL         | Secure Development Lifecycle
 SDLC        | Software Development Life-cycle (aka Software Development Process)
 SDLP        | Systems Development Lifecycle Process
 SDN         | [Software Defined Networking](https://en.wikipedia.org/wiki/Software-defined_networking)
