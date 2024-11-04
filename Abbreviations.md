@@ -244,6 +244,9 @@ CD          | Continuous Delivery
 CDC         | Change Data Capture
 CDD         | Customer Due Dilligence (also see KYC)
 CDE         | Cardholder Data Environment
+CDE         | Cloud Development Environment
+CDE         | [Collaborative Development Environment](https://en.wikipedia.org/wiki/Collaborative_development_environment)
+CDE         | [Common Desktop Environment](https://en.wikipedia.org/wiki/Common_Desktop_Environment)
 CDE         | Critical Data Element
 CDF         | [Cumulative Distribution Function](https://en.wikipedia.org/wiki/Cumulative_distribution_function)
 CDI         | Contexts and Dependency Injection 
