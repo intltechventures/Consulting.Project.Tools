@@ -264,6 +264,7 @@ CESGA       | [Galician Supercomputing Center](https://www.cesga.es/)
 CIFAR       | [Canadian Institute for Advanced Research](https://en.wikipedia.org/wiki/Canadian_Institute_for_Advanced_Research)
 CFBR        | Commenting For Better Reach
 CFR         | Change Failure Rate
+CFS         | [Completely Fair Scheduler](https://docs.kernel.org/scheduler/sched-design-CFS.html)
 CFT         | Cross-Functional Team
 CGI         | [Common Gateway Interface](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
 CHAP        | [Challenge-Handshake Authentication Protocol](https://en.wikipedia.org/wiki/Challenge-Handshake_Authentication_Protocol)
