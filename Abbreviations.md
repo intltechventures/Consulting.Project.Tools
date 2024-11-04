@@ -1021,6 +1021,7 @@ OData       | Open Data Protocol
 ODBC        | Open Database Connectivity
 OOBE        | Out-of-Box Experience
 OFAC        | [Office of Foreign Assets Control](https://en.wikipedia.org/wiki/Office_of_Foreign_Assets_Control)
+OG          | [Open Graph](https://en.wikipedia.org/wiki/Facebook_Platform#Open_Graph_protocol), also see [Open Graph Protocol](https://ogp.me/)
 OGL         | [Open Game License](https://en.wikipedia.org/wiki/Open_Game_License) (re: Wizards of the Coast D&D public copyright license)
 OIA         | [Office of Intelligence and Analysis](https://en.wikipedia.org/wiki/Office_of_Intelligence_and_Analysis_(Treasury_Department))
 OIC         | Oracle Integration Cloud (note: renamed in January 2019, to Oracle Integration)
