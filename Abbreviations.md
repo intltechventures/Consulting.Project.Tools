@@ -230,6 +230,7 @@ CBR         | Change Blast Radius
 CBS         | Critical Business System
 CCaaS       | Contact Center as a Service
 CCANM       | Cascade Nonlinear Additive Noise Models 
+CCB         | Change Control Board, or Change Configuration Board
 CCC         | FINOS: [Common Cloud Controls Project](https://www.finos.org/common-cloud-controls-project)
 CCD         | Conceptual Design Document
 CCPOLDAT    | [Customer, Channel, Process, Organisation, Location, Data, Application and Technology](https://en.wikipedia.org/wiki/POLDAT) (see POLDAT)
