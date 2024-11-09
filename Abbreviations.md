@@ -505,6 +505,7 @@ EFTA        | European Free Trade Association
 EHR         | Electronic Health Record(s)
 EIP         | [Enterprise Integration Patterns](https://en.wikipedia.org/wiki/Enterprise_Integration_Patterns), re: [Hophe's EIP Messaging Patterns](https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html)
 EJB         | Enterprise Java Bean
+EKG         | Enterprise Knowledge Graphs
 EKS         | Amazon [Amazon Elastic Kubernetes Service](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html)
 EL          | Enterprise Linux 
 ELF         | [Executable and Linkable Format](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
