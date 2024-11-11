@@ -825,6 +825,7 @@ LBA         | [Logical Block Addressing](https://en.wikipedia.org/wiki/Logical_b
 LBaaS       | Load-Balancer-as-a-Service
 LCAP        | Low-Code Application Platforms
 LCC         | Lower Camel Case
+LCM         | Life Cycle Management
 LCNC        | Low-Code No-Code
 LDA         | Latent Dirichlet Allocation
 LDA         | [Linear Discriminat Analysis](https://en.wikipedia.org/wiki/Linear_discriminant_analysis)
