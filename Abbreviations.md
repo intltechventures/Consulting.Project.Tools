@@ -526,6 +526,7 @@ EPD         | Engineering, Product management, and Design
 ePHI        | Electronically Protected Health Information
 EPLC        | Enterprise Performance Life Cycle 
 EPM         | Enterprise Performance Management 
+EPR         | Electronic Patient Record 
 EPS         | Extrusion Prevention System (see DLP)
 ERD         | Entity Relationship Diagram 
 ERM         | Enterprise Risk Management 
