@@ -1513,6 +1513,7 @@ TRM         | Technical Reference Model
 TRPM        | Third-Party Risk Management
 TSD         | Technical Specification Document
 TSO         | [Time Sharing Option](https://en.wikipedia.org/wiki/Time_Sharing_Option), re: IBM mainframe interactive time-sharing environment
+TSP         | [Trust Service Provider](https://en.wikipedia.org/wiki/Trust_service_provider)
 TSS         | [Time Sharing Operating System](https://en.wikipedia.org/wiki/TSS_(operating_system)), re: IBM
 TSS         | Technical Security Standards
 TTFB        | Time to First Byte
