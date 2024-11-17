@@ -20,7 +20,7 @@ A2C         | Advantage Actor-Critic (e.g., Deep Reinforcement Learning agent)
 AA          | Alternatives Analysis
 AAD         | [Average absolution deviation](https://en.wikipedia.org/wiki/Average_absolute_deviation) 
 AAD         | [Azure Active Directory](https://azure.microsoft.com/en-us/products/active-directory/)
-ABAC        | [Attribute-Based Access Contorl](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see CBAC, PBAC)
+ABAC        | [Attribute-Based Access Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see CBAC, PBAC)
 ABC         | Activity Based Costing
 ABC         | Area of Business Concern
 ABNF        | Augmented Backus-Naur Form (see [RFC-5234](https://tools.ietf.org/html/rfc5234))
@@ -324,6 +324,7 @@ CPG         | Consumer Packaged Goods (e.g. industry)
 CPL         | Cost Per Lead 
 CPM         | Capability Portfolio Management 
 CPU         | [entral Processing Unit](https://en.wikipedia.org/wiki/Central_processing_unit)
+CP-ABE      | Cipher Policy — Attributed-Based Encryption  
 CQRS        | Command Query Responsibility Segregation  
 CR          | Conversion Rate
 CRC         | Class Responsibility Collaboration (i.e., usually captured in a form known as "[cards](http://agilemodeling.com/artifacts/crcModel.htm)", see original [OOPSLA 1989 paper](http://c2.com/doc/oopsla89/paper.html))
@@ -549,6 +550,7 @@ EVM         | Earned Value Management
 FaaS        | Function as a Service
 FAIL        | First Attempt In Learning (i.e. agile)
 FAIR        | [Facebook/Meta AI Research](https://ai.facebook.com/research/)
+FAME        | [Fast Attribute-based Message Encryption](https://eprint.iacr.org/2017/807.pdf)
 FAR         | [Federal Acquisition Regulation](https://www.acquisition.gov/browse/index/far)
 FASB        | [Financial Accounting Standards Board](https://en.wikipedia.org/wiki/Financial_Accounting_Standards_Board)
 FAT         | [File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table)
