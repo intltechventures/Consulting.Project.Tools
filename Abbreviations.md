@@ -18,12 +18,14 @@ This glossary is intended to provide a single refernce to be reused across multi
 A11y        | Accessibility [see: [Mozzila](https://developer.mozilla.org/en-US/docs/Web/Accessibility), [W3C](https://www.w3.org/standards/webdesign/accessibility)]
 A2C         | Advantage Actor-Critic (e.g., Deep Reinforcement Learning agent)
 AA          | Alternatives Analysis
+AA          | Architecture Advisory (~ ARB)
 AAD         | [Average absolution deviation](https://en.wikipedia.org/wiki/Average_absolute_deviation) 
 AAD         | [Azure Active Directory](https://azure.microsoft.com/en-us/products/active-directory/)
 ABAC        | [Attribute-Based Access Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see CBAC, PBAC)
 ABC         | Activity Based Costing
 ABC         | Area of Business Concern
 ABNF        | Augmented Backus-Naur Form (see [RFC-5234](https://tools.ietf.org/html/rfc5234))
+ABS         | As Built Section
 AC          | [Axiom of Choice](https://en.wikipedia.org/wiki/Axiom_of_choice)
 ACE         | Access Control Entry
 ACG         | Automatic Code Generators
@@ -85,6 +87,7 @@ ANN         | [Approximate Nearest Neighbor](https://en.wikipedia.org/wiki/Neare
 ANN         | Artificial Neural Network
 ANOVA       | Analysis of Variance
 ANSI        | [American National Standards Institute](https://en.wikipedia.org/wiki/American_National_Standards_Institute)
+AOD         | Architecture Overview Document 
 AOL         | Attorney Opinion Letters 
 AOP         | Aspect Oriented Programming
 AOT         | Ahead of Time (i.e. compiled ahead of time)
@@ -140,6 +143,7 @@ B2B         | Business-to-Business
 B2C         | Business-to-Consumer
 BA          | Business Analyst
 BAA         | Business Associate Agreement
+BaaS        | Backup as a Service
 BACM        | [Business Architecture Core Metamodel](https://www.omg.org/spec/BACM) (re: OMG.org)
 BAFO        | Best And Final Offer (e.g., RFP negotiations)
 BAIR        | [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/)
@@ -258,6 +262,7 @@ CDO         | Chief Data Officer
 CDO         | Care Delivery Organizatoin
 CDP         | [Customer Data Platform](https://en.wikipedia.org/wiki/Customer_data_platform)
 CE          | Community Edition
+CEA         | Cost Effectiveness Analysis
 CEAF        | California Enterprise Architecture Framework
 CEB         | Corporate Executive Board
 CEH         | Certified Ethical Hacker
@@ -310,10 +315,12 @@ CNAB        | [Cloud Native Application Bundles](https://cnab.io/)
 CNAPP       | [Cloud-Native Application Protection Platform](https://www.microsoft.com/en-us/security/business/security-101/what-is-cnapp) 
 CNCF        | [Cloud Native Computing Foundation](https://www.cncf.io/)
 CNN         | Convolutional Neural Network
+COBIT       | [Control Objectives for Information and related Technology](https://en.wikipedia.org/wiki/COBIT)
 CoE         | Center of Excellence
 COI         | Community of Interest
 CoLA        | [Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427)
-COOP        | Continuity of Operations 
+COLO        | Co-Location / Colocation 
+COOP        | Continuity of Operations Plan
 CoP         | Community of Practice 
 CORBA       | [Common Object Request Broker Architecture](https://en.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture)
 CORS        | [Cross-Origin Resource Sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
@@ -323,6 +330,7 @@ CPC         | Cost Per Click
 CPG         | Consumer Packaged Goods (e.g. industry)
 CPL         | Cost Per Lead 
 CPM         | Capability Portfolio Management 
+CPM         | Critical Path Method
 CPU         | [entral Processing Unit](https://en.wikipedia.org/wiki/Central_processing_unit)
 CP-ABE      | Cipher Policy — Attributed-Based Encryption  
 CQRS        | Command Query Responsibility Segregation  
@@ -339,13 +347,16 @@ CRUD        | Create, Read, Update, Delete
 CSA         | [Cloud Security Alliance](https://cloudsecurityalliance.org/)
 CSA         | Cloud Service Appliance 
 CSAT        | [Customer Satisfaction](https://en.wikipedia.org/wiki/Customer_satisfaction)
+CSB         | Cloud Service Broker
 CSD         | Consolidated Service Desk
 CSF         | Critical Success Factors
 CSDM        | [Common Service Data Model](https://docs.servicenow.com/bundle/paris-servicenow-platform/page/product/csdm-implementation/concept/csdm-basics.html) (re: ServiceNow)
 CSET        | [Center for Security and Emerging Technology (CSET)](https://cset.georgetown.edu/)
 CSF         | Common Security Framework
 CSF         | Critical Success Factors 
+CSI         | Cloud Service Integrator
 CSI         | Container Storage Interface (e.g. Kubernetes)
+CSIA        | Cost/Schedule Impact Analysis
 CSM         | Customer Service Management 
 CSM         | Customer Success Manager
 CSNS        | Cloud Service Network Security 
@@ -365,6 +376,7 @@ CTO         | Chief Technology Officer
 CTR         | Click-Through-Rate
 CUI	   		| Controlled Unclassified Information (CUI), as defined by Executive Order 13556 (2010)
 CUSO        | Combined U.S. Operations
+CV          | Cost Variance 
 CV          | Cross-Validation
 CVD         | Coordinated Vulnerability Disclosure
 CVE         | [Critical Vulnerabilities and Exposures](https://www.cve.org/)
@@ -404,6 +416,7 @@ DCL         | Data Classification & Labeling
 DD          | Data Dictionary 
 DDA         | Data Design Authority
 DDoS        | Distributed Denial-of-Service (i.e. a network traffic attack)
+DDS         | Detailed Design Section
 DEC         | Digital Equipment Corporation 
 DEIB        | Diversity, Equity, Inclusion, and Belonging
 DER         | Distinguished Encoding Rules
@@ -443,10 +456,12 @@ DPC         | Discrete Process Control
 DPO         | Direct Preference Optimization (re: LLMs, tuning algorithm)
 DPoP        | Demonstrating Proof-of-Possession
 DR          | Disaster Recovery  
+DRaaS       | Disaster Recovery as a Service
 DRB         | Design Review Board  
 DRBG        | [Deterministic Random Bit Generator](https://en.wikipedia.org/wiki/Pseudorandom_number_generator) - also see PRNG
 DRI         | Directly Responsible Individual
 DRL         | Deep Reinforcement Learning
+DRP         | Disaster Recovery Plan
 DRY         | Don't Repeat Yourself
 DSA         | Data Structures and Algorithms
 DSA         | [Digital Signature Algorithm](https://en.wikipedia.org/wiki/Digital_Signature_Algorithm)
@@ -461,6 +476,7 @@ DSRP        | [Distinctions, Systems, Relationships, and Perspectives](https://e
 DSS         | Data Security Standard
 DTAP        | Development, Test, Acceptance, Production (i.e, typical deployment environment types) 
 DTC         | direct-to-consumer
+DTD         | Document Type Definition
 DTO         | [Data Transfer Object](https://en.wikipedia.org/wiki/Data_transfer_object)
 DTSTTCPW    | [Do The Simplest Thing That Could Possibly Work](https://wiki.c2.com/?DoTheSimplestThingThatCouldPossiblyWork) 
 DVI         | [Device Independent file format](https://en.wikipedia.org/wiki/Device_independent_file_format)
@@ -471,12 +487,14 @@ DX          | Developer Experience
 DXP         | Digital Experience Platform
 **E__**     | 
 EA          | Enterprise Architecture  
-EAI         | Enterprise Application Integration  
+EAC         | Estimate at Completion
+EAI         | [Enterprise Application Integration](https://en.wikipedia.org/wiki/Enterprise_application_integration)
 EAMS        | Enterprise Architecture Management Suite
 EAP         | [Extensible Authentication Protocol](https://en.wikipedia.org/wiki/Extensible_Authentication_Protocol)
 EAR			| Export Administration Regulations
 EAR         | [Enterprise Application aRchive (file format)](https://en.wikipedia.org/wiki/EAR_(file_format))
 EARS        | [Easy Approach to Requirements Syntax](https://alistairmavin.com/ears/) (re: Alistair Mavin, Rolls Royce)
+EBA         | Enterprise Business Architecture 
 EBA         | Experience-Based Acceleration
 EBS         | [Amazon Elastic Block Storage](https://en.wikipedia.org/wiki/Amazon_Elastic_Block_Store)
 EBV         | [Equiangular-Basis-Vectors](https://arxiv.org/abs/2303.11637)
@@ -504,7 +522,8 @@ EDW         | Enterprise Data Warehouse (also see DW, DWH)
 EEA         | European Economic Area
 EFF         | [Electronic Frontier Foundation](https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation)
 EFTA        | European Free Trade Association 
-EHR         | Electronic Health Record(s)
+EHR         | Electronic Health Record
+EIA         | Enterprise Information Architecture
 EIP         | [Enterprise Integration Patterns](https://en.wikipedia.org/wiki/Enterprise_Integration_Patterns), re: [Hophe's EIP Messaging Patterns](https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html)
 EJB         | Enterprise Java Bean
 EKG         | Enterprise Knowledge Graphs
@@ -515,31 +534,38 @@ ELT         | Extract, Load, Transform
 EM          | [Expectation Management](https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm) algorithm (re: Machine Learning)
 EME         | [Encrypted Media Extensions](https://en.wikipedia.org/wiki/Encrypted_Media_Extensions), re: W3C HTML5 recommendations
 EMEA        | Europe, the Middle East, and Africa
+EMM         | Enterprise Mobility Management
+EMR         | Electronic Medical Record
 EMS         | [Execution Management System](https://en.wikipedia.org/wiki/Execution_management_system)
 ENA         | Elastic Network Adapter
 ENI         | Elastic Network Interface (re: AWS)
 ENs         | European Standards
-EOL         | End of Life
 EOL         | End of Line
+EOL         | End of Life
+EOLD        | End of Life Date
 EOS         | Exactly Once Semantics 
+EOSL        | End of Service Life Date 
 EPC         | Electronic Product Code
 EPD         | Engineering, Product management, and Design
 ePHI        | Electronically Protected Health Information
 EPLC        | Enterprise Performance Life Cycle 
 EPM         | Enterprise Performance Management 
+EPM         | Enterprise Program Management 
 EPR         | Electronic Patient Record 
 EPS         | Extrusion Prevention System (see DLP)
 ERD         | Entity Relationship Diagram 
 ERM         | Enterprise Risk Management 
 ERP         | Enterprise Resource Planning
 ES          | ECMAScript (aka JavaScript)
-ESA         | Enterprise Solution Architecture
+ESA         | Enterprise Solutions Architecture
 ESG         | [Environmental, Social, and Governance](https://www.esg.org/)
 ESO         | European Standards Organization
 ESCO        | Enterprise Security Operations Center
 ESOP        | Employment Stock Ownership Plan
 ESP         | [Event Stream Processing](https://en.wikipedia.org/wiki/Event_stream_processing)
 ESPP        | Employee Stock Purchase Plan
+ETA         | Enterprise Technical Architecture
+ETC         | Estimate to Complete 
 ETL         | Extract, Transform, Load
 ETSI        | [European Telecommunications Standards Institute](https://en.wikipedia.org/wiki/ETSI)
 EU          | European Union 
@@ -615,6 +641,7 @@ GFCI        | Greedy Fast Causal Interference (GFCI) Algorithm
 GHAS        | [GitHub Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security)
 GIL         | [Global Interpreter Lock](https://en.wikipedia.org/wiki/Global_interpreter_lock)
 GIN         | Generalized Inverted Index
+GIS         | Geographic Information System
 GIST        | Generalized Search Tree
 GJXDM       | [Global Justice XML Data Model](https://en.wikipedia.org/wiki/GJXDM)
 GL          | General Ledger
@@ -647,6 +674,7 @@ GUI         | [Graphical User Interface](https://en.wikipedia.org/wiki/Graphical
 GUID        | [Globally Unique Identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier) - see UUID
 GWP         | Gross Written Premium (insurance industry)
 **H__**     | 
+HA          | High Availability
 HAI         | Stanford Institute for Human-Centered Artificial Intelligence 
 HATEOAS     | [Hypermedia As The Engine Of Application State](https://en.wikipedia.org/wiki/HATEOAS)
 HBM         | High-Bandwidth Memory
@@ -663,6 +691,7 @@ Hipster     | [Health IoT Privacy and Security Transferred to Engineering Requir
 HITRUST     | Health Information Trust Alliance
 HLD         | High-Level Design  
 HLP         | Human Level Performance (re: Machine Learning)
+HLS         | High-Level Section
 HMAC        | [Hash-based Message Authentication Code](https://en.wikipedia.org/wiki/HMAC)
 HMM         | Hidden Markov Models
 HNSW        | [Hierarchical Navigable Small World](https://en.wikipedia.org/wiki/Hierarchical_navigable_small_world)
@@ -688,6 +717,7 @@ IAM         | [Identity and Access Management](https://en.wikipedia.org/wiki/Ide
 IANA        | [Internet Assigned Numbers Authority](https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority)
 IAS         | International Accounting Standard
 IAST        | Integrated Application Security Testing
+IBC         | Investment Business Case
 IC          | Individual Contributor
 IC          | [United States IntelligenceCommunity](https://en.wikipedia.org/wiki/United_States_Intelligence_Community)
 ICANN       | [Internet Corporation for Assigned Names and Numbers](https://en.wikipedia.org/wiki/ICANN)
@@ -705,7 +735,7 @@ IDD         | Infrastructure Design Document
 IDDFS       | Iterative Deepening Depth First Search
 IDE         | Integrated Development Environment    
 IDEA        | [Imagine, Decide, Execute, Assess](https://www.infoq.com/articles/nuture-culture-continuous-experimentation/)
-IDL         | [Interface Description Language](https://en.wikipedia.org/wiki/Interface_description_language)
+IDL         | [Interface {Definition | Description} Language](https://en.wikipedia.org/wiki/Interface_description_language)
 IdM         | Identity Management, also see IAM
 IdP         | Identity Provider
 IDP         | Individual Development Plan 
@@ -715,13 +745,17 @@ IE          | Information Extraction, re: NER, DL, ML, NLP
 IEC         | [International Electrotechnical Commission](https://en.wikipedia.org/wiki/International_Electrotechnical_Commission)
 IEEE        | [Institute of Electrical and Electronics Engineers](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers)
 IETF        | [Internet Engineering Task Force](https://www.ietf.org/)
+IFB         | Invitation for Bids
 IG          | [Information Gain (decision tree)](https://en.wikipedia.org/wiki/Information_gain_(decision_tree))
 IGA         | Identity Governance and Administration, see IAM
 ILDP        | Information Leak Detection and Prevention (see DLP)
 ILM         | [Information Lifecycle Management](https://en.wikipedia.org/wiki/Information_lifecycle_management)
 IM          | Incident Management 
 IM          | Information Model
+IMAP        | Internet Message Access Protocol 
+IMEI        | International Mobile Equipment Identity
 IMO         | Integration Management Office (i.e., during Mergers & Acquisitions)
+IMSI        | International Mobile Subscriber Identity
 INCOSE      | [International Council on Systems Engineering](https://en.wikipedia.org/wiki/International_Council_on_Systems_Engineering)
 IND         | [Inverse Neighbor Discovery](https://en.wikipedia.org/wiki/Neighbor_Discovery_Protocol)
 INVEST      | Independent Negotiable Valuable Estimable Small Testable [(source)](http://wiki.c2.com/?InvestModelForUserStories)
@@ -747,6 +781,8 @@ IPX         | [Internetwork Packet Exchange](https://en.wikipedia.org/wiki/Inter
 IR          | Incident Response 
 IR          | Information Retrieval 
 IR35        | [Off-payroll working rules for clients, workers (contractors) and their intermediaries (UK)](https://www.gov.uk/guidance/understanding-off-payroll-working-ir35)
+IRC         | Incident Response Capability
+IRC         | [Internet Relay Chat](https://en.wikipedia.org/wiki/IRC)
 IRM         | Incident Response Management
 IRM         | Individual Rights Management
 IRM         | Information Risk Management 
@@ -755,6 +791,8 @@ IRP         | [I/O Request Packet](https://en.wikipedia.org/wiki/I/O_request_pac
 IRR         | [Internal Rate of Return](https://en.wikipedia.org/wiki/Internal_rate_of_return)
 IRSA        | [IAM Roles for Service Accounts](https://docs.aws.amazon.com/eks/latest/userguide/iam-roles-for-service-accounts.html) re: AWS EKS
 IRT         | Incident Response Team
+IS          | Information Security
+ISA         | Information Security Agreement
 ISA         | Information Security Architecture 
 ISA         | [Instruction Set Architecture](https://en.wikipedia.org/wiki/Instruction_set_architecture)
 ISAM        | Indexed Sequential Access Method
@@ -765,8 +803,10 @@ ISG         | Industry Specification Group
 ISM         | Industrial, Scientific and Medical
 ISM         | [Information Security Management](https://en.wikipedia.org/wiki/Information_security_management)
 ISMS        | [Information Security Management System](https://en.wikipedia.org/wiki/Information_security_management)
+ISO         | Information Security Officer 
 ISO         | [International Standards Organization](https://en.wikipedia.org/wiki/International_Organization_for_Standardization)
 ISOC        | [Internet Society](https://en.wikipedia.org/wiki/Internet_Society)
+ISP         | Information Security Policy 
 ISP         | Internet Service Provider
 ISPF        | [Interactive System Productivity Facility](https://en.wikipedia.org/wiki/ISPF), re: IBM mainframe software product
 ISPs        | [Internet service providers](https://en.wikipedia.org/wiki/Internet_service_provider)
@@ -777,10 +817,14 @@ IT4IT       | [The IT4IT Reference Architecture](https://www.opengroup.org/it4it
 ITAM        | IT Asset Management 
 ITAR		| International Traffic in Arms Regulations
 ITIL        | [Information Technology Infrastructure Library](https://en.wikipedia.org/wiki/ITIL)
+ITIM        | Information Technology Investment Management
 ITIRB       | Information Technology Investment Review Board
+ITRM        | Information Technology Resource Management
 ITS         | [Intelligent Transportation System](https://en.wikipedia.org/wiki/Intelligent_transportation_system)
 ITSM        | Information Technlogy Service Management
+ITSP        | IT Strategic Plan
 ITU         | [International Telecommunication Union](https://en.wikipedia.org/wiki/International_Telecommunication_Union)
+IV&V        | Independent Verification and Validation
 IX          | Internet Exchange
 IXPs        | [Internet exchange points](https://en.wikipedia.org/wiki/Internet_exchange_point)
 **J__**     | 
@@ -836,16 +880,19 @@ LDAP        | [Lightweight Directory Access Protocol](https://en.wikipedia.org/w
 LDIF        | [LDAP Data Interchange Format](https://en.wikipedia.org/wiki/LDAP_Data_Interchange_Format), [RFC 2849 The LDAP Data Interchange Format (LDIF) - Technical Specification](https://tools.ietf.org/html/rfc2849)
 LEM         | [Law of Excluded Middle](https://en.wikipedia.org/wiki/Law_of_excluded_middle)
 LeSS        | [Large Scale Scrum](https://less.works/)
+LFS         | Late Finish Date
 LGPL        | (GNU) Lesser General Public License 
 LID         | Language Identification
 LLaMA       | Large Language Model Meta AI
 LLC         | [Logical Link Control](https://en.wikipedia.org/wiki/Logical_link_control)
 LLM         | Large Language Model
 LLRT        | Low Latency Runtime (e.g., [AWS](https://github.com/awslabs/llrt))
+LOE         | Level of Effort
 LOI         | Letter of Intent
 LoRA        | [Low-Rank Adaptation](https://arxiv.org/abs/2106.09685) (of Large Language Models) [see [Microsoft github repo](https://github.com/microsoft/LoRA)]
 LPU         | Language Processing Unit 
 LRM         | Large Reasoning Model
+LS          | Late Start Date
 LSA         | Latent Semantic Analysis
 LSA         | Local Service Agreement
 LSE         | Large Scale Event
@@ -868,13 +915,16 @@ MAC         | [Message Authentication Code](https://en.wikipedia.org/wiki/Messag
 MAD         | [Mean absolute deviation](https://en.wikipedia.org/wiki/Average_absolute_deviation)
 MAD         | [Median absolution deviation](https://en.wikipedia.org/wiki/Median_absolute_deviation)
 MAE         | Mean Absolute Error
+MAM         | Mobile Application Management 
 MAMOS       | [Methods, Architecture, Management, Organization, Skills](https://qeunit.com/mamos/)
 MANOVA      | Multivariate Analysis of Variance
 MAO         | Maximum Acceptable Outage
-MAPE        | Mean Absolute Percentage Error
 MAP         | Mean Average Precision
+MAPE        | Mean Absolute Percentage Error
+MAPI        | Messaging Application Programming Interface
 MAR         | Missing At Random (re: systematically missing data)
 MAU         | Monthly Active Users
+MAU         | Multi-station Access Unit
 MBaaS       | Mobile Back End as a Service
 MBCO        | Minimum Business Continuity Objective 
 MBR         | [Master Boot Record](https://en.wikipedia.org/wiki/Master_boot_record)
@@ -908,6 +958,7 @@ MGF         | [Moment-generating function](https://en.wikipedia.org/wiki/Moment-
 MIM         | Major Incident Management
 MIMD        | [Multiple instruction streams, multiple data streams](https://en.wikipedia.org/wiki/MIMD)
 MIME        | [Multipurpose Internet Mail Extensions](https://en.wikipedia.org/wiki/MIME)
+MIMO        | Multiple Input Multiple Output 
 MIPS        | Million of Instructions Per Second  
 MIRT        | Major Incident Response Team
 MISD        | [Multiple Instruction Streams, Single Data Stream](https://en.wikipedia.org/wiki/MISD)
@@ -930,6 +981,7 @@ MOQ         | Minimum Order Quantity
 MOTS        | Modified Off-The-Shelf 
 MOU         | Memorandum of Understanding
 MPL         | [Mozilla Public License](https://www.mozilla.org/en-US/MPL/)
+MPLS        | Multiprotocol Label Switching 
 MPM         | [Manufacturing process management](https://en.wikipedia.org/wiki/Manufacturing_process_management)
 MQL         | Marketing Qualified Lead
 MRA         | Matters Requiring Attention
@@ -948,7 +1000,9 @@ MSP         | [Managed Service Provider](https://en.wikipedia.org/wiki/Managed_s
 MSRC        | [Microsoft Security Response Center](https://msrc.microsoft.com/)
 MSSP        | Managed Security Service Provider 
 MSTC        | Microsoft Threat Intelligence Center
+MTA         | Message Transfer Agent
 MTD         | Maximum Tolerable Downtime
+MTD         | Mobile Threat Defense 
 MTDL        | Maximum Tolerable Data Loss
 mTLS        | Mutual Transport Layer Security (or, Mutually Authenticated TLS)
 MTPD        | Maximum Tolerable Period of Disruption 
@@ -959,6 +1013,7 @@ MTTR        | [Mean Time to Repair](https://en.wikipedia.org/wiki/Mean_time_to_r
 MTTR        | Mean Time to Remediate
 MTTR        | Mean Time to Resolution 
 MTU         | [Maximum Transmission Unit](https://en.wikipedia.org/wiki/Maximum_transmission_unit). Maximum frame or packet size for a particular network medium.
+MUA         | Mail User Agent 
 MUPS        | Minimum Usable Products/Services
 MVC         | [Model-View-Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 MVCC        | Multi Version Concurrency Control
@@ -987,6 +1042,7 @@ NDR         | Network Detection and Response
 NER         | Named Entity Recognition, re: ML
 NeRF        | Neural Radiance Fields (re: Deep Learning, optimizing continuous volumetric scene function)
 NGAV        | New-Generation Antivirus 
+NIC         | Network Interface Card
 NIDS        | [Network-based Intrusion Detection System](https://en.wikipedia.org/wiki/Intrusion_detection_system)
 NISQ        | Noisy Intermediate-Scale Quantum
 NIST        | National Institute of Standards and Technology
@@ -1009,6 +1065,7 @@ NPM         | [Node Package Manager](https://www.npmjs.com/)
 NPPI        | Non-Public Personal Informaiton (aka NPI)
 NPV         | [Net Present Value](https://en.wikipedia.org/wiki/Net_present_value)
 NRD         | Non-Record Disposal
+NRT         | Near Real-Time
 NSA         | National Security Agency
 NSG         | Network Security Group
 NSH         | Network Service Header 
@@ -1021,6 +1078,7 @@ NTP         | [Network Time Protocol](https://en.wikipedia.org/wiki/Network_Time
 NVD         | [National Vulnerability Database](https://nvd.nist.gov/)
 **O__**     |
 OASIS       | Organization for the Advancement of Structured Information Systems
+OBS         | Organizational Breakdown Structure
 OCF         | [Operating Cash Flow](https://en.wikipedia.org/wiki/Operating_cash_flow)
 OCI         | [Open Container Initiative](https://opencontainers.org/)
 OCI         | Oracle Cloud Infrastructure
@@ -1044,6 +1102,7 @@ OKRs        | [Objectives and Key Results](https://en.wikipedia.org/wiki/OKR)
 OLA         | Operational-Level Agreement
 OLAP        | Online Analytical Processing
 OLB         | Object Language Bindings
+OLE         | Object Linking and Embedding
 OLIN        | Online Information Network
 OLTP        | Online Transaction Processing 
 OMB         | Office of Management and Budget
@@ -1060,12 +1119,14 @@ OPEA        | [Open Platform for Enterprise AI](https://opea.dev/), ([GitHub](ht
 OpenELA     | [Open Enterprise Linux Association](https://openela.org/)
 OpEx        | [Operational Expense](https://en.wikipedia.org/wiki/Operating_expense)
 OPS         | Operations
+ORB         | Object Request Broker 
 ORC         | Operational Risk Committee 
 OSF         | [Open Software Foundation](https://en.wikipedia.org/wiki/Open_Software_Foundation)
 OSFI        | Canadanian version of OFAC
 OSI         | [Open Systems Interconnection](https://en.wikipedia.org/wiki/OSI_model) model 
 OSINT       | Open-Source Intelligence 
 OSQI        | [Open Source Quality Institutes](https://www.tbray.org/ongoing/When/202x/2024/04/01/OSQI) - an idea by Tim Bray
+OSS         | Open Source Software 
 OSSF        | [Open Source Security Foundation](https://openssf.org/)
 OT          | Operational Technology (re: computing systems that are used to manage industrial operations as opposed to administrative operations)
 OTC         | Order-to-Cash
@@ -1077,6 +1138,7 @@ OWL         | [Web Ontology Language](https://en.wikipedia.org/wiki/Web_Ontology
 **P__**     | 
 P           | Precision
 P&L         | Profit and Loss 
+PA          | Policy Administrator
 PaaR        | Platform as a Runtime
 PaaS        | Platform as a Service, aka aPaaS (i.e., Application Platform as a Service)
 PaLM        | [Pathways Language Model](https://arxiv.org/abs/2204.02311)
@@ -1091,31 +1153,43 @@ PBAC        | [Policy-Based Access Control](https://en.wikipedia.org/wiki/Attrib
 PBC         | Packaged Business Capability
 PBI         | Product Backlog Item (i.e. Scrum)
 PBL         | Product Backlog (i.e. Scrum)
+PBX         | Private Branch Exchange
+PC          | Percent Complete
 PCA         | [Principlal Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis)
+PCAP        | Packet Capture
+PCD         | Project Concept Document
 PCI DSS     | Payment Card Industry Data Security Standard
+PCMCIA      | Personal Computer Memory Card International Association 
 PCR         | Policy Change Request
 PCR         | Project Change Request
+PDA         | Personal Digital Assistants
 PDCA        | Plan-Do-Check-{Act | Adjust} (Shewhart’s PDCA cycle, aka the Deming Cycle) [also see PDSA]
 PDH         | Product Development Hub
 PDI         | Personal Developer Instances 
 PDK         | Platform Development Kit 
+PDM         | Precedence Diagramming Method 
 PDM         | [Product Data Management](https://en.wikipedia.org/wiki/Product_data_management)
 PDSA        | Plan-Do-Study-Act
 PDP         | Policy Decision Point
 PDP         | [Programmed Data Processor](https://en.wikipedia.org/wiki/Programmed_Data_Processor)
 PDSA        | [Plan-Do-Stuy-Act](https://en.wikipedia.org/wiki/Continual_improvement_process)
 PDU         | [Protocol data unit](https://en.wikipedia.org/wiki/Protocol_data_unit)
+PE          | Policy Engine
 PE          | [Private Equity](https://www.investopedia.com/terms/p/privateequity.asp) 
 PEAP        | [Protected Extensible Authentication Protocol](https://en.wikipedia.org/wiki/Protected_Extensible_Authentication_Protocol)
 PEER        | Parameter Efficient Expert Retrieval
 PEFT        | Parameter Efficient Fine Tuning
 PEM         | Privacy Enhanced Mail
 PEP         | [Packet Exchange Protocol](https://en.wikipedia.org/wiki/Xerox_Network_Systems#Transport_layer_protocols)
+PEP         | Policy Enforcement Point 
+PERT        | Program Evaluation and Review Technique
 PGM         | Program
 PGP         | [Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
 PHI			| Protected Health Information (re: HIPPA) 
+PI          | Personal Information
 PI          | Program Increment (re: Scaled Agile Framework, SAFe)
 PIA         | Privacy Impact Assessment
+PIA         | Project Initiation Approval
 PII			| Personally Identifiable Information
 PIN         | Personal Identification Number 
 PIP         | [Performance Improvement Plan](https://en.wikipedia.org/wiki/Performance_improvement)
@@ -1140,12 +1214,14 @@ PO          | Purchase Order
 POC         | [Point of Contact](https://en.wikipedia.org/wiki/Point_of_contact)
 POC         | Proof-of-Concept
 POD         | Point of Delivery
+PoE         | Power-over-Ethernet
 POJO        | [Plain Old Java Object](https://en.wikipedia.org/wiki/Plain_old_Java_object)
 POLDAT      | [Process, Organization and Location (Business Architecture) and Data, Applications and Technology (Systems Architecture)](https://en.wikipedia.org/wiki/POLDAT)
 POLO        | Plain Old Language Objects
 PoLP        | Principle of Least Privilege 
 POOGI       | [Process Of Ongoing Improvement](https://en.wikipedia.org/wiki/Continual_improvement_process) [see TOC, Theory of Constraints]
 PoP         | Policy on Policies
+POP3        | Post Office Protocol version 3
 POSIX       | [Portable Operating System Interface](https://en.wikipedia.org/wiki/POSIX)
 POTS        | [Plain old telephone service](https://en.wikipedia.org/wiki/Plain_old_telephone_service)
 POV         | Point of View
@@ -1174,6 +1250,8 @@ PSD2        | [Payment Services Directive](https://edpb.europa.eu/sites/edpb/fil
 PSM         | Persistent Stored Modules
 PSM         | Propensity Score Matching
 PSTN        | [Public switched telephone network](https://en.wikipedia.org/wiki/Public_switched_telephone_network)
+PTB         | Permit To Build
+PTD         | Permit to Deploy
 PTP         | Procure-to-Pay
 PUP         | [PARC Universal Packet](https://en.wikipedia.org/wiki/PARC_Universal_Packet)
 PV          | [Present Value](https://en.wikipedia.org/wiki/Present_value)
@@ -1185,6 +1263,7 @@ P2P         | [Peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer)
 QA          | [Quality Assurance](https://en.wikipedia.org/wiki/Quality_assurance)
 QAOA        | [Quantum Approximate Optimization Algorithm](https://en.wikipedia.org/wiki/Quantum_optimization_algorithms)
 QAR         | Quality Assurance Review
+QC          | QUality Control
 QEC         | Quantum Error Correction 
 QFT         | [Quantum Field Theory](https://en.wikipedia.org/wiki/Quantum_field_theory)
 QFT         | [Quantum Fourier Transform](https://en.wikipedia.org/wiki/Quantum_Fourier_transform)
@@ -1207,7 +1286,9 @@ QUIC        | [QUIC](https://en.wikipedia.org/wiki/QUIC) (pronounced "quick") is
 **R__**     |
 R2          | R-Squared
 RA          | Registration Authority
+RA          | Risk Assessment
 RAA         | Responsibility, Accountability, Authority 
+RAC         | Real Application Cluster
 RACF        | IBM [Resource Access Control Facility](https://en.wikipedia.org/wiki/Resource_Access_Control_Facility)
 RACI        | Responsible, Accountable, Consulted, Informed
 RAD         | Rapid Application Development 
@@ -1215,6 +1296,7 @@ RAG         | [Retrieval-Augmented Generation](https://arxiv.org/abs/2005.11401)
 RAG         | Red, Amber (Yellow), Green (see: [Traffic Light Rating System](https://en.wikipedia.org/wiki/Traffic_light_rating_system))
 RAID        | Redundant Array of Independent Disks
 RAM         | Random Access Memory
+RAM         | Responsibility Assignment Matrix
 RAML        | [REST API Modeling Language](https://en.wikipedia.org/wiki/RAML_(software))
 RAPT        | Reverse Address and Port Translation (see RAT)
 RAR         | [Roshal Archive (file format)](https://en.wikipedia.org/wiki/RAR_(file_format)), re: archival 
@@ -1229,6 +1311,7 @@ RCA         | Root Cause Analysis
 RCE         | Remote Code Execution
 RCG         | Risk and Controls Group
 RCT         | [Randomized Controlled Trial](https://en.wikipedia.org/wiki/Randomized_controlled_trial)
+RD          | Remaining Duration
 RDB         | Relational Database
 RDC         | [Remote Desktop Connection](https://en.wikipedia.org/wiki/Remote_Desktop_Services#Remote_Desktop_Connection)
 RDF         | [Resource Description Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework)
@@ -1262,6 +1345,7 @@ RMA         | [Return Merchandise Authorization](https://en.wikipedia.org/wiki/R
 RMA         | Risk Management Administration
 RMAD        | Rapid Mobile App Development  
 RMF         | Risk Management Framework 
+RMI         | Remote Method Invocation
 RMIS        | Risk Management Information System
 RMS         | Rights Management Service
 RMSE        | Root Mean Squared Error
@@ -1336,6 +1420,7 @@ SCD         | Slowly Changing Dimension
 SCI         | Sensitive Compartmented Information 
 SCIM        | System for Cross-Domain Identity Management (re: [RFC7644](https://www.rfc-editor.org/rfc/rfc7644.html))
 SCP         | Service Control Policy
+SCSI        | Small Computer System Interface
 SCTP        | [Stream Control Transmission Protocol](https://en.wikipedia.org/wiki/Stream_Control_Transmission_Protocol)
 SD          | Service Desk
 SDF         | System Data Flow 
@@ -1344,9 +1429,11 @@ SDI         | Software Defined Infrastructure
 SDK         | Software Development Kit  
 SDL         | Secure Development Lifecycle
 SDLC        | Software Development Life-cycle (aka Software Development Process)
+SDLC        | Synchronous Data Link Control
 SDLP        | Systems Development Lifecycle Process
 SDN         | [Software Defined Networking](https://en.wikipedia.org/wiki/Software-defined_networking)
 SDN         | [Specially Designated Nationals and Blocked Persons List](https://en.wikipedia.org/wiki/Specially_Designated_Nationals_and_Blocked_Persons_List)
+SDO         | Standards Development Organization
 SDP         | Safe Deployment Practices
 SDP         | Software Defined Perimeter (also see VPN)
 SDR         | Sales Development Representative
@@ -1396,23 +1483,28 @@ SME         | Subject Matter Expert
 SMO         | Service Management Office
 SMOTE       | Synthetic Minority Over-Sampling Technique
 SMS         | [Short Message Service](https://en.wikipedia.org/wiki/SMS)
+SMT         | Simultaneous Multithreading
 SMTP        | [Simple Mail Transfer Protocol](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol)
 SMURFS      | Specifically Marketable, Useful, Releasable Feature Sets ([source](https://www.agileconnection.com/article/instead-mvps-maybe-we-should-be-releasing-smurfs)
 sn          | Surname, re: LDAP
 SN          | abbreviation for [ServiceNow](https://www.servicenow.com/)
+SNA         | {Service | System} Networking Architecture
 SNAFU       | Situation Normal, All Fucked Up
 SNI         | [Server Name Indiciation](https://en.wikipedia.org/wiki/Server_Name_Indication)
+SNMP        | Simple Network Management Protocol 
 SNOW        | abbreviation for [ServiceNow](https://www.servicenow.com/)
 SO          | Sales Order
 SOA         | [Service Oriented Architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture)
 SOA         | [Start of Authority](https://en.wikipedia.org/wiki/SOA_record) record, re: DNS
 SOAP        | [Simple Object Access Protocol](https://en.wikipedia.org/wiki/SOAP)
+SOAR        | Security, Orchestration, Automation, and Response
 SOC         | Security Operations Center 
 SOC         | System and Organization Controls
 SoE         | System of Engagement
 SOLID       | Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion
 SOM         | Serviceable Obtainable Market
 SONET       | [Synchronous optical networking](https://en.wikipedia.org/wiki/Synchronous_optical_networking)
+SOSC        | Service Offerings and Support Center 
 SOSL        | [Salesforce Object Search Language](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/)
 SOP         | Standard Operating Procedure
 SOR         | System of Record
@@ -1429,6 +1521,7 @@ SPDX        | [Software Package Data Exchange](https://spdx.dev/), re: [ISO/IEC 
 SPF         | [Sender Policy Framework](https://en.wikipedia.org/wiki/Sender_Policy_Framework), re: email auth
 SPICE       | [Simple Protocol for Independent Computing Environments](https://en.wikipedia.org/wiki/Simple_Protocol_for_Independent_Computing_Environments) 
 SPIFFE      | [Secure Production Identity Framework for Everyone](https://spiffe.io/)
+SPII        | Sensitive Personally Identifiable Information
 SPKI        | Simple Public Key Infrastructure
 SPM         | Service Portfolio Management
 SPOC        | [Single Point of Contact](https://en.wikipedia.org/wiki/Point_of_contact)
@@ -1441,6 +1534,7 @@ SOX         | Sarbanes-Oxley Act of 2002
 SQL         | Sales Qualified Lead
 SQL         | Structured Query Language
 SRA         | Security Risk Assessment
+SRM         | Service-Component Reference Model 
 SRMA        | Supplier Risk Management Assessment
 SRP         | Single Responsibility Principle
 SRS         | Secure and Reliable Systems
@@ -1464,6 +1558,7 @@ STM-1       | [Synchronous Transport Module level-1](https://en.wikipedia.org/wi
 STS         | Security Token Service
 SuD         | System Under Discussion (re, see book: [Writing Effective Use Cases](https://www.amazon.com/Writing-Effective-Cases-Alistair-Cockburn/dp/0201702258))
 SUTVA       | [Stable Unit Treatment Value Assumption](https://en.wikipedia.org/wiki/Rubin_causal_model#Stable_unit_treatment_value_assumption_(SUTVA)) 
+SV          | Schedule Variance 
 SVD         | Single Value Decomposition
 SVG         | [Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 SW          | Software
@@ -1485,11 +1580,13 @@ TB          | Terabyte
 TBD         | To Be Determined
 TBM         | Technolog Business Management 
 TBM         | [Technology Business Management Council](https://www.tbmcouncil.org/)
+TBT         | Total Blocking Time 
 TCO         | Total Cost of Ownership (see TOC)
 TCP         | [Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 TCP/IP      | [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite)
 TCV         | Total Contract Value (TCV) 
 TDD         | [Test-Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
+TDMA        | Time Division Multiple Access
 TFI         | [Office of Terrorism and Financial Intelligence](https://en.wikipedia.org/wiki/Office_of_Terrorism_and_Financial_Intelligence)
 TFP         | [Total Factor Productivity](https://en.wikipedia.org/wiki/Total_factor_productivity)
 TGB         | Technology Governance Board
@@ -1529,10 +1626,12 @@ TWh         | Terawatt-hours
 TXN         | Transaction
 **U__**     |
 UAT         | User Acceptance Testing
+UBA         | User Behavior Analytics
 UCaaS       | [Unified Communications as a Service](https://en.wikipedia.org/wiki/Unified_communications_as_a_service)
 UCP         | Universal Control-Plane
 UDDI        | Universal Description, Discovery, & Integration
 UDEF        | Universal Data Element Framework
+UDEM        | Unified Endpoint Management
 UDF         | User Defined File
 UDF         | User Defined Function
 UDN         | [Unbounded Depth Neural Network](https://www.marktechpost.com/2022/10/03/researchers-at-columbia-university-propose-the-unbounded-depth-neural-network-udn-an-infinitely-deep-probabilistic-model-that-enables-self-adaption-to-the-training-data-without-an-upper-limit/)
@@ -1545,8 +1644,11 @@ UGC         | User Generated Content
 UI          | User Interface  
 UIMA        | Unstructured Information Management Architecture
 ULID        | [Universally unique Lexicographically sortable IDentifier](https://github.com/ulid/spec)
+UMB         | Ultra Mobile Broadband
 UML         | Unified Modeling Language
 UPC         | [Universal Product Code](https://en.wikipedia.org/wiki/Universal_Product_Code)
+URL         | Uniform Resource Locator 
+US-NII      | Unlicensed National Information Infrastructure bands
 USB         | [Universal Serial Bus](https://en.wikipedia.org/wiki/USB)
 USL         | [Universal Scalability Law](http://www.perfdynamics.com/Manifesto/USLscalability.html) ~ [Neil J. Gunther](https://en.wikipedia.org/wiki/Neil_J._Gunther)
 UTC         | Coordinated Universal Time 
@@ -1585,7 +1687,7 @@ VMI         | Virtual Machine Image
 VNC         | Virtual Network Computing
 VNet        | Virtual Network
 VNI ???     | Virtual Network Interface
-VoIP        | [Voice over IP](https://en.wikipedia.org/wiki/Voice_over_IP)
+VoIP        | [Voice over Internet Protocol](https://en.wikipedia.org/wiki/Voice_over_IP)
 VPDA        | Versioning, Packaging, Dependency Management, Artifact Management
 VPN         | [Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network)
 VPS         | Virtual Private Server 
@@ -1609,14 +1711,19 @@ W3C         | [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wi
 WaaS        | Workers as a Service
 WADL        | [Web Application Description Language](https://en.wikipedia.org/wiki/Web_Application_Description_Language)
 WAF         | [Web Application Firewall](https://en.wikipedia.org/wiki/Web_application_firewall)
+WAFS        | Wide Area File Services
+WAI         | Web Accessibility Initiative
 WAL         | [Write-ahead Logging](https://en.wikipedia.org/wiki/Write-ahead_logging)
-WAN         | [WIde Area Network](https://en.wikipedia.org/wiki/Wide_area_network)
+WAN         | [Wide Area Network](https://en.wikipedia.org/wiki/Wide_area_network)
 WAP         | Wireless Access Point 
 WAR         | [Web Application Resource (or, Web application ARchival](https://en.wikipedia.org/wiki/WAR_(file_format))
 WASI        | [WebAssembly System Interface](https://wasi.dev/)
 wasm        | [WebAssembly](https://webassembly.org/) [wikipedia](https://en.wikipedia.org/wiki/WebAssembly)
+WATG        | Web Accessibility and Training Guide
 WBS         | Work Breakdown Structure
+WCAG        | Web Content Accessibility Guidelines
 WCCP        | [Web Cache Communication Protocol](https://en.wikipedia.org/wiki/Web_Cache_Communication_Protocol)
+WCDMA       | Wide-band Code-Division Multiple Access
 WCET        | [Worst-Case Execution Time](https://en.wikipedia.org/wiki/Worst-case_execution_time)
 WCT         | [Windows Community Toolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit)
 WD          | Working Draft
@@ -1626,8 +1733,10 @@ Wi-Fi       | Wireless Fidelity
 WLIF        | [Workload Identity Federation](https://cloud.google.com/iam/docs/workload-identity-federation)
 WIP         | Work in Progress
 WISP        | [Wireless Internet service provider](https://en.wikipedia.org/wiki/Wireless_Internet_service_provider)
+WLAN        | Wireless Local Area Network 
 WLM         | Work Lifecycle Management
 WMS         | Warehouse Management System
+WOC         | WAN optimization controller
 WoT         | Web of Trust
 WORM        | Write-Once-Read-Many
 WPA         | [Wi-Fi Protected Access](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access)
