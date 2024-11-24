@@ -1,8 +1,6 @@
 
 # Abbreviation, Acronyms, Terminology
 
-- https://www.acronymfinder.com/
-
 
 This glossary is intended to provide a single refernce to be reused across multiple projects - and design artifacts. Defining localized/specialized terms may then be limited to being addressed in specific design artifacts. The intent is to avoid duplication of a large corpus of glossary entries, in many places.
 
@@ -1773,4 +1771,15 @@ ZSP         | Zero Standing Privilege
 ZT          | Zero Trust
 ZTA         | [Zero Trust Architecture](https://csrc.nist.gov/publications/detail/sp/800-207/final)
 ZTDNS       | [Zero Trust DNS](https://techcommunity.microsoft.com/t5/networking-blog/announcing-zero-trust-dns-private-preview/ba-p/4110366)
-ZTNA        | Zero Trust Network Access 
+ZTNA        | Zero Trust Network Access
+
+
+
+# Useful Additional References
+
+- https://www.acronymfinder.com/
+
+- https://www.vita.virginia.gov/policy--governance/glossary/
+
+
+
