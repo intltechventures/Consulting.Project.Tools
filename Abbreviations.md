@@ -384,18 +384,17 @@ CX          | Customer Experience
 CXN         | Customer Experience Network
 **D__**     | 
 DA          | Data Architecture 
+DaaS        | Data as a Service
 DAC         | [Discretionary Access Control](https://en.wikipedia.org/wiki/Discretionary_access_control)
 DAG         | [Directed Acyclic Graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
 DAO         | Data Access Object
 DAO         | Decentralised Autonomous Organization
 DAP         | Directory Access Protocol (X.500)
 DAR         | Decision Analysis and Resolution technique
-DARPA       | Defense Advanced Research Projects Agency
 DARQ        | Distributed Ledger Technology (DLT), Artificial Intelligence (AI), Extended Reality (XR), Quantum Computing ~ re: Accenture
+DARPA       | [Defense Advanced Research Projects Agency](https://en.wikipedia.org/wiki/DARPA)
 DART        | Detection and Response Team
 DAS         | Direct Attached Storage 
-DaaS        | Data as a Service
-DARPA       | [Defense Advanced Research Projects Agency](https://en.wikipedia.org/wiki/DARPA)
 DASD        | [Direct-Access Storage Device](https://en.wikipedia.org/wiki/Direct-access_storage_device)
 DAST        | Dynamic Application Security Testing
 DAU         | Daily Active Users
