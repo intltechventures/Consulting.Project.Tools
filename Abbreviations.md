@@ -1078,7 +1078,7 @@ OASIS       | Organization for the Advancement of Structured Information Systems
 OBS         | Organizational Breakdown Structure
 OCF         | [Operating Cash Flow](https://en.wikipedia.org/wiki/Operating_cash_flow)
 OCI         | [Open Container Initiative](https://opencontainers.org/)
-OCI         | Oracle Cloud Infrastructure
+OCI         | [Oracle Cloud Infrastructure](https://www.oracle.com/cloud/)
 OCIO        | Office of the Chief Information Officer
 OCM         | [Organizational Change Management](https://en.wikipedia.org/wiki/Change_management)
 OCP         | [OpenShift Container Platform](https://en.wikipedia.org/wiki/OpenShift) ([IBM](https://www.ibm.com/products/openshift), [RedHat](https://www.redhat.com/en/technologies/cloud-computing/openshift/container-platform))
