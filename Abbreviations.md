@@ -1085,7 +1085,6 @@ OCP         | [OpenShift Container Platform](https://en.wikipedia.org/wiki/OpenS
 OCTAVE      | Operationally Critical Threat, Asset, and Vulnerability Evaluation 
 OData       | Open Data Protocol 
 ODBC        | Open Database Connectivity
-OOBE        | Out-of-Box Experience
 OFAC        | [Office of Foreign Assets Control](https://en.wikipedia.org/wiki/Office_of_Foreign_Assets_Control)
 OG          | [Open Graph](https://en.wikipedia.org/wiki/Facebook_Platform#Open_Graph_protocol), also see [Open Graph Protocol](https://ogp.me/)
 OGL         | [Open Game License](https://en.wikipedia.org/wiki/Open_Game_License) (re: Wizards of the Coast D&D public copyright license)
@@ -1107,6 +1106,7 @@ OMG         | [Object Management Group](https://en.wikipedia.org/wiki/Object_Man
 OMS         | Order Management System
 OO          | Object Oriented
 OOA/D       | Object Oriented Analysis and Design 
+OOBE        | Out-of-Box Experience
 OOD         | Object Oriented Design 
 OODA        | [Observe-Orient-Decide-Act](https://en.wikipedia.org/wiki/OODA_loop)
 OOP         | Object Oriented Programming 
