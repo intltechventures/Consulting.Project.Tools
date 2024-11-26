@@ -206,6 +206,7 @@ BU          | Business Unit
 BYO         | Bring Your Own
 BYOD        | Bring Your Own Device
 **C__**     |
+C           | [Confidential](https://sgp.fas.org/othergov/intel/ic-class.pdf)
 C-V2X       | [Celluar-vehicle-to-everything](https://en.wikipedia.org/wiki/Cellular_V2X)
 C2          | Command and Control
 C4          | [C4 Model viewpoints: Context, Container, Component, Code](https://en.wikipedia.org/wiki/C4_model)
@@ -409,6 +410,7 @@ DCCP        | [Datagram Congestion Control Protocol](https://en.wikipedia.org/wi
 DCE         | [Distributed Computing Environment](https://en.wikipedia.org/wiki/Distributed_Computing_Environment)
 DCF         | [Discounted Cash Flow](https://en.wikipedia.org/wiki/Discounted_cash_flow)
 DCG         | Discounted Cumulative Gain
+DCI         | Director of Central Intelligence
 DCL         | Data Classification & Labeling
 DD          | Data Dictionary 
 DDA         | Data Design Authority
@@ -1383,6 +1385,7 @@ RUM         | Resources Under Management
 RUP         | Rational Unified Process
 RWKV        | Receptance Weighted Key Value (an open-source model that modernizes Recurrent Neural Networks to match the performance of Transformer-based LLMs)
 **S__**     |
+S           | [Secret](https://sgp.fas.org/othergov/intel/ic-class.pdf)
 S&P         | Strategy & Planning
 S-DBR       | [Simplified Drum-Buffer-Rope](https://en.wikipedia.org/wiki/Theory_of_constraints#Operations)
 SA          | Solution Architect
@@ -1415,7 +1418,7 @@ SCADA       | Supervisory Control and Data Acquisition
 SCAP        | [Security Content Automation Protocol](https://en.wikipedia.org/wiki/Security_Content_Automation_Protocol)
 SCC         | Strongly Connected Components (re: [Parsel AI framework](https://www.infoq.com/news/2023/02/parsel-code-generation/)
 SCD         | Slowly Changing Dimension
-SCI         | Sensitive Compartmented Information 
+SCI         | [Sensitive Compartmented Information](https://sgp.fas.org/othergov/intel/ic-class.pdf)
 SCIM        | System for Cross-Domain Identity Management (re: [RFC7644](https://www.rfc-editor.org/rfc/rfc7644.html))
 SCP         | Service Control Policy
 SCSI        | Small Computer System Interface
@@ -1608,6 +1611,7 @@ TPU         | Tensor Processing Unit(s)
 TRACTOR     | [TRanslating All C TO Rust](https://www.darpa.mil/news-events/2024-07-31a) (DARPA project)
 TRM         | Technical Reference Model
 TRPM        | Third-Party Risk Management
+TS          | [Top Secret](https://sgp.fas.org/othergov/intel/ic-class.pdf)
 TSD         | Technical Specification Document
 TSO         | [Time Sharing Option](https://en.wikipedia.org/wiki/Time_Sharing_Option), re: IBM mainframe interactive time-sharing environment
 TSP         | [Trust Service Provider](https://en.wikipedia.org/wiki/Trust_service_provider)
@@ -1623,6 +1627,7 @@ TTS         | Text-To-Speech
 TWh         | Terawatt-hours
 TXN         | Transaction
 **U__**     |
+U           | [Unclassified](https://sgp.fas.org/othergov/intel/ic-class.pdf)
 UAT         | User Acceptance Testing
 UBA         | User Behavior Analytics
 UCaaS       | [Unified Communications as a Service](https://en.wikipedia.org/wiki/Unified_communications_as_a_service)
