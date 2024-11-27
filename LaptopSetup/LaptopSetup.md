@@ -1097,6 +1097,11 @@ __These following sections are the primary software programs that I typically ha
   + https://www.fosshub.com/
 
 
+- Starship.rs
+  + https://starship.rs/  
+  + "The minimal, blazing-fast, and infinitely customizable prompt for any shell!"
+  + https://github.com/starship/starship
+
 
 # Windows OS Performance Optimizations
 
