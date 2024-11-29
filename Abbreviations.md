@@ -225,6 +225,7 @@ CapEx       | [Capital Expenditure](https://en.wikipedia.org/wiki/Capital_expend
 CAS         | [Compare-And-Swap | Compare-And-Set](https://en.wikipedia.org/wiki/Compare-and-swap)
 CASE        | Connected, Autonomous / Automated, Shared, and Electric
 CAT         | Customer Advisory Team
+CatB        | [The Cathedral and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
 CATEs       | [Conditional Average Treatment Effects](https://en.wikipedia.org/wiki/Average_treatment_effect)
 CBA         | Cost Benefit Analysis
 CBAC        | [Claim-Based Attirbute Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see ABAC,PBAC)
