@@ -74,6 +74,9 @@
 - Gall's Law: "A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system." (1975)
 
 
+## Greene, Brian
+- "[No solution or technology exists in a vacuum - you're always in some larger ecosystem...](https://www.linkedin.com/posts/theotherbriangreene_meatbasedengineer-activity-7268603897177411584-bFqf)"
+
 
 ## Hanlon, Robert J.
 - [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): "never attribute to malice that which is adequately explained by stupidity."
