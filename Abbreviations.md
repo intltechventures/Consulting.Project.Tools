@@ -1659,6 +1659,7 @@ USL         | [Universal Scalability Law](http://www.perfdynamics.com/Manifesto/
 UTC         | Coordinated Universal Time 
 UTF         | [Unicode Transformation Format](https://en.wikipedia.org/wiki/Unicode#UTF)
 UUID        | [Universal Unique Identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier) - also GUID
+UVP         | [Unique Value Proposition](https://www.isc.hbs.edu/strategy/creating-a-successful-strategy/Pages/unique-value-proposition.aspx)
 UX          | User Experience
 **V__**     |
 V2B         | Vehicle-to-Building
