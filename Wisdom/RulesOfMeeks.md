@@ -328,7 +328,7 @@ changes you"**
 
 
 **\#705 - "NEVER pull all-nighters. It will permanently damage your health in ways you cannot imagine"**
-  + Apparently, [Bill Gates reached the same conclusion: "I realized that my all-nighters, combined with almost never getting eight hours of sleep, took a big toll"](https://economictimes.indiatimes.com/magazines/panache/bill-gates-wants-you-to-sleep-more-in-2020-and-heres-why/articleshow/73042522.cms?from=mdr)
+  + Apparently, [Bill Gates reached the same conclusion: "I realized that my all-nighters, combined with almost never getting eight hours of sleep, took a big toll"](https://www.gatesnotes.com/Why-We-Sleep)
   + Also see: [Why We Sleep: Unlocking the Power of Sleep and Dreams Paperback, by Matthew Walker PhD (Author)](https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144324/)
 
 
