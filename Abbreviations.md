@@ -932,6 +932,7 @@ MBR         | [Master Boot Record](https://en.wikipedia.org/wiki/Master_boot_rec
 MBRE        | Model-Based Requirement Engineering
 MBSE        | [Model-Based Systems Engineering](https://en.wikipedia.org/wiki/Model-based_systems_engineering)
 MCAR        | Missing Completely At Random (re: data quality/completeness)
+MCRA        | [Microsoft Cybersecurity Reference Architectures](https://learn.microsoft.com/en-us/security/adoption/mcra)
 MD          | Markdown Language 
 MD5         | [MD5 Message-Digest Algorithm](https://en.wikipedia.org/wiki/MD5)
 MD6         | [MD6 Message-Digest Algorithm](https://en.wikipedia.org/wiki/MD6)
@@ -1396,6 +1397,7 @@ SABSA       | [Sherwood Applied Business Security Architecture](https://en.wikip
 SACM        | Software Asset Configuration Management (an ITIL process)
 SAD         | Solution Architecture Document
 SADS        | Secure Application Development Standards
+SAF         | Security Adoption Framework ([Microsoft](https://learn.microsoft.com/en-us/security/adoption/adoption))
 SAFe        | Scaled Agile Framework
 SAM         | [Segment Anything Model](https://ai.facebook.com/research/publications/segment-anything/) [re: A Foundation model for image segmentation, from FAIR]
 SAM         | [Serverless Application Model](https://aws.amazon.com/serverless/sam/)
