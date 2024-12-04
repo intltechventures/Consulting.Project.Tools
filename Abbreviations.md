@@ -681,6 +681,7 @@ HATEOAS     | [Hypermedia As The Engine Of Application State](https://en.wikiped
 HBM         | High-Bandwidth Memory
 HCI         | Human-Computer Interaction
 HCL         | [HashiCorp Configuration Language](https://github.com/hashicorp/hcl)
+HDA         | Headless Data Architecture
 HDD         | [Hard Disk Drive](https://en.wikipedia.org/wiki/Hard_disk_drive)
 HDFS        | Hadoop Distributed File System 
 HDLC        | [High-Level Data Link Control](https://en.wikipedia.org/wiki/High-Level_Data_Link_Control)
