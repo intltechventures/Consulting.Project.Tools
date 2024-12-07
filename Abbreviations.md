@@ -685,6 +685,7 @@ HDA         | Headless Data Architecture
 HDD         | [Hard Disk Drive](https://en.wikipedia.org/wiki/Hard_disk_drive)
 HDFS        | Hadoop Distributed File System 
 HDLC        | [High-Level Data Link Control](https://en.wikipedia.org/wiki/High-Level_Data_Link_Control)
+HE          | Homomorphic Encryption
 HEF         | Human Error Factor
 HICP        | High Impact Control Plane
 HIPPA       | Health Insurance Portability and Accountability Act of 1996
