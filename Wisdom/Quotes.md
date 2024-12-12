@@ -43,6 +43,11 @@
 
 
 
+## Chartier, Émile-Auguste Chartier
+- "Nothing is more dangerous than an idea when you have only one idea."
+
+
+
 ## Conway, Melvin 
 - Conway's Law: "Any organization that designs a system (defined more broadly here than just information systems) will  inevitably produce a design whose structure is a copy of the organization’s communication structure."
 
