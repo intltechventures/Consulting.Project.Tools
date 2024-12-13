@@ -389,6 +389,7 @@ DA          | Data Architecture
 DaaS        | Data as a Service
 DAC         | [Discretionary Access Control](https://en.wikipedia.org/wiki/Discretionary_access_control)
 DAG         | [Directed Acyclic Graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
+DAIR        | [Distributed Artificial Intelligence Research Institute (DAIR)](https://www.dair-institute.org/)
 DAN         | Device Account Number
 DAO         | Data Access Object
 DAO         | Decentralised Autonomous Organization
