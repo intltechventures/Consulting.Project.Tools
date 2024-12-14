@@ -518,6 +518,7 @@ EDA         | Event-Driven Architecture
 EDA         | Exploratory Data Analysis
 EDI         | Electronic Data Interchange
 EDIFECT     | [Electronic Data Interchange for Administration, Commerce and Transport](https://en.wikipedia.org/wiki/EDIFACT)
+EDM         | Enterprise Data Model 
 EDMC        | [Enterprise Data Management Council](https://edmcouncil.org/)
 EDR         | Endpoint Detection and Response (i.e., cybersecurity security software)
 EDW         | Enterprise Data Warehouse (also see DW, DWH)
