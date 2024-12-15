@@ -936,6 +936,7 @@ MBR         | [Master Boot Record](https://en.wikipedia.org/wiki/Master_boot_rec
 MBRE        | Model-Based Requirement Engineering
 MBSE        | [Model-Based Systems Engineering](https://en.wikipedia.org/wiki/Model-based_systems_engineering)
 MCAR        | Missing Completely At Random (re: data quality/completeness)
+MCP         | Model Context Protocol
 MCRA        | [Microsoft Cybersecurity Reference Architectures](https://learn.microsoft.com/en-us/security/adoption/mcra)
 MD          | Markdown Language 
 MD5         | [MD5 Message-Digest Algorithm](https://en.wikipedia.org/wiki/MD5)
