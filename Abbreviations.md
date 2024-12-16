@@ -1206,6 +1206,7 @@ PIT         | Platform Information Technology
 PITR        | Point In Time Recovery
 PIU         | Profits Interests Units [a form of equity compensation typically issued by limited liability companies (LLCs) and are popular with private equity investors as a way to incentivize management. PIUs are based on the company's future value and are awarded to employees for their services to the company.] 
 PKCE        | Proof Key for Code Exchange (pronounced "pixy"), re: [RFC 7636](https://tools.ietf.org/html/rfc7636)
+PKE         | Precision Knowledge Editing
 PKI         | [Public Key Infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure)
 PKM         | Personal Knowledge Management
 PLC         | Project Life Cycle 
