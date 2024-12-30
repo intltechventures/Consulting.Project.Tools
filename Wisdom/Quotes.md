@@ -226,7 +226,7 @@
 
 ## [Price, Derek J. de Solla](https://en.wikipedia.org/wiki/Derek_J._de_Solla_Price)
 - Price's square root law or Price's law: 
-   + "on the topic of authors publishing academic literature, proposed that half of the publications come from the square root of all authors. For example, if 100 papers are written by 25 authors, then 25 = 5 {\displaystyle {\sqrt {25}}=5} out of the 25 authors will have contributed 50 papers"
+   + "on the topic of authors publishing academic literature, proposed that half of the publications come from the square root of all authors. For example, if 100 papers are written by 25 authors, then 25 = 5 [```\sqrt {25}=5```] out of the 25 authors will have contributed 50 papers"
    + 50% of the work is done by the square root of the number of employees.
 
 
