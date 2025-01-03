@@ -88,7 +88,7 @@ ANOVA       | Analysis of Variance
 ANSI        | [American National Standards Institute](https://en.wikipedia.org/wiki/American_National_Standards_Institute)
 AOD         | Architecture Overview Document 
 AOL         | Attorney Opinion Letters 
-AOP         | Aspect Oriented Programming
+AOP         | [Aspect-Oriented Programming](https://en.wikipedia.org/wiki/Aspect-oriented_programming)
 AOT         | Ahead of Time (i.e. compiled ahead of time)
 AP          | Access Point 
 AP          | Average Precision
