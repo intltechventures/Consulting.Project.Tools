@@ -15,6 +15,7 @@ This glossary is intended to provide a single refernce to be reused across multi
 **A__**     |
 A11y        | Accessibility [see: [Mozzila](https://developer.mozilla.org/en-US/docs/Web/Accessibility), [W3C](https://www.w3.org/standards/webdesign/accessibility)]
 A2C         | Advantage Actor-Critic (e.g., Deep Reinforcement Learning agent)
+AA          | [Agile Alliance](https://www.agilealliance.org/)
 AA          | Alternatives Analysis
 AA          | Architecture Advisory (~ ARB)
 AAD         | [Average absolution deviation](https://en.wikipedia.org/wiki/Average_absolute_deviation) 
@@ -1216,7 +1217,7 @@ PLSA        | Probabilistic Latent Semantic Analysis
 PM          | Program Manager
 PM          | Project Management
 PM          | Project Manager
-PMI         | Project Management Institute 
+PMI         | [Project Management Institute](https://www.pmi.org/)
 PMO         | Project Management Office
 PO          | Product Owner
 PO          | Purchase Order
