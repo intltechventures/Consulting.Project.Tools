@@ -1232,6 +1232,7 @@ PoLP        | Principle of Least Privilege
 POOGI       | [Process Of Ongoing Improvement](https://en.wikipedia.org/wiki/Continual_improvement_process) [see TOC, Theory of Constraints]
 PoP         | Policy on Policies
 POP3        | Post Office Protocol version 3
+POSA        | [Pattern-Oriented Software Architecture](https://en.wikipedia.org/wiki/Pattern-Oriented_Software_Architecture)
 POSIX       | [Portable Operating System Interface](https://en.wikipedia.org/wiki/POSIX)
 POTS        | [Plain old telephone service](https://en.wikipedia.org/wiki/Plain_old_telephone_service)
 POV         | Point of View
