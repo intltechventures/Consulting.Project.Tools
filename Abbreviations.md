@@ -1433,6 +1433,7 @@ SCC         | Strongly Connected Components (re: [Parsel AI framework](https://w
 SCD         | Slowly Changing Dimension
 SCI         | [Sensitive Compartmented Information](https://sgp.fas.org/othergov/intel/ic-class.pdf)
 SCIM        | System for Cross-Domain Identity Management (re: [RFC7644](https://www.rfc-editor.org/rfc/rfc7644.html))
+SCIP        | [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/9780262510875/structure-and-interpretation-of-computer-programs/)
 SCP         | Service Control Policy
 SCSI        | Small Computer System Interface
 SCTP        | [Stream Control Transmission Protocol](https://en.wikipedia.org/wiki/Stream_Control_Transmission_Protocol)
