@@ -219,6 +219,7 @@ CAB         | [Change-Advisory Board](https://en.wikipedia.org/wiki/Change-advis
 CaC         | Compliance as Code
 CAC         | Customer Acquisition Cost
 CAF         | Cloud Adoption Framework ([Azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/))
+CAG         | Cache-Augmented Generation
 CAGR        | [Compound Annual Growth Rate](https://en.wikipedia.org/wiki/Compound_annual_growth_rate) 
 CALM        | [Communications Access for Land Mobiles](https://en.wikipedia.org/wiki/Communications_Access_for_Land_Mobiles)
 CAP         | Consistency, Availability, Partition Tolerance  
