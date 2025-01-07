@@ -535,6 +535,7 @@ EKG         | Enterprise Knowledge Graphs
 EKS         | Amazon [Amazon Elastic Kubernetes Service](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html)
 EL          | Enterprise Linux 
 ELF         | [Executable and Linkable Format](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
+ELT         | Executive Leadership Team
 ELT         | Extract, Load, Transform
 EM          | [Expectation Management](https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm) algorithm (re: Machine Learning)
 EME         | [Encrypted Media Extensions](https://en.wikipedia.org/wiki/Encrypted_Media_Extensions), re: W3C HTML5 recommendations
