@@ -466,7 +466,7 @@ DRBG        | [Deterministic Random Bit Generator](https://en.wikipedia.org/wiki
 DRI         | Directly Responsible Individual
 DRL         | Deep Reinforcement Learning
 DRP         | Disaster Recovery Plan
-DRY         | Don't Repeat Yourself
+DRY         | Don't Repeat Yourself (also see WET)
 DSA         | Data Structures and Algorithms
 DSA         | [Digital Signature Algorithm](https://en.wikipedia.org/wiki/Digital_Signature_Algorithm)
 DSL         | [Digital subscriber line](https://en.wikipedia.org/wiki/Digital_subscriber_line)
@@ -1392,7 +1392,8 @@ RTR         | Record-to-Report
 RTR         | Right To Represent
 RTSP        | [Real Time Streaming Protocol](https://en.wikipedia.org/wiki/Real_Time_Streaming_Protocol)
 RTT         | Round-Trip Time  
-RTO         | Recovery Time Objective  
+RTO         | Recovery Time Objective 
+RTO         | Return To Office
 RTUs        | Remote Terminal Units
 RUM         | Real User Measurements (or Monitoring)
 RUM         | Resources Under Management
@@ -1748,6 +1749,8 @@ WCET        | [Worst-Case Execution Time](https://en.wikipedia.org/wiki/Worst-ca
 WCT         | [Windows Community Toolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit)
 WD          | Working Draft
 WDM         | [Windows Driver Model](https://en.wikipedia.org/wiki/Windows_Driver_Model)    
+WET         | Write Everything Twice (also see DRY)
+WFH         | Work-From-Home 
 WFM         | Windows Filtering Platform
 Wi-Fi       | Wireless Fidelity
 WLIF        | [Workload Identity Federation](https://cloud.google.com/iam/docs/workload-identity-federation)
