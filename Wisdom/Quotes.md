@@ -52,6 +52,9 @@
 - Conway's Law: "Any organization that designs a system (defined more broadly here than just information systems) will  inevitably produce a design whose structure is a copy of the organization’s communication structure."
 
 
+## Drucier, Peter
+- "There is nothing quite so useless, as doing with great efficiency, something that should not be done at all.”
+
 
 ## Drucker, Peter
 - "There is nothing so useless as doing efficiently that which should not be done at all." 
