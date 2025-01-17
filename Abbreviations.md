@@ -869,7 +869,7 @@ KNN         | [K-nearest neibhbors](https://en.wikipedia.org/wiki/K-nearest_neig
 KPI         | [Key Performance Indicators](https://en.wikipedia.org/wiki/Performance_indicator)
 KQL         | [Kusto Query Language](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/)
 KT          | Knowledge Transfer
-KVM		    | Kernel-based Virtual Machine (KVM) is an open source virtualization technology built into Linux
+KVM		    | [Kernel-based Virtual Machine](https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine) (re: an open source virtualization technology built into Linux)
 KVM			| keyboard, video and mouse
 KVS         | Key-Value Storage
 Kwok        | [Kubernetes Without Kubelet](https://www.infoq.com/news/2023/03/kwok-kubernetes/)
