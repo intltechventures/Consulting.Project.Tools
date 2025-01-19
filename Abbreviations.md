@@ -541,6 +541,7 @@ EM          | [Expectation Management](https://en.wikipedia.org/wiki/Expectation
 EME         | [Encrypted Media Extensions](https://en.wikipedia.org/wiki/Encrypted_Media_Extensions), re: W3C HTML5 recommendations
 EMEA        | Europe, the Middle East, and Africa
 EMM         | Enterprise Mobility Management
+EMR         | Elastic MapReduce (e.g., [AWS](https://aws.amazon.com/emr/))
 EMR         | Electronic Medical Record
 EMS         | [Execution Management System](https://en.wikipedia.org/wiki/Execution_management_system)
 ENA         | Elastic Network Adapter
