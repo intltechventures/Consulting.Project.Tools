@@ -1051,38 +1051,55 @@ __These following sections are the primary software programs that I typically ha
 
 # Additional Utilities to consider adding:
 
+
+- Microsoft PowerToys
+  + https://learn.microsoft.com/en-us/windows/powertoys/
+  + https://github.com/microsoft/PowerToys
+
+
 - [TeraCopy](http://codesector.com/teracopy)
   + https://www.techsupportalert.com/content/faster-way-copy-files.htm
+
 
 - [WizTree](https://antibody-software.com/web/software/software/wiztree-finds-the-files-and-folders-using-the-most-disk-space-on-your-hard-drive/)
   + "shows you just how much space various files and folders are taking up on your hard drive(s)."
 
+
 - [HandBrake](https://handbrake.fr/)
   + "HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs"
   + https://lifehacker.com/how-to-rip-a-dvd-to-your-computer-5809765
+
 
 - [MakeMKV](http://makemkv.com/)
   + Video format conversion ("transcoder") utility 
   + MKV stands for "Matroska Video"
   + https://en.wikipedia.org/wiki/Matroska 
 
+
 - [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)
 
+
 - [AutoHotKey](https://www.autohotkey.com/)
+
 
 - Backup / Image Copy
   + [Macrium Reflect](https://www.macrium.com/reflectfree)
     * https://www.macrium.com/products/home
   + [Arconis](https://www.acronis.com/en-us/personal/computer-backup/)
 
+
 - [Microsoft TechNet: Diskspd Utility: A Robust Storage Testing Tool](https://gallery.technet.microsoft.com/DiskSpd-a-robust-storage-6cd2f223)
+
 
 - https://www.userbenchmark.com
 
+
 - https://ohmyz.sh/
+
 
 - https://inkscape.org/
   + a Free and open source vector graphics editor for GNU/Linux, Windows and MacOS X
+
 
 - Disk Utilization Visualiation tools...
   + https://en.wikipedia.org/wiki/Disk_Usage_Analyzer
@@ -1092,6 +1109,7 @@ __These following sections are the primary software programs that I typically ha
     * https://www.fosshub.com/WinDirStat.html
     * https://sourceforge.net/projects/windirstat/
   + SequoiaView
+
 
 - Explore other possible open source tools, utilities...
   + https://www.fosshub.com/
