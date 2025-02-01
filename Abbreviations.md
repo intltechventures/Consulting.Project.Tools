@@ -174,6 +174,7 @@ BIAN        | [Banking Industry Architecture Network](https://bian.org/)
 BIND        | Berkeley Internet Name Domain
 BIMI        | [Brand Indicators for Message Identification](https://en.wikipedia.org/wiki/Brand_Indicators_for_Message_Identification)
 BIOS        | Basic Input-Output System
+BISO        | Business Information Security Officer
 BLOB        | Binary Large Object
 BLSR        | Baseline Security Requirement
 BMA         | Business Mission Area 
