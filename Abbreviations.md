@@ -327,6 +327,7 @@ CoP         | Community of Practice
 CORBA       | [Common Object Request Broker Architecture](https://en.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture)
 CORS        | [Cross-Origin Resource Sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
 COSS        | Commercial Open Source Software 
+CoT         | Chain-of-Thought
 COTS        | Commercial Off-The-Shelf
 CPC         | Cost Per Click
 CPG         | Consumer Packaged Goods (e.g. industry)
@@ -1621,6 +1622,7 @@ TOC         | Total Ownership Cost (see TCO)
 ToM         | [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind)
 TOM         | Target Operating Model
 TOML        | [Tom's Obvious Minimal Language](https://toml.io/en/)
+ToRA        | Task-Oriented Reasoning and Action
 TP          | Third-Party
 TPLC        | [Total Product Life Cycle](https://www.fda.gov/about-fda/cdrh-transparency/total-product-life-cycle-medical-devices)
 TPM         | [Trusted Platform Module](https://en.wikipedia.org/wiki/Trusted_Platform_Module)
