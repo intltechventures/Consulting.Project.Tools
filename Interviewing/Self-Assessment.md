@@ -6,7 +6,7 @@ Often, when conducting interviews to assess candidates, I want to get a quick sn
 The following is my go-to approach in establishing a consistent definition of a scale (0-10) for candidates to use in their self-assessment during the interview process:
 
 
-|Score | Self-Assessment Definition|
+|Score | Self-Assessment Definition (_revised: 2025-02-04 Tue_)|
 |------|-----------|
 0 | Never heard of it. 
 1 | Some awareness. <br>The term is in your conscious mind - but you would be challenged to define/describe it in any detail. 
