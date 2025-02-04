@@ -9,12 +9,12 @@ The following is my go-to approach in establishing a consistent definition of a 
 |Score | Self-Assessment Definition|
 |------|-----------|
 0 | Never heard of it. 
-1 | Some awareness. The term is somewhere in your conscious mind - but you would be challenged to define/describe it in any detail. 
+1 | Some awareness. <br>The term is somewhere in your conscious mind - but you would be challenged to define/describe it in any detail. 
 2 | Read some article(s). 
 3 | Read a book.
-4 | Took a course. Note: This is the score to use if you have a certification - __but have never actually used the skill in the design/construction/delivery of a project/solution into production.__
-5 | Downloaded and experimented. On your own, or for a company/client project. 
-6 | Created a Proof-of-Concept (PoC). On your own, or for a company/client project.
+4 | Took a course. <br>Note: This is the score to use if you have a certification - __but have never actually used the skill in the design/construction/delivery of a project/solution into production.__
+5 | Downloaded and experimented. <br>This could be on your own, or for a company/client project. 
+6 | Created a Proof-of-Concept (PoC). <br>This could on your own, or for a company/client project.
 7 | Directly (hands-on: i.e., your own personal level of knowledge/experience) involved in using something - for ___at least one___ project/solution into production.
 8 | Directly (hands-on: i.e., your own personal level of knowledge/experience) involved in using something - for ___two or more___ proejcts/solutions into production. 
 9 | Recognized go-to expert within your company (either current, or previous)
