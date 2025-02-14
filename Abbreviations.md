@@ -1581,7 +1581,7 @@ STS         | Security Token Service
 SuD         | System Under Discussion (re, see book: [Writing Effective Use Cases](https://www.amazon.com/Writing-Effective-Cases-Alistair-Cockburn/dp/0201702258))
 SUTVA       | [Stable Unit Treatment Value Assumption](https://en.wikipedia.org/wiki/Rubin_causal_model#Stable_unit_treatment_value_assumption_(SUTVA)) 
 SV          | Schedule Variance 
-SVD         | Single Value Decomposition
+SVD         | [Single Value Decomposition](https://en.wikipedia.org/wiki/Singular_value_decomposition)
 SVG         | [Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 SW          | Software
 SWA         | Azure [Static Web Apps](https://azure.microsoft.com/en-us/products/app-service/static/) ([github](https://github.com/Azure/static-web-apps))
@@ -1590,7 +1590,7 @@ SWE         | [Software Engineer | Software Engineering](https://en.wikipedia.or
 SWG         | Secure Web Gateway
 SWOT        | Strengths, Weaknesses, Opportunities, and Threats
 **T__**     |
-T2R2        | Transparent, Traceable, Replicable and Reproducible a
+T2R2        | Transparent, Traceable, Replicable and Reproducible
 t-SNE       | t-distributed Stochastic Neighbor Embedding
 TA          | [Throughput Accounting](https://en.wikipedia.org/wiki/Throughput_accounting)
 TAG         | Technical Advisory Group
