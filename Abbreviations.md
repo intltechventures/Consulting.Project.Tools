@@ -585,6 +585,7 @@ EVM         | Earned Value Management
 FaaS        | Function as a Service
 FAIL        | First Attempt In Learning (i.e. agile)
 FAIR        | [Facebook/Meta AI Research](https://ai.facebook.com/research/)
+FAIR        | Findable, Accessible, Interoperable, and Reusable
 FAME        | [Fast Attribute-based Message Encryption](https://eprint.iacr.org/2017/807.pdf)
 FAR         | [Federal Acquisition Regulation](https://www.acquisition.gov/browse/index/far)
 FASB        | [Financial Accounting Standards Board](https://en.wikipedia.org/wiki/Financial_Accounting_Standards_Board)
