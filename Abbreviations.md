@@ -1676,6 +1676,7 @@ UPC         | [Universal Product Code](https://en.wikipedia.org/wiki/Universal_P
 URL         | Uniform Resource Locator 
 US-NII      | Unlicensed National Information Infrastructure bands
 USB         | [Universal Serial Bus](https://en.wikipedia.org/wiki/USB)
+USD         | [Universal Scene Description](https://openusd.org/)
 USL         | [Universal Scalability Law](http://www.perfdynamics.com/Manifesto/USLscalability.html) ~ [Neil J. Gunther](https://en.wikipedia.org/wiki/Neil_J._Gunther)
 UTC         | Coordinated Universal Time 
 UTF         | [Unicode Transformation Format](https://en.wikipedia.org/wiki/Unicode#UTF)
