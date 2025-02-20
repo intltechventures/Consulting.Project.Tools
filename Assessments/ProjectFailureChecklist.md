@@ -12,14 +12,24 @@ Based on my observations, in order of frequency, these are why most projects fai
 5. Constantly changing scope/requirements.
 6. Not enough runway.   
 (...)
+
+
 20. Poor Agile practices, as a discipline | PMO oversight & management   
 (...)
+
+
 30. Poor Testing practices, as a discipline   
 (...)
+
+
 40. Poor Data Management practices, as a discipline   
 (...)
+
+
 80. Poor DevSecOps practices, as a discipline.   
 (...)
+
+
 91. Poor EA Governance, as a practice.    
 92. Poorly skilled/trained Solution Architects.
 93. Poorly skilled/trained Enterprise Architects.
