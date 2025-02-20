@@ -5,6 +5,7 @@ Note: The see of an idea for this list arose as [I drafted a response](https://w
 
 Based on my observations, in order of frequency, these are why most projects fail:   
 
+```
 1. Poor business model planning/validation.
 2. Lack of sustained investment.
 3. Too aggressive timelines...resulting in poor quality / user experience
@@ -40,3 +41,4 @@ Based on my observations, in order of frequency, these are why most projects fai
 98. No EA Goveranance
 99. Poor architecture choices.
 100. No architecture.
+```
