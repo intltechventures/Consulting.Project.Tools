@@ -398,6 +398,9 @@ changes you"**
 option is to jump off"**
 
 
+**\#908 - "If you are not worried, you are not paying attention."**
+
+
 **\#993 - "If you want to survive out here, you’ve got to know where your towel is"**
 * "... a towel has immense psychological value. For some reason, if a strag (strag: nonhitchhiker) discovers that a hitchhiker has his towel with him, he will automatically assume that he is also in possession of a toothbrush, washcloth, soap, tin of biscuits, flask, compass, map, ball of string, gnat spray, wet-weather gear, space suit etc., etc. Furthermore, the strag will then happily lend the hitchhiker any of these or a dozen other items that the hitchhiker might accidentally have "lost". What the strag will think is that any man who can hitch the length and breadth of the galaxy, rough it, slum it, struggle against terrible odds, win through, and still knows where his towel is, is clearly a man to be reckoned with."  
 * [The Hitchhiker's Guide to the Galaxy ](https://en.wikiquote.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(film))
