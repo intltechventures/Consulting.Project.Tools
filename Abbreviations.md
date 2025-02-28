@@ -1219,6 +1219,7 @@ PKCE        | Proof Key for Code Exchange (pronounced "pixy"), re: [RFC 7636](ht
 PKE         | Precision Knowledge Editing
 PKI         | [Public Key Infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure)
 PKM         | Personal Knowledge Management
+PL          | Published Language (re: DDD)
 PLC         | Project Life Cycle 
 PLCs        | Programmable Logic Controllers
 PLM         | [Product Lifecycle Management](https://en.wikipedia.org/wiki/Product_lifecycle)
