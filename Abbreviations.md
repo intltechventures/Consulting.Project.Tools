@@ -21,6 +21,7 @@ AA          | Architecture Advisory (~ ARB)
 AAD         | [Average absolution deviation](https://en.wikipedia.org/wiki/Average_absolute_deviation) 
 AAD         | [Azure Active Directory](https://azure.microsoft.com/en-us/products/active-directory/)
 ABAC        | [Attribute-Based Access Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see CBAC, PBAC)
+ABACUS      | [Algorithm-Based Analysis, Communication and Understanding of Systems](https://en.wikipedia.org/wiki/Avolution) 
 ABC         | Activity Based Costing
 ABC         | Area of Business Concern
 ABNF        | Augmented Backus-Naur Form (see [RFC-5234](https://tools.ietf.org/html/rfc5234))
@@ -202,6 +203,7 @@ BRS         | Business Requirements Specification
 BSA         | Bank Secrecy Act
 BSD         | [Berkeley Software Distribution](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
 BSI         | British Sandards Institution
+BSS         | Business Support System
 BTC         | Bitcoin
 BtoS        | Business-to-Society
 BU          | Business Unit
@@ -562,6 +564,7 @@ EPM         | Enterprise Performance Management 
 EPM         | Enterprise Program Management 
 EPR         | Electronic Patient Record 
 EPS         | Extrusion Prevention System (see DLP)
+ERB         | Engineering Review Board
 ERD         | Entity Relationship Diagram 
 ERM         | Enterprise Risk Management 
 ERP         | Enterprise Resource Planning
@@ -1144,7 +1147,8 @@ OSFI        | Canadanian version of OFAC
 OSI         | [Open Systems Interconnection](https://en.wikipedia.org/wiki/OSI_model) model 
 OSINT       | Open-Source Intelligence 
 OSQI        | [Open Source Quality Institutes](https://www.tbray.org/ongoing/When/202x/2024/04/01/OSQI) - an idea by Tim Bray
-OSS         | Open Source Software 
+OSS         | Open Source Software
+OSS         | Operations Support System
 OSSF        | [Open Source Security Foundation](https://openssf.org/)
 OT          | Operational Technology (re: computing systems that are used to manage industrial operations as opposed to administrative operations)
 OTC         | Order-to-Cash
