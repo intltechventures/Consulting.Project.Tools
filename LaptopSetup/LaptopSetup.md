@@ -364,6 +364,12 @@ __These following sections are the primary software programs that I typically ha
       * Enable: ```"%ProgramFiles(x86)%\Microsoft Visual Studio\Installer\vs_installer.exe" repair --passive --norestart --cache```
 
   + Marketplace Extensions:
+    * https://marketplace.visualstudio.com/items?itemName=confluentinc.vscode-confluent
+      * Confluent for VS Code
+      * Work with Confluent and Apache Kafka® to design, build and run data streaming applications.
+      * https://docs.confluent.io/cloud/current/client-apps/vs-code-extension.html
+      * https://github.com/confluentinc/vscode
+      * https://github.com/confluentinc/vscode/releases
 
     * https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer
       * rust-analyzer
