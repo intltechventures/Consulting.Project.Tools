@@ -701,6 +701,8 @@ HDFS        | Hadoop Distributed File System
 HDLC        | [High-Level Data Link Control](https://en.wikipedia.org/wiki/High-Level_Data_Link_Control)
 HE          | Homomorphic Encryption
 HEF         | Human Error Factor
+HEIF        | [High Efficiency Image File Format](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format)
+HEVC        | [High Efficiency Video Coding](https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding)
 HICP        | High Impact Control Plane
 HIPPA       | Health Insurance Portability and Accountability Act of 1996
 HiPPO       | [Highly Paid Person's Opinion](https://architectelevator.com/cloud/selecting-cloud-provider/)
