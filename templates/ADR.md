@@ -22,7 +22,7 @@
 
 
 
-## A Proposed Tempalte:
+## A Proposed Template Structure:
 
 - The following is intended to provide a place for me to capture my own evolving thoughts on what an ADR might look like.
 
