@@ -438,6 +438,7 @@ DGP         | Data Governance Policy
 DGS         | Domain Graph Services 
 DHCP        | [Dynamic Host Configuration Protocol](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol)
 DHT         | [Distributed Hash Table](https://en.wikipedia.org/wiki/Distributed_hash_table)
+DI          | [Dependency Injection](https://en.wikipedia.org/wiki/Dependency_injection)
 DIM         | Domain Information Model
 DJIA        | Dow Jones Industrial Average
 DKG         | [Distributed Key Generation](https://en.wikipedia.org/wiki/Distributed_key_generation)
