@@ -80,6 +80,7 @@ AMI         | Amazon Machine Image
 AML         | Anti-Money Laundering
 AMMERSE     | [Agile, Minimal, Maintainable, Environmental, Reachable, Solvable, Extensible](https://www.ammerse.org/)
 AMMS        | Autonomous Mobility Management System:
+AMS         | Agency Management System (domain: Insurance)
 AMS         | Application Managed Service
 AMQP        | [Advanced Message Queuing Protocol](https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol)
 ANC         | Adaptive Network Control
@@ -1174,7 +1175,8 @@ PAM         | Pluggable Authentication Modules
 PAM         | Privileged Access Management 
 PAP         | [Password Authentication Protocol](https://en.wikipedia.org/wiki/Password_Authentication_Protocol)
 PAP         | Policy Administration Point
-PAS         | Publicly Available Specification
+PAS         | Policy Administration System (domain: Insurance)
+PAS         | Publicly Available Specification     
 PASETO      | platform-agnostic security tokens
 PAT         | Profit After Tax
 PBAC        | [Policy-Based Access Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see ABAC, CBAC)
@@ -1643,7 +1645,7 @@ TPM         | [Trusted Platform Module](https://en.wikipedia.org/wiki/Trusted_Pl
 TPR         | True Positive Rate
 TPS         | [Toyota Production System](https://en.wikipedia.org/wiki/Toyota_Production_System)
 TPU         | Tensor Processing Unit(s) 
-TQM         | Temporal Quantum Models
+TQM         | Temporal Quantum Model
 TRACTOR     | [TRanslating All C TO Rust](https://www.darpa.mil/news-events/2024-07-31a) (DARPA project)
 TRM         | Technical Reference Model
 TRPM        | Third-Party Risk Management
