@@ -1643,6 +1643,7 @@ TPM         | [Trusted Platform Module](https://en.wikipedia.org/wiki/Trusted_Pl
 TPR         | True Positive Rate
 TPS         | [Toyota Production System](https://en.wikipedia.org/wiki/Toyota_Production_System)
 TPU         | Tensor Processing Unit(s) 
+TQM         | Temporal Quantum Models
 TRACTOR     | [TRanslating All C TO Rust](https://www.darpa.mil/news-events/2024-07-31a) (DARPA project)
 TRM         | Technical Reference Model
 TRPM        | Third-Party Risk Management
