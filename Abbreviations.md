@@ -1670,6 +1670,8 @@ UAT         | User Acceptance Testing
 UBA         | User Behavior Analytics
 UCaaS       | [Unified Communications as a Service](https://en.wikipedia.org/wiki/Unified_communications_as_a_service)
 UCP         | Universal Control-Plane
+UDA         | Universal Data Acquisition
+UDA         | Unsupervised Data Augmentation
 UDDI        | Universal Description, Discovery, & Integration
 UDEF        | Universal Data Element Framework
 UDEM        | Unified Endpoint Management
