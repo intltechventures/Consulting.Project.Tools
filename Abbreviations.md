@@ -1194,6 +1194,7 @@ PCR         | Policy Change Request
 PCR         | Project Change Request
 PDA         | Personal Digital Assistants
 PDCA        | Plan-Do-Check-{Act | Adjust} (Shewhart’s PDCA cycle, aka the Deming Cycle) [also see PDSA]
+PDLC        | Product Development Life Cycle
 PDH         | Product Development Hub
 PDI         | Personal Developer Instances 
 PDK         | Platform Development Kit 
