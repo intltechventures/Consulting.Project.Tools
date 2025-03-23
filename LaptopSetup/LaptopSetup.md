@@ -140,6 +140,31 @@ __These following sections are the primary software programs that I typically ha
   + Note: "Safety Scanner only scans when manually triggered and is ```available for use 10 days after being downloaded.``` We recommend that you always download the latest version of this tool before each scan."
   + https://docs.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide
 
+
+- hosts file
+  + Location:
+    * ``` C:\Windows\System32\drivers\etc\hosts```
+    * ```%SystemRoot%\system32\drivers\etc\hosts``` 
+  + Documentation:
+    * https://learn.microsoft.com/en-us/windows/powertoys/hosts-file-editor
+    * https://support.microsoft.com/en-us/topic/how-to-reset-the-hosts-file-back-to-the-default-c2a43f9d-e176-c6f3-e4ef-3500277a6dae
+    * https://support.microsoft.com/en-us/topic/microsoft-tcp-ip-host-name-resolution-order-dae00cc9-7e9c-c0cc-8360-477b99cb978a
+    * https://www.howtogeek.com/784196/how-to-edit-the-hosts-file-on-windows-10-or-11/
+    * https://lifehacker.com/how-to-really-block-distracting-websites-with-your-ho-1831493194
+    * https://nordvpn.com/blog/use-hosts-file-block-ads-malware/
+    * https://en.wikipedia.org/wiki/Hosts_(file)
+
+  + Useful Lists
+    * https://github.com/StevenBlack/hosts/
+      * https://github.com/StevenBlack/hosts/tree/master/data/add.Risk
+
+  + Personal List
+    * ```# Kelivn - Personal list```
+    * ```127.0.0.1 video.dailymail.co.uk					# block Daily Mail pop-up videos```
+  
+
+
+
 ## The Essentials...
 
 ### Web Browsers
