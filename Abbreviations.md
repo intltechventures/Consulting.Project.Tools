@@ -463,6 +463,7 @@ DORA        | [DevOps Research and Assessment](https://dora.dev/) (re: metrics: 
 DORA        | [Digital Operational Resilience Act, re: Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector](https://eur-lex.europa.eu/eli/reg/2022/2554/oj)
 DoS         | Denial of Service 
 DOS         | [Disk Operating System](https://en.wikipedia.org/wiki/DOS)
+DP          | Differential Privacy
 DP          | [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
 DPC         | Discrete Process Control
 DPO         | Direct Preference Optimization (re: LLMs, tuning algorithm)
