@@ -656,6 +656,7 @@ GCHQ        | British intelligence agency [Government Communications Headquarter
 GCP         | Google Cloud Platfrom
 GDG         | Generation Date Group
 GDPR        | Genera Data Protection Regulation (re: EU)
+GERAM       | Generalised Enterprise-Referencing Architectures Modelling Framework
 GFCI        | Greedy Fast Causal Interference (GFCI) Algorithm 
 GHAS        | [GitHub Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security)
 GIL         | [Global Interpreter Lock](https://en.wikipedia.org/wiki/Global_interpreter_lock)
@@ -1669,6 +1670,7 @@ TXN         | Transaction
 **U__**     |
 U           | [Unclassified](https://sgp.fas.org/othergov/intel/ic-class.pdf)
 UAT         | User Acceptance Testing
+UAF         | Unified Architecture Framework
 UBA         | User Behavior Analytics
 UCaaS       | [Unified Communications as a Service](https://en.wikipedia.org/wiki/Unified_communications_as_a_service)
 UCP         | Universal Control-Plane
