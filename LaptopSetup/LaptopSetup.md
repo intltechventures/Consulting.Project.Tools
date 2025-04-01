@@ -859,16 +859,29 @@ __These following sections are the primary software programs that I typically ha
 - [Dropbox](https://www.dropbox.com/)
   + https://www.dropbox.com/business/pricing
 
-- [Google Docs](https://docs.google.com/)
 
-- Brother Printer software 
+- [Google Docs](https://docs.google.com/)
+ 
+
+- Scanning Software
+  + HP Universal Scan Software 
+    * https://support.hp.com/us-en/drivers/hp-universal-scan-software/2101620481
+
+
+  + NAPS2 - Not Another PDF Scanner
+    * https://www.naps2.com/
+    * https://github.com/cyanfish/naps2
+
 
 - [Cutepdf](http://www.cutepdf.com/)
 
+
 - [7-ZIp](http://www.7-zip.org/download.html)  
+
 
 - To Evaluate/Consider:
   + https://github.com/microsoft/PowerToys
+
 
 - ISO Image Utilities
   + [ImgBurn.com](http://www.imgburn.com/index.php?act=download)
