@@ -389,6 +389,12 @@ __These following sections are the primary software programs that I typically ha
       * Enable: ```"%ProgramFiles(x86)%\Microsoft Visual Studio\Installer\vs_installer.exe" repair --passive --norestart --cache```
 
   + Marketplace Extensions:
+    * https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit
+      * C# Dev Kit for Visual Studio Code (Official C# extension from Microsoft)
+      * https://learn.microsoft.com/en-us/visualstudio/subscriptions/vs-c-sharp-dev-kit
+      * https://code.visualstudio.com/docs/csharp/cs-dev-kit-faq
+
+
     * https://marketplace.visualstudio.com/items?itemName=confluentinc.vscode-confluent
       * Confluent for VS Code
       * Work with Confluent and Apache Kafka® to design, build and run data streaming applications.
