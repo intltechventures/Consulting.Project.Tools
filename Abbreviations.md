@@ -611,6 +611,7 @@ FCP         | [First Contentful Paint](https://web.dev/fcp/)
 FDDI        | [Fiber Distributed Data Interface](https://en.wikipedia.org/wiki/Fiber_Distributed_Data_Interface)
 FDL         | (GNU) Free Documentation License
 FedRAMP     | Federal Risk Authorization Management Program
+FEP         | Federal Employee Program 
 FFT         | Full Fine-Tuning
 FFW         | Feedforward
 FHE         | Fully [Homomorphic Encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption) (e.g., [IBM](https://www.ibm.com/security/services/homomorphic-encryption_))
