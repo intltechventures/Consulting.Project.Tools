@@ -574,6 +574,7 @@ ERD         | Entity Relationship Diagram
 ERM         | Enterprise Risk Management 
 ERP         | Enterprise Resource Planning
 ES          | ECMAScript (aka JavaScript)
+ES          | [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
 ESA         | Enterprise Solutions Architecture
 ESG         | [Environmental, Social, and Governance](https://www.esg.org/)
 ESO         | European Standards Organization
