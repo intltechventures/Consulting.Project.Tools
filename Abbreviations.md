@@ -129,6 +129,7 @@ ASP         | Application Service Provider
 ASPM        | Application Security Posture Management 
 ASR         | Automatic Speech Recognition
 AST         | Application Security Testing
+ASVS        | [Application Security Verification Standard](https://github.com/OWASP/ASVS)
 ATDD        | Acceptance-Test-Driven-Development
 ATE         | [Averate Treatment Effect](https://en.wikipedia.org/wiki/Average_treatment_effect)
 ATF         | Automated Test Framework
