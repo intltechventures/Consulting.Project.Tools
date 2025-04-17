@@ -254,6 +254,7 @@ CCPA        | [California Consumer Privacy Act](https://en.wikipedia.org/wiki/Ca
 CCPM        | Critical Chain Project Management
 CD          | Candidate Recommendation 
 CD          | Continuous Delivery
+CDAO        | Chief Digital and Artificial Intelligence Office
 CDC         | Change Data Capture
 CDD         | Customer Due Dilligence (also see KYC)
 CDE         | Cardholder Data Environment
@@ -392,6 +393,7 @@ CVE         | [Critical Vulnerabilities and Exposures](https://www.cve.org/)
 CVS         | Concurrent Version System
 CWE         | [Critical Weakness Enumeration](https://cwe.mitre.org/) (also see: [Wikipedia](https://en.wikipedia.org/wiki/Common_Weakness_Enumeration)
 CX          | Customer Experience
+CXO         | Customer Experience Officer
 CXN         | Customer Experience Network
 **D__**     | 
 DA          | Data Architecture 
