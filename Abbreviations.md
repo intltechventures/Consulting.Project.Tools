@@ -917,6 +917,7 @@ LLaMA       | Large Language Model Meta AI
 LLC         | [Logical Link Control](https://en.wikipedia.org/wiki/Logical_link_control)
 LLM         | Large Language Model
 LLRT        | Low Latency Runtime (e.g., [AWS](https://github.com/awslabs/llrt))
+LMM         | Large Multimodal Model
 LOE         | Level of Effort
 LOI         | Letter of Intent
 LoRA        | [Low-Rank Adaptation](https://arxiv.org/abs/2106.09685) (of Large Language Models) [see [Microsoft github repo](https://github.com/microsoft/LoRA)]
@@ -1600,6 +1601,7 @@ STAR        | Security Trust Assurance and Risk
 STAR        | [Situation (20%), Task (10%), Action (60%), Result (10%)](https://en.wikipedia.org/wiki/Situation,_task,_action,_result) [re: method]
 STM-1       | [Synchronous Transport Module level-1](https://en.wikipedia.org/wiki/STM-1)
 STS         | Security Token Service
+STT         | Speech-To-Text
 SuD         | System Under Discussion (re, see book: [Writing Effective Use Cases](https://www.amazon.com/Writing-Effective-Cases-Alistair-Cockburn/dp/0201702258))
 SUTVA       | [Stable Unit Treatment Value Assumption](https://en.wikipedia.org/wiki/Rubin_causal_model#Stable_unit_treatment_value_assumption_(SUTVA)) 
 SV          | Schedule Variance 
