@@ -338,6 +338,7 @@ COSS        | Commercial Open Source Software
 CoT         | Chain-of-Thought
 COTS        | Commercial Off-The-Shelf
 CPC         | Cost Per Click
+CPE         | Customer-Premises Equipment
 CPG         | Consumer Packaged Goods (e.g. industry)
 CPL         | Cost Per Lead 
 CPM         | Capability Portfolio Management 
@@ -461,6 +462,7 @@ DMZ         | [Demilitarized Zone](https://en.wikipedia.org/wiki/DMZ_(computing)
 DN          | Distinguished Name, re: LDAP
 DNAT        | Destination network address translation
 DNS         | [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System)
+DNSSEC      | Domain Name Security Extensions
 DoDAF       | [Department of Defense Architecture Framework](https://en.wikipedia.org/wiki/Department_of_Defense_Architecture_Framework)
 DORA        | [DevOps Research and Assessment](https://dora.dev/) (re: metrics: deployment frequency, lead time for changes)
 DORA        | [Digital Operational Resilience Act, re: Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector](https://eur-lex.europa.eu/eli/reg/2022/2554/oj)
@@ -475,6 +477,7 @@ DR          | Disaster Recovery
 DRaaS       | Disaster Recovery as a Service
 DRB         | Design Review Board  
 DRBG        | [Deterministic Random Bit Generator](https://en.wikipedia.org/wiki/Pseudorandom_number_generator) - also see PRNG
+DRG         | Dynamic Routing Gateway
 DRI         | Directly Responsible Individual
 DRL         | Deep Reinforcement Learning
 DRP         | Disaster Recovery Plan
@@ -808,6 +811,7 @@ IPv4        | [Internet Protocol version 4](https://en.wikipedia.org/wiki/IPv4)
 IPv6        | [Internet Protocol version 6](https://en.wikipedia.org/wiki/IPv6)
 IPW         | Inverse Probability Weighting
 IPX         | [Internetwork Packet Exchange](https://en.wikipedia.org/wiki/Internetwork_Packet_Exchange)
+IQN         | iSCSI Qualified Name
 IR          | Incident Response 
 IR          | Information Retrieval 
 IR35        | [Off-payroll working rules for clients, workers (contractors) and their intermediaries (UK)](https://www.gov.uk/guidance/understanding-off-payroll-working-ir35)
@@ -896,6 +900,7 @@ KVS         | Key-Value Storage
 Kwok        | [Kubernetes Without Kubelet](https://www.infoq.com/news/2023/03/kwok-kubernetes/)
 KYC         | Know Your Client | Know Your Customer 
 **L__**     |
+LAG         | Link Aggregation Group
 LaMDA       | [Language Model for Dialogue Applications](https://en.wikipedia.org/wiki/LaMDA) [re: Google]
 LAN         | Local Area Network
 LASSO       | Least Absolute Shrinkage and Selection Operator (aka L1 regularization)
@@ -922,6 +927,7 @@ LMM         | Large Multimodal Model
 LOE         | Level of Effort
 LOI         | Letter of Intent
 LoRA        | [Low-Rank Adaptation](https://arxiv.org/abs/2106.09685) (of Large Language Models) [see [Microsoft github repo](https://github.com/microsoft/LoRA)]
+LPG         | Local Peering Gateway
 LPU         | Language Processing Unit 
 LRM         | Large Reasoning Model
 LS          | Late Start Date
@@ -1018,6 +1024,7 @@ MPL         | [Mozilla Public License](https://www.mozilla.org/en-US/MPL/)
 MPLS        | Multiprotocol Label Switching 
 MPM         | [Manufacturing process management](https://en.wikipedia.org/wiki/Manufacturing_process_management)
 MQL         | Marketing Qualified Lead
+MQL         | Monitoring Query Language (re: Oracle Cloud?)
 MRA         | Matters Requiring Attention
 MRC         | Management Risk Committee
 MRD         | [Marketing Requitements Document](https://en.wikipedia.org/wiki/Market_requirements_document)
@@ -1076,7 +1083,7 @@ NDR         | Network Detection and Response
 NER         | Named Entity Recognition, re: ML
 NeRF        | Neural Radiance Fields (re: Deep Learning, optimizing continuous volumetric scene function)
 NGAV        | New-Generation Antivirus 
-NIC         | Network Interface Card
+NIC         | [Network Interface Card](https://en.wikipedia.org/wiki/Network_interface_controller)
 NIDS        | [Network-based Intrusion Detection System](https://en.wikipedia.org/wiki/Intrusion_detection_system)
 NISQ        | Noisy Intermediate-Scale Quantum
 NIST        | National Institute of Standards and Technology
@@ -1116,6 +1123,7 @@ OBS         | Organizational Breakdown Structure
 OCF         | [Operating Cash Flow](https://en.wikipedia.org/wiki/Operating_cash_flow)
 OCI         | [Open Container Initiative](https://opencontainers.org/)
 OCI         | [Oracle Cloud Infrastructure](https://www.oracle.com/cloud/)
+OCID        | Oracle Cloud Identifier
 OCIO        | Office of the Chief Information Officer
 OCM         | [Organizational Change Management](https://en.wikipedia.org/wiki/Change_management)
 OCP         | [OpenShift Container Platform](https://en.wikipedia.org/wiki/OpenShift) ([IBM](https://www.ibm.com/products/openshift), [RedHat](https://www.redhat.com/en/technologies/cloud-computing/openshift/container-platform))
@@ -1167,7 +1175,7 @@ OSS         | Operations Support System
 OSSF        | [Open Source Security Foundation](https://openssf.org/)
 OT          | Operational Technology (re: computing systems that are used to manage industrial operations as opposed to administrative operations)
 OTC         | Order-to-Cash
-OTP         | One-Time Passcode
+OTP         | One-Time Passcode | Password
 ou          | Organizational Unit, re: LDAP 
 OWA         | Outlook Web Access
 OWASP       | [Open Web Application Security Project](https://owasp.org/)
@@ -1386,6 +1394,7 @@ RLHF        | Reinforcement Learning from Human Feedback
 RMA         | [Return Merchandise Authorization](https://en.wikipedia.org/wiki/Return_merchandise_authorization)
 RMA         | Risk Management Administration
 RMAD        | Rapid Mobile App Development  
+RMAN        | Recovery Manager (re: Oracle only?)
 RMF         | Risk Management Framework 
 RMI         | Remote Method Invocation
 RMIS        | Risk Management Information System
@@ -1402,6 +1411,7 @@ ROS         | Robotic Operating System
 RP          | Relying Party (re: OpenID Connect)
 RPA         | [Robotic Process Automation](https://en.wikipedia.org/wiki/Robotic_process_automation)
 RPC         | [Remote Procedure Call](https://en.wikipedia.org/wiki/Remote_procedure_call)
+RPC         | Remote Peering Connection (re: Oracle only?)
 RPM         | Redhat Package Manager
 RPM         | Requests Per Minute
 RPO         | Recovery Point Objective
@@ -1727,12 +1737,13 @@ VAS         | Value-Added Services
 VBS         | [Virtualization-based Security](https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-vbs) (i.e., introduced in [Windows 11](https://en.wikipedia.org/wiki/Windows_11))
 VC          | Venture Capital 
 VCF         | VMware Cloud Foundation  
+VCN         | Virtual Cloud Network
 vCPU        | Virtual Central Processing Unit
 VDBMS       | [Vector Database Danagement System](https://en.wikipedia.org/wiki/Vector_database), aka vector data, or vector store
 VDI         | [Virtual Desktop Infrastructure](https://en.wikipedia.org/wiki/Desktop_virtualization#Remote_desktop_virtualization)
 VEX         | [Software-Exploitability eXchange](https://ntia.gov/files/ntia/publications/vex_one-page_summary.pdf)
 VHD         | Virtual Hard Disk 
-VIF ???     | Virtual Network InterFace
+VIF         | [Virtual Interfaces](https://docs.aws.amazon.com/whitepapers/latest/aws-direct-connect-for-amazon-connect/virtual-interfaces-vif.html)
 VIF         | Variance Inflation Factor
 VII         | [ehicle Infrasture Integration](https://en.wikipedia.org/wiki/Vehicle_infrastructure_integration)
 VIP         | Virtual IP address
@@ -1742,7 +1753,8 @@ VM          | Virtual Machine
 VMI         | Virtual Machine Image 
 VNC         | Virtual Network Computing
 VNet        | Virtual Network
-VNI ???     | Virtual Network Interface
+VNI         | [Virtual Network Interface](https://en.wikipedia.org/wiki/Virtual_network_interface)
+VNIC        | Virtual Network Interface Card
 VoIP        | [Voice over Internet Protocol](https://en.wikipedia.org/wiki/Voice_over_IP)
 VPDA        | Versioning, Packaging, Dependency Management, Artifact Management
 VPN         | [Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network)
@@ -1758,6 +1770,7 @@ VSM         | [Value Stream Mapping](https://en.wikipedia.org/wiki/Value-stream_
 VSM         | [Value Stream Management](https://www.forbes.com/sites/forbestechcouncil/2019/07/08/what-is-value-stream-management-a-primer-for-enterprise-leadership/?sh=68f05f4b7b67)
 VSMP        | [Value Stream Management Platform](https://www.gartner.com/reviews/market/value-stream-management-platforms)
 VSOC        | Virtual Security Operations Center
+VTAP        | Virtual Test Access Point 
 VTOC        | [Volume Table of Contents](https://en.wikipedia.org/wiki/Volume_Table_of_Contents), re: IBM
 VUCA        | [Volatility, Uncertainty, Complexity, Ambiguity](https://en.wikipedia.org/wiki/VUCA) - origin: The U.S. Army War College
 VXLAN       | Virtual Extensible LAN
@@ -1827,6 +1840,7 @@ ZB          | [Zettabyte](https://simple.wikipedia.org/wiki/Zettabyte)
 ZBB         | [Zero-Based Budgeting](https://en.wikipedia.org/wiki/Zero-based_budgeting)
 zkEVM       | [zero-knowledge Ethereum Virtual Machine](https://blog.chain.link/zkevm/)
 ZKP         | [Zero Knowledge Proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
+ZPR         | Zero Trust Packet Routing
 ZSP         | Zero Standing Privilege 
 ZT          | Zero Trust
 ZTA         | [Zero Trust Architecture](https://csrc.nist.gov/publications/detail/sp/800-207/final)
