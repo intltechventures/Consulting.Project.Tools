@@ -1138,6 +1138,7 @@ OGL         | [Open Game License](https://en.wikipedia.org/wiki/Open_Game_Licens
 OIA         | [Office of Intelligence and Analysis](https://en.wikipedia.org/wiki/Office_of_Intelligence_and_Analysis_(Treasury_Department))
 OIC         | Oracle Integration Cloud (note: renamed in January 2019, to Oracle Integration)
 OID         | Object Identifier
+OID4VC      | [OpenID for Verifiable Credentials](https://openid.net/sg/openid4vc/)
 OIDC        | [OpenID Connect](https://openid.net/)
 OIDC        | Oracle Identity Cloud Service
 OIDF        | OpenID Foundation
