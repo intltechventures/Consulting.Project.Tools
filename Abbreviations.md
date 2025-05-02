@@ -27,6 +27,7 @@ ABC         | Area of Business Concern
 ABNF        | Augmented Backus-Naur Form (see [RFC-5234](https://tools.ietf.org/html/rfc5234))
 ABS         | As Built Section
 AC          | [Axiom of Choice](https://en.wikipedia.org/wiki/Axiom_of_choice)
+ACDPs       | Attention Capture Damaging Patterns
 ACE         | Access Control Entry
 ACG         | Automatic Code Generators
 ACH         | [Automated Clearing House](https://en.wikipedia.org/wiki/Automated_clearing_house)
@@ -755,6 +756,7 @@ IC          | Individual Contributor
 IC          | [United States IntelligenceCommunity](https://en.wikipedia.org/wiki/United_States_Intelligence_Community)
 ICANN       | [Internet Corporation for Assigned Names and Numbers](https://en.wikipedia.org/wiki/ICANN)
 ICAP        | [Internet Content Adaptation Protocol](https://en.wikipedia.org/wiki/Internet_Content_Adaptation_Protocol)
+ICI         | Inter-Chip Interconnect (re: networking of AI chips)
 ICML        | International Conference on Machine Learning
 ICMP        | [Internet Control Message Protocol ](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol)
 ICP         | Ideal Customer Profile
@@ -1665,7 +1667,7 @@ TPLC        | [Total Product Life Cycle](https://www.fda.gov/about-fda/cdrh-tran
 TPM         | [Trusted Platform Module](https://en.wikipedia.org/wiki/Trusted_Platform_Module)
 TPR         | True Positive Rate
 TPS         | [Toyota Production System](https://en.wikipedia.org/wiki/Toyota_Production_System)
-TPU         | Tensor Processing Unit(s) 
+TPU         | [Tensor Processing Unit](https://en.wikipedia.org/wiki/Tensor_Processing_Unit)
 TQM         | Temporal Quantum Model
 TRACTOR     | [TRanslating All C TO Rust](https://www.darpa.mil/news-events/2024-07-31a) (DARPA project)
 TRM         | Technical Reference Model
