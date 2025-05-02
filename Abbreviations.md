@@ -529,6 +529,7 @@ ECA         | Embodied Conversational Agent(s)
 ECAB        | [Emergency Change-Advisory Board](https://en.wikipedia.org/wiki/Change-advisory_board)
 ECC         | [Elliptic-Curve Cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography)
 ECDH        | [Elliptic-Curve Diffie-Hellman](https://en.wikipedia.org/wiki/Elliptic-curve_Diffie%E2%80%93Hellman)
+EDA         | [Exploratory Data Analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis) 
 ECDSA       | [Elliptic Curve Digital Signature Algorithm](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)
 eCF or e-CF | [European e-Competence Framework](https://esco.ec.europa.eu/en/about-esco/escopedia/escopedia/european-e-competence-framework-e-cf)
 EDA         | Enterprise Data Architecture
