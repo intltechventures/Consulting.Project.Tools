@@ -13,6 +13,11 @@
 
 
 
+## Borman, Frank 
+- “A superior pilot uses superior judgment to avoid situations which require the use of superior skill." 
+
+
+
 ## Box, George E.P.
 - "All models are wrong, but some are useful."
 
