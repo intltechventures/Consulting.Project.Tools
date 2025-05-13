@@ -708,7 +708,7 @@ HA          | High Availability
 HAI         | Stanford Institute for Human-Centered Artificial Intelligence 
 HATEOAS     | [Hypermedia As The Engine Of Application State](https://en.wikipedia.org/wiki/HATEOAS)
 HBM         | High-Bandwidth Memory
-HCI         | Human-Computer Interaction
+HCI         | [Human-Computer Interaction](https://en.wikipedia.org/wiki/Human–computer_interaction)
 HCL         | [HashiCorp Configuration Language](https://github.com/hashicorp/hcl)
 HDA         | Headless Data Architecture
 HDD         | [Hard Disk Drive](https://en.wikipedia.org/wiki/Hard_disk_drive)
