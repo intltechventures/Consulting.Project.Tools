@@ -135,6 +135,7 @@ ATDD        | Acceptance-Test-Driven-Development
 ATE         | [Averate Treatment Effect](https://en.wikipedia.org/wiki/Average_treatment_effect)
 ATF         | Automated Test Framework
 ATM         | [Asynchronous Transfer Mode](https://en.wikipedia.org/wiki/Asynchronous_Transfer_Mode)
+ATO         | [Authorization to Operate](https://en.wikipedia.org/wiki/Risk_Management_Framework)
 AUC         | [Area Under the Curve](https://en.wikipedia.org/wiki/Receiver_operating_characteristic#Area_under_the_curve)
 AUC-ROC     | Area Under Curve – Receiver Operating Characteristics Curve
 AUP         | [Acceptable Use Policy](https://en.wikipedia.org/wiki/Acceptable_use_policy)
@@ -1399,7 +1400,7 @@ RMA         | [Return Merchandise Authorization](https://en.wikipedia.org/wiki/R
 RMA         | Risk Management Administration
 RMAD        | Rapid Mobile App Development  
 RMAN        | Recovery Manager (re: Oracle only?)
-RMF         | Risk Management Framework 
+RMF         | [Risk Management Framework](https://en.wikipedia.org/wiki/Risk_Management_Framework)
 RMI         | Remote Method Invocation
 RMIS        | Risk Management Information System
 RMS         | Rights Management Service
