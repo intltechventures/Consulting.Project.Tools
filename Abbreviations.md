@@ -1073,6 +1073,7 @@ NA          | North America
 NA          | Not Applicable
 NAF         | [NATO Architecture Framework](https://en.wikipedia.org/wiki/NATO_Architecture_Framework)
 NAK         | Negative Acknolwedgement
+NAS         | [National Academy of Sciences](https://www.nasonline.org/)
 NAS         | Network Attached Storage 
 NAT         | [Network Address Translation](https://en.wikipedia.org/wiki/Network_address_translation)
 NC          | Non-Compliant
@@ -1263,6 +1264,7 @@ PM          | Project Management
 PM          | Project Manager
 PMI         | [Project Management Institute](https://www.pmi.org/)
 PMO         | Project Management Office
+PNAS        | [Proceedings of the National Academy of Sciences](https://www.pnas.org/)
 PO          | Product Owner
 PO          | Purchase Order
 POC         | [Point of Contact](https://en.wikipedia.org/wiki/Point_of_contact)
