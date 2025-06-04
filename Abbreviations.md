@@ -853,7 +853,8 @@ ISSAP       | [Information Systems Security Architecture Professional](https://w
 IT          | Information Technology  
 IT4IT       | [The IT4IT Reference Architecture](https://www.opengroup.org/it4it), a standard of the Open Group, is a powerful tool for aligning and managing a Digital Enterprise
 ITAM        | IT Asset Management 
-ITAR		| International Traffic in Arms Regulations
+ITAR		    | International Traffic in Arms Regulations
+ITG         | Intermediate Token Generation 
 ITIL        | [Information Technology Infrastructure Library](https://en.wikipedia.org/wiki/ITIL)
 ITIM        | Information Technology Investment Management
 ITIRB       | Information Technology Investment Review Board
