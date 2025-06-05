@@ -388,10 +388,12 @@ CTE         | Commono Table Expressions (re: SQL)
 CTI         | Cyber Threat Intelligence
 CTO         | Chief Technology Officer 
 CTR         | Click-Through-Rate
-CUI	   		| Controlled Unclassified Information (CUI), as defined by Executive Order 13556 (2010)
+CUI	   		  | Controlled Unclassified Information (CUI), as defined by Executive Order 13556 (2010)
 CUSO        | Combined U.S. Operations
 CV          | Cost Variance 
 CV          | Cross-Validation
+CVC         | [Card Verification Code](https://en.wikipedia.org/wiki/Card_security_code)
+CVC         | [Corporate Venture Capital](https://en.wikipedia.org/wiki/Corporate_venture_capital)
 CVD         | Coordinated Vulnerability Disclosure
 CVE         | [Critical Vulnerabilities and Exposures](https://www.cve.org/)
 CVS         | Concurrent Version System
