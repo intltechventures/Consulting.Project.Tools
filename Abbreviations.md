@@ -1508,6 +1508,8 @@ SE          | Standard Edition
 SE          | [Systems Engineering](https://en.wikipedia.org/wiki/Systems_engineering)
 SEBoK       | [Systems Engineering Book of Knowledge](https://sercuarc.org/sebok/) - [wiki](https://sebokwiki.org/wiki/)
 SEC         | [U.S. Securities and Exchange Commission](https://en.wikipedia.org/wiki/U.S._Securities_and_Exchange_Commission)
+SEMP        | Systems Engineering Management Plan 
+SEP         | Systems Engineering Plan
 SEO         | Search Engine Optimization
 SERC        | [Systems Engineering Research Council](https://sercuarc.org/)
 SFCC        | [Salesforce Commerce Cloud](https://www.salesforce.com/products/commerce-cloud/overview/)
