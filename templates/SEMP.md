@@ -3,6 +3,12 @@
 
 ## Examples
 
+### AcqNotes, The Defense Acquisition Encyclopedia 
+
+- https://acqnotes.com/acqnote/careerfields/systems-engineering-management-plan-semp
+
+
+
 ### U.S. Department of Transportation, Federal Highway Administration
 
 - Title Page
