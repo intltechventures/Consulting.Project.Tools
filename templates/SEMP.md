@@ -8,6 +8,10 @@
 - https://acqnotes.com/acqnote/careerfields/systems-engineering-management-plan-semp
 
 
+### NASA
+
+- https://www.nasa.gov/reference/appendix-j-semp-content-outline/
+
 
 ### U.S. Department of Transportation, Federal Highway Administration
 
