@@ -1363,7 +1363,8 @@ RAR         | [Roshal Archive (file format)](https://en.wikipedia.org/wiki/RAR_(
 RARP        | [Reverse Address Resolution Protocol](https://en.wikipedia.org/wiki/Reverse_Address_Resolution_Protocol)
 RAS         | Redundancy, Availability, Serviceability  
 RASUI       | Reliability, Availability, Serviceability, Usability and Instability  
-RAT         | Reverse Address and Port Translation (see RAPT)
+RAT         | Reverse Address and Port Translation (see RAPT
+RAT         | Remote Access Trojan
 RBA         | Role-Based Authorization
 RBAC        | [Role Based Access Control](https://en.wikipedia.org/wiki/Role-based_access_control)
 RBFNN       | Radial Basis Function Neural Network 
