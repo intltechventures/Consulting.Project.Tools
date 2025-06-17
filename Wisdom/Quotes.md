@@ -327,3 +327,8 @@
 - "A system is never finished being developed until it ceases to be used"
   + (1995) Towards a CSCW Framework for Scientific Cooperation in Europe. p. 7
 
+
+
+## [Weizenbaum, Joseph](https://en.wikipedia.org/wiki/Joseph_Weizenbaum)
+- In his book “[Computer Power and Human Reason](https://www.amazon.com/Computer-Power-Human-Reason-Calculation/dp/0716704633/)", Joseph Weizenbaum had this to say about the myth of technological and political and social inevitability: 
+  * “it is a powerful tranquilizer of the conscience. Its service is to remove responsibility from the shoulders of everyone who truly believes in it.”
