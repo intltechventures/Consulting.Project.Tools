@@ -214,6 +214,7 @@ BTC         | Bitcoin
 BtoS        | Business-to-Society
 BU          | Business Unit
 BYO         | Bring Your Own
+BYOC        | Bring Your Own Cloud
 BYOD        | Bring Your Own Device
 **C__**     |
 C           | [Confidential](https://sgp.fas.org/othergov/intel/ic-class.pdf)
