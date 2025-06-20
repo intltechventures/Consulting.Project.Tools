@@ -452,7 +452,7 @@ DI          | [Dependency Injection](https://en.wikipedia.org/wiki/Dependency_in
 DIM         | Domain Information Model
 DJIA        | Dow Jones Industrial Average
 DKG         | [Distributed Key Generation](https://en.wikipedia.org/wiki/Distributed_key_generation)
-DLD			| Detail-Level Design 
+DLD			    | Detail-Level Design 
 DLM         | Database Lifecycle Management
 DLP         | [Data Loss Prevention](https://en.wikipedia.org/wiki/Data_loss_prevention_software)
 DLT         | Distributed Ledger Technology
@@ -515,7 +515,7 @@ EAC         | Estimate at Completion
 EAI         | [Enterprise Application Integration](https://en.wikipedia.org/wiki/Enterprise_application_integration)
 EAMS        | Enterprise Architecture Management Suite
 EAP         | [Extensible Authentication Protocol](https://en.wikipedia.org/wiki/Extensible_Authentication_Protocol)
-EAR			| Export Administration Regulations
+EAR			    | Export Administration Regulations
 EAR         | [Enterprise Application aRchive (file format)](https://en.wikipedia.org/wiki/EAR_(file_format))
 EARS        | [Easy Approach to Requirements Syntax](https://alistairmavin.com/ears/) (re: Alistair Mavin, Rolls Royce)
 EBA         | Enterprise Business Architecture 
@@ -625,6 +625,7 @@ FDDI        | [Fiber Distributed Data Interface](https://en.wikipedia.org/wiki/F
 FDL         | (GNU) Free Documentation License
 FedRAMP     | Federal Risk Authorization Management Program
 FEP         | Federal Employee Program 
+FFI         | Foreign Function Interface
 FFT         | Full Fine-Tuning
 FFW         | Feedforward
 FHE         | Fully [Homomorphic Encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption) (e.g., [IBM](https://www.ibm.com/security/services/homomorphic-encryption_))
@@ -637,7 +638,7 @@ FIDO        | Fast Identity Online
 FINRA       | Financial Industry Regulatory Authority
 FIPS        | [Federal Information Processing Standard](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards), re: FIPS PUB 140-2
 FIRST       | Fast Independent Repeatable Self-Validating Timely [(source)](https://dzone.com/articles/writing-your-first-unit-tests)
-FISMA	    | Federal Information Security Management Act 
+FISMA	      | Federal Information Security Management Act 
 FLOPS       | [Floating Point Operations Per Second](https://en.wikipedia.org/wiki/FLOPS)
 FMEA        | Failure Mode and Effects Analysis
 fMRI        | functional Magnetic Resonance Imaging
@@ -788,6 +789,7 @@ IETF        | [Internet Engineering Task Force](https://www.ietf.org/)
 IFB         | Invitation for Bids
 IG          | [Information Gain (decision tree)](https://en.wikipedia.org/wiki/Information_gain_(decision_tree))
 IGA         | Identity Governance and Administration, see IAM
+IIoT        | Industrial Internet of Things
 ILDP        | Information Leak Detection and Prevention (see DLP)
 ILM         | [Information Lifecycle Management](https://en.wikipedia.org/wiki/Information_lifecycle_management)
 IM          | Incident Management 
@@ -857,6 +859,7 @@ IT          | Information Technology
 IT4IT       | [The IT4IT Reference Architecture](https://www.opengroup.org/it4it), a standard of the Open Group, is a powerful tool for aligning and managing a Digital Enterprise
 ITAM        | IT Asset Management 
 ITAR		    | International Traffic in Arms Regulations
+ITD         | Intelligent Devices
 ITG         | Intermediate Token Generation 
 ITIL        | [Information Technology Infrastructure Library](https://en.wikipedia.org/wiki/ITIL)
 ITIM        | Information Technology Investment Management
@@ -902,8 +905,8 @@ KNN         | [K-nearest neibhbors](https://en.wikipedia.org/wiki/K-nearest_neig
 KPI         | [Key Performance Indicators](https://en.wikipedia.org/wiki/Performance_indicator)
 KQL         | [Kusto Query Language](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/)
 KT          | Knowledge Transfer
-KVM		    | [Kernel-based Virtual Machine](https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine) (re: an open source virtualization technology built into Linux)
-KVM			| keyboard, video and mouse
+KVM		      | [Kernel-based Virtual Machine](https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine) (re: an open source virtualization technology built into Linux)
+KVM			    | keyboard, video and mouse
 KVS         | Key-Value Storage
 Kwok        | [Kubernetes Without Kubelet](https://www.infoq.com/news/2023/03/kwok-kubernetes/)
 KYC         | Know Your Client | Know Your Customer 
@@ -1242,12 +1245,12 @@ PEP         | Policy Enforcement Point
 PERT        | Program Evaluation and Review Technique
 PGM         | Program
 PGP         | [Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
-PHI			| Protected Health Information (re: HIPPA) 
+PHI			    | Protected Health Information (re: HIPPA) 
 PI          | Personal Information
 PI          | Program Increment (re: Scaled Agile Framework, SAFe)
 PIA         | Privacy Impact Assessment
 PIA         | Project Initiation Approval
-PII			| Personally Identifiable Information
+PII			    | Personally Identifiable Information
 PIN         | Personal Identification Number 
 PIP         | [Performance Improvement Plan](https://en.wikipedia.org/wiki/Performance_improvement)
 PIR         | Post Incident Review
