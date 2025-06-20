@@ -1101,6 +1101,13 @@ __These following sections are the primary software programs that I typically ha
 
 # Additional Utilities to consider adding:
 
+- reclone 
+  + https://rclone.org/
+    * "Rclone is a command-line program to manage files on cloud storage. It is a feature-rich alternative to cloud vendors' web storage interfaces. Over 70 cloud storage products support rclone including S3 object stores, business & consumer file storage services, as well as standard transfer protocols."
+    * "Rclone has powerful cloud equivalents to the unix commands rsync, cp, mv, mount, ls, ncdu, tree, rm, and cat. Rclone's familiar syntax includes shell pipeline support, and ```--dry-run``` protection. It is used at the command line, in scripts or via its API."
+    * "The Swiss army knife of cloud storage"
+    * "Rclone mounts any local, cloud or virtual filesystem as a disk on Windows, macOS, linux and FreeBSD, and also serves these over SFTP, HTTP, WebDAV, FTP and DLNA."
+
 
 - Microsoft PowerToys
   + https://learn.microsoft.com/en-us/windows/powertoys/
@@ -1262,10 +1269,14 @@ __These following sections are the primary software programs that I typically ha
 
 # Future Wishlist Software to Acquire 
 
+- An Open Source alternative to [erwin](https://www.erwin.com/) (re: for data modeling)
+
+
 - SolidWorks
   + https://www.solidworks.com/
   + https://www.solidworks.com/how-to-buy
   + https://en.wikipedia.org/wiki/SolidWorks
+
 
 
 # Task Bar entries (updated: 2024-05-25)
