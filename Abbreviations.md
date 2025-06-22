@@ -447,6 +447,7 @@ DGC         | Data Governance Council, or Committee (aka DGB)
 DGP         | Data Governance Policy
 DGS         | Domain Graph Services 
 DHCP        | [Dynamic Host Configuration Protocol](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol)
+DHI         | Docker Hardened Images
 DHT         | [Distributed Hash Table](https://en.wikipedia.org/wiki/Distributed_hash_table)
 DI          | [Dependency Injection](https://en.wikipedia.org/wiki/Dependency_injection)
 DIM         | Domain Information Model
