@@ -768,7 +768,7 @@ ICML        | International Conference on Machine Learning
 ICMP        | [Internet Control Message Protocol ](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol)
 ICP         | Ideal Customer Profile
 ICS         | Incident Command System
-ICS         | Industrial Control Systems
+ICS         | [Industrial Control Systems](https://en.wikipedia.org/wiki/Industrial_control_system)
 ICT         | Information and Communication Technology 
 iDaaS       | Identity as a Service
 IdAM        | See IAM
@@ -812,6 +812,7 @@ IP          | Internet Protocol
 iPaaS       | Infrastructure Platform as a Service
 iPaaS       | Integration Platform as a Service 
 IPAM        | IP Address Management 
+IPC         | [Industrial Process Control](https://en.wikipedia.org/wiki/Industrial_process_control)
 IPC         | Information Proteciton and Control (see DLP)
 IPC         | [Inter-Process Communication](https://en.wikipedia.org/wiki/Inter-process_communication)
 IPMI        | Intelligent Platform Management Interface
@@ -1264,7 +1265,7 @@ PKI         | [Public Key Infrastructure](https://en.wikipedia.org/wiki/Public_k
 PKM         | Personal Knowledge Management
 PL          | Published Language (re: DDD)
 PLC         | Project Life Cycle 
-PLCs        | Programmable Logic Controllers
+PLC         | [Programmable Logic Controller](https://en.wikipedia.org/wiki/Programmable_logic_controller) 
 PLM         | [Product Lifecycle Management](https://en.wikipedia.org/wiki/Product_lifecycle)
 PLSA        | Probabilistic Latent Semantic Analysis
 PM          | Program Manager
@@ -1448,6 +1449,7 @@ RTSP        | [Real Time Streaming Protocol](https://en.wikipedia.org/wiki/Real_
 RTT         | Round-Trip Time  
 RTO         | Recovery Time Objective 
 RTO         | Return To Office
+RTOS        | [Real-Time Operating System](https://en.wikipedia.org/wiki/Real-time_operating_system)
 RTUs        | Remote Terminal Units
 RUM         | Real User Measurements (or Monitoring)
 RUM         | Resources Under Management
