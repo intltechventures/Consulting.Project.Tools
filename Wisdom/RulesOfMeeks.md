@@ -354,7 +354,8 @@ changes you"**
 ====
 
 **\#801 - "Before you do anything - make a backup"**
-  * See [2019 MySpace server migration disaster](https://www.dailywire.com/news/44789/myspace-probably-lost-everything-uploaded-its-emily-zanotti)
+  * See [2019 - MySpace server migration disaster](https://www.dailywire.com/news/44789/myspace-probably-lost-everything-uploaded-its-emily-zanotti)
+  * See [2025 - Researcher loses 10 years worth of survey data](https://www.linkedin.com/posts/wahiba-abu-rass-b4548529_serious-warning-about-surveymonkey-i-am-activity-7344067853353897984-k-v1/)
 
 
 **\#802 - "Thou Shalt Log (who did what, when, where, to what, with what)"**
