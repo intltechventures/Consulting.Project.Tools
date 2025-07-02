@@ -623,6 +623,7 @@ FCM         | [Firebase Cloud Messaging](https://en.wikipedia.org/wiki/Firebase_
 FCoE        | Fibre Channel over Ethernet 
 FCP         | [First Contentful Paint](https://web.dev/fcp/)
 FDDI        | [Fiber Distributed Data Interface](https://en.wikipedia.org/wiki/Fiber_Distributed_Data_Interface)
+FDE         | Forward-Deployed Engineer
 FDL         | (GNU) Free Documentation License
 FedRAMP     | Federal Risk Authorization Management Program
 FEP         | Federal Employee Program 
