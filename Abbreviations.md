@@ -476,6 +476,7 @@ DoS         | Denial of Service
 DOS         | [Disk Operating System](https://en.wikipedia.org/wiki/DOS)
 DP          | Differential Privacy
 DP          | [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
+DPA         | Data Protection Authorities 
 DPC         | Discrete Process Control
 DPO         | Direct Preference Optimization (re: LLMs, tuning algorithm)
 DPoP        | Demonstrating Proof-of-Possession
