@@ -907,6 +907,7 @@ KMS         | Key Management {System | Service}
 KNN         | [K-nearest neibhbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) (algorithm)
 KPI         | [Key Performance Indicators](https://en.wikipedia.org/wiki/Performance_indicator)
 KQL         | [Kusto Query Language](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/)
+KSA         | Knowledge, Skills, and Abilities 
 KT          | Knowledge Transfer
 KVM		      | [Kernel-based Virtual Machine](https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine) (re: an open source virtualization technology built into Linux)
 KVM			    | keyboard, video and mouse
