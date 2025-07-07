@@ -1097,6 +1097,7 @@ NDA         | Non-Disclosure Agreement
 NDCG        | Normalized Discounted Cumulative Gain 
 NDP         | [Neighbor Discovery Protocol](https://en.wikipedia.org/wiki/Neighbor_Discovery_Protocol)
 NDR         | Network Detection and Response
+NED         | Non-Executive Director
 NER         | Named Entity Recognition, re: ML
 NeRF        | Neural Radiance Fields (re: Deep Learning, optimizing continuous volumetric scene function)
 NGAV        | New-Generation Antivirus 
