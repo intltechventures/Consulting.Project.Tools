@@ -391,6 +391,7 @@ CTO         | Chief Technology Officer
 CTR         | Click-Through-Rate
 CUI	   		  | Controlled Unclassified Information (CUI), as defined by Executive Order 13556 (2010)
 CUSO        | Combined U.S. Operations
+CV          | Capability Viewpoints (re: DoDAF)
 CV          | Cost Variance 
 CV          | Cross-Validation
 CVC         | [Card Verification Code](https://en.wikipedia.org/wiki/Card_security_code)
@@ -1196,6 +1197,8 @@ OT          | Operational Technology (re: computing systems that are used to man
 OTC         | Order-to-Cash
 OTP         | One-Time Passcode | Password
 ou          | Organizational Unit, re: LDAP 
+OV          | Operational View (re: DoDAF) 
+OVP         | Operational Viewpoints (re: DoDAF)
 OWA         | Outlook Web Access
 OWASP       | [Open Web Application Security Project](https://owasp.org/)
 OWL         | [Web Ontology Language](https://en.wikipedia.org/wiki/Web_Ontology_Language)
@@ -1640,8 +1643,10 @@ STT         | Speech-To-Text
 SuD         | System Under Discussion (re, see book: [Writing Effective Use Cases](https://www.amazon.com/Writing-Effective-Cases-Alistair-Cockburn/dp/0201702258))
 SUTVA       | [Stable Unit Treatment Value Assumption](https://en.wikipedia.org/wiki/Rubin_causal_model#Stable_unit_treatment_value_assumption_(SUTVA)) 
 SV          | Schedule Variance 
+SV          | Systems View (re: DoDAF)
 SVD         | [Single Value Decomposition](https://en.wikipedia.org/wiki/Singular_value_decomposition)
 SVG         | [Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
+SVP         | Systems Viewpoints (re: DoDAF)
 SW          | Software
 SWA         | Azure [Static Web Apps](https://azure.microsoft.com/en-us/products/app-service/static/) ([github](https://github.com/Azure/static-web-apps))
 SWAG        | Silly Wild-Ass Guess (also see ROM), aka an estimate 
@@ -1707,6 +1712,7 @@ TTM         | Time-To-Market
 TTP         | Trusted Third Party
 TTPs        | Tactics, Techniques, and Procedures
 TTS         | Text-To-Speech
+TV          | Technical Stanards View (re: DoDAF)
 TWh         | Terawatt-hours
 TXN         | Transaction
 **U__**     |
