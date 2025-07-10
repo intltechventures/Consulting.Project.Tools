@@ -20,26 +20,26 @@
 - Conclusion
 
 
---- 
+
 ## References
 
 
---- 
 ### Suggested Books
+---
 
 - ```Entries to be added...```
 
 
 
----
 ### Good Examples 
+--- 
 
 - ```Entries to be added...```
 
 
 
----
 ### Case Study Formats 
+--- 
 
 - https://papersowl.com/blog/case-study-in-apa-format
   + KM Commentary: Some useful tips, and links to other suggested resources.
