@@ -862,6 +862,7 @@ ISRS        | Information Storage and Retrieval System
 ISSAP       | [Information Systems Security Architecture Professional](https://www.isc2.org/Certifications/CISSP-Concentrations)
 IT          | Information Technology  
 IT4IT       | [The IT4IT Reference Architecture](https://www.opengroup.org/it4it), a standard of the Open Group, is a powerful tool for aligning and managing a Digital Enterprise
+ITAC        | Information Technology Architecture Committee 
 ITAM        | IT Asset Management 
 ITAR		    | International Traffic in Arms Regulations
 ITD         | Intelligent Devices
@@ -883,6 +884,7 @@ JAR         | [Java ARchive (file format)](https://en.wikipedia.org/wiki/JAR_(fi
 JCP         | [Java Community Process](https://en.wikipedia.org/wiki/Java_Community_Process)
 JDBC        | Java Database Connectivity
 JDK         | [Java Development Kit](https://en.wikipedia.org/wiki/Java_Development_Kit)
+JEPA        | [Joint Embedding Predictive Architecture](https://arxiv.org/abs/2301.08243)
 JFR         | Java Flight Recorder
 JIT         | Just in Time
 JMS         | [Jakarta Messaging (formerly  Java Messaging Service)](https://en.wikipedia.org/wiki/Jakarta_Messaging), re: JSR 343
@@ -1623,6 +1625,7 @@ SRP         | Single Responsibility Principle
 SRS         | Secure and Reliable Systems
 SSADM       | (structured systems analysis and design methodology) - developed by  Tom DeMarco, Ed Yourdon, and Larry Constantine 
 SSD         | [Solid-State Disk](https://en.wikipedia.org/wiki/Solid-state_drive)
+SSDLC       | Secure Software Development Lifecycle 
 SSG         | [Server-Side {Generating | Generation}](https://en.wikipedia.org/wiki/Server-side_scripting)
 SSG         | [Static Site {Generation | Generator}](https://en.wikipedia.org/wiki/Static_site_generator)
 SSH         | Secure Shell
