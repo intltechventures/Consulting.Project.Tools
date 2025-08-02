@@ -905,6 +905,7 @@ KCL         | Kinesis Client Library
 KCSA        | Kubernetes and Cloud Security Associate (KCSA) certification, re: CNCF
 KDC         | Key Distribution Center
 KEM         | Key Encapsulation Mechanism
+KEV         | CISA [Known Exploited Vulnerabilities](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) Catalog
 kex         | [key exchange](https://en.wikipedia.org/wiki/Key_exchange)
 KMDF        | [Kernel-Mode Driver Framework](https://en.wikipedia.org/wiki/Kernel-Mode_Driver_Framework)
 KMS         | Key Management {System | Service}
