@@ -1584,8 +1584,8 @@ SOA         | [Service Oriented Architecture](https://en.wikipedia.org/wiki/Serv
 SOA         | [Start of Authority](https://en.wikipedia.org/wiki/SOA_record) record, re: DNS
 SOAP        | [Simple Object Access Protocol](https://en.wikipedia.org/wiki/SOAP)
 SOAR        | Security, Orchestration, Automation, and Response
-SOC         | Security Operations Center 
-SOC         | System and Organization Controls
+SOC         | [Security Operations Center](https://en.wikipedia.org/wiki/Security_operations_center)
+SOC         | [System and Organization Controls](https://en.wikipedia.org/wiki/System_and_Organization_Controls)
 SoE         | System of Engagement
 SOLID       | Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion
 SOM         | Serviceable Obtainable Market
