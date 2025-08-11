@@ -644,7 +644,7 @@ FIPS        | [Federal Information Processing Standard](https://en.wikipedia.org
 FIRST       | Fast Independent Repeatable Self-Validating Timely [(source)](https://dzone.com/articles/writing-your-first-unit-tests)
 FISMA	      | Federal Information Security Management Act 
 FLOPS       | [Floating Point Operations Per Second](https://en.wikipedia.org/wiki/FLOPS)
-FMEA        | Failure Mode and Effects Analysis
+FMEA        | [Failure Mode and Effects Analysis](https://en.wikipedia.org/wiki/Failure_mode_and_effects_analysis)
 fMRI        | functional Magnetic Resonance Imaging
 FoS         | Families of Systems
 FOSS        | [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software)
@@ -1294,6 +1294,7 @@ POJO        | [Plain Old Java Object](https://en.wikipedia.org/wiki/Plain_old_Ja
 POLDAT      | [Process, Organization and Location (Business Architecture) and Data, Applications and Technology (Systems Architecture)](https://en.wikipedia.org/wiki/POLDAT)
 POLO        | Plain Old Language Objects
 PoLP        | Principle of Least Privilege 
+POML        | [Prompt Orchestration Markup Language](https://microsoft.github.io/poml/latest/)
 POOGI       | [Process Of Ongoing Improvement](https://en.wikipedia.org/wiki/Continual_improvement_process) [see TOC, Theory of Constraints]
 PoP         | Policy on Policies
 POP3        | Post Office Protocol version 3
@@ -1751,6 +1752,7 @@ US-NII      | Unlicensed National Information Infrastructure bands
 USB         | [Universal Serial Bus](https://en.wikipedia.org/wiki/USB)
 USD         | [Universal Scene Description](https://openusd.org/)
 USL         | [Universal Scalability Law](http://www.perfdynamics.com/Manifesto/USLscalability.html) ~ [Neil J. Gunther](https://en.wikipedia.org/wiki/Neil_J._Gunther)
+USP         | Unique Selling Point
 UTC         | Coordinated Universal Time 
 UTF         | [Unicode Transformation Format](https://en.wikipedia.org/wiki/Unicode#UTF)
 UUID        | [Universal Unique Identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier) - also GUID
