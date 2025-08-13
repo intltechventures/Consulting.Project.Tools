@@ -20,6 +20,7 @@ AA          | Alternatives Analysis
 AA          | Architecture Advisory (~ ARB)
 AAD         | [Average absolution deviation](https://en.wikipedia.org/wiki/Average_absolute_deviation) 
 AAD         | [Azure Active Directory](https://azure.microsoft.com/en-us/products/active-directory/)
+ABB         | Architecture Building Blocks
 ABAC        | [Attribute-Based Access Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see CBAC, PBAC)
 ABACUS      | [Algorithm-Based Analysis, Communication and Understanding of Systems](https://en.wikipedia.org/wiki/Avolution) 
 ABC         | Activity Based Costing
@@ -346,7 +347,7 @@ CPG         | Consumer Packaged Goods (e.g. industry)
 CPL         | Cost Per Lead 
 CPM         | Capability Portfolio Management 
 CPM         | Critical Path Method
-CPU         | [entral Processing Unit](https://en.wikipedia.org/wiki/Central_processing_unit)
+CPU         | [Central Processing Unit](https://en.wikipedia.org/wiki/Central_processing_unit)
 CP-ABE      | Cipher Policy — Attributed-Based Encryption  
 CQRS        | Command Query Responsibility Segregation  
 CR          | Conversion Rate
@@ -1493,6 +1494,7 @@ SASE        | Secure Access Service Edge
 SAST        | Static Application Security Testing
 SATA        | [Seria AT Attachment](https://en.wikipedia.org/wiki/Serial_ATA)
 SAW         | Statement of Architecture Work
+SBB         | Solution Building Blocks
 SBE         | Specification by Example
 SBI         | Synthetic Biological Intelligence
 SBOM        | [Software Bill of Materials](https://www.cisa.gov/sbom), re: [Software Supply Chain](https://en.wikipedia.org/wiki/Software_supply_chain) - also see VEX
