@@ -232,6 +232,7 @@ CAC         | Customer Acquisition Cost
 CAF         | Cloud Adoption Framework ([Azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/))
 CAG         | Cache-Augmented Generation
 CAGR        | [Compound Annual Growth Rate](https://en.wikipedia.org/wiki/Compound_annual_growth_rate) 
+CAIs        | Chatbot AIs
 CALM        | [Communications Access for Land Mobiles](https://en.wikipedia.org/wiki/Communications_Access_for_Land_Mobiles)
 CAP         | Consistency, Availability, Partition Tolerance  
 CapEx       | [Capital Expenditure](https://en.wikipedia.org/wiki/Capital_expenditure)
@@ -349,7 +350,7 @@ CPM         | Capability Portfolio Management
 CPM         | Critical Path Method
 CPU         | [Central Processing Unit](https://en.wikipedia.org/wiki/Central_processing_unit)
 CP-ABE      | Cipher Policy — Attributed-Based Encryption  
-CQRS        | Command Query Responsibility Segregation  
+CQRS        | [Command Query Responsibility Segregation](https://en.wikipedia.org/wiki/Command_Query_Responsibility_Segregation)
 CR          | Conversion Rate
 CRC         | Class Responsibility Collaboration (i.e., usually captured in a form known as "[cards](http://agilemodeling.com/artifacts/crcModel.htm)", see original [OOPSLA 1989 paper](http://c2.com/doc/oopsla89/paper.html))
 CRCQs       | Cryptanalytically-Relevant Quantum Computers 
@@ -945,6 +946,7 @@ LLC         | [Logical Link Control](https://en.wikipedia.org/wiki/Logical_link_
 LLM         | Large Language Model
 LLRT        | Low Latency Runtime (e.g., [AWS](https://github.com/awslabs/llrt))
 LMM         | Large Multimodal Model
+LOB         | Line of Business
 LOE         | Level of Effort
 LOI         | Letter of Intent
 LoRA        | [Low-Rank Adaptation](https://arxiv.org/abs/2106.09685) (of Large Language Models) [see [Microsoft github repo](https://github.com/microsoft/LoRA)]
