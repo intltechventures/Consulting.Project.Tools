@@ -747,6 +747,7 @@ HPC         | Horizontal Pod Autoscaling (Kubernetes)
 HRAA        | Highly Restricted Access Area
 HSM         | Hardware Security Module
 HSPI        | Highly Sensitive Protected Information
+HTAP        | Hybrid Transactional and Analytical Processing
 HTML        | Hyper Text Markup Language
 HTTP        | [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 HTTPS       | Hypertext Transfer Protocol Secure
@@ -1557,6 +1558,7 @@ SIPOC       | Supplier, Input, Process, Output, Customer
 SIRT        | Security Intelligence Response Team
 SISD        | [Single Instruction Stream, Single Data Stream](https://en.wikipedia.org/wiki/SISD)
 SIT         | [System Integration Testing](https://en.wikipedia.org/wiki/System_integration_testing)
+SKG         | Semantic Knowledge Graph
 SKU         | [Stock Keeping Unit](https://en.wikipedia.org/wiki/Stock_keeping_unit)
 SLA         | Service Level Agreement
 SLES        | SUSE Linux Enterprise Server
