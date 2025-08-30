@@ -284,6 +284,7 @@ CEH         | Certified Ethical Hacker
 CEP         | [Complex Event Processing](https://en.wikipedia.org/wiki/Complex_event_processing)
 CER         | Control Exception Request
 CERN        | [European Organization for Nuclear Research](https://en.wikipedia.org/wiki/CERN), French: Organisation européenne pour la recherche nucléaire
+CES         | Customer Experience Specialist
 CESGA       | [Galician Supercomputing Center](https://www.cesga.es/)
 CIFAR       | [Canadian Institute for Advanced Research](https://en.wikipedia.org/wiki/Canadian_Institute_for_Advanced_Research)
 CFBR        | Commenting For Better Reach
@@ -722,6 +723,7 @@ HBM         | High-Bandwidth Memory
 HCI         | [Human-Computer Interaction](https://en.wikipedia.org/wiki/Human–computer_interaction)
 HCL         | [HashiCorp Configuration Language](https://github.com/hashicorp/hcl)
 HDA         | Headless Data Architecture
+HDC         | High-Density Computing
 HDD         | [Hard Disk Drive](https://en.wikipedia.org/wiki/Hard_disk_drive)
 HDFS        | Hadoop Distributed File System 
 HDLC        | [High-Level Data Link Control](https://en.wikipedia.org/wiki/High-Level_Data_Link_Control)
