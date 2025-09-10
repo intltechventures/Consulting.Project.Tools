@@ -124,6 +124,7 @@ ART         | [Agile Release Train](https://scaledagileframework.com/agile-relea
 AS          | Authoritative Source
 ASCII       | [American Standard Code for Information Interchange](https://en.wikipedia.org/wiki/ASCII)
 ASI         | Artificial Super Intelligence
+ASM         | Advanced Statistical Methods
 ASN         | Advanced Shipment Notification
 ASN         | Application Service Name
 ASN         | [Autonomous System Number](https://en.wikipedia.org/wiki/Autonomous_system_(Internet))
