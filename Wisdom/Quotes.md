@@ -5,6 +5,12 @@
 - [Amara’s Law](https://en.wikipedia.org/wiki/Roy_Amara): "We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run." 
 
 
+## Amundsen, Mike
+
+- Amundsen’s Maxim
+  + https://www.amundsens-maxim.com/
+  + "Remember, when designing your Web API, your data model is not your object model is not your resource model is not your message model."
+
 
 ## Beck, Kent
 - "Given a behavior-changing diff and a subsequent structure-changing diff, can you derive the behavior-changing diff as it would have looked after the structure change? Can you compare the actual diff with the derived diff?" ~ [Kent Beck](https://twitter.com/KentBeck/status/1141744893200494592)
