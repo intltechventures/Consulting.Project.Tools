@@ -935,6 +935,7 @@ LBaaS       | Load-Balancer-as-a-Service
 LCAP        | Low-Code Application Platforms
 LCC         | Lower Camel Case
 LCM         | Life Cycle Management
+LCMS        | Learning & Curriculum Management System 
 LCNC        | Low-Code No-Code
 LDA         | Latent Dirichlet Allocation
 LDA         | [Linear Discriminat Analysis](https://en.wikipedia.org/wiki/Linear_discriminant_analysis)
