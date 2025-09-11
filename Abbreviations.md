@@ -1037,6 +1037,7 @@ MLLM        | Multimodal Large Language Models
 MLP         | Minimum Lovable Product
 MLP         | [Multi-Layer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 MLS         | [Messaging Layer Security (RFC 9420)](https://datatracker.ietf.org/doc/rfc9420/)
+MMM         | Multimodal Models
 MMS         | Massively Multilingual Speech
 MNAR        | Missing Not At Random (re: data quality/completeness)
 MOA         | Memorandum of Agreement
