@@ -921,7 +921,7 @@ KQL         | [Kusto Query Language](https://learn.microsoft.com/en-us/azure/dat
 KSA         | Knowledge, Skills, and Abilities 
 KT          | Knowledge Transfer
 KVM		      | [Kernel-based Virtual Machine](https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine) (re: an open source virtualization technology built into Linux)
-KVM			    | keyboard, video and mouse
+KVM			    | Keyboard, Video and Mouse
 KVS         | Key-Value Storage
 Kwok        | [Kubernetes Without Kubelet](https://www.infoq.com/news/2023/03/kwok-kubernetes/)
 KYC         | Know Your Client | Know Your Customer 
@@ -1351,6 +1351,7 @@ QAOA        | [Quantum Approximate Optimization Algorithm](https://en.wikipedia.
 QAR         | Quality Assurance Review
 QC          | QUality Control
 QEC         | Quantum Error Correction 
+QEMU        | Quick Emulator
 QFT         | [Quantum Field Theory](https://en.wikipedia.org/wiki/Quantum_field_theory)
 QFT         | [Quantum Fourier Transform](https://en.wikipedia.org/wiki/Quantum_Fourier_transform)
 QI          | Quality Improvement 
