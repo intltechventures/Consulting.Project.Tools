@@ -1100,6 +1100,7 @@ NAF         | [NATO Architecture Framework](https://en.wikipedia.org/wiki/NATO_A
 NAK         | Negative Acknolwedgement
 NAS         | [National Academy of Sciences](https://www.nasonline.org/)
 NAS         | Network Attached Storage 
+NAS         | Neural Architecture Search
 NAT         | [Network Address Translation](https://en.wikipedia.org/wiki/Network_address_translation)
 NC          | Non-Compliant
 NCSA        | [National Center for Supercomputing Applications](https://en.wikipedia.org/wiki/National_Center_for_Supercomputing_Applications)
