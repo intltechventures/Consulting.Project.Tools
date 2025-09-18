@@ -303,7 +303,7 @@ ___
 - AG.00.40.000 Email
 - AG.00.50.000 Workflow
 - AG.00.60.000 Scheduling
-- AG.00.70.000 Distributed Computing 
+- AG.00.70.000 Caching
 - AG.00.80.000 Manage File Transfer (MFT)
 - AG.00.90.000 Service Discovery
 
@@ -351,9 +351,9 @@ ___
   + AH.20.20.000 Network Attached Storage Devices  
   + AH.20.30.000 Cloud Service Storage
     * AH.20.30.010 Cloud Service Storage, Hot
-	* AH.20.30.020 Cloud Service Storage, Warm
-	* AH.20.30.030 Cloud Service Storage, Cold
-	* AH.20.30.030 Cloud Service Storage, Archive
+	  * AH.20.30.020 Cloud Service Storage, Warm
+  	* AH.20.30.030 Cloud Service Storage, Cold
+	  * AH.20.30.030 Cloud Service Storage, Archive
 
 - AH.30.00.000 Servers/VMs/Containers
   + AH.30.10.000 Servers, General Purpose
@@ -367,7 +367,7 @@ ___
   + AH.40.10.000 Security
   + AH.40.20.000 Networking
   + AH.40.30.000 Storage
-  + AH.40.40.000 Computing
+  + AH.40.40.000 Compute
   + AH.40.50.000 Data & Analytics
   + AH.40.60.000 APIs
   + AH.40.70.000 Messaging
@@ -619,7 +619,7 @@ ___
   + DOI:10.1145/2554850.2555176
 
 
-- M. Bakhshandeh. Ontology-driven Analysisof Enterprise Architecture Models. PhD Thesis, UNIVERSIDADE DE LISBOAINSTITUTO SUPERIOR T ́ECNICO, 2016.
+- M. Bakhshandeh. Ontology-driven Analysis of Enterprise Architecture Models. PhD Thesis, UNIVERSIDADE DE LISBOAINSTITUTO SUPERIOR T ́ECNICO, 2016.
   + https://www.inesc-id.pt/publications/12470/pdf/
 
 - S. Buckl, F. Matthes, and C. M. Schweda. Conceptual models for cross-cutting aspects in enterprise architecture modeling. In 14th IEEE Enterprise Distributed Object Computing
