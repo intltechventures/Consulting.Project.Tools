@@ -32,8 +32,8 @@
   f. Compensation?  
   g. OKRs?  
   h. KPIs?  
-  i. Executive support?
-  j. Policies?
-  k. Standards?
-  l. Governance?
+  i. Executive support?  
+  j. Policies?  
+  k. Standards?  
+  l. Governance?  
 
