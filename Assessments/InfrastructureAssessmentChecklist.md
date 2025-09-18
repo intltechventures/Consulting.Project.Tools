@@ -51,7 +51,11 @@
   + T.I.M.E. visualization graphic (Tolerate, Invest, Migrate, Eliminate)
 
 
-- Network Architecture 
+- Network Architecture Views
+  + AS-IS, and TO-BE:
+    * Context
+    * Conceptual/Logical
+    * Physical
 
 
 - Technology Roadmap(s)
