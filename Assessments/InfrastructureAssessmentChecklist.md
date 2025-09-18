@@ -32,7 +32,7 @@
 - Infrastructure Application Portfolio Inventory 
 
 
-- Mapping Docments:
+- Mapping Documents:
   + Technologies to Technology Reference Model Categories
   + Technologies to Applications
   + Applications to Capabilities 
