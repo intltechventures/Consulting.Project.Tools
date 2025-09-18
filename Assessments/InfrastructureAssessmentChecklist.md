@@ -1,6 +1,12 @@
 
 # Infrastructure Assessment Checklist - Ideation
 
+- ```Illustrative, not exhustive```
+
+- Someone reached out to me recently, asking for ideas on doing an assessment for a specific area of IT. 
+- This is an illustrative example of some of the types of artifacts that might be considered for inclusion in such as exercise. 
+
+
 ## Potential Artifacts to Develop & Deliver
 
 - Infrastructure Org Chart
