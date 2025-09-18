@@ -12,11 +12,12 @@
   + Personnel Training Recommendations 
 
 
-- Infrastructure Capability Model (Levels 1, 2, 3)
+- Infrastructure Capability Model 
+  + Definition - Levels 1, 2, 3
 
 
 - Infrastructure Maturity Model 
-  + Definition
+  + Definition - Stages, 1-5
   + Assessment
 
 
@@ -24,6 +25,7 @@
 
 
 - Infrastructure Technology Reference Model 
+  + Definition - Domain, Area, Category (Levels 1, 2, 3)
   + Infrastructure Technology Inventory 
 
 
@@ -31,7 +33,7 @@
 
 
 - Mapping Docments:
-  + Technologies to Technology Reference Model
+  + Technologies to Technology Reference Model Categories
   + Technologies to Applications
   + Applications to Capabilities 
 
