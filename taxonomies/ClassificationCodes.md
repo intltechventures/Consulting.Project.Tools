@@ -26,11 +26,13 @@ This is an **illustrative (but not exhaustive)** set of alphanumeric classificat
 Goal & Purpose: To improve the efficiency of team membersin being able to locate/communicate/reuse  artifacts - within a project, across projects, and across an enterpise - and to be able to easily locate  artificats of a similar type/cateogry in other projects / business groups / applicaiton teams.
 
 
-My ideas for this were stimulated and informed by the practical and real-world **massive pain & challenges** of creating/organizing/sharings/finding documents during the following periods:
-* 1995-1996, $100M+ project 
-* 2002-2003, $100M+ project
-* 2004-2005, helping establish a new start-up's engineering & architecture structure, leading new product development
-* 2006-2009, mentoring & leading the effort to establish a new enteprise architectture tream 
+My ideas for this were stimulated and informed by the practical and real-world **massive pain & challenges** of {creating | organizing | sharing | finding | maintaining} documents during the following periods:
+- 1995-1996, $100M+ project budget, telecom industry, digital transformation & modernization project 
+- 2002-2003, $100M+ project budget, finance industry, digital transformation & modernization project
+- 2004-2005, helping establish a new start-up's engineering & architecture structure, leading new product development
+- 2006-2009, mentoring & leading the effort to establish a new enteprise architectture, team within a state government agency
+- 2009-2013, $100M+ project budget, insurance industry, digital transformation & modernization project
+- 2020-2021, $10B+ ARR company, insurance industry, establishing Enterprise Architecture tool standards for organizing content and design artifacts 
 
 I plan to continue refactoring and evolving this to provide a better organization and grouping.  However, since this may give someone a useful starting point, I'm publishing it as-is for now.
 
@@ -351,9 +353,9 @@ ___
   + AH.20.20.000 Network Attached Storage Devices  
   + AH.20.30.000 Cloud Service Storage
     * AH.20.30.010 Cloud Service Storage, Hot
-	  * AH.20.30.020 Cloud Service Storage, Warm
-  	* AH.20.30.030 Cloud Service Storage, Cold
-	  * AH.20.30.030 Cloud Service Storage, Archive
+    * AH.20.30.020 Cloud Service Storage, Warm
+    * AH.20.30.030 Cloud Service Storage, Cold
+    * AH.20.30.030 Cloud Service Storage, Archive
 
 - AH.30.00.000 Servers/VMs/Containers
   + AH.30.10.000 Servers, General Purpose
