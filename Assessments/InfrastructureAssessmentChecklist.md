@@ -6,7 +6,6 @@
   
 - ```Illustrative, not exhustive```
   
-- Someone reached out to me recently, asking for ideas on doing an assessment for a specific area of IT. 
 - This is an illustrative example of some of the types of artifacts that might be considered for inclusion in such an exercise.
 - Such assessments might typically be performed on regularly scheduled basis (e.g., every [n] years), as part of a leadership transition plan, company acquisition, or a private equity investment. 
   
