@@ -75,7 +75,7 @@
 
   + Historical Incident Analysis
     * Frequency (e.g., of SEV1, SEV2, ...)
-    * Duration of outtages 
+    * Duration of outages 
     * Root Cause Clustering
     * E.g., Application, Technology, Component, Partner, ..., ...
 
