@@ -1488,7 +1488,7 @@ SACM        | Software Asset Configuration Management (an ITIL process)
 SAD         | Solution Architecture Document
 SADS        | Secure Application Development Standards
 SAF         | Security Adoption Framework ([Microsoft](https://learn.microsoft.com/en-us/security/adoption/adoption))
-SAFe        | Scaled Agile Framework
+SAFe        | [Scaled Agile Framework](https://framework.scaledagile.com)
 SAM         | [Segment Anything Model](https://ai.facebook.com/research/publications/segment-anything/) [re: A Foundation model for image segmentation, from FAIR]
 SAM         | [Serverless Application Model](https://aws.amazon.com/serverless/sam/)
 SAM         | [Serviceable Addressable Market](https://en.wikipedia.org/wiki/Serviceable_available_market)
