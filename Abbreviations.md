@@ -411,6 +411,7 @@ CXN         | Customer Experience Network
 DA          | Data Architecture 
 DaaS        | Data as a Service
 DAC         | [Discretionary Access Control](https://en.wikipedia.org/wiki/Discretionary_access_control)
+DAE         | Differential-Algebraic Equation
 DAG         | [Directed Acyclic Graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
 DAIR        | [Distributed Artificial Intelligence Research Institute (DAIR)](https://www.dair-institute.org/)
 DAN         | Device Account Number
@@ -1163,6 +1164,7 @@ OCTAVE      | Operationally Critical Threat, Asset, and Vulnerability Evaluation
 OData       | Open Data Protocol 
 ODBC        | Open Database Connectivity
 ODD         | [Observability Driven Development](https://medium.com/@bijit211987/observability-driven-development-2bc2cdde8661)
+ODE         | Ordinary Differential Equation
 ODM         | Object Data Modeling
 OFAC        | [Office of Foreign Assets Control](https://en.wikipedia.org/wiki/Office_of_Foreign_Assets_Control)
 OG          | [Open Graph](https://en.wikipedia.org/wiki/Facebook_Platform#Open_Graph_protocol), also see [Open Graph Protocol](https://ogp.me/)
