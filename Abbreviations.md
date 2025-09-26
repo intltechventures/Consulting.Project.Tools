@@ -666,6 +666,7 @@ FRS         | [Fello of the Royal Society](https://en.wikipedia.org/wiki/Fellow_
 FSC         | Financial Size Categories
 FSDG        | [(GNU) Free System Distribution Guidelines](https://www.gnu.org/distros/free-system-distribution-guidelines.html)
 FTP         | [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
+FUE         | Full-Use-Equivalent
 FUSE        | [Filesystem in Userspace](https://en.wikipedia.org/wiki/Filesystem_in_Userspace)
 FWaaS       | FireWall-as-a-Service 
 **G__**     | 
