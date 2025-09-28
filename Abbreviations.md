@@ -344,6 +344,7 @@ CORS        | [Cross-Origin Resource Sharing](https://en.wikipedia.org/wiki/Cros
 COSS        | Commercial Open Source Software 
 CoT         | Chain-of-Thought
 COTS        | Commercial Off-The-Shelf
+Cow         | Clone-On-Write (i.e., In Rust, a smart pointer that can hold either a borrowed reference or an owned value)
 CPC         | Cost Per Click
 CPE         | Customer-Premises Equipment
 CPG         | Consumer Packaged Goods (e.g. industry)
