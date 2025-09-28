@@ -528,13 +528,13 @@ EAR         | [Enterprise Application aRchive (file format)](https://en.wikipedi
 EARS        | [Easy Approach to Requirements Syntax](https://alistairmavin.com/ears/) (re: Alistair Mavin, Rolls Royce)
 EBA         | Enterprise Business Architecture 
 EBA         | Experience-Based Acceleration
-EBS         | [Amazon Elastic Block Storage](https://en.wikipedia.org/wiki/Amazon_Elastic_Block_Store)
-EBV         | [Equiangular-Basis-Vectors](https://arxiv.org/abs/2303.11637)
 EBCIDIC     | [Extended Binary Coded Decimal Interchange Code](https://en.wikipedia.org/wiki/EBCDIC)
 EBIT        | [Earnings Before Interest & Tax](https://en.wikipedia.org/wiki/Earnings_before_interest_and_taxes)
 EBITDA      | [Earnings Before Interest, Taxes, Depreciation and Amortization](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation_and_amortization)
 eBPF        | [extended Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter) - see BPF
-EBS         | Elastic Block Storage (AWS)
+EBS         | [Amazon Elastic Block Storage](https://en.wikipedia.org/wiki/Amazon_Elastic_Block_Store)
+EBT         | Energy-Based Transformer
+EBV         | [Equiangular-Basis-Vectors](https://arxiv.org/abs/2303.11637)
 EC          | European Commission
 EC2         | [Amazon Elastic Compute Cloud](https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud)
 ECA         | Embodied Conversational Agent(s)
@@ -945,6 +945,7 @@ LDAP        | [Lightweight Directory Access Protocol](https://en.wikipedia.org/w
 LDIF        | [LDAP Data Interchange Format](https://en.wikipedia.org/wiki/LDAP_Data_Interchange_Format), [RFC 2849 The LDAP Data Interchange Format (LDIF) - Technical Specification](https://tools.ietf.org/html/rfc2849)
 LEM         | [Law of Excluded Middle](https://en.wikipedia.org/wiki/Law_of_excluded_middle)
 LeSS        | [Large Scale Scrum](https://less.works/)
+LFM         | Liquid Foundation Model
 LFS         | Late Finish Date
 LGPL        | (GNU) Lesser General Public License 
 LID         | Language Identification
@@ -1442,6 +1443,7 @@ RMI         | Remote Method Invocation
 RMIS        | Risk Management Information System
 RMS         | Rights Management Service
 RMSE        | Root Mean Squared Error
+RMT         | Recurrent Memory Transformer
 ROC         | [Receiver Operating Characteristic](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
 ROCE        | Return on Capital Employed 
 ROE         | Return on Equity  
@@ -1650,6 +1652,7 @@ SSG         | [Static Site {Generation | Generator}](https://en.wikipedia.org/wi
 SSH         | Secure Shell
 SSIRP       | Software and Services Incident Response Plan
 SSL         | Secure Sockets Layer
+SSM         | State Space Model
 SSML        | Speech Synthesis Markup Language 
 SSO         | [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on)
 SSOT        | Single Source of Truth
