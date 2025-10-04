@@ -547,7 +547,16 @@ __These following sections are the primary software programs that I typically ha
 
 
 - To possibly evaluate, in the future...
+  + InteliJ IDEA
+    * https://www.jetbrains.com/idea/
+    * https://www.jetbrains.com/idea/whatsnew/
+    * https://www.jetbrains.com/idea/features/
+    * https://www.jetbrains.com/idea/buy/?section=personal&billing=yearly
+    * Early Access Program (no subscription required)
+      * https://www.jetbrains.com/idea/nextversion/
+
   + https://neovim.io
+
 
 
 ## User Interface (UI) / User Experience (UX) Design Tools
