@@ -1169,6 +1169,7 @@ ODBC        | Open Database Connectivity
 ODD         | [Observability Driven Development](https://medium.com/@bijit211987/observability-driven-development-2bc2cdde8661)
 ODE         | Ordinary Differential Equation
 ODM         | Object Data Modeling
+ODP         | [Open Device Partnership](https://opendevicepartnership.org/)
 OFAC        | [Office of Foreign Assets Control](https://en.wikipedia.org/wiki/Office_of_Foreign_Assets_Control)
 OG          | [Open Graph](https://en.wikipedia.org/wiki/Facebook_Platform#Open_Graph_protocol), also see [Open Graph Protocol](https://ogp.me/)
 OGL         | [Open Game License](https://en.wikipedia.org/wiki/Open_Game_License) (re: Wizards of the Coast D&D public copyright license)
