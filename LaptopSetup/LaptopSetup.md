@@ -382,6 +382,11 @@ __These following sections are the primary software programs that I typically ha
 - [Visual Studio Code](https://code.visualstudio.com/)
   + Disable these configuration settings
     * ```telemetry.enableTelemetry```
+    * To turn off telemetry in VScode, go to NavBar:
+      * Code -> Settings -> Settings -> Application (on User Tab) -> Telemetry
+      * ...deselect all under the Telemetry section.
+
+
 
   + Suggested: Disable Program Data Package Cache
     * https://www.quora.com/Can-I-delete-the-folder-C-ProgramData-Package-Cache
