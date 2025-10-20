@@ -10,7 +10,7 @@
 - I strongly suggest you read these with a sense of humor, and a frosty cold beverage of your choice...
 
 
-\#0XX - The General Purpose Rules
+##0XX - The General Purpose Rules
 ====
 
 **\#001 - "Always assume they are lying bastards - and then seek to prove that assumption false."**
@@ -88,7 +88,7 @@
 
 
 
-\#1xx - On Consulting, Startups, and Business Endeavors 
+##1xx - On Consulting, Startups, and Business Endeavors 
 ====
 
 **\#101 - "Within chaos and volatility - there is opportunity"**
@@ -151,8 +151,11 @@ changes you"**
 **\#118 - "After repeated attempts are made to correct (or compensate) for the gross incompetence of someone, you must be willing to consider the possibility that malicious intent may be involved."**
 
 
+**\#119 - "Conslting Rate Calculation: Your Base Rate * (5 / Their Glassdoor Rating)"
 
-\#2xx - On the Art of  Managing People
+
+
+##2xx - On the Art of  Managing People
 ====
 
 **\#201 - "Hire for Character, Train for Skill"**
@@ -207,7 +210,7 @@ changes you"**
 
 
 
-\#3xx - On Design 
+##3xx - On Design 
 ====
 
 **\#301 - "Design is a successive process of refinment - but know when to call it done"**
@@ -226,15 +229,16 @@ changes you"**
 
 
 
-\#4xx - On Building/Making Things
-====
+##4xx - On Building/Making Things
 
 **\#401 - "A Minimal Viable Product (MVP) - released into production - with user feedback - is worth more than all of your business plans, designs, woulda, coulda, shoulda."**
 
 
+**\#402 - "Assume you'll throw away the first version"**
 
-\#5xx - On The Art of Managing a Business
-====
+
+
+##5xx - On The Art of Managing a Business
 
 **\#501 - "Misplaced assumptions are the root of all fuck-ups."**
 
@@ -271,8 +275,7 @@ changes you"**
 
 
 
-\#6xx - On Negotiating
-====
+##6xx - On Negotiating
 
 **\#601 - "Always leave something on the table, for a mutual win-win feeling."**
 
@@ -312,7 +315,7 @@ changes you"**
 
 
 
-\#7xx - On Managing Your Professional Career
+##7xx - On Managing Your Professional Career
 ====
 
 **\#701 - "Don't get comfortable, stay hungry to always learn, grow,  and stretch yourself"**
@@ -350,7 +353,7 @@ changes you"**
 
 
 
-\#8xx - Computer Systems, Software Development, Architecture, Operations, etc. 
+##8xx - Computer Systems, Software Development, Architecture, Operations, etc. 
 ====
 
 **\#801 - "Before you do anything - make a backup"**
@@ -368,7 +371,7 @@ changes you"**
 
 
 
-\#9xx - The Emergency Rules
+##9xx - The Emergency Rules
 ====
 
 **\#901 - Your All-Purpose Survival Kit: "Improvise, Overcome, Adapt"**
