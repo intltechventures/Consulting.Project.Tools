@@ -148,7 +148,7 @@ changes you"**
 **\#118 - "After repeated attempts are made to correct (or compensate) for the gross incompetence of someone, you must be willing to consider the possibility that malicious intent may be involved."**
 
 
-**\#119 - "Conslting Rate Calculation: Your Base Rate * (5 / Their Glassdoor Rating)"**
+**\#119 - "Consulting Rate Calculation: Your Base Rate * (5 / Their Glassdoor Rating)"**
 
 
 
