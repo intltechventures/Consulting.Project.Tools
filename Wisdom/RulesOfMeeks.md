@@ -11,7 +11,6 @@
 
 
 ##0XX - The General Purpose Rules
-====
 
 **\#001 - "Always assume they are lying bastards - and then seek to prove that assumption false."**
 
@@ -33,8 +32,7 @@
   * "[Everbody Lies](https://house.fandom.com/wiki/The_List_of_Lies)" - House
 * Also see [Leroy Jethro Gibb, NCIS, Rule #3](http://ncis.wikia.com/wiki/Gibbs%27s_Rules) 
   * "Don't believe what you're told. Double check" - Gibbs
-* Also see [Daniel Salzedo, Senior Security Specialist Technical Account Manager at
-  Amazon](https://www.linkedin.com/pulse/can-you-get-infected-virus-just-google-searching-daniel-salzedo/)
+* Also see [Daniel Salzedo, Senior Security Specialist Technical Account Manager, Amazon](https://www.linkedin.com/pulse/can-you-get-infected-virus-just-google-searching-daniel-salzedo/)
   * "Everbody lies and end-users doubly so...This is the maxim of every support engineer, system administrator and IT
     fellow-traveler I've ever met."
 
@@ -89,7 +87,6 @@
 
 
 ##1xx - On Consulting, Startups, and Business Endeavors 
-====
 
 **\#101 - "Within chaos and volatility - there is opportunity"**
   * Traditional Chinese proverb
@@ -156,7 +153,6 @@ changes you"**
 
 
 ##2xx - On the Art of  Managing People
-====
 
 **\#201 - "Hire for Character, Train for Skill"**
 
@@ -211,7 +207,6 @@ changes you"**
 
 
 ##3xx - On Design 
-====
 
 **\#301 - "Design is a successive process of refinment - but know when to call it done"**
 
@@ -316,7 +311,6 @@ changes you"**
 
 
 ##7xx - On Managing Your Professional Career
-====
 
 **\#701 - "Don't get comfortable, stay hungry to always learn, grow,  and stretch yourself"**
 
@@ -354,7 +348,6 @@ changes you"**
 
 
 ##8xx - Computer Systems, Software Development, Architecture, Operations, etc. 
-====
 
 **\#801 - "Before you do anything - make a backup"**
   * See [2019 - MySpace server migration disaster](https://www.dailywire.com/news/44789/myspace-probably-lost-everything-uploaded-its-emily-zanotti)
@@ -372,7 +365,6 @@ changes you"**
 
 
 ##9xx - The Emergency Rules
-====
 
 **\#901 - Your All-Purpose Survival Kit: "Improvise, Overcome, Adapt"**
 * A tip of the hat to [Marine Sgt. Thomas Highway (Clint Eastwood), Heartbreak Ridge (1986)](https://www.imdb.com/title/tt0091187/)
