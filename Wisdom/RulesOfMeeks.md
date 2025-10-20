@@ -10,7 +10,7 @@
 - I strongly suggest you read these with a sense of humor, and a frosty cold beverage of your choice...
 
 
-##0XX - The General Purpose Rules
+## 0XX - The General Purpose Rules
 
 **\#001 - "Always assume they are lying bastards - and then seek to prove that assumption false."**
 
@@ -86,7 +86,7 @@
 
 
 
-##1xx - On Consulting, Startups, and Business Endeavors 
+## 1xx - On Consulting, Startups, and Business Endeavors 
 
 **\#101 - "Within chaos and volatility - there is opportunity"**
   * Traditional Chinese proverb
@@ -152,7 +152,7 @@ changes you"**
 
 
 
-##2xx - On the Art of  Managing People
+## 2xx - On the Art of  Managing People
 
 **\#201 - "Hire for Character, Train for Skill"**
 
@@ -206,7 +206,7 @@ changes you"**
 
 
 
-##3xx - On Design 
+## 3xx - On Design 
 
 **\#301 - "Design is a successive process of refinment - but know when to call it done"**
 
@@ -224,7 +224,7 @@ changes you"**
 
 
 
-##4xx - On Building/Making Things
+## 4xx - On Building/Making Things
 
 **\#401 - "A Minimal Viable Product (MVP) - released into production - with user feedback - is worth more than all of your business plans, designs, woulda, coulda, shoulda."**
 
@@ -233,7 +233,7 @@ changes you"**
 
 
 
-##5xx - On The Art of Managing a Business
+## 5xx - On The Art of Managing a Business
 
 **\#501 - "Misplaced assumptions are the root of all fuck-ups."**
 
@@ -270,7 +270,7 @@ changes you"**
 
 
 
-##6xx - On Negotiating
+## 6xx - On Negotiating
 
 **\#601 - "Always leave something on the table, for a mutual win-win feeling."**
 
@@ -310,7 +310,7 @@ changes you"**
 
 
 
-##7xx - On Managing Your Professional Career
+## 7xx - On Managing Your Professional Career
 
 **\#701 - "Don't get comfortable, stay hungry to always learn, grow,  and stretch yourself"**
 
@@ -347,7 +347,7 @@ changes you"**
 
 
 
-##8xx - Computer Systems, Software Development, Architecture, Operations, etc. 
+## 8xx - Computer Systems, Software Development, Architecture, Operations, etc. 
 
 **\#801 - "Before you do anything - make a backup"**
   * See [2019 - MySpace server migration disaster](https://www.dailywire.com/news/44789/myspace-probably-lost-everything-uploaded-its-emily-zanotti)
@@ -364,7 +364,7 @@ changes you"**
 
 
 
-##9xx - The Emergency Rules
+## 9xx - The Emergency Rules
 
 **\#901 - Your All-Purpose Survival Kit: "Improvise, Overcome, Adapt"**
 * A tip of the hat to [Marine Sgt. Thomas Highway (Clint Eastwood), Heartbreak Ridge (1986)](https://www.imdb.com/title/tt0091187/)
