@@ -1528,6 +1528,7 @@ SCP         | Service Control Policy
 SCSI        | Small Computer System Interface
 SCTP        | [Stream Control Transmission Protocol](https://en.wikipedia.org/wiki/Stream_Control_Transmission_Protocol)
 SD          | Service Desk
+SDD         | Spec-Driven Development 
 SDF         | System Data Flow 
 SDG         | Sustainable Development Goals
 SDI         | Software Defined Infrastructure
