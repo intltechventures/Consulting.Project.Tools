@@ -417,7 +417,7 @@ DAG         | [Directed Acyclic Graph](https://en.wikipedia.org/wiki/Directed_ac
 DAIR        | [Distributed Artificial Intelligence Research Institute (DAIR)](https://www.dair-institute.org/)
 DAN         | Device Account Number
 DAO         | Data Access Object
-DAO         | Decentralised Autonomous Organization
+DAO         | [Decentralized Autonomous Organization](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)
 DAP         | Directory Access Protocol (X.500)
 DAR         | Decision Analysis and Resolution technique
 DARQ        | Distributed Ledger Technology (DLT), Artificial Intelligence (AI), Extended Reality (XR), Quantum Computing ~ re: Accenture
