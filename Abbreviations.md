@@ -419,6 +419,7 @@ DAN         | Device Account Number
 DAO         | Data Access Object
 DAO         | [Decentralized Autonomous Organization](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)
 DAP         | Directory Access Protocol (X.500)
+dApps       | Decentalized Applications
 DAR         | Decision Analysis and Resolution technique
 DARQ        | Distributed Ledger Technology (DLT), Artificial Intelligence (AI), Extended Reality (XR), Quantum Computing ~ re: Accenture
 DARPA       | [Defense Advanced Research Projects Agency](https://en.wikipedia.org/wiki/DARPA)
