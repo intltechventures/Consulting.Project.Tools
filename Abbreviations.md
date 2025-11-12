@@ -1078,6 +1078,7 @@ MSRC        | [Microsoft Security Response Center](https://msrc.microsoft.com/)
 MSSP        | Managed Security Service Provider 
 MSTC        | Microsoft Threat Intelligence Center
 MTA         | Message Transfer Agent
+MTC         | [Merkle Tree Certificate](https://www.ietf.org/archive/id/draft-davidben-tls-merkle-tree-certs-00.html)
 MTD         | Maximum Tolerable Downtime
 MTD         | Mobile Threat Defense 
 MTDL        | Maximum Tolerable Data Loss
@@ -1861,6 +1862,7 @@ WCET        | [Worst-Case Execution Time](https://en.wikipedia.org/wiki/Worst-ca
 WCT         | [Windows Community Toolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit)
 WD          | Working Draft
 WDM         | [Windows Driver Model](https://en.wikipedia.org/wiki/Windows_Driver_Model)    
+WebPKI      | [Web Public-Key Infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure)
 WET         | Write Everything Twice (also see DRY)
 WFH         | Work-From-Home 
 WFM         | Windows Filtering Platform
