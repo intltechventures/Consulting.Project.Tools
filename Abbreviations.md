@@ -753,6 +753,7 @@ HOLAP       | Hybrid OLAP
 HOT         | Heap Oriented Tuples
 HPC         | Horizontal Pod Autoscaling (Kubernetes)
 HRAA        | Highly Restricted Access Area
+HRS         | HTTP request smuggling
 HSM         | Hardware Security Module
 HSPI        | Highly Sensitive Protected Information
 HTAP        | Hybrid Transactional and Analytical Processing
