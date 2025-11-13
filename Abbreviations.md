@@ -1720,6 +1720,7 @@ TOC         | Total Ownership Cost (see TCO)
 ToM         | [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind)
 TOM         | Target Operating Model
 TOML        | [Tom's Obvious Minimal Language](https://toml.io/en/)
+TOON        | [Token-Oriented Object Notation](https://github.com/toon-format/toon)
 TOP         | Technology. Organization. People.
 ToRA        | Task-Oriented Reasoning and Action
 TP          | Third-Party
