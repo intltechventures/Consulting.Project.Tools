@@ -302,6 +302,11 @@
 
 
 
+## Segal's Law
+  - "A man with a watch knows what time it is. A man with two watches is never sure." - [wikipedia](https://en.wikipedia.org/wiki/Segal%27s_law)
+
+
+
 ## Sowell, Thomas (an American economist)
 - “There are no solutions. There are only trade-offs.” 
 
