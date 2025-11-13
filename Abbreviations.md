@@ -1085,7 +1085,8 @@ MTDL        | Maximum Tolerable Data Loss
 mTLS        | Mutual Transport Layer Security (or, Mutually Authenticated TLS)
 MTPD        | Maximum Tolerable Period of Disruption 
 MTS         | Multidimensional Type Structure (e.g. [Thomsen Diagrams](https://en.wikipedia.org/wiki/Thomsen_Diagrams))
-MTTD        | Mean Time to Detect
+MTTD        | Mean Time To Detect
+MTTI        | Mean Time To Identify (re: cybersecurity)
 MTTR        | [Mean Time to Recovery](https://en.wikipedia.org/wiki/Mean_time_to_recovery)
 MTTR        | [Mean Time to Repair](https://en.wikipedia.org/wiki/Mean_time_to_repair)
 MTTR        | Mean Time to Remediate
