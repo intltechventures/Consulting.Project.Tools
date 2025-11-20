@@ -1416,6 +1416,7 @@ RD          | Remaining Duration
 RDB         | Relational Database
 RDC         | [Remote Desktop Connection](https://en.wikipedia.org/wiki/Remote_Desktop_Services#Remote_Desktop_Connection)
 RDF         | [Resource Description Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework)
+RDMA        | Remote Direct Memory Access
 RDN         | Relative Distinguished Name, re: LDAP
 RDP         | [Remote Desktop Protocol](https://en.wikipedia.org/wiki/Remote_Desktop_Protocol)
 RDS         | Amazon Relational Database Service 
