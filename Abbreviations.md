@@ -636,7 +636,7 @@ FDE         | Forward-Deployed Engineer
 FDL         | (GNU) Free Documentation License
 FedRAMP     | Federal Risk Authorization Management Program
 FEP         | Federal Employee Program 
-FFI         | Foreign Function Interface
+FFI         | [Foreign Function Interface](https://en.wikipedia.org/wiki/Foreign_function_interface)
 FFT         | Full Fine-Tuning
 FFW         | Feedforward
 FHE         | Fully [Homomorphic Encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption) (e.g., [IBM](https://www.ibm.com/security/services/homomorphic-encryption_))
