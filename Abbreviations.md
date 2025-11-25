@@ -1395,6 +1395,7 @@ RAD         | Rapid Application Development
 RAG         | [Retrieval-Augmented Generation](https://arxiv.org/abs/2005.11401), ([Wkipedia](https://en.wikipedia.org/wiki/Prompt_engineering#Retrieval-augmented_generation))
 RAG         | Red, Amber (Yellow), Green (see: [Traffic Light Rating System](https://en.wikipedia.org/wiki/Traffic_light_rating_system))
 RAID        | Redundant Array of Independent Disks
+RAII        | [Resouce Acquisition Is Initialization](https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization) - re: Safe Programming concept
 RAM         | Random Access Memory
 RAM         | Responsibility Assignment Matrix
 RAML        | [REST API Modeling Language](https://en.wikipedia.org/wiki/RAML_(software))
