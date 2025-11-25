@@ -151,6 +151,9 @@ changes you"**
 **\#119 - "Consulting Rate Calculation: Your Base Rate * (5 / Their Glassdoor Rating)"**
 
 
+**\#120 - "Find the lynchpin/fulcrum problem that creates bottlenecks/blockages to innovation - and achieving velocity in delivery for new business value."**
+
+
 
 ## 2xx - On the Art of  Managing People
 
@@ -339,6 +342,9 @@ changes you"**
 
 
 **\#709 - "If you stop learning, you will eventually stop earning"**
+
+
+**\#710 - "Never stop interviewing - or those 'muscles' will atrophy"**
 
 
 **\#799 - "Never forget - a full-time job doesn't come with any guarantee"**
