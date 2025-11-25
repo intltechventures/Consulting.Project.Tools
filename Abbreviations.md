@@ -494,6 +494,7 @@ DRB         | Design Review Board
 DRBG        | [Deterministic Random Bit Generator](https://en.wikipedia.org/wiki/Pseudorandom_number_generator) - also see PRNG
 DRG         | Dynamic Routing Gateway
 DRI         | Directly Responsible Individual
+DRIP        | Data Rich, Information Poor
 DRL         | Deep Reinforcement Learning
 DRP         | Disaster Recovery Plan
 DRY         | Don't Repeat Yourself (also see WET)
