@@ -1104,7 +1104,7 @@ __These following sections are the primary software programs that I typically ha
     * Once all three options are disabled, the Privacy Sandbox feature will be disabled in its entirety.
     
 
-- Enable TRIM (a command that helps, well, trim down the unnecessary writing to a solid-state drive (SSD) hence maximizing its life span)
+- Enable TRIM (a command that helps reduce unnecessary writing to a solid-state drive (SSD) - hence maximizing its life span)
   + https://dongknows.com/enable-ssd-trim/
   + https://www.ninjaone.com/blog/enable-or-disable-ssd-trim-support/
   + https://www.techtimes.com/articles/304713/20240516/ssd-trim-command-enable-disable-windows-11.htm
