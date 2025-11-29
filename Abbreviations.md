@@ -123,6 +123,7 @@ ARR         | Annual Recurring Revenue
 ART         | [Agile Release Train](https://scaledagileframework.com/agile-release-train/) (re: Scaled Agile Framework, SAFe)
 AS          | Authoritative Source
 ASCII       | [American Standard Code for Information Interchange](https://en.wikipedia.org/wiki/ASCII)
+ASD         | Architecturally Significant Decisions
 ASI         | Artificial Super Intelligence
 ASM         | Advanced Statistical Methods
 ASN         | Advanced Shipment Notification
@@ -130,6 +131,7 @@ ASN         | Application Service Name
 ASN         | [Autonomous System Number](https://en.wikipedia.org/wiki/Autonomous_system_(Internet))
 ASP         | Application Service Provider 
 ASPM        | Application Security Posture Management 
+ASR         | Architecturally Significant Requirements
 ASR         | Automatic Speech Recognition
 AST         | Application Security Testing
 ASVS        | [Application Security Verification Standard](https://github.com/OWASP/ASVS)
