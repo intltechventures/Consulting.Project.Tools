@@ -1627,7 +1627,7 @@ SOSC        | Service Offerings and Support Center
 SOSL        | [Salesforce Object Search Language](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/)
 SOP         | Standard Operating Procedure
 SOR         | System of Record
-SoS         | Systems of Systems 
+SoS         | System of Systems 
 S.O.S.      | Slower, Older, Smarter
 SOT         | Souce of Truth
 SOW         | Statement of Work
