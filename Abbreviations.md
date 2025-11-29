@@ -237,7 +237,8 @@ CAIs        | Chatbot AIs
 CALM        | [Communications Access for Land Mobiles](https://en.wikipedia.org/wiki/Communications_Access_for_Land_Mobiles)
 CAP         | Consistency, Availability, Partition Tolerance  
 CapEx       | [Capital Expenditure](https://en.wikipedia.org/wiki/Capital_expenditure)
-CAS         | [Compare-And-Swap | Compare-And-Set](https://en.wikipedia.org/wiki/Compare-and-swap)
+CAS         | [Compare-And-Swap / Compare-And-Set](https://en.wikipedia.org/wiki/Compare-and-swap)
+CAS         | [Complex Adaptive System](https://en.wikipedia.org/wiki/Complex_adaptive_system
 CASE        | Connected, Autonomous / Automated, Shared, and Electric
 CAT         | Customer Advisory Team
 CatB        | [The Cathedral and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
