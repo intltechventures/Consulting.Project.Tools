@@ -1682,6 +1682,7 @@ STM-1       | [Synchronous Transport Module level-1](https://en.wikipedia.org/wi
 STS         | Security Token Service
 STT         | Speech-To-Text
 SuD         | System Under Discussion (re, see book: [Writing Effective Use Cases](https://www.amazon.com/Writing-Effective-Cases-Alistair-Cockburn/dp/0201702258))
+SUMO        | [Suggested Upper Merged Ontology](ttps://en.wikipedia.org/wiki/Suggested_Upper_Merged_Ontology)
 SUTVA       | [Stable Unit Treatment Value Assumption](https://en.wikipedia.org/wiki/Rubin_causal_model#Stable_unit_treatment_value_assumption_(SUTVA)) 
 SV          | Schedule Variance 
 SV          | Systems View (re: DoDAF)
