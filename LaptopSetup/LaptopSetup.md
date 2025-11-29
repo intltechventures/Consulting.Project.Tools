@@ -130,6 +130,11 @@ __These following sections are the primary software programs that I typically ha
     * https://www.veracrypt.fr/en/Home.html
 
 
+- SANDISK Memory Zone Desktop Backup 
+  + https://support-en.sandisk.com/app/answers/detailweb/a_id/52555
+    * Note: On 2025-12-01, the 'PrivateAccess app' will no longer be supported or downloadable (i.e., for Sandisk USB drives) - and may "stop working at any time due to changes in Windows"
+
+
 - [GnuPG](https://www.gnupg.org/)
 - Curated sources for inclusion in hosts file
   + https://github.com/StevenBlack/hosts
