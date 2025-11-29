@@ -795,7 +795,7 @@ IDD         | Infrastructure Design Document
 IDDFS       | Iterative Deepening Depth First Search
 IDE         | Integrated Development Environment    
 IDEA        | [Imagine, Decide, Execute, Assess](https://www.infoq.com/articles/nuture-culture-continuous-experimentation/)
-IDL         | [Interface {Definition | Description} Language](https://en.wikipedia.org/wiki/Interface_description_language)
+IDL         | [Interface {Definition / Description} Language](https://en.wikipedia.org/wiki/Interface_description_language)
 IdM         | Identity Management, also see IAM
 IdP         | Identity Provider
 IDP         | Individual Development Plan 
@@ -986,7 +986,7 @@ MaaS        | Mobility as a Service
 MAC         | Machine Access Control 
 MAC         | Managed Application Consulting
 MAC         | [Mandatory Access Control](https://en.wikipedia.org/wiki/Mandatory_access_control)
-MAC         | [Medium | Media Access control](https://en.wikipedia.org/wiki/Medium_access_control)
+MAC         | [Medium / Media Access control](https://en.wikipedia.org/wiki/Medium_access_control)
 MAC         | [Message Authentication Code](https://en.wikipedia.org/wiki/Message_authentication_code)
 MAD         | [Mean absolute deviation](https://en.wikipedia.org/wiki/Average_absolute_deviation)
 MAD         | [Median absolution deviation](https://en.wikipedia.org/wiki/Median_absolute_deviation)
@@ -1596,7 +1596,7 @@ SLO         | Single Log-out
 SLM         | Service Level Management
 SLSA        | [Supply chain Levels for Software Artifacts](https://slsa.dev/)
 SM          | System Maanger
-SMART       | [Specific, Measurable, {Achievable | Attainable},  {Realistic | Relevant}, and {Time-Bound | Time-Related}](https://en.wikipedia.org/wiki/SMART_criteria)
+SMART       | [Specific, Measurable, {Achievable / Attainable},  {Realistic / Relevant}, and {Time-Bound / Time-Related}](https://en.wikipedia.org/wiki/SMART_criteria)
 SMART       | SMART (Substitutable Medical Applications, Reusable Technologies)
 SME         | Subject Matter Expert
 SMO         | Service Management Office
@@ -1660,8 +1660,8 @@ SRS         | Secure and Reliable Systems
 SSADM       | (structured systems analysis and design methodology) - developed by  Tom DeMarco, Ed Yourdon, and Larry Constantine 
 SSD         | [Solid-State Disk](https://en.wikipedia.org/wiki/Solid-state_drive)
 SSDLC       | Secure Software Development Lifecycle 
-SSG         | [Server-Side {Generating | Generation}](https://en.wikipedia.org/wiki/Server-side_scripting)
-SSG         | [Static Site {Generation | Generator}](https://en.wikipedia.org/wiki/Static_site_generator)
+SSG         | [Server-Side {Generating / Generation}](https://en.wikipedia.org/wiki/Server-side_scripting)
+SSG         | [Static Site {Generation / Generator}](https://en.wikipedia.org/wiki/Static_site_generator)
 SSH         | Secure Shell
 SSIRP       | Software and Services Incident Response Plan
 SSL         | Secure Sockets Layer
@@ -1688,7 +1688,7 @@ SVP         | Systems Viewpoints (re: DoDAF)
 SW          | Software
 SWA         | Azure [Static Web Apps](https://azure.microsoft.com/en-us/products/app-service/static/) ([github](https://github.com/Azure/static-web-apps))
 SWAG        | Silly Wild-Ass Guess (also see ROM), aka an estimate 
-SWE         | [Software Engineer | Software Engineering](https://en.wikipedia.org/wiki/Software_engineering)
+SWE         | [Software {Engineer / Engineering}](https://en.wikipedia.org/wiki/Software_engineering)
 SWG         | Secure Web Gateway
 SWOT        | Strengths, Weaknesses, Opportunities, and Threats
 **T__**     |
