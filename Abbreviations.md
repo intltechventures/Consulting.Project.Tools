@@ -690,6 +690,7 @@ GDG         | Generation Date Group
 GDPR        | Genera Data Protection Regulation (re: EU)
 GERAM       | Generalised Enterprise-Referencing Architectures Modelling Framework
 GFCI        | Greedy Fast Causal Interference (GFCI) Algorithm 
+GFO         | [General Formal Ontology](https://en.wikipedia.org/wiki/General_formal_ontology)
 GHAS        | [GitHub Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security)
 GIL         | [Global Interpreter Lock](https://en.wikipedia.org/wiki/Global_interpreter_lock)
 GIN         | Generalized Inverted Index
