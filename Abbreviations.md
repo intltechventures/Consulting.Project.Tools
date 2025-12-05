@@ -1173,6 +1173,7 @@ OCI         | [Oracle Cloud Infrastructure](https://www.oracle.com/cloud/)
 OCID        | Oracle Cloud Identifier
 OCIO        | Office of the Chief Information Officer
 OCM         | [Organizational Change Management](https://en.wikipedia.org/wiki/Change_management)
+OCP         | [Open Compute Project](https://www.opencompute.org/)
 OCP         | [OpenShift Container Platform](https://en.wikipedia.org/wiki/OpenShift) ([IBM](https://www.ibm.com/products/openshift), [RedHat](https://www.redhat.com/en/technologies/cloud-computing/openshift/container-platform))
 OCTAVE      | Operationally Critical Threat, Asset, and Vulnerability Evaluation 
 OData       | Open Data Protocol 
