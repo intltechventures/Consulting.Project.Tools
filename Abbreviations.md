@@ -1573,6 +1573,7 @@ SFTP        | Secure File Transfer Protocol
 SFPF        | Senior Foreign Political Figures 
 SHA-2       | [Secure Hash Algorithm 2](https://en.wikipedia.org/wiki/SHA-2)
 SHA-3       | [Secure Hash Algorithm 3](https://en.wikipedia.org/wiki/SHA-3) - also see [NIST/FIPS 202](https://csrc.nist.gov/projects/hash-functions/sha-3-project/sha-3-standardization)
+SHACL       | [Shapes Constraint Language](https://en.wikipedia.org/wiki/SHACL)
 SHAP        | [SHapley Additive exPlanations](https://shap.readthedocs.io/en/latest/#)
 SHIR        | Self-Hosted Integration Runtime
 SI          | System Integrator
