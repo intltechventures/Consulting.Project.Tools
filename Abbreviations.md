@@ -14,7 +14,8 @@ This glossary is intended to provide a single refernce to be reused across multi
 7 Rs        | [Refactor, Replatform, Repurchase, Rehost, Relocate, Retain, Retire](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-retiring-applications/overview.html) - Re: AWS Migration Readiness
 **A__**     |
 A11y        | Accessibility [see: [Mozzila](https://developer.mozilla.org/en-US/docs/Web/Accessibility), [W3C](https://www.w3.org/standards/webdesign/accessibility)]
-A2C         | Advantage Actor-Critic (e.g., Deep Reinforcement Learning agent)
+A2C         | [Advantage Actor-Critic](https://en.wikipedia.org/wiki/Actor-critic_algorithm) (re: Reinforcement Learning algorithm)
+A3C         | [Asynchronous Advantage Actor-Critic](https://en.wikipedia.org/wiki/Actor-critic_algorithm) (re: Reinforcement Learning algorithm,  Parallel and asynchronous version of A2C)
 AA          | [Agile Alliance](https://www.agilealliance.org/)
 AA          | Alternatives Analysis
 AA          | Architecture Advisory (~ ARB)
