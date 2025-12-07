@@ -922,7 +922,7 @@ KAN         | [Kolmogorov–Arnold Network](https://arxiv.org/abs/2404.19756) [1
 KCL         | Kinesis Client Library
 KCSA        | Kubernetes and Cloud Security Associate (KCSA) certification, re: CNCF
 KDC         | Key Distribution Center
-KEM         | Key Encapsulation Mechanism
+KEM         | [Key Encapsulation Mechanism](https://en.wikipedia.org/wiki/Key_encapsulation_mechanism)
 KEV         | CISA [Known Exploited Vulnerabilities](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) Catalog
 kex         | [key exchange](https://en.wikipedia.org/wiki/Key_exchange)
 KMDF        | [Kernel-Mode Driver Framework](https://en.wikipedia.org/wiki/Kernel-Mode_Driver_Framework)
@@ -982,6 +982,7 @@ LTV         | Lifetime Value
 LTV         | [Loan-to-Value](https://www.investopedia.com/terms/l/loantovalue.asp)
 LU          | Logical Unit  
 LVM         | Logical Volume Manager
+LWE         | [Learning with Errors](https://en.wikipedia.org/wiki/Learning_with_errors)
 L2TP        | [Layer 2 Tunneling Protocol](https://en.wikipedia.org/wiki/Layer_2_Tunneling_Protocol)
 **M__**     |
 M&A         | Mergers & Acquisitions
