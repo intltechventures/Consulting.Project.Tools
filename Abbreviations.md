@@ -820,6 +820,7 @@ IM          | Information Model
 IMAP        | Internet Message Access Protocol 
 IMEI        | International Mobile Equipment Identity
 IMO         | Integration Management Office (i.e., during Mergers & Acquisitions)
+IMS         | Identity Management System
 IMSI        | International Mobile Subscriber Identity
 INCOSE      | [International Council on Systems Engineering](https://en.wikipedia.org/wiki/International_Council_on_Systems_Engineering)
 IND         | [Inverse Neighbor Discovery](https://en.wikipedia.org/wiki/Neighbor_Discovery_Protocol)
@@ -1523,6 +1524,7 @@ SANS        | [The SANS Institute](https://www.sans.org/) (officially the Escal 
 SAP         | [Service Advertising Protocol](https://en.wikipedia.org/wiki/Service_Advertising_Protocol)
 SAR         | Security Assessment Report
 SAR         | Suspicious Activity Reporting
+SAS         | Shared Access Token (e.g., Azure)
 SASE        | Secure Access Service Edge
 SAST        | Static Application Security Testing
 SATA        | [Seria AT Attachment](https://en.wikipedia.org/wiki/Serial_ATA)
