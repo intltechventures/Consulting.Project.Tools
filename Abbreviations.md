@@ -68,7 +68,9 @@ AEA         | Adaptive Enterprise Architecture
 AEAD        | [Authentication Encryption with Associated Data](https://en.wikipedia.org/wiki/Authenticated_encryption#Authenticated_encryption_with_associated_data_(AEAD))
 AES         | Advanced Encryption Standard 
 AFCE        | Authorization for Capital Expenditure
+AGI         | [Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
 AI          | Artificial Intelligence  
+AIBOM       | Artificial Intelligence Bill of Materials 
 AKA         | Also Known As
 AKA         | Authentication and Key Agreement
 AKI         | Amazon Kernel Image
@@ -87,6 +89,7 @@ AMS         | Agency Management System (domain: Insurance)
 AMS         | Application Managed Service
 AMQP        | [Advanced Message Queuing Protocol](https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol)
 ANC         | Adaptive Network Control
+ANI         | [Artificial Narrow Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
 ANM         | Additive Noise Model
 ANN         | [Approximate Nearest Neighbor](https://en.wikipedia.org/wiki/Nearest_neighbor_search#Approximation_methods)
 ANN         | Artificial Neural Network
@@ -125,7 +128,7 @@ ART         | [Agile Release Train](https://scaledagileframework.com/agile-relea
 AS          | Authoritative Source
 ASCII       | [American Standard Code for Information Interchange](https://en.wikipedia.org/wiki/ASCII)
 ASD         | Architecturally Significant Decisions
-ASI         | Artificial Super Intelligence
+ASI         | [Artificial Superintelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
 ASM         | Advanced Statistical Methods
 ASN         | Advanced Shipment Notification
 ASN         | Application Service Name
@@ -249,6 +252,7 @@ CATEs       | [Conditional Average Treatment Effects](https://en.wikipedia.org/w
 CBA         | Cost Benefit Analysis
 CBAC        | [Claim-Based Attirbute Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see ABAC,PBAC)
 CBFR        | Commenting For Better Reach
+CBOM        | Cryptographic Bill of Materials
 CBR         | Change Blast Radius
 CBS         | Critical Business System
 CCaaS       | Contact Center as a Service
@@ -733,6 +737,7 @@ HA          | High Availability
 HAI         | Stanford Institute for Human-Centered Artificial Intelligence 
 HATEOAS     | [Hypermedia As The Engine Of Application State](https://en.wikipedia.org/wiki/HATEOAS)
 HBM         | High-Bandwidth Memory
+HBOM        | Hardware Bill of Materials
 HCI         | [Human-Computer Interaction](https://en.wikipedia.org/wiki/Human–computer_interaction)
 HCL         | [HashiCorp Configuration Language](https://github.com/hashicorp/hcl)
 HDA         | Headless Data Architecture
@@ -1371,6 +1376,7 @@ P2P         | [Peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer)
 QA          | [Quality Assurance](https://en.wikipedia.org/wiki/Quality_assurance)
 QAOA        | [Quantum Approximate Optimization Algorithm](https://en.wikipedia.org/wiki/Quantum_optimization_algorithms)
 QAR         | Quality Assurance Review
+QBOM        | Quantum Bill of Materials
 QC          | QUality Control
 QEC         | Quantum Error Correction 
 QEMU        | Quick Emulator
