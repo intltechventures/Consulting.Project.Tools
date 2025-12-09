@@ -325,7 +325,10 @@ __These following sections are the primary software programs that I typically ha
 
 - [Cygwin](https://www.cygwin.com/)
 
-- [Microsoft Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
+
+- [Microsoft Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/)
+  + https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
+
 
 - [TeraCopy](https://codesector.com/teracopy)
 
@@ -979,8 +982,17 @@ __These following sections are the primary software programs that I typically ha
 
 - [NMAP](https://nmap.org/)
 
+
 - https://decentsecurity.com/#/securing-your-computer/
   + Some very good suggestions for securing Windows 10
+
+
+- https://www.mitmproxy.org/
+  + https://github.com/mitmproxy/mitmproxy
+
+
+- https://www.tcpdump.org/ 
+
 
 - https://www.qubes-os.org/
   + To be evaluated in the future...
