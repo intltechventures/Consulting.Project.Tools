@@ -1,6 +1,8 @@
 
 # Mentoring Tips
 
+## Ideas 
+
 - Check your intentions, first.
 - Focus on helping someone become more successful. 
 
@@ -21,3 +23,15 @@
 - Safety makes the hard conversations possible.
 
 
+## Sources of Inspiration
+
+- Copeland, Patrick 
+  + https://www.linkedin.com/in/jeffreysnover/
+ 
+
+- Jarvis, Pete
+  + https://www.linkedin.com/in/pkjarvis/
+
+
+- Snover, Jeffrey 
+  + https://www.linkedin.com/in/jeffreysnover/
