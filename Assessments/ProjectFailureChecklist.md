@@ -1,8 +1,9 @@
 
 # Project Failure Checklist
 
-Note: The see of an idea for this list arose as [I drafted a response](https://www.linkedin.com/feed/update/urn:li:activity:7297941507934769152?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7297941507934769152%2C7298066128637960193%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287298066128637960193%2Curn%3Ali%3Aactivity%3A7297941507934769152%29) to [someone's LinkedIn post](https://www.linkedin.com/posts/dennismulder_80-of-it-projects-dont-fail-because-of-activity-7297941507934769152-XhlI), claiming that _"80% of IT projects don’t fail because of technology. They fail because of one critical mistake: bad architecture decisions."_   
-
+Note: The seed of an idea for this list originated as I drafted [a response](https://www.linkedin.com/feed/update/urn:li:activity:7297941507934769152?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7297941507934769152%2C7298066128637960193%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287298066128637960193%2Curn%3Ali%3Aactivity%3A7297941507934769152%29) to [someone's LinkedIn post](https://www.linkedin.com/posts/dennismulder_80-of-it-projects-dont-fail-because-of-activity-7297941507934769152-XhlI), claiming that _"80% of IT projects don’t fail because of technology. They fail because of one critical mistake: bad architecture decisions."_   
+   
+   
 Based on my observations, in order of frequency, these are why most projects fail:   
 
 ```
