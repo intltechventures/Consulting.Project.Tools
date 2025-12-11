@@ -23,7 +23,9 @@
 
 11. What are the key constraints/limitations blocking you from success today?
 
-12. Do you have the right:  
+12. What are the important initiatives that your competitors are launching now/soon - that worry you most?  
+   
+13. Do you have the right:  
   a. Culture?  
   b. Processes?  
   c. Technology?   
