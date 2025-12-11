@@ -3,9 +3,9 @@
 
 1. Where are you at today?
 
-2. Where you want to be in {3 months | 6 months | 12 months | 18 months | 3 years | 5 years}
+2. Where you do want to be in {3 months | 6 months | 12 months | 18 months | 3 years | 5 years}
 
-3. What are the critical deltas - from where you are today - to where you want to be (next)?
+3. What are the critical gaps/deltas - from where you are today - to where you want to be (next)?
 
 4. What changes are needed to go from *Good* - to *Great*?
 
@@ -36,4 +36,7 @@
   j. Policies?  
   k. Standards?  
   l. Governance?  
+  m. Funding?   
+  n. Staffing   
+  o. Support   
 
