@@ -1777,6 +1777,7 @@ UAT         | User Acceptance Testing
 UAF         | Unified Architecture Framework
 UBA         | User Behavior Analytics
 UCaaS       | [Unified Communications as a Service](https://en.wikipedia.org/wiki/Unified_communications_as_a_service)
+UCC         | [Unified Communications and Collaboration](https://en.wikipedia.org/wiki/Unified_communications)
 UCP         | Universal Control-Plane
 UDA         | Universal Data Acquisition
 UDA         | Unsupervised Data Augmentation
