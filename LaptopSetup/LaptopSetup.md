@@ -79,6 +79,27 @@
     * 23.8" FHD 1080p IPS LED Anti-Glare Monitor, Silver and Black - AMD FreeSync, 70Hz, 300 nits, HDMI & VGA Ports, Tilt + HDMI Cable 
 
   
+## Configuration 
+
+### Long Paths 
+
+- Windows - Using the Registry Editor (Home or Pro/Enterprise editions):
+  + Open the Run dialog (Win + R), type regedit, and press Enter.
+  + Navigate to ```HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem.```
+    * Find the LongPathsEnabled DWORD entry and set its value to 1.
+  
+  
+- Windows - Using PowerShell (as Administrator) 
+  + Check current setting: 
+    * ```Get-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem" -Name "LongPathsEnabled"```
+  + Enable the registry key using an elevated PowerShell command:
+    * New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem" -Name "LongPathsEnabled" -Value 1 -PropertyType DWORD -Force```
+
+  
+- git 
+
+  + ```git config --global core.longpaths true```
+  + Note: This setting is disabled by default in Git for Windows to avoid compatibility issues with older Windows tools like Windows Explorer or cmd.exe, which might not support paths over 260 characters. When enabled, Git's built-in commands can handle paths up to approximately 4096 characters. 
   
 
 __These following sections are the primary software programs that I typically have installed on my personal development machine...__
