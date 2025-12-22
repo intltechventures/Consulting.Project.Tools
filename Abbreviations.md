@@ -40,7 +40,7 @@ ACL         | Access Control List
 ACL         | Anti-Corruption Layer
 ACM         | Access Control Mechanism
 ACME        | [Automatic Certificate Management Environment](https://en.wikipedia.org/wiki/Automated_Certificate_Management_Environment), also see [RFC 8555](https://tools.ietf.org/html/rfc8555)
-ACP         | [Agent Communication Protocol](https://docs.beeai.dev/acp/)
+ACP         | [Agent Communication Protocol](https://agentcommunicationprotocol.dev/)
 ACPI        | Advanced Configuration and Power Interface
 ACPT        | Access Control Policy Tool
 ACR         | Access Control Rule
