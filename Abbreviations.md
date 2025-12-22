@@ -14,6 +14,7 @@ This glossary is intended to provide a single refernce to be reused across multi
 7 Rs        | [Refactor, Replatform, Repurchase, Rehost, Relocate, Retain, Retire](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-retiring-applications/overview.html) - Re: AWS Migration Readiness
 **A__**     |
 A11y        | Accessibility [see: [Mozzila](https://developer.mozilla.org/en-US/docs/Web/Accessibility), [W3C](https://www.w3.org/standards/webdesign/accessibility)]
+A2A         | [Agent2Agent Protocol](https://a2a-protocol.org/)
 A2C         | [Advantage Actor-Critic](https://en.wikipedia.org/wiki/Actor-critic_algorithm) (re: Reinforcement Learning algorithm)
 A3C         | [Asynchronous Advantage Actor-Critic](https://en.wikipedia.org/wiki/Actor-critic_algorithm) (re: Reinforcement Learning algorithm,  Parallel and asynchronous version of A2C)
 AA          | [Agile Alliance](https://www.agilealliance.org/)
@@ -40,7 +41,7 @@ ACL         | Access Control List
 ACL         | Anti-Corruption Layer
 ACM         | Access Control Mechanism
 ACME        | [Automatic Certificate Management Environment](https://en.wikipedia.org/wiki/Automated_Certificate_Management_Environment), also see [RFC 8555](https://tools.ietf.org/html/rfc8555)
-ACP         | [Agent Communication Protocol](https://agentcommunicationprotocol.dev/)
+ACP         | [Agent Communication Protocol](https://agentcommunicationprotocol.dev/) - [Note: ACP merged into A2A, after donation to Linux Foundation](https://lfaidata.foundation/communityblog/2025/08/29/acp-joins-forces-with-a2a-under-the-linux-foundations-lf-ai-data/)
 ACPI        | Advanced Configuration and Power Interface
 ACPT        | Access Control Policy Tool
 ACR         | Access Control Rule
