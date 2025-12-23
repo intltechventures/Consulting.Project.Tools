@@ -1121,6 +1121,7 @@ M&A         | Mergers & Acquisitions
 NA          | North America 
 NA          | Not Applicable
 NAF         | [NATO Architecture Framework](https://en.wikipedia.org/wiki/NATO_Architecture_Framework)
+NAICS       | [North American Industry Classification System](https://www.census.gov/naics/)
 NAK         | Negative Acknolwedgement
 NAS         | [National Academy of Sciences](https://www.nasonline.org/)
 NAS         | Network Attached Storage 
@@ -1590,6 +1591,7 @@ SHIR        | Self-Hosted Integration Runtime
 SI          | System Integrator
 SIAM        | [Service Integration & Management](https://en.wikipedia.org/wiki/Service_integration_and_management)
 SIAM        | [Society for Industrial and Applied Mathematics](https://www.siam.org/)
+SIC         | [Standard Industrial Classification](https://www.osha.gov/data/sic-manual)
 SII         | Self-Identified Issue
 SIAM        | Service Integration and Management
 SIEM        | [Security Information and Event Management](https://en.wikipedia.org/wiki/Security_information_and_event_management)
