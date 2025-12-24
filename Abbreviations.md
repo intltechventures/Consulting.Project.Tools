@@ -1430,6 +1430,7 @@ RCA         | Root Cause Analysis
 RCE         | Remote Code Execution
 RCG         | Risk and Controls Group
 RCT         | [Randomized Controlled Trial](https://en.wikipedia.org/wiki/Randomized_controlled_trial)
+RCU         | [Read-Copy-Update](https://en.wikipedia.org/wiki/Read-copy-update)
 RD          | Remaining Duration
 RDB         | Relational Database
 RDC         | [Remote Desktop Connection](https://en.wikipedia.org/wiki/Remote_Desktop_Services#Remote_Desktop_Connection)
