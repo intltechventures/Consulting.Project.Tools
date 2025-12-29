@@ -79,6 +79,11 @@
 
 
 
+## Epictetus
+- "It is impossible for one to learn that which one already thinks one knows."
+
+
+
 ## Feathers, Michael
 - "Clean code always looks like it was written by someone who cares.”
 
