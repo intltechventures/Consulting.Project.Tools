@@ -1684,6 +1684,7 @@ SSG         | [Static Site {Generation / Generator}](https://en.wikipedia.org/wi
 SSH         | Secure Shell
 SSIRP       | Software and Services Incident Response Plan
 SSL         | Secure Sockets Layer
+SSL         | Self-Supervised Learning
 SSM         | State Space Model
 SSML        | Speech Synthesis Markup Language 
 SSO         | [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on)
