@@ -1110,7 +1110,7 @@ MTU         | [Maximum Transmission Unit](https://en.wikipedia.org/wiki/Maximum_
 MUA         | Mail User Agent 
 MUPS        | Minimum Usable Products/Services
 MVC         | [Model-View-Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-MVCC        | Multi Version Concurrency Control
+MVCC        | [Multi-Version Concurrency Control](https://en.wikipedia.org/wiki/Multiversion_concurrency_control)
 MVI         | Model-View-Intent 
 MVNO        | Mobile Virtual Network Operator 
 MVP         | Minimal Viable Product 
