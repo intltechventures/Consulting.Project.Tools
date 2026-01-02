@@ -652,6 +652,7 @@ FFW         | Feedforward
 FHE         | Fully [Homomorphic Encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption) (e.g., [IBM](https://www.ibm.com/security/services/homomorphic-encryption_))
 FHIR        | [Fast Healthcare Interoperability Resources](https://en.wikipedia.org/wiki/Fast_Healthcare_Interoperability_Resources)
 FIBO        | [Financial Industry Business Ontology](https://spec.edmcouncil.org/fibo/)
+FID         | Final Investment Decision
 FIDO        | [Fast IDentity Online (FIDO)](https://en.wikipedia.org/wiki/FIDO_Alliance)
 FinCEN      | [Financial Crimes Enforcement Network](https://en.wikipedia.org/wiki/Financial_Crimes_Enforcement_Network)
 FHIR        | Fast Healthcare Interoperability Resources (a draft standard describing data formats and elements and an application programming interface for exchanging electronic health records)
