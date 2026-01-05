@@ -687,6 +687,7 @@ FWaaS       | FireWall-as-a-Service
 GA          | Google Analytics
 GAAP        | [Generally Accepted Accounting Principles](https://en.wikipedia.org/wiki/Generally_Accepted_Accounting_Principles_(United_States))
 GADTs       | Generalized Algebraic Data Types
+GAFAM       | Google (Alphabet), Apple, Facebook (Meta), Amazon, and Microsoft
 GAM         | Global Asset Management
 GAT         | Generic Associated Types (e.g. [introduced in Rust 1.65](https://www.infoq.com/news/2022/11/rust-generic-associated-types/)
 GB          | [Gigabyte](https://en.wikipedia.org/wiki/Gigabyte)
