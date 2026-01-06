@@ -363,6 +363,7 @@ CPM         | Critical Path Method
 CPU         | [Central Processing Unit](https://en.wikipedia.org/wiki/Central_processing_unit)
 CP-ABE      | Cipher Policy — Attributed-Based Encryption  
 CQRS        | [Command Query Responsibility Segregation](https://en.wikipedia.org/wiki/Command_Query_Responsibility_Segregation)
+CQS         | Command Query Separation
 CR          | Conversion Rate
 CRC         | Class Responsibility Collaboration (i.e., usually captured in a form known as "[cards](http://agilemodeling.com/artifacts/crcModel.htm)", see original [OOPSLA 1989 paper](http://c2.com/doc/oopsla89/paper.html))
 CRCQs       | Cryptanalytically-Relevant Quantum Computers 
