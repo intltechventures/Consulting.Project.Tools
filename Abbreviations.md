@@ -27,6 +27,7 @@ ABAC        | [Attribute-Based Access Control](https://en.wikipedia.org/wiki/Att
 ABACUS      | [Algorithm-Based Analysis, Communication and Understanding of Systems](https://en.wikipedia.org/wiki/Avolution) 
 ABC         | Activity Based Costing
 ABC         | Area of Business Concern
+ABI         | Application Binary Interface 
 ABNF        | Augmented Backus-Naur Form (see [RFC-5234](https://tools.ietf.org/html/rfc5234))
 ABS         | As Built Section
 AC          | [Axiom of Choice](https://en.wikipedia.org/wiki/Axiom_of_choice)
