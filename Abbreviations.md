@@ -399,6 +399,7 @@ CSR         | Certificate Signing Request
 CSRB        | Cyber Safety Review Board
 CSRF        | Cross-Site Request Forgery 
 CSS         | [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+CTAD        | [Class Template Argument Deduction](https://en.cppreference.com/w/cpp/language/class_template_argument_deduction.html)
 CTB         | Change The Business
 CTE         | Commono Table Expressions (re: SQL)
 CTI         | Cyber Threat Intelligence
