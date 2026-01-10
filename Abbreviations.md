@@ -1779,6 +1779,7 @@ TTP         | Trusted Third Party
 TTPs        | Tactics, Techniques, and Procedures
 TTS         | Text-To-Speech
 TV          | Technical Stanards View (re: DoDAF)
+TVPI        | Total Value to Paid-In Capital
 TWh         | Terawatt-hours
 TXN         | Transaction
 **U__**     |
