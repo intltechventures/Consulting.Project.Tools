@@ -367,6 +367,7 @@ changes you"**
   * Also a truism in saling: "_Never start a voyage on a Friday_"
 
 
+**\#804 - "Hope is a _very_ poor Business Continuity plan"**
 
 
 
