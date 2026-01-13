@@ -1219,6 +1219,7 @@ OMG         | [Object Management Group](https://en.wikipedia.org/wiki/Object_Man
 OMS         | Order Management System
 OO          | Object Oriented
 OOA/D       | Object Oriented Analysis and Design 
+OOB         | Out-Of-Band
 OOBE        | Out-of-Box Experience
 OOD         | Object Oriented Design 
 OODA        | [Observe-Orient-Decide-Act](https://en.wikipedia.org/wiki/OODA_loop)
