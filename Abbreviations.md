@@ -814,6 +814,7 @@ IDL         | [Interface {Definition / Description} Language](https://en.wikiped
 IdM         | Identity Management, also see IAM
 IdP         | Identity Provider
 IDP         | Individual Development Plan 
+IDP         | Intelligent Document Processing
 IDP         | [Internal Developer Platform](https://internaldeveloperplatform.org/) (or Portal)
 IDS         | [Intrusion Detection System](https://en.wikipedia.org/wiki/Intrusion_detection_system)
 IE          | Information Extraction, re: NER, DL, ML, NLP
