@@ -235,6 +235,12 @@ changes you"**
 **\#402 - "Assume you'll throw away the first version"**
 
 
+**\#403 - "Start from where you are, with what you have"**
+
+
+##\#404 - "Do not seek the seed of inspiration-to-make, simply taking action to solve real problems will bring forth a multitude of seeds from which inspiration will flourish"**
+
+
 
 ## 5xx - On The Art of Managing a Business
 
