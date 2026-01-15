@@ -238,7 +238,7 @@ changes you"**
 **\#403 - "Start from where you are, with what you have"**
 
 
-##\#404 - "Do not seek the seed of inspiration-to-make, simply taking action to solve real problems will bring forth a multitude of seeds from which inspiration will flourish"**
+**\#404 - "If you do not find the seed of inspiration-to-make, simply taking action to solve real problems will bring forth a multitude of seeds from which inspiration will flourish"**
 
 
 
