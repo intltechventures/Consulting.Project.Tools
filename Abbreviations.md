@@ -490,6 +490,7 @@ DNAT        | Destination network address translation
 DNS         | [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System)
 DNSSEC      | Domain Name Security Extensions
 DoDAF       | [Department of Defense Architecture Framework](https://en.wikipedia.org/wiki/Department_of_Defense_Architecture_Framework)
+DOP         | Data-Oriented Programming
 DORA        | [DevOps Research and Assessment](https://dora.dev/) (re: metrics: deployment frequency, lead time for changes)
 DORA        | [Digital Operational Resilience Act, re: Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector](https://eur-lex.europa.eu/eli/reg/2022/2554/oj)
 DoS         | Denial of Service 
