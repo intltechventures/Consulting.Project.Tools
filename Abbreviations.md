@@ -1199,6 +1199,7 @@ ODD         | [Observability Driven Development](https://medium.com/@bijit211987
 ODE         | Ordinary Differential Equation
 ODM         | Object Data Modeling
 ODP         | [Open Device Partnership](https://opendevicepartnership.org/)
+OEF         | [IBM Open Enterprise Foundation for z/OS](https://www.ibm.com/products/open-enterprise-foundation-zos)
 OFAC        | [Office of Foreign Assets Control](https://en.wikipedia.org/wiki/Office_of_Foreign_Assets_Control)
 OG          | [Open Graph](https://en.wikipedia.org/wiki/Facebook_Platform#Open_Graph_protocol), also see [Open Graph Protocol](https://ogp.me/)
 OGL         | [Open Game License](https://en.wikipedia.org/wiki/Open_Game_License) (re: Wizards of the Coast D&D public copyright license)
@@ -1819,6 +1820,7 @@ USB         | [Universal Serial Bus](https://en.wikipedia.org/wiki/USB)
 USD         | [Universal Scene Description](https://openusd.org/)
 USL         | [Universal Scalability Law](http://www.perfdynamics.com/Manifesto/USLscalability.html) ~ [Neil J. Gunther](https://en.wikipedia.org/wiki/Neil_J._Gunther)
 USP         | Unique Selling Point
+USS         | Unix System Services 
 UTC         | Coordinated Universal Time 
 UTF         | [Unicode Transformation Format](https://en.wikipedia.org/wiki/Unicode#UTF)
 UUID        | [Universal Unique Identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier) - also GUID
