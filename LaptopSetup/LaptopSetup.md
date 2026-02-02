@@ -268,7 +268,9 @@ __These following sections are the primary software programs that I typically ha
   + Additional Plugins
     * DSpellCheck
     * Markdown++
-      * https://github.com/Edditoria/markdown-plus-plus 
+      * https://github.com/Edditoria/markdown-plus-plus
+      * https://github.com/Edditoria/markdown-plus-plus?tab=readme-ov-file
+      * 
     * NppRegExTractor
       * https://github.com/viper3400/NppRegExTractor
     * HEX-Editor
@@ -284,6 +286,7 @@ __These following sections are the primary software programs that I typically ha
     * Tidy2
   + User-contributed User-Defined Languages (UDLs):
     * https://github.com/notepad-plus-plus/userDefinedLanguages
+    * https://npp-user-manual.org/docs/user-defined-language-system/
     * TOML  
       * https://github.com/notepad-plus-plus/userDefinedLanguages/blob/master/UDLs/TSL_byTorkelLindahl.xml
       * https://raw.githubusercontent.com/notepad-plus-plus/userDefinedLanguages/master/UDLs/TOML_byTimendum.xml
