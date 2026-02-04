@@ -45,8 +45,8 @@
 - [HDMI Switch 4K@60hz HDMI Splitter, Aluminum HDMI 2.0 Switcher 2 in 1 Out, HDMI Splitter 1 in 2 Out, Bi-Directional Switch Support 4K 3D HDR for Xbox PS5/4/3 Blu-Ray Player Fire Stick Roku HDTV](https://www.amazon.com/gp/product/B09D7MRPJF/)
 
 - Logitech H390 USB Headset w/Noise-Canceling Microphone
+  + https://www.amazon.com/dp/B000UXZQ42/
   + https://www.walmart.com/ip/Logitech-H390-USB-Headset-w-Noise-Canceling-Microphone/8198023
-  + https://www.amazon.com/Logitech-logitech-noisecanceling-Microphone-Packaging/dp/B075G4JT4S/
 
 
 
