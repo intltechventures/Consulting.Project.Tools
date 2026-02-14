@@ -403,6 +403,7 @@ CSS         | [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_S
 CTAD        | [Class Template Argument Deduction](https://en.cppreference.com/w/cpp/language/class_template_argument_deduction.html)
 CTB         | Change The Business
 CTE         | Commono Table Expressions (re: SQL)
+CTF         | [Capture the Flag](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity))
 CTI         | Cyber Threat Intelligence
 CTO         | Chief Technology Officer 
 CTR         | Click-Through-Rate
