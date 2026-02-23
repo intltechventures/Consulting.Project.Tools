@@ -344,6 +344,7 @@ CNCF        | [Cloud Native Computing Foundation](https://www.cncf.io/)
 CNN         | Convolutional Neural Network
 COBIT       | [Control Objectives for Information and related Technology](https://en.wikipedia.org/wiki/COBIT)
 CoE         | Center of Excellence
+COE         | Correction of Error (process)
 COI         | Community of Interest
 CoLA        | [Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427)
 COLO        | Co-Location / Colocation 
