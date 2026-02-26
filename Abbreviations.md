@@ -668,6 +668,7 @@ FIPS        | [Federal Information Processing Standard](https://en.wikipedia.org
 FIRST       | Fast Independent Repeatable Self-Validating Timely [(source)](https://dzone.com/articles/writing-your-first-unit-tests)
 FISMA	      | Federal Information Security Management Act 
 FLOPS       | [Floating Point Operations Per Second](https://en.wikipedia.org/wiki/FLOPS)
+FMCG        | Fast-Moving Consumer Goods
 FMEA        | [Failure Mode and Effects Analysis](https://en.wikipedia.org/wiki/Failure_mode_and_effects_analysis)
 fMRI        | functional Magnetic Resonance Imaging
 FoS         | Families of Systems
