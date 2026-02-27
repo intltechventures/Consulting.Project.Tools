@@ -442,6 +442,7 @@ DAS         | Direct Attached Storage
 DASD        | [Direct-Access Storage Device](https://en.wikipedia.org/wiki/Direct-access_storage_device)
 DAST        | Dynamic Application Security Testing
 DAU         | Daily Active Users
+DAX         | [Data Analysis Expressions](https://learn.microsoft.com/en-us/dax/dax-overview) (re: Microsoft
 DB          | Database
 DBA         | Database Administrator
 DBMS        | Database Management System
