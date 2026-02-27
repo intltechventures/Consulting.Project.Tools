@@ -1362,6 +1362,7 @@ PPO         | Proximal Policy Optimization (e.g., Deep Reinforcement Learning al
 PPPoA       | [Point-to-Point Protocol over ATM](https://en.wikipedia.org/wiki/Point-to-Point_Protocol_over_ATM)
 PPPoE       | [Point-to-Point Protocol over Ethernet](https://en.wikipedia.org/wiki/Point-to-Point_Protocol)
 PPP         | [Point-to-Point Protocol](https://en.wikipedia.org/wiki/Point-to-Point_Protocol)
+PPT         | People. Process. Technology.
 PQC         | [Post Quantum Cryptography](https://csrc.nist.gov/projects/post-quantum-cryptography) 
 PR          | Peer Review
 PR          | Production Ready
