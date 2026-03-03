@@ -255,6 +255,11 @@
 
 
 
+## Radcliffe, Mitch 
+- "A computer lets you make more mistakes faster than any invention in human history - with the possible exceptions of handguns and tequila." (MIT’s Technology Review, published in April 1992)
+
+
+
 ## Raymond, Eric
 - Eric Raymond's [17 Unix rules](https://en.wikipedia.org/wiki/Unix_philosophy#Eric_Raymond's_17_Unix_Rules), re: [The Art of Unix Programming](https://en.wikipedia.org/wiki/The_Art_of_Unix_Programming) (2003)
 1. Build modular programs
