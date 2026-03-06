@@ -1,6 +1,18 @@
 
 # Great Speakers to Study 
 
+## Common Qualities of Great Speakers
+
+- Show, don't tell 
+- Humor woven throughout their talk 
+- Practical examples are used 
+- Information is layered
+- Good pacing, they don't rush
+- Instinctively, they are good teachers 
+- Focused on communicating meaningful information - that has long-term value 
+- Concepts are more important than transitory syntax 
+- Knowledge is compressed into bite-sized chunks 
+- Memorable phrasing
 
 
 ## Fowler, Martin 
