@@ -747,6 +747,7 @@ GWP         | Gross Written Premium (insurance industry)
 **H__**     | 
 HA          | High Availability
 HAI         | Stanford Institute for Human-Centered Artificial Intelligence 
+HAMR        | [Heat-Assisted Magnetic Recording](https://en.wikipedia.org/wiki/Heat-assisted_magnetic_recording)
 HATEOAS     | [Hypermedia As The Engine Of Application State](https://en.wikipedia.org/wiki/HATEOAS)
 HBM         | High-Bandwidth Memory
 HBOM        | Hardware Bill of Materials
