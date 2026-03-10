@@ -1534,6 +1534,8 @@ SA          | Solution Architect
 SaaS        | [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service)
 SABSA       | [Sherwood Applied Business Security Architecture](https://en.wikipedia.org/wiki/Sherwood_Applied_Business_Security_Architecture) 
 SACM        | Software Asset Configuration Management (an ITIL process)
+SAD         | System Analysis and Design
+SAD         | Software Architecture Document 
 SAD         | Solution Architecture Document
 SADS        | Secure Application Development Standards
 SAF         | Security Adoption Framework ([Microsoft](https://learn.microsoft.com/en-us/security/adoption/adoption))
@@ -1570,6 +1572,7 @@ SCP         | Service Control Policy
 SCSI        | Small Computer System Interface
 SCTP        | [Stream Control Transmission Protocol](https://en.wikipedia.org/wiki/Stream_Control_Transmission_Protocol)
 SD          | Service Desk
+SDA         | Solution Design Authority
 SDD         | Spec-Driven Development 
 SDF         | System Data Flow 
 SDG         | Sustainable Development Goals
