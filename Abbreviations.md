@@ -1445,6 +1445,7 @@ RBFNN       | Radial Basis Function Neural Network
 RCA         | Root Cause Analysis 
 RCE         | Remote Code Execution
 RCG         | Risk and Controls Group
+RCS         | [Rich Communication Services](https://en.wikipedia.org/wiki/Rich_Communication_Services)
 RCT         | [Randomized Controlled Trial](https://en.wikipedia.org/wiki/Randomized_controlled_trial)
 RCU         | [Read-Copy-Update](https://en.wikipedia.org/wiki/Read-copy-update)
 RD          | Remaining Duration
