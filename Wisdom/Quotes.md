@@ -112,10 +112,6 @@
 
 
 
-## Hao, Karen 
-- "The world is not a problem; the problem is your unawareness."
-
-
 
 ## Heraclitus
 - ”The only constant is change”
@@ -262,6 +258,12 @@
 
 ## Radcliffe, Mitch 
 - "A computer lets you make more mistakes faster than any invention in human history - with the possible exceptions of handguns and tequila." (MIT’s Technology Review, published in April 1992)
+
+
+
+
+## [Rajneesh (Osho)](https://en.wikipedia.org/wiki/Rajneesh)
+- "The world is not a problem; the problem is your unawareness."
 
 
 
