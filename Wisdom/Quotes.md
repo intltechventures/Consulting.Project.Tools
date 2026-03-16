@@ -112,6 +112,11 @@
 
 
 
+## Hao, Karen 
+- "The world is not a problem; the problem is your unawareness."
+
+
+
 ## Heraclitus
 - ”The only constant is change”
 
