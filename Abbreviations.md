@@ -297,7 +297,6 @@ CER         | Control Exception Request
 CERN        | [European Organization for Nuclear Research](https://en.wikipedia.org/wiki/CERN), French: Organisation européenne pour la recherche nucléaire
 CES         | Customer Experience Specialist
 CESGA       | [Galician Supercomputing Center](https://www.cesga.es/)
-CIFAR       | [Canadian Institute for Advanced Research](https://en.wikipedia.org/wiki/Canadian_Institute_for_Advanced_Research)
 CFBR        | Commenting For Better Reach
 CFR         | Change Failure Rate
 CFS         | [Completely Fair Scheduler](https://docs.kernel.org/scheduler/sched-design-CFS.html)
@@ -315,11 +314,14 @@ CIAM        | Customer Identity and Access Management
 CICS        | IBM [ustomer Information Control System](https://en.wikipedia.org/wiki/CICS)
 CID         | Command Identifier
 CIF         | Customer Information File  
+CIFAR       | [Canadian Institute for Advanced Research](https://en.wikipedia.org/wiki/Canadian_Institute_for_Advanced_Research)
 CIFS        | Common Internet File System
 CIO         | Chief Information Officer 
 CIP         | Critical Infrastructure Protection
 CIP         | Customer Identification Program
 CIPP        | Certified Information Privacy Professional 
+CIR         | Critical Incident Response 
+CIR         | Cybersecurity Incident Response
 CISA        | Certified Information Systems Auditor
 CISA        | [Cybersecurity and Infrastructure Security Agency](https://www.cisa.gov/cybersecurity-division)
 CISC        | [Complex Instruction Set Computer](https://en.wikipedia.org/wiki/Complex_instruction_set_computer)
