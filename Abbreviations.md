@@ -182,6 +182,7 @@ BEC         | Business Email Compromise
 BEC         | Business Executive Committee 
 BFT         | Byzantine Fault Tolerant
 BFO         | [Basic Formal Ontology](https://basic-formal-ontology.org/)
+BFSI        | [Banking, Financial Services and Insurance](https://en.wikipedia.org/wiki/BFSI)
 BGP         | [Border Gateway Protocol](https://en.wikipedia.org/wiki/Border_Gateway_Protocol)
 BHAG        | Big Hairy Audacious Goal
 BI          | Business Intelligence
@@ -1755,6 +1756,7 @@ TCV         | Total Contract Value (TCV)
 TDD         | [Test-Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
 TDMA        | Time Division Multiple Access
 TDS         | [Traffic Distribution System](https://www.darkreading.com/cyberattacks-data-breaches/why-hard-stop-rising-malicious-tds-traffic)
+TEA         | [Transparency Exchange API](https://tc54.org/tea/)
 TFI         | [Office of Terrorism and Financial Intelligence](https://en.wikipedia.org/wiki/Office_of_Terrorism_and_Financial_Intelligence)
 TFP         | [Total Factor Productivity](https://en.wikipedia.org/wiki/Total_factor_productivity)
 TGB         | Technology Governance Board
