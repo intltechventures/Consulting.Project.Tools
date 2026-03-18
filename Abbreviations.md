@@ -675,6 +675,8 @@ FLOPS       | [Floating Point Operations Per Second](https://en.wikipedia.org/wi
 FMCG        | Fast-Moving Consumer Goods
 FMEA        | [Failure Mode and Effects Analysis](https://en.wikipedia.org/wiki/Failure_mode_and_effects_analysis)
 fMRI        | functional Magnetic Resonance Imaging
+FOBO        | Fear Of Being Obsolete
+FOMO        | Fear Of Missing Out
 FoS         | Families of Systems
 FOSS        | [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 FOSSA       | [Free Open Source Software Analysis](https://fossa.com)
@@ -692,6 +694,7 @@ FSC         | Financial Size Categories
 FSC         | Salesforce Financial Services Cloud 
 FSDG        | [(GNU) Free System Distribution Guidelines](https://www.gnu.org/distros/free-system-distribution-guidelines.html)
 FTP         | [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
+FUD         | [Fear, Uncertainty, and Doubt](https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt)
 FUE         | Full-Use-Equivalent
 FUSE        | [Filesystem in Userspace](https://en.wikipedia.org/wiki/Filesystem_in_Userspace)
 FWaaS       | FireWall-as-a-Service 
