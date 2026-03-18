@@ -1155,6 +1155,7 @@ NDA         | Non-Disclosure Agreement
 NDCG        | Normalized Discounted Cumulative Gain 
 NDP         | [Neighbor Discovery Protocol](https://en.wikipedia.org/wiki/Neighbor_Discovery_Protocol)
 NDR         | Network Detection and Response
+NDR         | Non-Delivery Report (e.g., [Office 365 Exchange Online](https://learn.microsoft.com/en-us/troubleshoot/exchange/email-delivery/ndr/non-delivery-reports-in-exchange-online))
 NED         | [Non-Executive Director](https://en.wikipedia.org/wiki/Non-executive_director)
 NER         | Named Entity Recognition, re: ML
 NeRF        | Neural Radiance Fields (re: Deep Learning, optimizing continuous volumetric scene function)
