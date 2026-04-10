@@ -8,6 +8,11 @@
 
 ## Hardware
 
+- Idea Sources - Future Gear Purchases
+  + https://www.pcgamer.com/hardware/this-is-all-the-best-pc-gaming-gear-we-recommend-in-one-techie-tier-list/
+
+
+
 ### Computers 
 
 - __Current Primary Laptop__ (for research & development): *May 2023*
