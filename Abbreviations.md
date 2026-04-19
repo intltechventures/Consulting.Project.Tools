@@ -741,6 +741,7 @@ GQM         | Goal, Question, Metric
 GRC         | Governance, Risk, and Compliance
 GRE         | Generic Routing Encapsulation
 GRO         | Generic Receive Offload
+GRPO        | Group Relative Policy Optimization 
 GRU         | Gated Recurrent Unit
 GSA         | General Services Administration
 GSM         | [Global System for Mobile Communications](https://en.wikipedia.org/wiki/GSM) 
