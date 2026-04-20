@@ -958,7 +958,7 @@ KMS         | Key Management {System | Service}
 KNN         | [K-nearest neibhbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) (algorithm)
 KPI         | [Key Performance Indicators](https://en.wikipedia.org/wiki/Performance_indicator)
 KQL         | [Kusto Query Language](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/)
-KSA         | Knowledge, Skills, and Abilities 
+KSAs        | Knowledge, Skills, and Abilities 
 KT          | Knowledge Transfer
 KVM		      | [Kernel-based Virtual Machine](https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine) (re: an open source virtualization technology built into Linux)
 KVM			    | Keyboard, Video and Mouse
@@ -1767,6 +1767,7 @@ TFP         | [Total Factor Productivity](https://en.wikipedia.org/wiki/Total_fa
 TGB         | Technology Governance Board
 THIRA       | [Threat and Hazard Identification and Risk Assessment](https://www.fema.gov/emergency-managers/national-preparedness/goal/risk-capability-assessment)
 TIME        | [Tolerate. Invest. Migrate. Eliminate.](https://www.gartner.com/en/documents/3905663) (re: Gartner categorization)
+TINA        | There Is No Alternative
 TLA         | Three Letter Acronym
 TLS         | [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security)
 TM          | Topic Model, re: NER, NLP, DL, ML
