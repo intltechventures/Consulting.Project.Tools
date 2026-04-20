@@ -340,6 +340,8 @@ CMK         | Customer Managed Keys
 CMM         | Capability Maturity Model
 CMMC        | [Cybersecurity Maturity Model Certification](https://dodcio.defense.gov/CMMC/Model/)
 CMOS        | [Complementary metal–oxide–semiconductor](https://en.wikipedia.org/wiki/CMOS)
+CMS         | [Centers for Medicare & Medicaid Services (CMS)](https://www.cms.gov/)
+CMS         | Content Management System
 cn          | Common Name, re: LDAP
 CNAB        | [Cloud Native Application Bundles](https://cnab.io/)
 CNAPP       | [Cloud-Native Application Protection Platform](https://www.microsoft.com/en-us/security/business/security-101/what-is-cnapp) 
@@ -1148,6 +1150,7 @@ NAS         | Network Attached Storage
 NAS         | Neural Architecture Search
 NAT         | [Network Address Translation](https://en.wikipedia.org/wiki/Network_address_translation)
 NC          | Non-Compliant
+NCQA        | [National Committee for Quality Assurance](https://www.ncqa.org/) 
 NCSA        | [National Center for Supercomputing Applications](https://en.wikipedia.org/wiki/National_Center_for_Supercomputing_Applications)
 NCSC        | National Cyber Security Centre
 NCT         | [.NET Community Toolkit](https://github.com/CommunityToolkit/dotnet)
