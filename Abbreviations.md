@@ -1793,6 +1793,7 @@ TRACTOR     | [TRanslating All C TO Rust](https://www.darpa.mil/news-events/2024
 TRM         | Technical Reference Model
 TRPM        | Third-Party Risk Management
 TS          | [Top Secret](https://sgp.fas.org/othergov/intel/ic-class.pdf)
+TSA         | Time Stamping Authority
 TSD         | Technical Specification Document
 TSO         | [Time Sharing Option](https://en.wikipedia.org/wiki/Time_Sharing_Option), re: IBM mainframe interactive time-sharing environment
 TSP         | [Trust Service Provider](https://en.wikipedia.org/wiki/Trust_service_provider)
