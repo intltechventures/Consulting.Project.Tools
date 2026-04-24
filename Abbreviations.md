@@ -116,6 +116,7 @@ APT         | Advanced Persistent Threat
 AP@N        | Average Precision
 ARB         | Architecture Review Board (aka ARC)
 ARC         | Architecture Review Committee, or Council (aka ARB)
+ARF         | Architecture and Reference Framework 
 ARHR        | Average Reciprocal Hit Ratio
 ARI         | Amazon Ramdisk Image
 ARIMA       | Auto-Regressive Integrated Moving Average
@@ -633,6 +634,7 @@ ETSI        | [European Telecommunications Standards Institute](https://en.wikip
 EU          | European Union 
 EUC         | End-User Computing
 EUDA        | End-User Developed Application
+EUDI        | [European Digital Identity](https://digital-strategy.ec.europa.eu/en/policies/eudi-regulation)
 EVM         | Earned Value Management
 **F__**     | 
 FaaS        | Function as a Service
@@ -683,6 +685,7 @@ FOSS        | [Free and Open Source Software](https://en.wikipedia.org/wiki/Free
 FOSSA       | [Free Open Source Software Analysis](https://fossa.com)
 FP          | Functional Programming 
 FP&A        | Financial Planning and Analysis
+FPAD        | Fraud Pattern and Anomaly Detection
 FPGA        | Field-Programmable Gate Arrays
 FPR         | False Positive Rate
 FNR         | False Negative Rate
@@ -711,7 +714,7 @@ GCC         | Government Community
 GCHQ        | British intelligence agency [Government Communications Headquarters](https://en.wikipedia.org/wiki/Government_Communications_Headquarters)
 GCP         | Google Cloud Platfrom
 GDG         | Generation Date Group
-GDPR        | Genera Data Protection Regulation (re: EU)
+GDPR        | [Genera Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) (re: EU)
 GERAM       | Generalised Enterprise-Referencing Architectures Modelling Framework
 GFCI        | Greedy Fast Causal Interference (GFCI) Algorithm 
 GFO         | [General Formal Ontology](https://en.wikipedia.org/wiki/General_formal_ontology)
@@ -778,6 +781,7 @@ Hipster     | [Health IoT Privacy and Security Transferred to Engineering Requir
 HITRUST     | Health Information Trust Alliance
 HLD         | High-Level Design  
 HLP         | Human Level Performance (re: Machine Learning)
+HLRs        | High-Level Requirements
 HLS         | High-Level Section
 HMAC        | [Hash-based Message Authentication Code](https://en.wikipedia.org/wiki/HMAC)
 HMM         | Hidden Markov Models
@@ -1387,9 +1391,11 @@ PRNG        | [Pseudorandom Number Generator](https://en.wikipedia.org/wiki/Pseu
 PRM         | Program
 PRR         | Production Readiness Reviews
 PRT         | Portfolio
-PSD2        | [Payment Services Directive](https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines_202006_psd2_afterpublicconsultation_en.pdf) (Directive 2015/2366/EU of the European Parliament andof the Council of 23 December 2015)
+PSD2        | [Payment Services Directive 2](https://en.wikipedia.org/wiki/Payment_Services_Directive) 
+PSD3        | [Payment Services Directive 3](https://ec.europa.eu/commission/presscorner/detail/en/qanda_23_3544) 
 PSM         | Persistent Stored Modules
 PSM         | Propensity Score Matching
+PSPs        | Payment Service Providers 
 PSTN        | [Public switched telephone network](https://en.wikipedia.org/wiki/Public_switched_telephone_network)
 PTB         | Permit To Build
 PTD         | Permit to Deploy
@@ -1519,6 +1525,7 @@ RSA         | [Rivest–Shamir–Adleman](https://en.wikipedia.org/wiki/RSA_(cry
 RSG         | Risk Strategy & Governance
 RSU         | Restricted Stock Units
 RTB         | Run The Business
+RTBF        | Right to Be Forgotten
 RTCP        | [RTP Control Protocol](https://en.wikipedia.org/wiki/RTP_Control_Protocol)
 RTE         | Release Train Engineer
 RTF         | Runtime Fabric (re: MuleSoft)
@@ -1572,6 +1579,7 @@ SBE         | Specification by Example
 SBI         | Synthetic Biological Intelligence
 SBOM        | [Software Bill of Materials](https://www.cisa.gov/sbom), re: [Software Supply Chain](https://en.wikipedia.org/wiki/Software_supply_chain) - also see VEX
 SCA         | [Security Composition Analysis](https://github.com/resources/articles/security/what-is-software-composition-analysis)
+SCA         | Strong Customer Authentication
 SCADA       | Supervisory Control and Data Acquisition
 SCAP        | [Security Content Automation Protocol](https://en.wikipedia.org/wiki/Security_Content_Automation_Protocol)
 SCC         | Strongly Connected Components (re: [Parsel AI framework](https://www.infoq.com/news/2023/02/parsel-code-generation/)
@@ -1606,6 +1614,7 @@ SEBoK       | [Systems Engineering Book of Knowledge](https://sercuarc.org/sebok
 SEC         | [U.S. Securities and Exchange Commission](https://en.wikipedia.org/wiki/U.S._Securities_and_Exchange_Commission)
 SEMP        | Systems Engineering Management Plan 
 SEP         | Systems Engineering Plan
+SEPA        | [Single Euro Payments Area](https://en.wikipedia.org/wiki/Single_Euro_Payments_Area)
 SEO         | Search Engine Optimization
 SERC        | [Systems Engineering Research Council](https://sercuarc.org/)
 SFCC        | [Salesforce Commerce Cloud](https://www.salesforce.com/products/commerce-cloud/overview/)
