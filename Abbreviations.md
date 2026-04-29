@@ -68,6 +68,7 @@ ADT         | Algebraic Data Type
 AE          | [Authenticated Encryption](https://en.wikipedia.org/wiki/Authenticated_encryption)
 AEA         | Adaptive Enterprise Architecture
 AEAD        | [Authentication Encryption with Associated Data](https://en.wikipedia.org/wiki/Authenticated_encryption#Authenticated_encryption_with_associated_data_(AEAD))
+AEO         | Answer Engine Optimization (re: AI-powered search engines)
 AES         | Advanced Encryption Standard 
 AFCE        | Authorization for Capital Expenditure
 AGI         | [Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
@@ -378,6 +379,7 @@ CRCQs       | Cryptanalytically-Relevant Quantum Computers
 CRD         | Custom Resource Definitions (e.g., Kubernetes)
 CRDT        | [Conflict-Free Replicated Data Type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
 CRF         | Conditional Random Fields 
+CRI         | Container Runtime Interface
 CRL         | Certificate Revocation List
 CRM         | Customer Relationship Management
 CRO         | Chief Risk Officer
