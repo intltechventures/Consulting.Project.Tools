@@ -209,6 +209,7 @@ BOM         | Bill of Matrials
 BOOTP       | [Bootstrap Protocol](https://en.wikipedia.org/wiki/Bootstrap_Protocol)
 BOSS        | Business Operation Support Services
 BOSS        | Business Operations Support System
+BPE         | [Byte-Pair Encoding](https://en.wikipedia.org/wiki/Byte-pair_encoding)
 BPF         | [Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter) - see eBPF
 BPM         | Business Process Management
 BPM         | Business Process Model
