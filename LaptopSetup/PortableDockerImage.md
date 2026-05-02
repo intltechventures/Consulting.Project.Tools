@@ -102,13 +102,39 @@
   + https://filezilla-project.org/download.php?show_all=1
 
 
-- Cygwin 
+- Cygwin (?)
 
 
 - SumatraPDF
 
 
 - NAPS2
+
+
+### Drawing / Diagramming Tools 
+
+- Archi 
+  + https://www.archimatetool.com/download/
+
+
+- Krita (alternative to GIMP?) 
+
+
+- Pinta (alternative to PAINT.NET?) 
+
+
+- Graphviz
+  + https://graphviz.org/download/
+
+
+- d3-graphviz
+  + https://github.com/magjac/d3-graphviz
+  + https://hpcc-systems.github.io/hpcc-js-wasm/packages/graphviz/README.html
+
+
+- viz.js
+  + https://viz-js.com/
+  + https://github.com/mdaines/viz-js
 
 
 ### Audio/Video 
