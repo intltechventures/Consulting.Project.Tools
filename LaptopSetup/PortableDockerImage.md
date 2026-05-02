@@ -78,7 +78,14 @@
   + Google Chrome 
 
 
+- Dropbox 
+  + https://www.dropbox.com/install-linux
+
+
 - Libre Office 
+
+
+- Thunderbird 
 
 
 - FileZilla 
@@ -97,6 +104,7 @@
 ### Audio/Video 
 
 - Audacity 
+
 
 - VLC media player
 
