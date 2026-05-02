@@ -1,6 +1,16 @@
 
 # Portable Docker Image 
 
+## Goals
+
+- A Disaster Recovery option, in the event a Windows OS becomes inoperable 
+
+- A secure and portable productivity tool, that can be setup to boot from a USB
+
+- To eliminate Microsoft Windows as a critical dependency 
+
+
+
 ## Operating System (OS)
 
 - Mint Linux (?)
