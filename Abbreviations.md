@@ -1819,6 +1819,7 @@ TTM         | Time-To-Market
 TTP         | Trusted Third Party
 TTPs        | Tactics, Techniques, and Procedures
 TTS         | Text-To-Speech
+TUS         | [The Unicode Standard](https://en.wikipedia.org/wiki/Unicode)
 TV          | Technical Stanards View (re: DoDAF)
 TVPI        | Total Value to Paid-In Capital
 TWh         | Terawatt-hours
