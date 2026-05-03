@@ -1000,6 +1000,7 @@ LLC         | [Logical Link Control](https://en.wikipedia.org/wiki/Logical_link_
 LLM         | Large Language Model
 LLRT        | Low Latency Runtime (e.g., [AWS](https://github.com/awslabs/llrt))
 LMM         | Large Multimodal Model
+LMS         | [Least Mean Squares filter](https://en.wikipedia.org/wiki/Least_mean_squares_filter)
 LOB         | Line of Business
 LOE         | Level of Effort
 LOI         | Letter of Intent
