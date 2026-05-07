@@ -618,7 +618,7 @@ EPM         | Enterprise Program Management
 EPR         | Electronic Patient Record 
 EPS         | Extrusion Prevention System (see DLP)
 ERB         | Engineering Review Board
-ERD         | Entity Relationship Diagram 
+ERD         | [Entity Relationship Diagram](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model)
 ERM         | Enterprise Risk Management 
 ERP         | Enterprise Resource Planning
 ES          | ECMAScript (aka JavaScript)
@@ -722,6 +722,7 @@ GERAM       | Generalised Enterprise-Referencing Architectures Modelling Framewo
 GFCI        | Greedy Fast Causal Interference (GFCI) Algorithm 
 GFO         | [General Formal Ontology](https://en.wikipedia.org/wiki/General_formal_ontology)
 GHAS        | [GitHub Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security)
+GHCR        | [GitHub Container Registry](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry)
 GIL         | [Global Interpreter Lock](https://en.wikipedia.org/wiki/Global_interpreter_lock)
 GIN         | Generalized Inverted Index
 GIS         | Geographic Information System
