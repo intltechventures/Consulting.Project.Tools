@@ -431,6 +431,7 @@ CWE         | [Critical Weakness Enumeration](https://cwe.mitre.org/) (also see:
 CX          | Customer Experience
 CXO         | Customer Experience Officer
 CXN         | Customer Experience Network
+CXT         | Customer Experience Transformation
 **D__**     | 
 DA          | Data Architecture 
 DaaS        | Data as a Service
