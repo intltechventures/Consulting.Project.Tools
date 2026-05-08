@@ -1109,6 +1109,7 @@ MQL         | Marketing Qualified Lead
 MQL         | Monitoring Query Language (re: Oracle Cloud?)
 MRA         | Matters Requiring Attention
 MRC         | Management Risk Committee
+MRC         | [Multipath Reliable Connection](https://www.opencompute.org/documents/ocp-mrc-1-0-pdf)
 MRD         | [Marketing Requitements Document](https://en.wikipedia.org/wiki/Market_requirements_document)
 MRM         | Model Risk Management
 MRM         | Most Responsible Moment
@@ -1464,6 +1465,7 @@ RAT         | Remote Access Trojan
 RBA         | Role-Based Authorization
 RBAC        | [Role Based Access Control](https://en.wikipedia.org/wiki/Role-based_access_control)
 RBFNN       | Radial Basis Function Neural Network 
+RC          | Reliable Connection (i.e., transport connection, as defined in IBTAVS16)
 RCA         | Root Cause Analysis 
 RCE         | Remote Code Execution
 RCG         | Risk and Controls Group
