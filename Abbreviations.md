@@ -1895,6 +1895,7 @@ VIF         | Variance Inflation Factor
 VII         | [ehicle Infrasture Integration](https://en.wikipedia.org/wiki/Vehicle_infrastructure_integration)
 VIP         | Virtual IP address
 VISP        | [Virtual ISP](https://en.wikipedia.org/wiki/Virtual_ISP)
+VLA         | Vision-Language-Action (re: robotic models)
 VLAN        | Virtual Local Area Network 
 VM          | Virtual Machine
 VMI         | Virtual Machine Image 
