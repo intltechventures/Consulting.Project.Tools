@@ -277,6 +277,8 @@ changes you"**
 **\#511 - "You don't know - yet, what you don't know"**
 
 
+**\#512 - "Much that you might assume to be true about someone's claim of expertise is merely a hallucination -  the ability to maintain a skeptic's perspective is a superpower."
+
 
 
 ## 6xx - On Negotiating
