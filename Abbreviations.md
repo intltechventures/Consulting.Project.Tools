@@ -1881,6 +1881,7 @@ V2I         | [Vehicle-to-Infrastructure](https://en.wikipedia.org/wiki/Vehicle_
 V2V         | [Vehicle ad hock netowrk, or vehicle-to-vehicle](https://en.wikipedia.org/wiki/Vehicular_ad_hoc_network)
 V2X         | [Vehicle-to-Everything](https://en.wikipedia.org/wiki/Vehicle-to-everything)
 VA          | Validation Authority
+VAD         | Voice Activity Detection
 VAE         | Variational Autoencoders
 VAPT        | [Vulnerability Assessment and Penetration Testing](https://en.wikipedia.org/wiki/Vulnerability_assessment_(computing)#Vulnerability_assessment_vs_penetration_testing)
 VAX         | [Virtual Address eXtension](https://en.wikipedia.org/wiki/VAX_)
