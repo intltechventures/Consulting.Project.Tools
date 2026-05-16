@@ -8,9 +8,11 @@ This glossary is intended to provide a single refernce to be reused across multi
 |-----------|-----------|
 **__**      |
 2FA         | Two-Factor Authentication
+3DoF        | 3-Degree-of-Freedom (re: trajectory modeling an object as a point mass, simulating motion in three dimensions — typically longitudinal (downrange), vertical (altitude), and planar rotation (pitch or heading) - while ignoring complex attitude dynamics)
 3LOD        | [Three Lines of Defence Model](https://erm.ncsu.edu/library/article/cosos-take-on-the-three-lines-of-defense) (Codified by the Basel Committee on Banking Supervision in its 2011 Principles for the sound management of operational risk)
 3PL         | Third-Party Logistics providers
 4+1         | [4+1 Architecture View Model](https://en.wikipedia.org/wiki/4%2B1_architectural_view_model)
+6DoF        | [Six Degrees of Freedom](https://en.wikipedia.org/wiki/Six_degrees_of_freedom)
 7 Rs        | [Refactor, Replatform, Repurchase, Rehost, Relocate, Retain, Retire](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-retiring-applications/overview.html) - Re: AWS Migration Readiness
 **A__**     |
 A11y        | Accessibility [see: [Mozzila](https://developer.mozilla.org/en-US/docs/Web/Accessibility), [W3C](https://www.w3.org/standards/webdesign/accessibility)]
@@ -662,7 +664,9 @@ FCP         | [First Contentful Paint](https://web.dev/fcp/)
 FDDI        | [Fiber Distributed Data Interface](https://en.wikipedia.org/wiki/Fiber_Distributed_Data_Interface)
 FDE         | Forward-Deployed Engineer
 FDL         | (GNU) Free Documentation License
+FEA         | [Finite Element Analysis](https://en.wikipedia.org/wiki/Finite_element_method)
 FedRAMP     | Federal Risk Authorization Management Program
+FEM         | [Finite Element Method](https://en.wikipedia.org/wiki/Finite_element_method)
 FEP         | Federal Employee Program 
 FFI         | [Foreign Function Interface](https://en.wikipedia.org/wiki/Foreign_function_interface)
 FFT         | Full Fine-Tuning
