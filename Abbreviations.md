@@ -534,6 +534,7 @@ DSLAM       | [Digital subscriber line access multiplexer](https://en.wikipedia.
 DSML        | Data Science and Machine Learning
 DSN         | Data Source Name  
 DSPM        | Data Security Posture Management
+DSPy        | [Declarative Self-improving Python](https://dspy.ai/)
 DSRC        | [Dedicated short-range communications](https://en.wikipedia.org/wiki/Dedicated_short-range_communications)
 DSRP        | [Distinctions, Systems, Relationships, and Perspectives](https://en.wikipedia.org/wiki/DSRP)
 DSS         | Data Security Standard
