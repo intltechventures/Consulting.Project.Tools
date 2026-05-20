@@ -304,6 +304,7 @@ CERN        | [European Organization for Nuclear Research](https://en.wikipedia.
 CES         | Customer Experience Specialist
 CESGA       | [Galician Supercomputing Center](https://www.cesga.es/)
 CFBR        | Commenting For Better Reach
+CFP         | Call For Proposals
 CFR         | Change Failure Rate
 CFS         | [Completely Fair Scheduler](https://docs.kernel.org/scheduler/sched-design-CFS.html)
 CFT         | Cross-Functional Team
