@@ -1611,6 +1611,7 @@ SDD         | Spec-Driven Development
 SDF         | System Data Flow 
 SDG         | Sustainable Development Goals
 SDI         | Software Defined Infrastructure
+SDI         | Spec‐Driven Integration
 SDK         | Software Development Kit  
 SDL         | Secure Development Lifecycle
 SDLC        | Software Development Life-cycle (aka Software Development Process)
