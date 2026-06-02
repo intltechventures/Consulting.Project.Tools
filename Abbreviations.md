@@ -30,6 +30,7 @@ ABACUS      | [Algorithm-Based Analysis, Communication and Understanding of Syst
 ABC         | Activity Based Costing
 ABC         | Area of Business Concern
 ABI         | Application Binary Interface 
+ABM         | Account Based Marketing
 ABNF        | Augmented Backus-Naur Form (see [RFC-5234](https://tools.ietf.org/html/rfc5234))
 ABS         | As Built Section
 AC          | [Axiom of Choice](https://en.wikipedia.org/wiki/Axiom_of_choice)
@@ -1629,6 +1630,7 @@ SE          | Standard Edition
 SE          | [Systems Engineering](https://en.wikipedia.org/wiki/Systems_engineering)
 SEBoK       | [Systems Engineering Book of Knowledge](https://sercuarc.org/sebok/) - [wiki](https://sebokwiki.org/wiki/)
 SEC         | [U.S. Securities and Exchange Commission](https://en.wikipedia.org/wiki/U.S._Securities_and_Exchange_Commission)
+SecOps      | Security Operations 
 SEMP        | Systems Engineering Management Plan 
 SEP         | Systems Engineering Plan
 SEPA        | [Single Euro Payments Area](https://en.wikipedia.org/wiki/Single_Euro_Payments_Area)
