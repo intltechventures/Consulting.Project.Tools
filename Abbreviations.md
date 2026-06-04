@@ -757,6 +757,7 @@ GQL         | [Graph Query Language](https://www.gqlstandards.org/home) [ISO/IEC
 GQM         | Goal, Question, Metric 
 GRC         | Governance, Risk, and Compliance
 GRE         | Generic Routing Encapsulation
+Grep        | Global Regular Expression Print
 GRO         | Generic Receive Offload
 GRPO        | Group Relative Policy Optimization 
 GRU         | Gated Recurrent Unit
@@ -903,6 +904,7 @@ IRP         | [I/O Request Packet](https://en.wikipedia.org/wiki/I/O_request_pac
 IRR         | [Internal Rate of Return](https://en.wikipedia.org/wiki/Internal_rate_of_return)
 IRSA        | [IAM Roles for Service Accounts](https://docs.aws.amazon.com/eks/latest/userguide/iam-roles-for-service-accounts.html) re: AWS EKS
 IRT         | Incident Response Team
+IS&T        | Information Security & Technology
 IS          | Information Security
 ISA         | Information Security Agreement
 ISA         | Information Security Architecture 
@@ -1812,6 +1814,7 @@ TOP         | Technology. Organization. People.
 ToRA        | Task-Oriented Reasoning and Action
 TP          | Third-Party
 TPLC        | [Total Product Life Cycle](https://www.fda.gov/about-fda/cdrh-transparency/total-product-life-cycle-medical-devices)
+TPM         | Technical Program Manager
 TPM         | [Trusted Platform Module](https://en.wikipedia.org/wiki/Trusted_Platform_Module)
 TPR         | True Positive Rate
 TPS         | [Toyota Production System](https://en.wikipedia.org/wiki/Toyota_Production_System)
