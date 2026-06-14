@@ -472,6 +472,7 @@ DCI         | Director of Central Intelligence
 DCL         | Data Classification & Labeling
 DD          | Data Dictionary 
 DDA         | Data Design Authority
+DDE         | Direct Data Entry
 DDoS        | Distributed Denial-of-Service (i.e. a network traffic attack)
 DDS         | Detailed Design Section
 DEC         | Digital Equipment Corporation 
@@ -1039,6 +1040,7 @@ MaaS        | Mobility as a Service
 MAC         | Machine Access Control 
 MAC         | Managed Application Consulting
 MAC         | [Mandatory Access Control](https://en.wikipedia.org/wiki/Mandatory_access_control)
+MAC         | Medicare Administrative Contractor 
 MAC         | [Medium / Media Access control](https://en.wikipedia.org/wiki/Medium_access_control)
 MAC         | [Message Authentication Code](https://en.wikipedia.org/wiki/Message_authentication_code)
 MAD         | [Mean absolute deviation](https://en.wikipedia.org/wiki/Average_absolute_deviation)
@@ -1170,6 +1172,7 @@ NAS         | Network Attached Storage
 NAS         | Neural Architecture Search
 NAT         | [Network Address Translation](https://en.wikipedia.org/wiki/Network_address_translation)
 NC          | Non-Compliant
+NCPDP       | National Council for Prescription Drug Programs](https://www.ncpdp.org/)
 NCQA        | [National Committee for Quality Assurance](https://www.ncqa.org/) 
 NCSA        | [National Center for Supercomputing Applications](https://en.wikipedia.org/wiki/National_Center_for_Supercomputing_Applications)
 NCSC        | National Cyber Security Centre
@@ -1977,6 +1980,7 @@ WORM        | Write-Once-Read-Many
 WPA         | [Wi-Fi Protected Access](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access)
 WPA         | [Wi-Fi Protected Access II](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access#WPA2)
 WPA         | [Wi-Fi Protected Access 3](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access#WPA3)
+WPC         | [Washington Publishing Company](https://wpc-edi.com/) (re: EDI publications, for data integration)
 WPS         | [Wi-Fi Protected Setup](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Setup)
 WRT         | Work Recovery Time
 WSDL        | [Web Service Description Language](https://en.wikipedia.org/wiki/Web_Services_Description_Language)
