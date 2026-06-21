@@ -1208,6 +1208,7 @@ NOPAT       | [Net Operating Profit After Tax](https://en.wikipedia.org/wiki/NOP
 NPI         | Non-Public Personal Information (aka NPPI)
 NPM         | [Node Package Manager](https://www.npmjs.com/)
 NPPI        | Non-Public Personal Informaiton (aka NPI)
+NPRM        | Notice of Proposed Rule Making (re: published in the Federal Register) 
 NPV         | [Net Present Value](https://en.wikipedia.org/wiki/Net_present_value)
 NRD         | Non-Record Disposal
 NRT         | Near Real-Time
@@ -1381,6 +1382,7 @@ POJO        | [Plain Old Java Object](https://en.wikipedia.org/wiki/Plain_old_Ja
 POLDAT      | [Process, Organization and Location (Business Architecture) and Data, Applications and Technology (Systems Architecture)](https://en.wikipedia.org/wiki/POLDAT)
 POLO        | Plain Old Language Objects
 PoLP        | Principle of Least Privilege 
+POMDP       | [Partially Observable Markov Decision Process](https://en.wikipedia.org/wiki/Partially_observable_Markov_decision_process)
 POML        | [Prompt Orchestration Markup Language](https://microsoft.github.io/poml/latest/)
 POOGI       | [Process Of Ongoing Improvement](https://en.wikipedia.org/wiki/Continual_improvement_process) [see TOC, Theory of Constraints]
 PoP         | Policy on Policies
@@ -1621,6 +1623,7 @@ SDI         | Software Defined Infrastructure
 SDI         | Spec‐Driven Integration
 SDK         | Software Development Kit  
 SDL         | Secure Development Lifecycle
+SDL         | Statistical Disclosure Limitation
 SDLC        | Software Development Life-cycle (aka Software Development Process)
 SDLC        | Synchronous Data Link Control
 SDLP        | Systems Development Lifecycle Process
