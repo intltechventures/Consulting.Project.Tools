@@ -391,7 +391,7 @@ CRO         | Chief Risk Officer
 CRUD        | Create, Read, Update, Delete
 CSA         | [Cloud Security Alliance](https://cloudsecurityalliance.org/)
 CSA         | Cloud Service Appliance 
-CSAT        | [Customer Satisfaction](https://en.wikipedia.org/wiki/Customer_satisfaction)
+CSAT        | [Customer Satisfaction](https://en.wikipedia.org/wiki/Customer_satisfaction) Score
 CSB         | Cloud Service Broker
 CSD         | Consolidated Service Desk
 CSF         | Critical Success Factors
@@ -491,11 +491,11 @@ DI          | [Dependency Injection](https://en.wikipedia.org/wiki/Dependency_in
 DIM         | Domain Information Model
 DJIA        | Dow Jones Industrial Average
 DKG         | [Distributed Key Generation](https://en.wikipedia.org/wiki/Distributed_key_generation)
+DKIM        | [Domain Keys Identified Mail](https://en.wikipedia.org/wiki/DomainKeys_Identified_Mail)
 DLD			    | Detail-Level Design 
 DLM         | Database Lifecycle Management
 DLP         | [Data Loss Prevention](https://en.wikipedia.org/wiki/Data_loss_prevention_software)
 DLT         | Distributed Ledger Technology
-DKIM        | [Domain Keys Identified Mail](https://en.wikipedia.org/wiki/DomainKeys_Identified_Mail)
 DMAIC       | [Define, Measure, Analayze, Improve, Control](https://en.wikipedia.org/wiki/DMAIC) (re: Six Sigma)
 DMARC       | [Domain-based Message Authentication Reporting and Conformance](https://en.wikipedia.org/wiki/DMARC)
 DML         | Double Machine Learning
