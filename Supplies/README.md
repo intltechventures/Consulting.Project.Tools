@@ -12,10 +12,11 @@
 
 
 
-## Engagement Journals (for note taking)
+## Engagement Journals (for note taking, diagramming, etc.) 
 
 - Staples Record Book (300 pages, 10-7/16" x 8-3/8")
   + https://www.staples.com/staples-record-book-300-pages-black-18658-26510/product_217695
+  + Item #: 217695 | Model #: ST26510
 
 
 - Office Depot® Brand Composition Book, 7-1/2" x 9-3/4", College Ruled, 100 Sheets, Black/White
@@ -26,3 +27,31 @@
 - STAPLES Composition Notebook, 7.5” x 9.75”, Graph Ruled, 80 Sheets, Black/White
   + https://www.staples.com/staples-composition-notebook-7-5-x-9-75-graph-ruled-80-sheets-black-white-st55072/product_892281
   + Item #: 892281 | Model #: ST55072C
+
+
+## Whiteboard Markers 
+
+
+
+## Permanent Markers 
+
+
+
+## Pens 
+
+
+
+## Highlighters 
+
+
+
+
+## Name Tags 
+
+
+
+## 3x5 Cards 
+
+
+
+
