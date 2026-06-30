@@ -1304,6 +1304,8 @@ PAM         | Pluggable Authentication Modules
 PAM         | Privileged Access Management 
 PAP         | [Password Authentication Protocol](https://en.wikipedia.org/wiki/Password_Authentication_Protocol)
 PAP         | Policy Administration Point
+PAR         | Parallel Action (re: Alistair Cockburn, a structured notation used in structured use case writing)
+PAR         | Problem Activity Report
 PAS         | Policy Administration System (domain: Insurance)
 PAS         | Publicly Available Specification     
 PASETO      | platform-agnostic security tokens
