@@ -650,6 +650,8 @@ EVM         | Earned Value Management
 FaaS        | Function as a Service
 FAIL        | First Attempt In Learning (i.e. agile)
 FAIR        | [Facebook/Meta AI Research](https://ai.facebook.com/research/)
+FAIR        | [Factor Analysis of Information Risk](https://www.fairinstitute.org/what-is-fair)
+FAIR-CAM    | [Factor Analysis of Information Risk - Controls Analytics Model](https://www.fairinstitute.org/fair-controls-analytics-model)
 FAIR        | Findable, Accessible, Interoperable, and Reusable
 FAME        | [Fast Attribute-based Message Encryption](https://eprint.iacr.org/2017/807.pdf)
 FAR         | [Federal Acquisition Regulation](https://www.acquisition.gov/browse/index/far)
