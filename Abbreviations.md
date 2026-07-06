@@ -1793,6 +1793,7 @@ TAM         | [Total Addressable Market](https://en.wikipedia.org/wiki/Total_add
 TAOC        | [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) (re: by Donald Knuth)
 TAR         | [Tape Archive](https://en.wikipedia.org/wiki/Tar_(computing)) (file format). Aka tarball
 TB          | Terabyte
+TDA         | Technical Design Authority 
 TBD         | To Be Determined
 TBM         | Technolog Business Management 
 TBM         | [Technology Business Management Council](https://www.tbmcouncil.org/)
@@ -1805,6 +1806,7 @@ TDD         | [Test-Driven Development](https://en.wikipedia.org/wiki/Test-drive
 TDMA        | Time Division Multiple Access
 TDS         | [Traffic Distribution System](https://www.darkreading.com/cyberattacks-data-breaches/why-hard-stop-rising-malicious-tds-traffic)
 TEA         | [Transparency Exchange API](https://tc54.org/tea/)
+TEE         | Trusted Execution Environment 
 TFI         | [Office of Terrorism and Financial Intelligence](https://en.wikipedia.org/wiki/Office_of_Terrorism_and_Financial_Intelligence)
 TFP         | [Total Factor Productivity](https://en.wikipedia.org/wiki/Total_factor_productivity)
 TGB         | Technology Governance Board
