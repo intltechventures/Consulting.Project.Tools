@@ -1,8 +1,8 @@
 
-# Quotes
+# Quotes from Historical Figures
 
 ## Amara, Roy
-- [Amara’s Law](https://en.wikipedia.org/wiki/Roy_Amara): "We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run." 
+- [Amara’s Law](https://en.wikipedia.org/wiki/Roy_Amara): "_We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run._" 
 
 
 ## Amundsen, Mike
@@ -60,7 +60,12 @@
 
 
 ## Conway, Melvin 
-- Conway's Law: "Any organization that designs a system (defined more broadly here than just information systems) will  inevitably produce a design whose structure is a copy of the organization’s communication structure."
+- Conway's Law: "_Any organization that designs a system (defined more broadly here than just information systems) will  inevitably produce a design whose structure is a copy of the organization’s communication structure._"
+
+
+
+## Dijkstra, Edsger 
+- “The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.”
 
 
 ## Drucier, Peter
