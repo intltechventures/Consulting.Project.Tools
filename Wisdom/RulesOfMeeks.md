@@ -378,7 +378,7 @@ changes you"**
 **\#804 - "Hope is a _very_ poor Business Continuity plan"**
 
 
-**\#805 - "When someone attempts to deflect automated f@@kups (e.g., GenAI/LLMs), what-about-ism is a tired and trite argument. The natural limits on the scale of damage that a human can do in an hour, pales in comparison to massive computational power of automated insanity."** 
+**\#805 - "When someone attempts to deflect criticisms of automated f@@kups (e.g., GenAI/LLMs), what-about-ism is a tired and trite argument. The natural limits on the scale of damage that a human can do in an hour, pales in comparison to massive computational power of automated insanity."** 
 
 
 
