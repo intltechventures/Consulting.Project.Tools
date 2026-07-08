@@ -340,13 +340,14 @@ CL          | [Change List](https://en.wikipedia.org/wiki/Version_control)
 CLI         | Command Line Interface
 CLT         | [Central Limit Theorem](https://en.wikipedia.org/wiki/Central_limit_theorem)
 CMDB        | Configuration Management Database
-CMOS        | [omplementary Metal Oxide Silicon](https://en.wikipedia.org/wiki/CMOS)
 CMF         | Content Monitoring and Filtering (see DLP)
 CMGR        | Compounded Monthly Growth Rate 
 CMK         | Customer Managed Keys
 CMM         | Capability Maturity Model
 CMMC        | [Cybersecurity Maturity Model Certification](https://dodcio.defense.gov/CMMC/Model/)
+CMO         | Chief Marketing Officer
 CMOS        | [Complementary metal–oxide–semiconductor](https://en.wikipedia.org/wiki/CMOS)
+CMOS        | [Complementary Metal Oxide Silicon](https://en.wikipedia.org/wiki/CMOS)
 CMS         | [Centers for Medicare & Medicaid Services (CMS)](https://www.cms.gov/)
 CMS         | Content Management System
 cn          | Common Name, re: LDAP
@@ -1056,6 +1057,7 @@ MAP         | Mean Average Precision
 MAPE        | Mean Absolute Percentage Error
 MAPI        | Messaging Application Programming Interface
 MAR         | Missing At Random (re: systematically missing data)
+MARCOM      | Marketing Communications
 MAU         | Monthly Active Users
 MAU         | Multi-station Access Unit
 MBaaS       | Mobile Back End as a Service
