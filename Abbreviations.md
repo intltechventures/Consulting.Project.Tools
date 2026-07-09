@@ -472,6 +472,7 @@ DCF         | [Discounted Cash Flow](https://en.wikipedia.org/wiki/Discounted_ca
 DCG         | Discounted Cumulative Gain
 DCI         | Director of Central Intelligence
 DCL         | Data Classification & Labeling
+DCS         | [Distributed Control System](https://en.wikipedia.org/wiki/Distributed_control_system)
 DD          | Data Dictionary 
 DDA         | Data Design Authority
 DDE         | Direct Data Entry
@@ -1611,7 +1612,7 @@ SBI         | Synthetic Biological Intelligence
 SBOM        | [Software Bill of Materials](https://www.cisa.gov/sbom), re: [Software Supply Chain](https://en.wikipedia.org/wiki/Software_supply_chain) - also see VEX
 SCA         | [Security Composition Analysis](https://github.com/resources/articles/security/what-is-software-composition-analysis)
 SCA         | Strong Customer Authentication
-SCADA       | Supervisory Control and Data Acquisition
+SCADA       | [Supervisory Control and Data Acquisition](https://en.wikipedia.org/wiki/SCADA)
 SCAP        | [Security Content Automation Protocol](https://en.wikipedia.org/wiki/Security_Content_Automation_Protocol)
 SCC         | Strongly Connected Components (re: [Parsel AI framework](https://www.infoq.com/news/2023/02/parsel-code-generation/)
 SCD         | Slowly Changing Dimension
