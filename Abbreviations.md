@@ -64,6 +64,7 @@ ADAL        | Active Directory Authentication Library
 ADCS        | Active Directory Certificate Services 
 ADDIE       | (analyze, design, development, implement, evaluate) a methodology developed by Florida State University for the U.S. Army as a repeatable and standard set of tasks to create training.  [Wikipedia Article](https://en.wikipedia.org/wiki/ADDIE_Model)
 ADDS        | Active Directory Domain Service(s)
+ADMS        | Advanced Distribution Management System
 ADOMS       | Adapting, Defining, Operating, Managing and Supporting 
 ADR         | [Address Resolution Protocol](https://en.wikipedia.org/wiki/Address_Resolution_Protocol)
 ADSL        | [Asymmetric digital subscriber line](https://en.wikipedia.org/wiki/Asymmetric_digital_subscriber_line)
