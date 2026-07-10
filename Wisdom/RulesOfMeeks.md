@@ -319,6 +319,14 @@ changes you"**
 **\#612 - "ALWAYS include a clause in your contracts/SOWs that allow you to terminate, for convenience (e.g., with 10-30 days notification)"**
 
 
+**\#613 - "Sharp competent people – are decisive. Beware wasting time negotiating with people that drag discussions out for weeks, or months"** 
+
+
+**\#614 - "If you find out that someone lied to you during negotiations – walk away, without hesitation"**
+
+
+**\#615 - "If you are asked to make a critical concession, you deserve a just compensation"**
+
 
 
 ## 7xx - On Managing Your Professional Career
