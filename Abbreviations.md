@@ -2025,7 +2025,7 @@ ZBB         | [Zero-Based Budgeting](https://en.wikipedia.org/wiki/Zero-based_bu
 zkEVM       | [zero-knowledge Ethereum Virtual Machine](https://blog.chain.link/zkevm/)
 ZKP         | [Zero Knowledge Proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
 ZPR         | Zero Trust Packet Routing
-ZSP         | Zero Standing Privilege 
+ZSP         | [Zero Standing Privilege](https://curity.io/blog/what-is-zero-standing-privilege/)
 ZT          | Zero Trust
 ZTA         | [Zero Trust Architecture](https://csrc.nist.gov/publications/detail/sp/800-207/final)
 ZTDNS       | [Zero Trust DNS](https://techcommunity.microsoft.com/t5/networking-blog/announcing-zero-trust-dns-private-preview/ba-p/4110366)
