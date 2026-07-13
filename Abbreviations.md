@@ -77,6 +77,7 @@ AES         | Advanced Encryption Standard
 AFCE        | Authorization for Capital Expenditure
 AGI         | [Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
 AI          | Artificial Intelligence  
+AIE         | Artificial Intelligence Engineering
 AIBOM       | Artificial Intelligence Bill of Materials 
 AKA         | Also Known As
 AKA         | Authentication and Key Agreement
