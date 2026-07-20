@@ -498,6 +498,7 @@ DKG         | [Distributed Key Generation](https://en.wikipedia.org/wiki/Distrib
 DKIM        | [Domain Keys Identified Mail](https://en.wikipedia.org/wiki/DomainKeys_Identified_Mail)
 DLD			    | Detail-Level Design 
 DLM         | Database Lifecycle Management
+DLM         | Diffusion Language Models 
 DLP         | [Data Loss Prevention](https://en.wikipedia.org/wiki/Data_loss_prevention_software)
 DLT         | Distributed Ledger Technology
 DMAIC       | [Define, Measure, Analayze, Improve, Control](https://en.wikipedia.org/wiki/DMAIC) (re: Six Sigma)
