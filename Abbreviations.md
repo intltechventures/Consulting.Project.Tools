@@ -1035,7 +1035,7 @@ LSE         | Large Scale Event
 LSH         | [Locality-Sensitive Hashing](https://en.wikipedia.org/wiki/Locality-sensitive_hashing)
 LSM         | [Log-Structured Merge-Tree](https://en.wikipedia.org/wiki/Log-structured_merge-tree)
 LSTM        | Long Short-Term Memory
-LTV         | Lifetime Value
+LTV         | Lifetime Value (re: of a Customer)
 LTV         | [Loan-to-Value](https://www.investopedia.com/terms/l/loantovalue.asp)
 LU          | Logical Unit  
 LVM         | Logical Volume Manager
