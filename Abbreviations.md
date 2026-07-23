@@ -791,6 +791,7 @@ HDC         | High-Density Computing
 HDD         | [Hard Disk Drive](https://en.wikipedia.org/wiki/Hard_disk_drive)
 HDFS        | Hadoop Distributed File System 
 HDLC        | [High-Level Data Link Control](https://en.wikipedia.org/wiki/High-Level_Data_Link_Control)
+HDR         | [High Dynamic Range](https://en.wikipedia.org/wiki/High_dynamic_range) (re: video, audio, radio)
 HE          | Homomorphic Encryption
 HEF         | Human Error Factor
 HEIC        | [High Efficiency Image Container](https://www.adobe.com/creativecloud/file-types/image/raster/heic-file.html)
