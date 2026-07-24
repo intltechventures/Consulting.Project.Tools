@@ -933,6 +933,7 @@ ISP         | Information Security Policy
 ISP         | Internet Service Provider
 ISPF        | [Interactive System Productivity Facility](https://en.wikipedia.org/wiki/ISPF), re: IBM mainframe software product
 ISPs        | [Internet service providers](https://en.wikipedia.org/wiki/Internet_service_provider)
+ISR         | Intelligence, Surveillance, and Reconnaissance 
 ISRS        | Information Storage and Retrieval System
 ISSAP       | [Information Systems Security Architecture Professional](https://www.isc2.org/Certifications/CISSP-Concentrations)
 IT          | Information Technology  
