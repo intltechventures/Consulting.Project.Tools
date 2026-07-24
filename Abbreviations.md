@@ -1771,6 +1771,7 @@ SSO         | [Single Sign-On](https://en.wikipedia.org/wiki/Single_sign-on)
 SSOT        | Single Source of Truth
 SSP         | System Security Plan
 SSPI        | Security Support Provider Interface
+SSPs        | System Security Plans 
 SSR         | [Server-Side Rendering](https://en.wikipedia.org/wiki/Server-side_scripting)
 STaaS       | Storage as a Service
 STAR        | Security Trust Assurance and Risk
