@@ -1356,6 +1356,7 @@ PEM         | Privacy Enhanced Mail
 PEP         | [Packet Exchange Protocol](https://en.wikipedia.org/wiki/Xerox_Network_Systems#Transport_layer_protocols)
 PEP         | Policy Enforcement Point 
 PERT        | Program Evaluation and Review Technique
+PETs        | Privacy Enhancing Technologies
 PGM         | Program
 PGP         | [Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
 PHI			    | Protected Health Information (re: HIPPA) 
