@@ -5,11 +5,12 @@
 
 - Microsoft Threat Intelligence
   + https://www.linkedin.com/showcase/microsoft-threat-intelligence/
-
+  + https://aka.ms/threatintelblog
 
 
 - Microsoft Security Response Center
   + https://www.linkedin.com/showcase/microsoft-security-response-center/
+  + https://www.microsoft.com/en-us/msrc
 
 
 
