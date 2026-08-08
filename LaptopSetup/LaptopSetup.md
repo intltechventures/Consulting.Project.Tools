@@ -303,6 +303,9 @@ __These following sections are the primary software programs that I typically ha
   + [Marketplace for Extensions](https://code.visualstudio.com/docs?start=true#top-extensions)
 
   + My Installed Extensions:
+    * Java Platform Extension for Visual Studio Code
+      * https://marketplace.visualstudio.com/items?itemName=Oracle.oracle-java
+
     * https://marketplace.visualstudio.com/itemdetails?itemName=dbaeumer.vscode-eslint 
 
     * https://marketplace.visualstudio.com/items?itemName=Tyriar.vscode-terminal-here
@@ -327,9 +330,6 @@ __These following sections are the primary software programs that I typically ha
       * goreturns
       * golint
 
-    * Scala Plugins
-      * https://marketplace.visualstudio.com/items?itemName=scala-lang.scala
-        * https://github.com/scala/vscode-scala-syntax
 
     * Remote Development (Preview)
       * https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack
@@ -341,6 +341,20 @@ __These following sections are the primary software programs that I typically ha
     * The Postman VS Code extension
       * https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode
       
+    * PostgreSQL, Chris Kolkman (1.4M downloads, 2026-08-07)
+      * https://marketplace.visualstudio.com/items?itemName=ckolkman.vscode-postgres
+
+    * PostgreSQL, Microsoft (658K downloads, 2026-08-07)
+      * https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-pgsql
+
+    * SQLTools, Matheus Teixeira (6.8M downloads, 2026-08-07) 
+      * https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools
+      * https://github.com/mtxr/vscode-sqltools#readme
+        * https://github.com/mtxr/vscode-sqltools/issues
+      * https://vscode-sqltools.mteixeira.dev/en/home
+      * SQLTools PostgreSQL/Cockroach Driver (1.2M downloads, 2026-08-07)
+        * https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools-driver-pg
+
 
 - Alternatives:
   * [ATOM](https://atom.io/) - (still evaluating...)
