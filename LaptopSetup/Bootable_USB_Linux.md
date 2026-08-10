@@ -27,10 +27,13 @@ Why?
       * "Further to the above, starting with Rufus 3.15, the executables we digitally sign, including the ones used by the Windows Store, are the ones produced by the automated GitHub Actions process (i.e. from the MinGW or VS2022 binary artifacts that are produced by GitHub on a tagged release), and not executables that we build locally on our machine, which means that you can validate that there is simply no possibility that we may have secretly tampered with them."
 
 
-- balenaEtcher (aka Etcher)
+- Etcher (aka balenaEtcher)
   + https://en.wikipedia.org/wiki/Etcher_(software)
   + https://etcher.balena.io/
+    * https://etcher.balena.io/#download-etcher
   + https://github.com/balena-io/etcher
+    * "Flash OS images to SD cards & USB drives, safely and easily."
+    * License: Apache-2.0 license
   
 
 
