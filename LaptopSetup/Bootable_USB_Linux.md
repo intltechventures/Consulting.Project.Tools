@@ -39,7 +39,16 @@ Why?
 
 - Other possible options to consider...
   + https://en.wikipedia.org/wiki/List_of_tools_to_create_bootable_USB
-
+  + Articles | Videos:
+    * 2026:
+      * https://linuxblog.io/best-linux-distro/
+      * https://commandlinux.com/statistics/linux-desktop-environments/
+      * https://www.zdnet.com/article/elementaryos-linux-review/
+      * YouTube: [Ranking Linux desktop environments for 2026!](https://www.youtube.com/watch?v=IiluQ6dJyL8)
+    * 2025: 
+      * https://www.geeksforgeeks.org/blogs/best-linux-distribution-for-desktop/
+      * https://www.interserver.net/tips/kb/6-best-linux-distros-for-gaming-and-playing-windows-games/
+      * https://www.reddit.com/r/linuxquestions/comments/1opjkoa/which_linux_distro_and_desktop_environment_do_you/
 
 
 ## Tutorials
