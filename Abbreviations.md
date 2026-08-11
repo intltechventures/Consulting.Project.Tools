@@ -1104,6 +1104,7 @@ MIME        | [Multipurpose Internet Mail Extensions](https://en.wikipedia.org/w
 MIMO        | Multiple Input Multiple Output 
 MIPS        | Million of Instructions Per Second  
 MIRT        | Major Incident Response Team
+MIS         | [Management Information System](https://en.wikipedia.org/wiki/Management_information_system)
 MISD        | [Multiple Instruction Streams, Single Data Stream](https://en.wikipedia.org/wiki/MISD)
 MIT/LCS     | [Massachusetts Institute of Technology](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology) Laboratory for Computer Science
 ML          | Machine Learning 
