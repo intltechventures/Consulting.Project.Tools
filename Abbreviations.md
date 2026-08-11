@@ -1031,6 +1031,7 @@ LoRA        | [Low-Rank Adaptation](https://arxiv.org/abs/2106.09685) (of Large 
 LPG         | Local Peering Gateway
 LPU         | Language Processing Unit 
 LRM         | Large Reasoning Model
+LRPC        | Lightweight Remote Procedure Call
 LS          | Late Start Date
 LSA         | Latent Semantic Analysis
 LSA         | Local Service Agreement
