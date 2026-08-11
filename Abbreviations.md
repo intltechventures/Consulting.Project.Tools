@@ -535,6 +535,7 @@ DRL         | Deep Reinforcement Learning
 DRP         | Disaster Recovery Plan
 DRY         | Don't Repeat Yourself (also see WET)
 DSA         | Data Structures and Algorithms
+DSA         | [Digital Services Act](https://digital-strategy.ec.europa.eu/en/policies/digital-services-act) (EU)
 DSA         | [Digital Signature Algorithm](https://en.wikipedia.org/wiki/Digital_Signature_Algorithm)
 DSL         | [Digital subscriber line](https://en.wikipedia.org/wiki/Digital_subscriber_line)
 DSL         | Domain Specific Language
