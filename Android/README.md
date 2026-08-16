@@ -5,8 +5,10 @@
 
 - **Samsung Galaxy S9+**
   + "_The Samsung Galaxy S9+ is a 2018 flagship smartphone featuring a 6.2-inch curved Super AMOLED display (1440 x 2960), dual 12MP rear cameras, a Snapdragon 845 or Exynos 9810 processor, 6GB of RAM, and a 3,500mAh battery._"
+  + https://www.samsung.com/us/business/support/owners/product/galaxy-s9-plus-sprint/ 
   + https://www.att.com/device-support/index/samsung/galaxy-s9-plus/
-  + https://www.samsung.com/us/business/support/owners/product/galaxy-s9-plus-sprint/
+    * [User Manual](m.media-amazon.com/images/I/B1SHFx3AcMS.pdf)
+    * Model Year: 2018
     * Processor: 
       * 2.8GHz,1.7GHz
     * Memory:
@@ -17,6 +19,7 @@
     * Display: 
       * 2960 x 1440 (Quad HD+)
     * Connectivity: 
+      * Cellular Technology: 2G/3G/4G 
       * WiFi: 802.11 a/b/g/n/ac 2.4G+5GHz, VHT80 MU-MIMO,1024-QAM
       * ANT+: Yes 
       * NFC: Yes 
