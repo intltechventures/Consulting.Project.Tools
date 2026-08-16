@@ -1125,6 +1125,7 @@ MOLAP       | Multidimensional OLAP
 MoM         | Month-on-Month
 MOM         | Message Oriented Middleware
 MOQ         | Minimum Order Quantity
+MoSCoW      | [Must have, Should have, Could have, Won't have](https://en.wikipedia.org/wiki/MoSCoW_method) (prioritization method)
 MOTS        | Modified Off-The-Shelf 
 MOU         | Memorandum of Understanding
 MPL         | [Mozilla Public License](https://www.mozilla.org/en-US/MPL/)
