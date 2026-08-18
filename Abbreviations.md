@@ -1267,6 +1267,7 @@ OID4VC      | [OpenID for Verifiable Credentials](https://openid.net/sg/openid4v
 OIDC        | [OpenID Connect](https://openid.net/)
 OIDC        | Oracle Identity Cloud Service
 OIDF        | OpenID Foundation
+OKF         | [Open Knowledge Format](https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf)
 OKRs        | [Objectives and Key Results](https://en.wikipedia.org/wiki/OKR)
 OLA         | Operational-Level Agreement
 OLAP        | Online Analytical Processing
