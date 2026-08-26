@@ -1129,6 +1129,7 @@ MOQ         | Minimum Order Quantity
 MoSCoW      | [Must have, Should have, Could have, Won't have](https://en.wikipedia.org/wiki/MoSCoW_method) (prioritization method)
 MOTS        | Modified Off-The-Shelf 
 MOU         | Memorandum of Understanding
+MPA         | [Multi-Page Application](https://en.wikipedia.org/wiki/Web_application)
 MPL         | [Mozilla Public License](https://www.mozilla.org/en-US/MPL/)
 MPLS        | Multiprotocol Label Switching 
 MPM         | [Manufacturing process management](https://en.wikipedia.org/wiki/Manufacturing_process_management)
