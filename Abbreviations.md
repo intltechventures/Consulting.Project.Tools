@@ -737,6 +737,7 @@ GCHQ        | British intelligence agency [Government Communications Headquarter
 GCP         | Google Cloud Platfrom
 GDG         | Generation Date Group
 GDPR        | [Genera Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) (re: EU)
+GEO         | Generative Engine Optimization
 GERAM       | Generalised Enterprise-Referencing Architectures Modelling Framework
 GFCI        | Greedy Fast Causal Interference (GFCI) Algorithm 
 GFO         | [General Formal Ontology](https://en.wikipedia.org/wiki/General_formal_ontology)
@@ -1894,7 +1895,7 @@ UDR         | User-Defined Routes
 UDS         | [Unix Domain Socket](https://en.wikipedia.org/wiki/Unix_domain_socket)
 UEBA        | [User and Entity Behavior Analytics](https://en.wikipedia.org/wiki/User_behavior_analytics#Distinction_between_UBA_and_UEBA)
 UEFI        | [Unified Extensible Firmware Interface](https://en.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface)
-UGC         | User Generated Content 
+UGC         | User-Generated Content 
 UI          | User Interface  
 UIMA        | Unstructured Information Management Architecture
 ULID        | [Universally unique Lexicographically sortable IDentifier](https://github.com/ulid/spec)
