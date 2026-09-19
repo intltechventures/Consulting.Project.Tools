@@ -1295,6 +1295,7 @@ OpEx        | [Operational Expense](https://en.wikipedia.org/wiki/Operating_expe
 OPS         | Operations
 ORB         | Object Request Broker 
 ORC         | Operational Risk Committee 
+ORSA        | Operations Research System Analyst 
 OSF         | [Open Software Foundation](https://en.wikipedia.org/wiki/Open_Software_Foundation)
 OSFI        | Canadanian version of OFAC
 OSI         | [Open Systems Interconnection](https://en.wikipedia.org/wiki/OSI_model) model 
