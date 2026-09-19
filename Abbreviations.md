@@ -713,6 +713,7 @@ FNR         | False Negative Rate
 FQL         | [Flows Query Language](https://learning.postman.com/docs/postman-flows/flows-query-language/introduction-to-fql/)
 FQDN        | Fully Qualified Domain Name 
 FQHE        | [Fractional Quantum Hall Effect](https://en.wikipedia.org/wiki/Fractional_quantum_Hall_effect)
+FRAND       | [Fair, Reasonable, and Non-Discriminatory](https://en.wikipedia.org/wiki/Reasonable_and_non-discriminatory_licensing) (re: licensing terms)
 FRC         | [First Robot Competition](https://www.firstinspires.org/robotics/frc)
 FRS         | [Fellow of the Royal Society](https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society)
 FSC         | Financial Size Categories
@@ -1827,6 +1828,7 @@ TDMA        | Time Division Multiple Access
 TDS         | [Traffic Distribution System](https://www.darkreading.com/cyberattacks-data-breaches/why-hard-stop-rising-malicious-tds-traffic)
 TEA         | [Transparency Exchange API](https://tc54.org/tea/)
 TEE         | Trusted Execution Environment 
+TESCREAL    | [Transhumanism, Extropianism, Singularitarianism, Cosmism, Rationalism, Effective Altruism, and Longtermism](https://en.wikipedia.org/wiki/TESCREAL)
 TFI         | [Office of Terrorism and Financial Intelligence](https://en.wikipedia.org/wiki/Office_of_Terrorism_and_Financial_Intelligence)
 TFP         | [Total Factor Productivity](https://en.wikipedia.org/wiki/Total_factor_productivity)
 TGB         | Technology Governance Board
