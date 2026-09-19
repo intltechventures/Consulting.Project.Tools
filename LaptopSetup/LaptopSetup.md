@@ -1,6 +1,9 @@
 
-# My Mobile Office Equipment
-
+# My Mobile Office Equipment   
+    
+**Last Updated:** 2026-09-18 Friday     
+    
+     
 - Kelvin D. Meeks
   + kmeeks@intltechventures.com
   + https://www.linkedin.com/in/kelvinmeeks/
@@ -1375,50 +1378,69 @@ __These following sections are the primary software programs that I typically ha
 
 
 
-# Task Bar entries (updated: 2024-05-25)
+# Task Bar entries (updated: 2026-09-18)
 - Windows Settings
 
 - Thunderbird email
+
 - Notepad++
-- Microsoft Windows Calculator
+
+- File Explorer 
+
 - Snip & Sketch
   * Snagit (optional)
 
-- File Explorer 
-- Git Bash
-- Command Prompt 
-- Windows PowerShell 
+- Microsoft Windows Calculator
 
 - Alarms & Clocks
 
+- Git Bash
+
+- Command Prompt 
+  + If Windows automatically forces PowerShell to open whenever you try to launch a command line or right-click a folder to "Open in Terminal", you can change the default profile: 
+    *	Open your current terminal window.
+    * Click the down-arrow icon in the tab bar and select Settings 
+    * On the Startup tab, locate Default profile.
+    * Change the dropdown selection from Windows PowerShell to Command Prompt. 
+
+
+- Windows PowerShell 
+
+
 - Mozilla Firefox
 - Google Chrome 
+
 
 - Microsoft Word
 - Microsoft Excel 
 - Microsoft PowerPoint 
 - Microsoft Teams
 
-- Sparx Enterprise Architect 
+
 - Eclipse
+- Sparx Enterprise Architect 
 - Visual Studio Code
-- Visual Studio 2022 
+- Visual Studio 2026
+
 
 - Office Calc
 - LibreOffice Writer
 - LibreOffice Draw
 
+
+- Kindle
 - TrueCrypt
-- Macrium Reflect 
-- Kindle 
+- ```Macrium Reflect``` (need to find a newer alternative)
 - VLC Media Player 
 
-- Windows Resource Monitor
-- Windows Control Panel 
-- Windows Computer Management
-- Windows Advanced System Setup 
-- Windows Event Viewer 
-- Windows Tools 
+
+- Windows Event Viewer
 - Windows System Configuration
+- Windows Control Panel 
+- Windows Advanced System Setup 
+- Windows Computer Management
+- Windows Tools 
+- Windows Resource Monitor
+
 
 - ExpressVPN
