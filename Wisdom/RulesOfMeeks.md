@@ -14,27 +14,26 @@
 
 **\#001 - "Always assume they are lying bastards - and then seek to prove that assumption false."**
 
-* Now, you might imagine that this is phrased too negatively for your gentle sensibilities. But, listen here cupcake, you would be wrong. Focus on the positive - which is the second part of the rule.
-* This rule arose from my repeated experience of dealing with unscrupulous carpet-bagger software sales reps - who often would literally make claims about the capabilities of software systems they were selling, which did not yet exist (aka as "Vaporware").  
-* Over time, I've found that application of this rule to many situations - in particular, the verification admonition - would have saved me untold buckets of grief. For example:
-  * Verbal promises? Get it in writing.
-  * Developer says they're done? Show me the results of the automated unit tests.
-  * Vendor claims they can do [x]? Gonna need a demo, proof-of-concept, talk to one of their customers.
-  * Job applicant claims they've done [z]? Always check their references.   
-* "We're not going to shut the project down" - they did, two weeks later
-* "We're pre-IPO" - they had no intention of going IPO
-* "We've sent the payment" - they didn't
-* "We have a plan" - nope, nada, zip, bupkis
-* "What could you do with $20M?" - they were broke and not profitable
-* "We're growing" - they laid off 50% of the division
-* A kinder gentle version of this rule might be "Inspect what you expect"
-* Also see [Gregory House, MD](http://house.wikia.com/wiki/Everybody_lies)
-  * "[Everbody Lies](https://house.fandom.com/wiki/The_List_of_Lies)" - House
-* Also see [Leroy Jethro Gibb, NCIS, Rule #3](http://ncis.wikia.com/wiki/Gibbs%27s_Rules) 
-  * "Don't believe what you're told. Double check" - Gibbs
-* Also see [Daniel Salzedo, Senior Security Specialist Technical Account Manager, Amazon](https://www.linkedin.com/pulse/can-you-get-infected-virus-just-google-searching-daniel-salzedo/)
-  * "Everbody lies and end-users doubly so...This is the maxim of every support engineer, system administrator and IT
-    fellow-traveler I've ever met."
+  * Now, you might imagine that this is phrased too negatively for your gentle sensibilities. But, listen here cupcake, you would be wrong. Focus on the positive - which is the second part of the rule.
+  * This rule arose from my repeated experience of dealing with unscrupulous carpet-bagger software sales reps - who often would literally make claims about the capabilities of software systems they were selling, which did not yet exist (aka as "Vaporware").  
+  * Over time, I've found that application of this rule to many situations - in particular, the verification admonition - would have saved me untold buckets of grief. For example:
+    * Verbal promises? Get it in writing.
+    * Developer says they're done? Show me the results of the automated unit tests.
+    * Vendor claims they can do [x]? Gonna need a demo, proof-of-concept, talk to one of their customers.
+    * Job applicant claims they've done [z]? Always check their references.   
+  * "We're not going to shut the project down" - they did, two weeks later
+  * "We're pre-IPO" - they had no intention of going IPO
+  * "We've sent the payment" - they didn't
+  * "We have a plan" - nope, nada, zip, bupkis
+  * "What could you do with $20M?" - they were broke and not profitable
+  * "We're growing" - they laid off 50% of the division
+  * A kinder gentle version of this rule might be "Inspect what you expect"
+  * Also see [Gregory House, MD](http://house.wikia.com/wiki/Everybody_lies)
+    * "[Everbody Lies](https://house.fandom.com/wiki/The_List_of_Lies)" - House
+  * Also see [Leroy Jethro Gibb, NCIS, Rule #3](http://ncis.wikia.com/wiki/Gibbs%27s_Rules) 
+    * "Don't believe what you're told. Double check" - Gibbs
+  * Also see [Daniel Salzedo, Senior Security Specialist Technical Account Manager, Amazon](https://www.linkedin.com/pulse/can-you-get-infected-virus-just-google-searching-daniel-salzedo/)
+    * "Everbody lies and end-users doubly so...This is the maxim of every support engineer, system administrator and IT fellow-traveler I've ever met."
 
 
 **\#002 - "Never share something with someone, unless you expect them to act on it"**
@@ -42,26 +41,26 @@
 
 **\#003 - "When in doubt about an estimate, multiply by three"**
 
-* This is hard-won wisdom that has proven itself again, and again.
-* This rule originated with my own early experiences trying to estimate software development tasks for myself - and over time, I learned that it was pretty damn good heuristic for many of the developers that I managed (at least  until they established  a higher level of reliability).
-* 9 times out of 10, when you ask someone for an estimate - if they are honest, dilligent, and have confidence in their skill - they will be naturally optimistic. However, in my experience, most managers (and, engineers/developers) do not adequately include sufficient contingency (if at all) in their plans for the following:
-  * Delays due to legal review, compliance review, contract negotiations, funding approval processes
-  * Late discovery of requirements
-  * Effort to do a minimally proper level of design
-  * Effort to coordinate (and schedule!) the necessary communications and reviews of a proposed design approach - for complex projects that involve building something new - that involve multiple parts of an organization. 
-  * Effort to ensure that the Security parts of the org are involved and have reviewed the proposed solution
-  * Effort to ensure that Legal has been involved and has reviewed the proposed solution
-  * Effort to ensure that business stakeholders are adequately engaged, informed - and have buy-in
-  * Effort to prepare Test Data
-  * Effort to think through - and document Test Scenarios
-  * Effort to develop and debug Test Scenarios
-  * Effort to develop and execute Performance Tests
-  * Effort to debug/fix issues that usually arise during System Testing
-  * Effort to prepare (and test!) deployment procedures 
-  * Effort to write and document the solution's design, deployment, operational aspects, and just-enough documentation to communicate with other dependent teams/orgs
-  * Effort to perform the inevitable rework that arises when designing someting new for the first time
-  * Unplanned meetings/interruptions - team productivity hits when folks have to attend meetings, training, the inevitable sick days - and accounting for slowdowns around holidays
-* This rule has also proven to be true when dealing with boat yards that have been tasked with maintenance/repair jobs on my sailboat. Usually, the factor is closer to 5x in that case.
+  * This is hard-won wisdom that has proven itself again, and again.
+  * This rule originated with my own early experiences trying to estimate software development tasks for myself - and over time, I learned that it was pretty damn good heuristic for many of the developers that I managed (at least  until they established  a higher level of reliability).
+  * 9 times out of 10, when you ask someone for an estimate - if they are honest, dilligent, and have confidence in their skill - they will be naturally optimistic. However, in my experience, most managers (and, engineers/developers) do not adequately include sufficient contingency (if at all) in their plans for the following:
+    * Delays due to legal review, compliance review, contract negotiations, funding approval processes
+    * Late discovery of requirements
+    * Effort to do a minimally proper level of design
+    * Effort to coordinate (and schedule!) the necessary communications and reviews of a proposed design approach - for complex projects that involve building something new - that involve multiple parts of an organization. 
+    * Effort to ensure that the Security parts of the org are involved and have reviewed the proposed solution
+    * Effort to ensure that Legal has been involved and has reviewed the proposed solution
+    * Effort to ensure that business stakeholders are adequately engaged, informed - and have buy-in
+    * Effort to prepare Test Data
+    * Effort to think through - and document Test Scenarios
+    * Effort to develop and debug Test Scenarios
+    * Effort to develop and execute Performance Tests
+    * Effort to debug/fix issues that usually arise during System Testing
+    * Effort to prepare (and test!) deployment procedures 
+    * Effort to write and document the solution's design, deployment, operational aspects, and just-enough documentation to communicate with other dependent teams/orgs
+    * Effort to perform the inevitable rework that arises when designing someting new for the first time
+    * Unplanned meetings/interruptions - team productivity hits when folks have to attend meetings, training, the inevitable sick days - and accounting for slowdowns around holidays
+  * This rule has also proven to be true when dealing with boat yards that have been tasked with maintenance/repair jobs on my sailboat. Usually, the factor is closer to 5x in that case.
 
 
 **\#004 - "Always let the other side bring up their offer first"**
@@ -114,7 +113,7 @@
 
 
 **\#109 - "Don't do stupid shit"**
-  + Examples:
+  * Examples:
     * https://blog.scribd.com/home/welcome-slideshare-to-the-scribd-community
     * The shitty Time Tracking system used internally by AT&T in 1996 - that was built on Lotus Notes
 
@@ -372,8 +371,8 @@ changes you"**
 ## 8xx - Computer Systems, Software Development, Architecture, Operations, etc. 
 
 **\#801 - "Before you do anything - make a backup"**
-  * See [2019 - MySpace server migration disaster](https://www.dailywire.com/news/44789/myspace-probably-lost-everything-uploaded-its-emily-zanotti)
-  * See [2025 - Researcher loses 10 years worth of survey data](https://www.linkedin.com/posts/wahiba-abu-rass-b4548529_serious-warning-about-surveymonkey-i-am-activity-7344067853353897984-k-v1/)
+  + See [2019 - MySpace server migration disaster](https://www.dailywire.com/news/44789/myspace-probably-lost-everything-uploaded-its-emily-zanotti)
+  + See [2025 - Researcher loses 10 years worth of survey data](https://www.linkedin.com/posts/wahiba-abu-rass-b4548529_serious-warning-about-surveymonkey-i-am-activity-7344067853353897984-k-v1/)
 
 
 **\#802 - "Thou Shalt Log (who did what, when, where, to what, with what)"**
@@ -390,34 +389,34 @@ changes you"**
 
 
 **\#806 - "If you have never tested your disaster recovery strategy – you do not have a strategy, what you have is just _hope_"**
-  * 2026-09-21 BBC: [Flights delayed at major US airports after cable cut by construction workers](https://www.bbc.com/news/live/c6j9xpgl8pzwt)
+  + 2026-09-21 BBC: [Flights delayed at major US airports after cable cut by construction workers](https://www.bbc.com/news/live/c6j9xpgl8pzwt)
 
 
 
 ## 9xx - The Emergency Rules
 
 **\#901 - Your All-Purpose Survival Kit: "Improvise, Overcome, Adapt"**
-  * A tip of the hat to [Marine Sgt. Thomas Highway (Clint Eastwood), Heartbreak Ridge (1986)](https://www.imdb.com/title/tt0091187/)
+  + A tip of the hat to [Marine Sgt. Thomas Highway (Clint Eastwood), Heartbreak Ridge (1986)](https://www.imdb.com/title/tt0091187/)
 
 
 **\#902 - "Always know your exits"**
 
 
 **\#903 - "Hide the women and children"**
-  * See [Gibbs Rule #44](http://ncis.wikia.com/wiki/Gibbs%27s_Rules)
+  + See [Gibbs Rule #44](http://ncis.wikia.com/wiki/Gibbs%27s_Rules)
 
 
 **\#904 - "Always carry a knife"**
-  * See [Gibbs Rule #9](http://ncis.wikia.com/wiki/Gibbs%27s_Rules)
+  + See [Gibbs Rule #9](http://ncis.wikia.com/wiki/Gibbs%27s_Rules)
 
 
 **\#905 - "Priorities: Shelter, Water, Food, Fire"**
 
 
 **\#906 - "On an irregular basis, remember to execute a 'Crazy Ivan' - and check your six"**
-  * https://firefly.fandom.com/wiki/Crazy_Ivan
-  * https://en.wikipedia.org/wiki/Baffles_(submarine)#Clearing_the_Baffle_Area
-  * https://www.urbandictionary.com/define.php?term=Check%20your%20six
+  + https://firefly.fandom.com/wiki/Crazy_Ivan
+  + https://en.wikipedia.org/wiki/Baffles_(submarine)#Clearing_the_Baffle_Area
+  *+ https://www.urbandictionary.com/define.php?term=Check%20your%20six
 
 
 **\#907 - "When you find yourself on a runaway train, loaded with dynamite, hurtling toward a granite wall - your only
@@ -428,8 +427,8 @@ option is to jump off"**
 
 
 **\#993 - "If you want to survive out here, you’ve got to know where your towel is"**
-  * "... a towel has immense psychological value. For some reason, if a strag (strag: nonhitchhiker) discovers that a hitchhiker has his towel with him, he will automatically assume that he is also in possession of a toothbrush, washcloth, soap, tin of biscuits, flask, compass, map, ball of string, gnat spray, wet-weather gear, space suit etc., etc. Furthermore, the strag will then happily lend the hitchhiker any of these or a dozen other items that the hitchhiker might accidentally have "lost". What the strag will think is that any man who can hitch the length and breadth of the galaxy, rough it, slum it, struggle against terrible odds, win through, and still knows where his towel is, is clearly a man to be reckoned with."  
-  * [The Hitchhiker's Guide to the Galaxy ](https://en.wikiquote.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(film))
+  + "... a towel has immense psychological value. For some reason, if a strag (strag: nonhitchhiker) discovers that a hitchhiker has his towel with him, he will automatically assume that he is also in possession of a toothbrush, washcloth, soap, tin of biscuits, flask, compass, map, ball of string, gnat spray, wet-weather gear, space suit etc., etc. Furthermore, the strag will then happily lend the hitchhiker any of these or a dozen other items that the hitchhiker might accidentally have "lost". What the strag will think is that any man who can hitch the length and breadth of the galaxy, rough it, slum it, struggle against terrible odds, win through, and still knows where his towel is, is clearly a man to be reckoned with."  
+  + [The Hitchhiker's Guide to the Galaxy ](https://en.wikiquote.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(film))
 
 
 **\#994 - "A wounded animal can heal - and attack again"**
@@ -439,15 +438,15 @@ option is to jump off"**
 
 
 **\#996 - "The only way to be sure is to nuke it from orbit"**
-  * [Ellen Ripley, Aliens](https://www.youtube.com/watch?v=nnHmUk_J6xQ)
+  + [Ellen Ripley, Aliens](https://www.youtube.com/watch?v=nnHmUk_J6xQ)
 
 
 **\#997 - "Two in the head, one in the heart"**
-  * Modification of the [Zombieland Double-Tap rule #2]( http://zombie.wikia.com/wiki/Zombieland_Survival_Rules).  You know, for the zombie apocalypse...
+  + Modification of the [Zombieland Double-Tap rule #2]( http://zombie.wikia.com/wiki/Zombieland_Survival_Rules).  You know, for the zombie apocalypse...
 
 
 **\#998 - "You were going to die anyway - who wants to live forever?"**
-  * "[Come on, you sons of bitches!  Do you want to live forever?](http://www.usmcpress.com/heritage/usmc_quotations.htm)"  [GySgt. Daniel J. "Dan" Daly, USMC; near Lucy-`le-Bocage as he led the 5th Marines' attack into Belleau Wood, 6 June 1918]
+  + "[Come on, you sons of bitches!  Do you want to live forever?](http://www.usmcpress.com/heritage/usmc_quotations.htm)"  [GySgt. Daniel J. "Dan" Daly, USMC; near Lucy-`le-Bocage as he led the 5th Marines' attack into Belleau Wood, 6 June 1918]
 
 
 **\#999 - "If you must go to war, remember - there are no rules"**
