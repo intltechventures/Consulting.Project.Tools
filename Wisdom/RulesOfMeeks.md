@@ -390,6 +390,7 @@ changes you"**
 
 
 **\#806 - "If you have never tested your disaster recovery strategy – you do not have a strategy, what you have is just _hope_"**
+  * 2026-09-21 BBC: [Flights delayed at major US airports after cable cut by construction workers](https://www.bbc.com/news/live/c6j9xpgl8pzwt)
 
 
 
