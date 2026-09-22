@@ -389,32 +389,34 @@ changes you"**
 **\#805 - "When someone attempts to deflect criticisms of automated f@@kups (e.g., GenAI/LLMs), what-about-ism is a tired and trite argument. The natural limits on the scale of damage that a human can do in an hour, pales in comparison to massive computational power of automated insanity."** 
 
 
+**\#806 - "If you have never tested your disaster recovery strategy – you do not have a strategy, what you have is just _hope_"**
+
 
 
 ## 9xx - The Emergency Rules
 
 **\#901 - Your All-Purpose Survival Kit: "Improvise, Overcome, Adapt"**
-* A tip of the hat to [Marine Sgt. Thomas Highway (Clint Eastwood), Heartbreak Ridge (1986)](https://www.imdb.com/title/tt0091187/)
+  * A tip of the hat to [Marine Sgt. Thomas Highway (Clint Eastwood), Heartbreak Ridge (1986)](https://www.imdb.com/title/tt0091187/)
 
 
 **\#902 - "Always know your exits"**
 
 
 **\#903 - "Hide the women and children"**
-* See [Gibbs Rule #44](http://ncis.wikia.com/wiki/Gibbs%27s_Rules)
+  * See [Gibbs Rule #44](http://ncis.wikia.com/wiki/Gibbs%27s_Rules)
 
 
 **\#904 - "Always carry a knife"**
-* See [Gibbs Rule #9](http://ncis.wikia.com/wiki/Gibbs%27s_Rules)
+  * See [Gibbs Rule #9](http://ncis.wikia.com/wiki/Gibbs%27s_Rules)
 
 
 **\#905 - "Priorities: Shelter, Water, Food, Fire"**
 
 
 **\#906 - "On an irregular basis, remember to execute a 'Crazy Ivan' - and check your six"**
-* https://firefly.fandom.com/wiki/Crazy_Ivan
-* https://en.wikipedia.org/wiki/Baffles_(submarine)#Clearing_the_Baffle_Area
-* https://www.urbandictionary.com/define.php?term=Check%20your%20six
+  * https://firefly.fandom.com/wiki/Crazy_Ivan
+  * https://en.wikipedia.org/wiki/Baffles_(submarine)#Clearing_the_Baffle_Area
+  * https://www.urbandictionary.com/define.php?term=Check%20your%20six
 
 
 **\#907 - "When you find yourself on a runaway train, loaded with dynamite, hurtling toward a granite wall - your only
@@ -425,8 +427,8 @@ option is to jump off"**
 
 
 **\#993 - "If you want to survive out here, you’ve got to know where your towel is"**
-* "... a towel has immense psychological value. For some reason, if a strag (strag: nonhitchhiker) discovers that a hitchhiker has his towel with him, he will automatically assume that he is also in possession of a toothbrush, washcloth, soap, tin of biscuits, flask, compass, map, ball of string, gnat spray, wet-weather gear, space suit etc., etc. Furthermore, the strag will then happily lend the hitchhiker any of these or a dozen other items that the hitchhiker might accidentally have "lost". What the strag will think is that any man who can hitch the length and breadth of the galaxy, rough it, slum it, struggle against terrible odds, win through, and still knows where his towel is, is clearly a man to be reckoned with."  
-* [The Hitchhiker's Guide to the Galaxy ](https://en.wikiquote.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(film))
+  * "... a towel has immense psychological value. For some reason, if a strag (strag: nonhitchhiker) discovers that a hitchhiker has his towel with him, he will automatically assume that he is also in possession of a toothbrush, washcloth, soap, tin of biscuits, flask, compass, map, ball of string, gnat spray, wet-weather gear, space suit etc., etc. Furthermore, the strag will then happily lend the hitchhiker any of these or a dozen other items that the hitchhiker might accidentally have "lost". What the strag will think is that any man who can hitch the length and breadth of the galaxy, rough it, slum it, struggle against terrible odds, win through, and still knows where his towel is, is clearly a man to be reckoned with."  
+  * [The Hitchhiker's Guide to the Galaxy ](https://en.wikiquote.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(film))
 
 
 **\#994 - "A wounded animal can heal - and attack again"**
@@ -436,11 +438,11 @@ option is to jump off"**
 
 
 **\#996 - "The only way to be sure is to nuke it from orbit"**
-* [Ellen Ripley, Aliens](https://www.youtube.com/watch?v=nnHmUk_J6xQ)
+  * [Ellen Ripley, Aliens](https://www.youtube.com/watch?v=nnHmUk_J6xQ)
 
 
 **\#997 - "Two in the head, one in the heart"**
-* Modification of the [Zombieland Double-Tap rule #2]( http://zombie.wikia.com/wiki/Zombieland_Survival_Rules).  You know, for the zombie apocalypse...
+  * Modification of the [Zombieland Double-Tap rule #2]( http://zombie.wikia.com/wiki/Zombieland_Survival_Rules).  You know, for the zombie apocalypse...
 
 
 **\#998 - "You were going to die anyway - who wants to live forever?"**
