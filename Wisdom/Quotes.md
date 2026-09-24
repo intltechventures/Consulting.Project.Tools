@@ -64,6 +64,11 @@
 
 
 
+## Dafoe, Willem (actor)
+- "_The worst thing is to get involved with people who aren't passionate about what they're doing._"
+
+
+
 ## Dijkstra, Edsger 
 - “The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.”
 
