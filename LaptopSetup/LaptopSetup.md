@@ -3,11 +3,18 @@
     
 **Last Updated:** ```2026-09-26 Saturday```
     
+    
+**Why Do I Publish This?**   
+- This is part of my approach to building resiliency and repeatability into my own personal processes. 
+- Many years ago, I was invited to be the keynote speaker at an annual company meeting (in Park City, Utah). The day before I was scheduled to speak, my laptop died. While I had a backup of the contents of the disk drive, I didn't have a procedure written down on some of the configuration changes that helped make me my most productive. This file started out as that recovery event unfolded.
      
+         
 - Kelvin D. Meeks
   + kmeeks@intltechventures.com
   + https://www.linkedin.com/in/kelvinmeeks/
   + http://www.intltechventures.com
+
+
 
 ## Hardware
 
