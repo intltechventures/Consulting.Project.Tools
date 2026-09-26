@@ -1572,7 +1572,7 @@ RPO         | Recovery Point Objective
 RSVP        | [Resource Reservation Protocol](https://en.wikipedia.org/wiki/Resource_Reservation_Protocol)
 RSA         | [Rivest–Shamir–Adleman](https://en.wikipedia.org/wiki/RSA_(cryptosystem)), (re: one of the first public-key cryptosystems)
 RSG         | Risk Strategy & Governance
-RSI         | Recursive Self-Improvement (re: AI)
+RSI         | [Recursive Self-Improvement](https://en.wikipedia.org/wiki/Recursive_self-improvement) (re: AI)
 RSU         | Restricted Stock Units
 RTB         | Run The Business
 RTBF        | Right to Be Forgotten
