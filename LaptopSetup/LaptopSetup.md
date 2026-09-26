@@ -1,7 +1,7 @@
 
 # My Mobile Office Equipment   
     
-**Last Updated:** 2026-09-18 Friday     
+**Last Updated:** ```2026-09-26 Saturday```
     
      
 - Kelvin D. Meeks
@@ -22,16 +22,19 @@
   + HP Envy 17-cr0xxx, 64GB RAM, 2TB SSD, 12th Gen Intel(R) Core(TM) i7-1260P, 12-Core, 2.10 GHz, 2 Thunderbolt 4, WiFi 6E, BT 5.3, Windows 11 Pro
   + https://www.amazon.com/gp/product/B0BGKKF2DD/
 
-- __Previous Primary Laptop__: *April 2016, DIED January 2024*
-  + MSI GT72 6QE, Intel® Core™ i7-6700HQ, 24GB RAM (DDR4 2133MHz), two SSD drvies (1TB M.2 SATA SSD, 1TB SATA SSD), 8.4 lbs, Windows 10 Pro
+
+- __Previous Primary Laptop__: **April 2016, ```DIED January 2024```**
+  + ~~MSI GT72 6QE, Intel® Core™ i7-6700HQ, 24GB RAM (DDR4 2133MHz), two SSD drvies (1TB M.2 SATA SSD, 1TB SATA SSD), 8.4 lbs, Windows 10 Pro~~
   + Fry's Electronics purchase
+
 
 - __Secondary Laptop__ (for client work): *May 2024*
   + MSI Raider GE76 12UE, Gaming Laptop, Intel Core i7-12700H (12th Gen, 14 core CPU, 2.69-4.7GHz), 64GB RAM (4800MHz, DDR5), 2TB NVMe SSD HDD, 17.3" FHD 144 Hz, NVIDIA GeForce RTX 3060, 802.11ax WiFi, Battery Pack - 4 cell (99.9Whr), Windows 11, 6.39 pounds 
   + https://www.amazon.com/dp/B0BTHLR9RR
 
+
 - __Emergency Backup Laptop__: *January 2017*
-  + Lenovo Ideapad 80TJ 110-15ACL, AMD A8-7410 2.2Ghz, 8GB RAM (1,600 MHz), 1TB SATA SSD, 4.8 lbs, Windows 10 Pro
+  + Lenovo Ideapad 80TJ 110-15ACL, AMD A8-7410 2.2Ghz, 8GB RAM (1,600 MHz), 1TB SATA SSD, 4.8 lbs, **Mint Linux**
   + Fry's Electronics purchase
 
 
@@ -60,12 +63,14 @@
 
 ### Networking
 
+- Mobile Hotspot Wifi
+  + Primary: [T-Mobile MiFi, Inseego, 5G MiFi M2000](https://www.t-mobile.com/hotspot-iot-connected-devices/inseego-5g-mifi-m2000)
+  + Secondary: ~~NETGEAR AirCard AC781S AT&T Unite Pro 4g LTE Hotspot~~ (canceled service: 2026)
+
+
 - WiFi Extender
   + [TP-Link AC2600 WiFi, Extender(RE650), Up to 2600Mbps, Dual Band WiFi Range Extender, Gigabit port, Internet Booster, Repeater, Access Point,4x4 MU-MIMO](https://www.amazon.com/Extender-2600Mbps-Repeater-Internet-RE650/dp/B01MR90E3A/)
 
-- Mobile Hotspot Wifi
-  + Primary: [T-Mobile MiFi, Inseego, 5G MiFi M2000](https://www.t-mobile.com/hotspot-iot-connected-devices/inseego-5g-mifi-m2000)
-  + Secondary: NETGEAR AirCard AC781S AT&T Unite Pro 4g LTE Hotspot
 
 
 - FUTURE PLANNED ADDITIONS:
@@ -86,6 +91,7 @@
   + [HP M24f FHD (model 2D9K0AA)](https://www.amazon.com/New-HP-M24f-Monitor-Anti-Glare/dp/B09HW5QGVR/)
     * 23.8" FHD 1080p IPS LED Anti-Glare Monitor, Silver and Black - AMD FreeSync, 70Hz, 300 nits, HDMI & VGA Ports, Tilt + HDMI Cable 
 
+
   
 ## Configuration 
 
@@ -105,7 +111,6 @@
 
   
 - git 
-
   + ```git config --global core.longpaths true```
   + Note: This setting is disabled by default in Git for Windows to avoid compatibility issues with older Windows tools like Windows Explorer or cmd.exe, which might not support paths over 260 characters. When enabled, Git's built-in commands can handle paths up to approximately 4096 characters. 
   
@@ -131,18 +136,28 @@ __These following sections are the primary software programs that I typically ha
 
 - Anti-Virus / Firewall
   + Microsoft Defender
+    * https://www.microsoft.com/en-us/wdsi/defenderupdates
 
-  + Alternatives:
-    * [Norton Security](http://us.norton.com/)
+  + Possible Alternatives:
+    * ~~[Norton Security](http://us.norton.com/)~~
 
-  + 2019 Product Reviews:
+  + Product Reviews (for possible alternatives to consider):
     * https://www.pcmag.com/article2/0,2817,2372364,00.asp
     * https://www.av-test.org/en/antivirus/home-windows/
     * https://www.techradar.com/best/best-antivirus
     * https://www.pcworld.com/article/3219792/computers/best-antivirus-for-windows-pc.html
     * https://www.tomsguide.com/us/best-windows-antivirus,review-6044.html
 
+
+- Microsoft Safety Scanner
+  + (A good security scanning utility (above your regular firewall and anti-virus) - that you must download and run manually.)
+  + Note: "Safety Scanner only scans when manually triggered and is ```available for use 10 days after being downloaded.``` We recommend that you always download the latest version of this tool before each scan."
+  + https://learn.microsoft.com/en-us/defender-endpoint/safety-scanner-download?view=o365-worldwide
+
+
+
 - [MalwareBytes](https://www.malwarebytes.org/)
+
 
 - [TrueCrypt](http://truecrypt.sourceforge.net/)
   + NOTE: 
@@ -170,15 +185,11 @@ __These following sections are the primary software programs that I typically ha
     * Update Windows file: ```%SystemRoot%\system32\drivers\etc\hosts```
 
 
-- A good security scanning utility (above your regular firewall and anti-virus) - that you must download and run manually. 
-  + Note: "Safety Scanner only scans when manually triggered and is ```available for use 10 days after being downloaded.``` We recommend that you always download the latest version of this tool before each scan."
-  + https://docs.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide
-
-
 - hosts file
   + Location:
     * ``` C:\Windows\System32\drivers\etc\hosts```
     * ```%SystemRoot%\system32\drivers\etc\hosts``` 
+
   + Documentation:
     * https://learn.microsoft.com/en-us/windows/powertoys/hosts-file-editor
     * https://support.microsoft.com/en-us/topic/how-to-reset-the-hosts-file-back-to-the-default-c2a43f9d-e176-c6f3-e4ef-3500277a6dae
@@ -192,7 +203,7 @@ __These following sections are the primary software programs that I typically ha
     * https://github.com/StevenBlack/hosts/
       * https://github.com/StevenBlack/hosts/tree/master/data/add.Risk
 
-  + Personal List
+  + Personal List Additions:
     * ```# Kelivn - Personal list```
     * ```127.0.0.1 video.dailymail.co.uk					# block Daily Mail pop-up videos```
   
@@ -647,6 +658,9 @@ __These following sections are the primary software programs that I typically ha
 	
 ## Primary Software Development Languages
 
+- [Rust](http://rust-lang.org/)
+
+
 - [Go](https://golang.org/)
   + https://go.dev/doc/
 
@@ -696,15 +710,13 @@ __These following sections are the primary software programs that I typically ha
   + https://github.com/intltechventures/Lab.JavaScript/blob/master/packages.sh
 
 
-## Seconday Software Development Languages
+## Secondary Software Development Languages
 
-- [Scala](http://scala-lang.org/)
+
+- [Zig](https://ziglang.org/)
 
 
 - [Lua](http://www.lua.org/) 
-
-
-- [Rust](http://rust-lang.org/)
 
 
 - [Groovy](https://groovy.apache.org/)a
@@ -743,6 +755,12 @@ __These following sections are the primary software programs that I typically ha
 ## Machine Learning Frameworks
 
 - [TensorFlow](https://www.tensorflow.org/install/)
+
+
+- [PyTorch](https://pytorch.org/)
+  + https://pytorch.org/projects/pytorch/
+  + https://pytorch.org/get-started/locally/
+
 
 
 
