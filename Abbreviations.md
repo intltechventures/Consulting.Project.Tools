@@ -741,6 +741,7 @@ GDG         | Generation Date Group
 GDPR        | [Genera Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) (re: EU)
 GEO         | Generative Engine Optimization
 GERAM       | Generalised Enterprise-Referencing Architectures Modelling Framework
+GFC         | [Great Financial Crisis](https://en.wikipedia.org/wiki/2008_financial_crisis) (2007-2008)
 GFCI        | Greedy Fast Causal Interference (GFCI) Algorithm 
 GFO         | [General Formal Ontology](https://en.wikipedia.org/wiki/General_formal_ontology)
 GHAS        | [GitHub Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security)
