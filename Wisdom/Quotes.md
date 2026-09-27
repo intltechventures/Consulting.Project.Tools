@@ -299,6 +299,12 @@
 
 
 
+– Shakespeare, William
+ + "Hell is empty and all the devils are here" 
+   * The Tempest (Act 1, Scene 2)
+
+
+
 ## Turla, Peter
 - “Don’t spend a dollar’s worth of time on a ten cent decision.”
 
