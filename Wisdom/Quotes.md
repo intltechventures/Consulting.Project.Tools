@@ -299,7 +299,7 @@
 
 
 
-– Shakespeare, William
+## Shakespeare, William
  + "Hell is empty and all the devils are here" 
    * Ariel (The Tempest, Act 1, Scene 2)
 
@@ -371,6 +371,9 @@
 - "A system is never finished being developed until it ceases to be used"
   + (1995) Towards a CSCW Framework for Scientific Cooperation in Europe. p. 7
 
+- More Weinberg quotes:
+  + https://www.goodreads.com/author/quotes/174075.Gerald_M_Weinberg
+  + https://en.wikiquote.org/wiki/Gerald_Weinberg
 
 
 ## [Weizenbaum, Joseph](https://en.wikipedia.org/wiki/Joseph_Weizenbaum)
