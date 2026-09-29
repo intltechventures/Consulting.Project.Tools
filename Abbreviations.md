@@ -252,6 +252,7 @@ CAF         | Cloud Adoption Framework ([Azure](https://learn.microsoft.com/en-u
 CAG         | Cache-Augmented Generation
 CAGR        | [Compound Annual Growth Rate](https://en.wikipedia.org/wiki/Compound_annual_growth_rate) 
 CAIs        | Chatbot AIs
+CAL         | [Client Access License](https://en.wikipedia.org/wiki/Client_access_license)
 CALM        | [Communications Access for Land Mobiles](https://en.wikipedia.org/wiki/Communications_Access_for_Land_Mobiles)
 CAP         | Consistency, Availability, Partition Tolerance  
 CapEx       | [Capital Expenditure](https://en.wikipedia.org/wiki/Capital_expenditure)
@@ -1884,6 +1885,7 @@ U           | [Unclassified](https://sgp.fas.org/othergov/intel/ic-class.pdf)
 UAT         | User Acceptance Testing
 UAF         | Unified Architecture Framework
 UBA         | User Behavior Analytics
+UBB         | Usage-Based Billing
 UCaaS       | [Unified Communications as a Service](https://en.wikipedia.org/wiki/Unified_communications_as_a_service)
 UCC         | [Unified Communications and Collaboration](https://en.wikipedia.org/wiki/Unified_communications)
 UCP         | Universal Control-Plane
@@ -1912,6 +1914,7 @@ US-NII      | Unlicensed National Information Infrastructure bands
 USB         | [Universal Serial Bus](https://en.wikipedia.org/wiki/USB)
 USD         | [Universal Scene Description](https://openusd.org/)
 USL         | [Universal Scalability Law](http://www.perfdynamics.com/Manifesto/USLscalability.html) ~ [Neil J. Gunther](https://en.wikipedia.org/wiki/Neil_J._Gunther)
+USL         | User Subscription License
 USP         | Unique Selling Point
 USS         | Unix System Services 
 UTC         | Coordinated Universal Time 
