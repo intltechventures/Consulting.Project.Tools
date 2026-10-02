@@ -308,6 +308,7 @@ CER         | Control Exception Request
 CERN        | [European Organization for Nuclear Research](https://en.wikipedia.org/wiki/CERN), French: Organisation européenne pour la recherche nucléaire
 CES         | Customer Experience Specialist
 CESGA       | [Galician Supercomputing Center](https://www.cesga.es/)
+CFAA        | [Computer Fraud and Abuse Act (18 U.S.C. § 1030)](https://www.law.cornell.edu/uscode/text/18/1030)
 CFBR        | Commenting For Better Reach
 CFP         | Call For Proposals
 CFR         | Change Failure Rate
