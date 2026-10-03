@@ -400,6 +400,7 @@ CSA         | Cloud Service Appliance
 CSAT        | [Customer Satisfaction](https://en.wikipedia.org/wiki/Customer_satisfaction) Score
 CSB         | Cloud Service Broker
 CSD         | Consolidated Service Desk
+CSE         | Cognitive Systems Engineering 
 CSF         | Critical Success Factors
 CSDM        | [Common Service Data Model](https://docs.servicenow.com/bundle/paris-servicenow-platform/page/product/csdm-implementation/concept/csdm-basics.html) (re: ServiceNow)
 CSET        | [Center for Security and Emerging Technology (CSET)](https://cset.georgetown.edu/)
