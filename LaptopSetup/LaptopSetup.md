@@ -1306,10 +1306,21 @@ __These following sections are the primary software programs that I typically ha
 
 ## Turn-Off Fast Startup
 
+- For Windows 11, see these images: [1](images/Fast-Startup-1.png), [2](images/Fast-Startup-2.png), [3](images/Fast-Startup-3.png)
+
+
+- Distinguishing fast startup from wake-from-hibernation
+  + https://learn.microsoft.com/en-us/windows-hardware/drivers/kernel/distinguishing-fast-startup-from-wake-from-hibernation
+
+
+- https://www.elevenforum.com/t/turn-on-or-off-fast-startup-in-windows-11.1212/
+  + "_The faster startup and shutdown sequence uses the hibernate infrastructure to place the PC in hibernate. Unlike a full shutdown and boot, the user session is closed and a hibernate is performed. As a result, the hibernate file is much smaller, ensuring that the hibernate and resume process is faster. This sequence also takes advantage of the parallelization optimizations._"
+
+
 - https://www.xda-developers.com/fast-startup-setting-turn-off-windows-fixed-more-weird-bugs-than-expected/
   + "_Fast Startup, as the name suggests, is a Windows feature designed to speed up your computer's boot time. It works much like the hibernation feature, but instead of saving the entire session to the drive, Fast Startup only saves the kernel session and loaded drivers to the hiberfil.sys file. This way, when you turn on the computer, it boots faster because it doesn't have to load the kernel session and drivers from scratch. Since it can save you a few seconds every time you turn on the PC, Windows enables the feature by default. But there's a problem!_"
-  + "_With Fast Startup enabled, your PC doesn't truly shut down, and it hasn't done so in years. It just reloads the previous state, and if that's buggy, the issue carries over to the next session._"
-  + For Windows 11, see these images: [1](images/Fast-Setup-1.png), [2](images/Fast-Setup-2.png), [3](images/Fast-Setup-3.png)
+  + "_With Fast Startup enabled, your PC doesn't truly shut down, and it hasn't done so in years. **It just reloads the previous state, and if that's buggy, the issue carries over to the next session.**_"
+
 
 
 ## File Deletion Optimization Tweaks
