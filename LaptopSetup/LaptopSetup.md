@@ -1304,6 +1304,14 @@ __These following sections are the primary software programs that I typically ha
 
 # Windows OS Performance Optimizations
 
+## Turn-Off Fast Startup
+
+- https://www.xda-developers.com/fast-startup-setting-turn-off-windows-fixed-more-weird-bugs-than-expected/
+  + "_Fast Startup, as the name suggests, is a Windows feature designed to speed up your computer's boot time. It works much like the hibernation feature, but instead of saving the entire session to the drive, Fast Startup only saves the kernel session and loaded drivers to the hiberfil.sys file. This way, when you turn on the computer, it boots faster because it doesn't have to load the kernel session and drivers from scratch. Since it can save you a few seconds every time you turn on the PC, Windows enables the feature by default. But there's a problem!_"
+  + "_With Fast Startup enabled, your PC doesn't truly shut down, and it hasn't done so in years. It just reloads the previous state, and if that's buggy, the issue carries over to the next session._"
+  + For Windows 11, see these images: [1](images/Fast-Setup-1.png), [2](images/Fast-Setup-2.png), [3](images/Fast-Setup-3.png)
+
+
 ## File Deletion Optimization Tweaks
 - https://www.windowspasswordsrecovery.com/system-tuneup/how-to-fix-windows-10-slow-file-deteting-speed.html
   + Turn off Thumbnails to Speed up Copying Files on Windows 10
