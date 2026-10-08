@@ -1304,9 +1304,17 @@ __These following sections are the primary software programs that I typically ha
 
 # Windows OS Performance Optimizations
 
-## Turn-Off Fast Startup
+
+## Turn-Off Fast Startup (re: Reliability)
+
+- Fast Startup uses a hybrid hibernation mode for the Windows kernel. This can prevent Windows updates or driver installations from applying correctly because a true, clean shutdown isn't performed
+
 
 - For Windows 11, see these images: [1](images/Fast-Startup-1.png), [2](images/Fast-Startup-2.png), [3](images/Fast-Startup-3.png)
+
+
+- YouTube Channel GuideTech Pro: [Why You Should Disable Fast Startup in Windows 11 Right Now](https://www.youtube.com/watch?v=YwWLPiMytmI)
+  + "_Many users want to manage their boot times, and adjusting the fast startup Windows 11 feature is a common solution. If you are troubleshooting driver issues or simply prefer a full system shutdown, you might need to disable fast startup to ensure your computer clears its memory completely during power-down._"
 
 
 - Distinguishing fast startup from wake-from-hibernation
