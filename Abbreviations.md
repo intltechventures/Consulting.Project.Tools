@@ -25,6 +25,7 @@ AA          | Alternatives Analysis
 AA          | Architecture Advisory (~ ARB)
 AAD         | [Average absolution deviation](https://en.wikipedia.org/wiki/Average_absolute_deviation) 
 AAD         | [Azure Active Directory](https://azure.microsoft.com/en-us/products/active-directory/)
+AAL         | Authentication Assurance Level (re: NIST SP 800-63B)
 ABB         | Architecture Building Blocks
 ABAC        | [Attribute-Based Access Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) (see CBAC, PBAC)
 ABACUS      | [Algorithm-Based Analysis, Communication and Understanding of Systems](https://en.wikipedia.org/wiki/Avolution) 
@@ -838,6 +839,7 @@ IA          | Information Assurance
 IA          | Internal Audit
 IaaS        | Infrastructure as a Service  
 IaC         | [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_code)
+IAL         | Identity Assurance Levels (re: NIST Special Publication 800-63-3)
 IAM         | [Identity and Access Management](https://en.wikipedia.org/wiki/Identity_management)
 IANA        | [Internet Assigned Numbers Authority](https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority)
 IAS         | International Accounting Standard
@@ -1032,6 +1034,7 @@ LLM         | Large Language Model
 LLRT        | Low Latency Runtime (e.g., [AWS](https://github.com/awslabs/llrt))
 LMM         | Large Multimodal Model
 LMS         | [Least Mean Squares filter](https://en.wikipedia.org/wiki/Least_mean_squares_filter)
+LOA         | Level of Assurance (re: NIST Special Publication 800-63-3)
 LOB         | Line of Business
 LOE         | Level of Effort
 LOI         | Letter of Intent
@@ -1332,6 +1335,7 @@ PAP         | [Password Authentication Protocol](https://en.wikipedia.org/wiki/P
 PAP         | Policy Administration Point
 PAR         | Parallel Action (re: Alistair Cockburn, a structured notation used in structured use case writing)
 PAR         | Problem Activity Report
+PARC        | Principal, Action, Resource, Conditions
 PAS         | Policy Administration System (domain: Insurance)
 PAS         | Publicly Available Specification     
 PASETO      | platform-agnostic security tokens
