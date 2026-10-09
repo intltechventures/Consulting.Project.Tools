@@ -1519,6 +1519,7 @@ RCU         | [Read-Copy-Update](https://en.wikipedia.org/wiki/Read-copy-update)
 RD          | Remaining Duration
 RDB         | Relational Database
 RDC         | [Remote Desktop Connection](https://en.wikipedia.org/wiki/Remote_Desktop_Services#Remote_Desktop_Connection)
+ReBAC       | Relationsip-Based Access Control 
 RDF         | [Resource Description Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework)
 RDMA        | Remote Direct Memory Access
 RDN         | Relative Distinguished Name, re: LDAP
