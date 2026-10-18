@@ -1774,6 +1774,8 @@ SOX         | Sarbanes-Oxley Act of 2002
 SQL         | Sales Qualified Lead
 SQL         | Structured Query Language
 SRA         | Security Risk Assessment
+SRE         | Software Reliability Engineering
+SRE         | Software Reverse Engineering
 SRM         | Service-Component Reference Model 
 SRMA        | Supplier Risk Management Assessment
 SRP         | Single Responsibility Principle
