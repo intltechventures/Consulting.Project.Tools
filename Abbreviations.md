@@ -441,6 +441,7 @@ CVE         | [Critical Vulnerabilities and Exposures](https://www.cve.org/)
 CVS         | Concurrent Version System
 CWE         | [Critical Weakness Enumeration](https://cwe.mitre.org/) (also see: [Wikipedia](https://en.wikipedia.org/wiki/Common_Weakness_Enumeration)
 CX          | Customer Experience
+CXA         | Customer Experience Automation
 CXO         | Customer Experience Officer
 CXN         | Customer Experience Network
 CXT         | Customer Experience Transformation
