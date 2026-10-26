@@ -342,6 +342,7 @@ CISC        | [Complex Instruction Set Computer](https://en.wikipedia.org/wiki/C
 CISM        | Certified Information Security Manager
 CISO        | Chief Information Security Officer
 CISSP       | [Certified Information Systems Security Professionals](https://www.isc2.org/Certifications/CISSP-Concentrations)
+CITO        | Chief Information Technology Officer
 CL          | [Change List](https://en.wikipedia.org/wiki/Version_control)
 CLI         | Command Line Interface
 CLT         | [Central Limit Theorem](https://en.wikipedia.org/wiki/Central_limit_theorem)
