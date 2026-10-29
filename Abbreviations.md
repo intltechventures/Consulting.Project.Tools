@@ -1825,7 +1825,7 @@ TA          | [Throughput Accounting](https://en.wikipedia.org/wiki/Throughput_a
 TAG         | Technical Advisory Group
 TAM         | Technical Account Manager
 TAM         | [Total Addressable Market](https://en.wikipedia.org/wiki/Total_addressable_market)
-TAOC        | [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) (re: by Donald Knuth)
+TAOCP       | [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) (re: by Donald Knuth)
 TAR         | [Tape Archive](https://en.wikipedia.org/wiki/Tar_(computing)) (file format). Aka tarball
 TB          | Terabyte
 TDA         | Technical Design Authority 
