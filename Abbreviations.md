@@ -1051,6 +1051,7 @@ LSA         | Local Service Agreement
 LSE         | Large Scale Event
 LSH         | [Locality-Sensitive Hashing](https://en.wikipedia.org/wiki/Locality-sensitive_hashing)
 LSM         | [Log-Structured Merge-Tree](https://en.wikipedia.org/wiki/Log-structured_merge-tree)
+LSP         | [Language Server Protocol](https://en.wikipedia.org/wiki/Language_Server_Protocol) 
 LSTM        | Long Short-Term Memory
 LTV         | Lifetime Value (re: of a Customer)
 LTV         | [Loan-to-Value](https://www.investopedia.com/terms/l/loantovalue.asp)
