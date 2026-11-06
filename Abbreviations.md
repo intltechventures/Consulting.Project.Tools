@@ -1378,6 +1378,7 @@ PEM         | Privacy Enhanced Mail
 PEP         | [Packet Exchange Protocol](https://en.wikipedia.org/wiki/Xerox_Network_Systems#Transport_layer_protocols)
 PEP         | Policy Enforcement Point 
 PERT        | Program Evaluation and Review Technique
+PET         | Platform Engineering Team
 PETs        | Privacy Enhancing Technologies
 PGM         | Program
 PGP         | [Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
@@ -1513,6 +1514,7 @@ RAS         | Redundancy, Availability, Serviceability
 RASUI       | Reliability, Availability, Serviceability, Usability and Instability  
 RAT         | Reverse Address and Port Translation (see RAPT
 RAT         | Remote Access Trojan
+RAW         | Rick Assessment Workgroup
 RBA         | Role-Based Authorization
 RBAC        | [Role Based Access Control](https://en.wikipedia.org/wiki/Role-based_access_control)
 RBFNN       | Radial Basis Function Neural Network 
