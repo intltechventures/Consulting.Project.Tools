@@ -1514,7 +1514,7 @@ RAS         | Redundancy, Availability, Serviceability
 RASUI       | Reliability, Availability, Serviceability, Usability and Instability  
 RAT         | Reverse Address and Port Translation (see RAPT
 RAT         | Remote Access Trojan
-RAW         | Rick Assessment Workgroup
+RAW         | Risk Assessment Workgroup
 RBA         | Role-Based Authorization
 RBAC        | [Role Based Access Control](https://en.wikipedia.org/wiki/Role-based_access_control)
 RBFNN       | Radial Basis Function Neural Network 
