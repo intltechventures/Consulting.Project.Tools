@@ -383,3 +383,18 @@
 ## [Weizenbaum, Joseph](https://en.wikipedia.org/wiki/Joseph_Weizenbaum)
 - In his book “[Computer Power and Human Reason](https://www.amazon.com/Computer-Power-Human-Reason-Calculation/dp/0716704633/)", Joseph Weizenbaum had this to say about the myth of technological and political and social inevitability: 
   * “it is a powerful tranquilizer of the conscience. Its service is to remove responsibility from the shoulders of everyone who truly believes in it.”
+
+
+
+
+# Other Collections of Quotes 
+
+## Programming 
+
+- https://en.wikiquote.org/wiki/Programming
+- https://gerlacdt.github.io/blog/posts/programming-quotes/
+- https://medium.com/thedevproject/25-programming-quotes-3eb0ebcf2f7d
+- https://gist.github.com/QuincyLarson/6a8a1f9472a343ec72ea7e4c36086987
+- https://forum.qt.io/topic/5680/funny-programming-related-quotes
+- https://codeburst.io/50-quotes-for-better-coding-76bdac3fc234
+
