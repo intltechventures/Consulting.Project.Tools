@@ -361,8 +361,12 @@
 
 
 ## Weinberg, Gerald M.
-- Weinberg's Law: "If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization."
+- Weinberg's Second Law: "If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization."
+  + The Psychology of Computer Programming (1971)
+    * https://www.amazon.com/Psychology-Computer-Programming-Silver-Anniversary-ebook/dp/B004R9QACC/
   + Weinberg attributed with the quote in: Murali Chemuturi (2010) Mastering Software Quality Assurance: Best Practices, Tools and Technique for Software Developers. p. ix
+  + https://quoteinvestigator.com/2019/09/19/woodpecker/
+  
 
 - The Second Law of Consulting: No matter how it looks at first, it's always a people problem.
 
