@@ -1688,6 +1688,7 @@ SFCC        | [Salesforce Commerce Cloud](https://www.salesforce.com/products/co
 SFDC        | SalesForce DotCom
 SFIA        | [Skills Framework for the Information Age](https://en.wikipedia.org/wiki/Skills_Framework_for_the_Information_Age)
 SFRA        | [Storefront Reference Architecture](https://documentation.b2c.commercecloud.salesforce.com/DOC2/index.jsp?topic=%2Fcom.demandware.dochelp%2Fcontent%2Fb2c_commerce%2Ftopics%2Fsfra%2Fb2c_sfra.html) (i.e., Salesforce B2C Commerce)
+SFT         | [Supervised Fine-Tuning](https://en.wikipedia.org/wiki/Training_of_large_language_models)
 SFTP        | Secure File Transfer Protocol
 SFPF        | Senior Foreign Political Figures 
 SHA-2       | [Secure Hash Algorithm 2](https://en.wikipedia.org/wiki/SHA-2)
