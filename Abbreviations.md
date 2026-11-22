@@ -1114,6 +1114,7 @@ MFA         | Multi-Factor Authentication
 MFE         | [Micro-Frontends](https://martinfowler.com/articles/micro-frontends.html)
 MFT         | [Master File Table](https://en.wikipedia.org/wiki/File_Allocation_Table)
 MGF         | [Moment-generating function](https://en.wikipedia.org/wiki/Moment-generating_function)
+MILPs       | [Mixed-Integer Linear Programs](https://www.sciencedirect.com/topics/computer-science/mixed-integer-linear-programming)
 MIM         | Major Incident Management
 MIMD        | [Multiple instruction streams, multiple data streams](https://en.wikipedia.org/wiki/MIMD)
 MIME        | [Multipurpose Internet Mail Extensions](https://en.wikipedia.org/wiki/MIME)
